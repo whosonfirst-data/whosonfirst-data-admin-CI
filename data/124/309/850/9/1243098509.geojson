@@ -1,0 +1,73 @@
+{
+  "id": 1243098509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69453,7.46067,-7.69453,7.46067",
+    "geom:latitude":7.46067,
+    "geom:longitude":-7.69453,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Biakale",
+    "gn:country_code":"CI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291671,
+    "gn:latitude":7.46067,
+    "gn:longitude":-7.69453,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Biakal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u00e9k\u00e9l\u00e9",
+        "Biak\u00e9leu",
+        "Biakal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291671,
+        "wk:page":"Biakal%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f78c40f8f5faa043be9fb0fe292521e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1243098509,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1243098509,
+    "wof:lastmodified":1537591063,
+    "wof:name":"Biakale",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69453,
+    7.46067,
+    -7.69453,
+    7.46067
+],
+  "geometry": {"coordinates":[-7.69453,7.46067],"type":"Point"}
+}

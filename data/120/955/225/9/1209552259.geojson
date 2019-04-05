@@ -1,0 +1,65 @@
+{
+  "id": 1209552259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.795,10.28504,-5.795,10.28504",
+    "geom:latitude":10.28504,
+    "geom:longitude":-5.795,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Mibrigue",
+    "gn:country_code":"CI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291589,
+    "gn:latitude":10.28504,
+    "gn:longitude":-5.795,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mibrigu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binb\u00e9r\u00e9gu\u00e9",
+        "Mibrigu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291589
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bd4265dc7768cdd24a1f45351f84f958",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209552259
+        }
+    ],
+    "wof:id":1209552259,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Mibrigue",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.795,
+    10.28504,
+    -5.795,
+    10.28504
+],
+  "geometry": {"coordinates":[-5.795,10.28504],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259814821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28333,7.33333,-4.28333,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":-4.28333,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Lengoue",
+    "gn:country_code":"CI",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285265,
+    "gn:latitude":7.33333,
+    "gn:longitude":-4.28333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Lengou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285265
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b388c203bc966159a123bfd117f2f2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1259814821,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1259814821,
+    "wof:lastmodified":1536877376,
+    "wof:name":"Lengoue",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28333,
+    7.33333,
+    -4.28333,
+    7.33333
+],
+  "geometry": {"coordinates":[-4.28333,7.33333],"type":"Point"}
+}

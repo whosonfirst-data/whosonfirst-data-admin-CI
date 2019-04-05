@@ -1,0 +1,61 @@
+{
+  "id": 1209137201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40736,5.50437,-4.40736,5.50437",
+    "geom:latitude":5.50437,
+    "geom:longitude":-4.40736,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Akuio Late",
+    "gn:country_code":"CI",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032242,
+    "gn:latitude":5.50437,
+    "gn:longitude":-4.40736,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Akuio Late",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032242
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5be4739ae534ec977e6344f4205b72cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209137201
+        }
+    ],
+    "wof:id":1209137201,
+    "wof:lastmodified":1536296622,
+    "wof:name":"Akuio Late",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40736,
+    5.50437,
+    -4.40736,
+    5.50437
+],
+  "geometry": {"coordinates":[-4.40736,5.50437],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277112741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.00093,7.70982,-6.00093,7.70982",
+    "geom:latitude":7.70982,
+    "geom:longitude":-6.00093,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Gouedefla",
+    "gn:country_code":"CI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288243,
+    "gn:latitude":7.70982,
+    "gn:longitude":-6.00093,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gou\u00e9d\u00e9fla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288243
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bcbcfbf06818a9b42174a526575dca27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1277112741,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1277112741,
+    "wof:lastmodified":1536724704,
+    "wof:name":"Gouedefla",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.00093,
+    7.70982,
+    -6.00093,
+    7.70982
+],
+  "geometry": {"coordinates":[-6.00093,7.70982],"type":"Point"}
+}

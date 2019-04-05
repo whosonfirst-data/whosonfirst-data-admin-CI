@@ -1,0 +1,61 @@
+{
+  "id": 1209551713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.49547,5.72151,-4.49547,5.72151",
+    "geom:latitude":5.72151,
+    "geom:longitude":-4.49547,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Kamenan Ndrio",
+    "gn:country_code":"CI",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032199,
+    "gn:latitude":5.72151,
+    "gn:longitude":-4.49547,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Kamenan Ndrio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032199
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b4d3bd3a2efb33e452d5b9df71d54346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209551713
+        }
+    ],
+    "wof:id":1209551713,
+    "wof:lastmodified":1536283672,
+    "wof:name":"Kamenan Ndrio",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.49547,
+    5.7215099999999985,
+    -4.49547,
+    5.7215099999999985
+],
+  "geometry": {"coordinates":[-4.49547,5.72151],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226277323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04751,7.24942,-3.04751,7.24942",
+    "geom:latitude":7.24942,
+    "geom:longitude":-3.04751,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Soyakrou",
+    "gn:country_code":"CI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281177,
+    "gn:latitude":7.24942,
+    "gn:longitude":-3.04751,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Soyakrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281177
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"448e4845e78424bdcafdf2745b27801c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1226277323,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226277323,
+    "wof:lastmodified":1536887664,
+    "wof:name":"Soyakrou",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04751,
+    7.24942,
+    -3.04751,
+    7.24942
+],
+  "geometry": {"coordinates":[-3.04751,7.24942],"type":"Point"}
+}

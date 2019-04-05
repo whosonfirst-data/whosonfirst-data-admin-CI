@@ -1,0 +1,71 @@
+{
+  "id": 1259516983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34978,6.56027,-6.34978,6.56027",
+    "geom:latitude":6.56027,
+    "geom:longitude":-6.34978,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Kolea",
+    "gn:country_code":"CI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286642,
+    "gn:latitude":6.56027,
+    "gn:longitude":-6.34978,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kol\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kol\u00e9a",
+        "Kor\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286642
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f93987ca78fef9b491a021c3f015aed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1259516983,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1259516983,
+    "wof:lastmodified":1537590992,
+    "wof:name":"Kolea",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34978,
+    6.56027,
+    -6.34978,
+    6.56027
+],
+  "geometry": {"coordinates":[-6.34978,6.56027],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277016441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02773,7.10717,-8.02773,7.10717",
+    "geom:latitude":7.10717,
+    "geom:longitude":-8.02773,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbonleu",
+    "gn:country_code":"CI",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288592,
+    "gn:latitude":7.10717,
+    "gn:longitude":-8.02773,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gbonleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonleu",
+        "Gbonleu",
+        "Ganleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288592
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"637ada4ee72e1f6f2c2193b6f4252dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1277016441,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1277016441,
+    "wof:lastmodified":1537591019,
+    "wof:name":"Gbonleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02773,
+    7.10717,
+    -8.02773,
+    7.10717
+],
+  "geometry": {"coordinates":[-8.02773,7.10717],"type":"Point"}
+}

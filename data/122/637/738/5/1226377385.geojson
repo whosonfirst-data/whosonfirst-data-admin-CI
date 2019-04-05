@@ -1,0 +1,71 @@
+{
+  "id": 1226377385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50163,9.96137,-5.50163,9.96137",
+    "geom:latitude":9.96137,
+    "geom:longitude":-5.50163,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Lofege",
+    "gn:country_code":"CI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285133,
+    "gn:latitude":9.96137,
+    "gn:longitude":-5.50163,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Lof\u00e9g\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lof\u00e9gu\u00e9",
+        "Lof\u00e9g\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285133
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f599803f5dd7f0e01b578f07bae74866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1226377385,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226377385,
+    "wof:lastmodified":1537590972,
+    "wof:name":"Lofege",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50163,
+    9.96137,
+    -5.50163,
+    9.96137
+],
+  "geometry": {"coordinates":[-5.50163,9.96137],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309835633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.54824,6.32936,-4.54824,6.32936",
+    "geom:latitude":6.32936,
+    "geom:longitude":-4.54824,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Allakro",
+    "gn:country_code":"CI",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850326,
+    "gn:latitude":6.32936,
+    "gn:longitude":-4.54824,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Allakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850326
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"379a86fd0f3eec21b0c8850688fc1bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1309835633,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1309835633,
+    "wof:lastmodified":1536887752,
+    "wof:name":"Allakro",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.54824,
+    6.32936,
+    -4.54824,
+    6.32936
+],
+  "geometry": {"coordinates":[-4.54824,6.32936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276480975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.50662,7.44862,-3.50662,7.44862",
+    "geom:latitude":7.44862,
+    "geom:longitude":-3.50662,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Aibekro",
+    "gn:country_code":"CI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293214,
+    "gn:latitude":7.44862,
+    "gn:longitude":-3.50662,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Aib\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293214
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eed062419e38b05c3eb0262c61491cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1276480975,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276480975,
+    "wof:lastmodified":1537075009,
+    "wof:name":"Aibekro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.50662,
+    7.44862,
+    -3.50662,
+    7.44862
+],
+  "geometry": {"coordinates":[-3.50662,7.44862],"type":"Point"}
+}

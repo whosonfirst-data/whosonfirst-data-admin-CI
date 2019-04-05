@@ -1,0 +1,67 @@
+{
+  "id": 1260317869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91127,7.89398,-2.91127,7.89398",
+    "geom:latitude":7.89398,
+    "geom:longitude":-2.91127,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Madoukoua",
+    "gn:country_code":"CI",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284754,
+    "gn:latitude":7.89398,
+    "gn:longitude":-2.91127,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Madoukoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284754
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"70545d9f3ecb236bb0b77d9a23fff9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1260317869,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1260317869,
+    "wof:lastmodified":1536665871,
+    "wof:name":"Madoukoua",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91127,
+    7.89398,
+    -2.91127,
+    7.89398
+],
+  "geometry": {"coordinates":[-2.91127,7.89398],"type":"Point"}
+}

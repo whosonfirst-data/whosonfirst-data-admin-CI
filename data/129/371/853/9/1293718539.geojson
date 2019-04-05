@@ -1,0 +1,67 @@
+{
+  "id": 1293718539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86718,7.26992,-4.86718,7.26992",
+    "geom:latitude":7.26992,
+    "geom:longitude":-4.86718,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Labo",
+    "gn:country_code":"CI",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285511,
+    "gn:latitude":7.26992,
+    "gn:longitude":-4.86718,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Labo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285511
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b689b58933047cf95c11a0b05d5ab527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293718539,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293718539,
+    "wof:lastmodified":1536951608,
+    "wof:name":"Labo",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86718,
+    7.26992,
+    -4.86718,
+    7.26992
+],
+  "geometry": {"coordinates":[-4.86718,7.26992],"type":"Point"}
+}

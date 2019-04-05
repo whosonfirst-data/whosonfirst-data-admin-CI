@@ -1,0 +1,70 @@
+{
+  "id": 1344190721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11323,6.91631,-8.11323,6.91631",
+    "geom:latitude":6.91631,
+    "geom:longitude":-8.11323,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Niamampleu",
+    "gn:country_code":"CI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283503,
+    "gn:latitude":6.91631,
+    "gn:longitude":-8.11323,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Niamampleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niapleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283503
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6a5bc804bb47e6ba2962e32681ff9b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1344190721,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1344190721,
+    "wof:lastmodified":1537590951,
+    "wof:name":"Niamampleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11323,
+    6.91631,
+    -8.11323,
+    6.91631
+],
+  "geometry": {"coordinates":[-8.11323,6.91631],"type":"Point"}
+}

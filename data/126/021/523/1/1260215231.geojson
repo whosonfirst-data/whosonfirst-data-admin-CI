@@ -1,0 +1,67 @@
+{
+  "id": 1260215231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32434,8.29665,-4.32434,8.29665",
+    "geom:latitude":8.29665,
+    "geom:longitude":-4.32434,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Natere-Dioulasso",
+    "gn:country_code":"CI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283904,
+    "gn:latitude":8.29665,
+    "gn:longitude":-4.32434,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Nat\u00e9r\u00e9-Dioulasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283904
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d84df0b92dd3bb2caa31c5fa5c6ab81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1260215231,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1260215231,
+    "wof:lastmodified":1536804484,
+    "wof:name":"Natere-Dioulasso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32434,
+    8.29665,
+    -4.32434,
+    8.29665
+],
+  "geometry": {"coordinates":[-4.32434,8.29665],"type":"Point"}
+}

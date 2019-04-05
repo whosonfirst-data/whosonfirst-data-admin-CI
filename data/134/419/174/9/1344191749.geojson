@@ -1,0 +1,67 @@
+{
+  "id": 1344191749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71754,7.2992,-7.71754,7.2992",
+    "geom:latitude":7.2992,
+    "geom:longitude":-7.71754,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gouagonople",
+    "gn:country_code":"CI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850658,
+    "gn:latitude":7.2992,
+    "gn:longitude":-7.71754,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gouagonopl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850658
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"61e2af9e7930da8453c818859eeb4f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1344191749,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1344191749,
+    "wof:lastmodified":1536686216,
+    "wof:name":"Gouagonople",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71754,
+    7.2992,
+    -7.71754,
+    7.2992
+],
+  "geometry": {"coordinates":[-7.71754,7.2992],"type":"Point"}
+}

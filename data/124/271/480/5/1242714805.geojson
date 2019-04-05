@@ -1,0 +1,67 @@
+{
+  "id": 1242714805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23333,8.08333,-5.23333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-5.23333,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Pabinkaha",
+    "gn:country_code":"CI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282725,
+    "gn:latitude":8.08333,
+    "gn:longitude":-5.23333,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pabinkaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282725
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f5f861665d906dbfbff83e94a690cd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1242714805,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1242714805,
+    "wof:lastmodified":1536864727,
+    "wof:name":"Pabinkaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23333,
+    8.08333,
+    -5.23333,
+    8.08333
+],
+  "geometry": {"coordinates":[-5.23333,8.08333],"type":"Point"}
+}

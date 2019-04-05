@@ -1,0 +1,73 @@
+{
+  "id": 1293814157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13725,8.90745,-5.13725,8.90745",
+    "geom:latitude":8.90745,
+    "geom:longitude":-5.13725,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dousoulekana",
+    "gn:country_code":"CI",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289598,
+    "gn:latitude":8.90745,
+    "gn:longitude":-5.13725,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dousoul\u00e9kana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dossoroul\u00e9",
+        "Doussoul\u00e9kaha",
+        "Doussou\u00e9l\u00e9kaha",
+        "Dousoul\u00e9kana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289598
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6ef491fc374f0c1e0e8e2387f1be99e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1293814157,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1293814157,
+    "wof:lastmodified":1537591034,
+    "wof:name":"Dousoulekana",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13725,
+    8.90745,
+    -5.13725,
+    8.90745
+],
+  "geometry": {"coordinates":[-5.13725,8.90745],"type":"Point"}
+}

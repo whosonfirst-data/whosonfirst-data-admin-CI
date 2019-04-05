@@ -1,0 +1,71 @@
+{
+  "id": 1343298149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72546,6.0095,-3.72546,6.0095",
+    "geom:latitude":6.0095,
+    "geom:longitude":-3.72546,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Nia",
+    "gn:country_code":"CI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283653,
+    "gn:latitude":6.0095,
+    "gn:longitude":-3.72546,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Nia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nya",
+        "Nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283653
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cd31b04c31be9d4ed9b0bf80a44fda03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1343298149,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1343298149,
+    "wof:lastmodified":1537590953,
+    "wof:name":"Nia",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72546,
+    6.0095,
+    -3.72546,
+    6.0095
+],
+  "geometry": {"coordinates":[-3.72546,6.0095],"type":"Point"}
+}

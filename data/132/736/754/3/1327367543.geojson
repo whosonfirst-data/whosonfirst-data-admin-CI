@@ -1,0 +1,72 @@
+{
+  "id": 1327367543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40276,8.80702,-7.40276,8.80702",
+    "geom:latitude":8.80702,
+    "geom:longitude":-7.40276,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Tinedirima-Sokourala",
+    "gn:country_code":"CI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280599,
+    "gn:latitude":8.80702,
+    "gn:longitude":-7.40276,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tin\u00e9dirima-Sokourala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tintirima-Sokoura",
+        "Tindirima-Sokoura",
+        "Tin\u00e9dirima-Sokourala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280599
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c79adc9a4b79dd21e4c69861d22c64da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1327367543,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1327367543,
+    "wof:lastmodified":1537590911,
+    "wof:name":"Tinedirima-Sokourala",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40276,
+    8.80702,
+    -7.40276,
+    8.80702
+],
+  "geometry": {"coordinates":[-7.40276,8.80702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226081185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65604,5.00805,-6.65604,5.00805",
+    "geom:latitude":5.00805,
+    "geom:longitude":-6.65604,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Piere",
+    "gn:country_code":"CI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282479,
+    "gn:latitude":5.00805,
+    "gn:longitude":-6.65604,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Pi\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biar\u00e9",
+        "Pi\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282479
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"37c5f5ce7154a4fe17b71e202b03478c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1226081185,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1226081185,
+    "wof:lastmodified":1537590937,
+    "wof:name":"Piere",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65604,
+    5.00805,
+    -6.65604,
+    5.00805
+],
+  "geometry": {"coordinates":[-6.65604,5.00805],"type":"Point"}
+}

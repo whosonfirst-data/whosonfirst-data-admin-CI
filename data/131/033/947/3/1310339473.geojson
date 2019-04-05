@@ -1,0 +1,73 @@
+{
+  "id": 1310339473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.72147,8.17838,-5.72147,8.17838",
+    "geom:latitude":8.17838,
+    "geom:longitude":-5.72147,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Tieningboue",
+    "gn:country_code":"CI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280688,
+    "gn:latitude":8.17838,
+    "gn:longitude":-5.72147,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ti\u00e9ningbou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9nigb\u00e9",
+        "Ti\u00e9ningbu\u00e9",
+        "Ti\u00e9ningbou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280688,
+        "wk:page":"Ti%C3%A9ningbou%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0553ed3ddc83e791ca91cf130838d460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1310339473,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1310339473,
+    "wof:lastmodified":1537590913,
+    "wof:name":"Tieningboue",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.72147,
+    8.17838,
+    -5.72147,
+    8.17838
+],
+  "geometry": {"coordinates":[-5.72147,8.17838],"type":"Point"}
+}

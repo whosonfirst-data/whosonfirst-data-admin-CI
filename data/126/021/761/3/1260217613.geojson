@@ -1,0 +1,71 @@
+{
+  "id": 1260217613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.82501,9.7843,-3.82501,9.7843",
+    "geom:latitude":9.7843,
+    "geom:longitude":-3.82501,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tougouloukaye",
+    "gn:country_code":"CI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280351,
+    "gn:latitude":9.7843,
+    "gn:longitude":-3.82501,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tougouloukaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toulouka\u00ef",
+        "Tougouloukaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280351
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dade8a0d4a85057fd600e7c9897354b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1260217613,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1260217613,
+    "wof:lastmodified":1537590909,
+    "wof:name":"Tougouloukaye",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.82501,
+    9.7843,
+    -3.82501,
+    9.7843
+],
+  "geometry": {"coordinates":[-3.82501,9.7843],"type":"Point"}
+}

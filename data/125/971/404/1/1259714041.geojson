@@ -1,0 +1,71 @@
+{
+  "id": 1259714041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68421,7.25258,-7.68421,7.25258",
+    "geom:latitude":7.25258,
+    "geom:longitude":-7.68421,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Napodiagouine",
+    "gn:country_code":"CI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284018,
+    "gn:latitude":7.25258,
+    "gn:longitude":-7.68421,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Napodiagouin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Napodiagouin\u00e9",
+        "Nampodyagouin\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284018
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ba8273eda5c72379d7606a993181b8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1259714041,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1259714041,
+    "wof:lastmodified":1537590959,
+    "wof:name":"Napodiagouine",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68421,
+    7.25258,
+    -7.68421,
+    7.25258
+],
+  "geometry": {"coordinates":[-7.68421,7.25258],"type":"Point"}
+}

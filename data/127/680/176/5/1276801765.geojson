@@ -1,0 +1,67 @@
+{
+  "id": 1276801765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61264,9.25232,-5.61264,9.25232",
+    "geom:latitude":9.25232,
+    "geom:longitude":-5.61264,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nongok",
+    "gn:country_code":"CI",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283271,
+    "gn:latitude":9.25232,
+    "gn:longitude":-5.61264,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nongok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283271
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fae3973a9e0bc4f4f01eb6ab54dd70b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1276801765,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1276801765,
+    "wof:lastmodified":1536647887,
+    "wof:name":"Nongok",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61264,
+    9.25232,
+    -5.61264,
+    9.25232
+],
+  "geometry": {"coordinates":[-5.61264,9.25232],"type":"Point"}
+}

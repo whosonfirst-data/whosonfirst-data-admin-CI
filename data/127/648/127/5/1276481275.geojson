@@ -1,0 +1,67 @@
+{
+  "id": 1276481275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19232,5.65159,-4.19232,5.65159",
+    "geom:latitude":5.65159,
+    "geom:longitude":-4.19232,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Elovi",
+    "gn:country_code":"CI",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289379,
+    "gn:latitude":5.65159,
+    "gn:longitude":-4.19232,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Elovi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289379
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0b9e3a5d68193474c963e1ce0d735be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1276481275,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1276481275,
+    "wof:lastmodified":1537074578,
+    "wof:name":"Elovi",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19232,
+    5.65159,
+    -4.19232,
+    5.65159
+],
+  "geometry": {"coordinates":[-4.19232,5.65159],"type":"Point"}
+}

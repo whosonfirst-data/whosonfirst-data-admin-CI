@@ -1,0 +1,67 @@
+{
+  "id": 1209850685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56282,5.72079,-5.56282,5.72079",
+    "geom:latitude":5.72079,
+    "geom:longitude":-5.56282,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Gbobodouhoin",
+    "gn:country_code":"CI",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288616,
+    "gn:latitude":5.72079,
+    "gn:longitude":-5.56282,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gbobodouhoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288616
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"91e7cbd67127dfc4c88f6ff737fdf5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1209850685,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1209850685,
+    "wof:lastmodified":1536388580,
+    "wof:name":"Gbobodouhoin",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56282,
+    5.72079,
+    -5.56282,
+    5.72079
+],
+  "geometry": {"coordinates":[-5.56282,5.72079],"type":"Point"}
+}

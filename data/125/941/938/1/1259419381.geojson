@@ -1,0 +1,67 @@
+{
+  "id": 1259419381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31001,7.35886,-7.31001,7.35886",
+    "geom:latitude":7.35886,
+    "geom:longitude":-7.31001,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Souakpe",
+    "gn:country_code":"CI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281302,
+    "gn:latitude":7.35886,
+    "gn:longitude":-7.31001,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Souakp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281302
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"684f126bb806e261dc38e8a2a0aa59cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1259419381,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1259419381,
+    "wof:lastmodified":1536950998,
+    "wof:name":"Souakpe",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31001,
+    7.35886,
+    -7.31001,
+    7.35886
+],
+  "geometry": {"coordinates":[-7.31001,7.35886],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310634493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64983,7.82305,-6.64983,7.82305",
+    "geom:latitude":7.82305,
+    "geom:longitude":-6.64983,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Ouahi",
+    "gn:country_code":"CI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282930,
+    "gn:latitude":7.82305,
+    "gn:longitude":-6.64983,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ouahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282930
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"80afb5fd75508b2a12fd985165780c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1310634493,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1310634493,
+    "wof:lastmodified":1536731179,
+    "wof:name":"Ouahi",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64983,
+    7.82305,
+    -6.64983,
+    7.82305
+],
+  "geometry": {"coordinates":[-6.64983,7.82305],"type":"Point"}
+}

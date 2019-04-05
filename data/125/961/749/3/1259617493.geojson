@@ -1,0 +1,67 @@
+{
+  "id": 1259617493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82285,4.89924,-6.82285,4.89924",
+    "geom:latitude":4.89924,
+    "geom:longitude":-6.82285,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Para",
+    "gn:country_code":"CI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282651,
+    "gn:latitude":4.89924,
+    "gn:longitude":-6.82285,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Para",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282651
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"28665c9155e1f93af3abd9c1c8c279fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1259617493,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1259617493,
+    "wof:lastmodified":1536665812,
+    "wof:name":"Para",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82285,
+    4.89924,
+    -6.82285,
+    4.89924
+],
+  "geometry": {"coordinates":[-6.82285,4.89924],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327462321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.74665,5.56048,-3.74665,5.56048",
+    "geom:latitude":5.56048,
+    "geom:longitude":-3.74665,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Sasso",
+    "gn:country_code":"CI",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033103,
+    "gn:latitude":5.56048,
+    "gn:longitude":-3.74665,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Sasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033103
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"36359cbb61e8b306d85c8d5bc350f72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1327462321,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327462321,
+    "wof:lastmodified":1536636527,
+    "wof:name":"Sasso",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.74665,
+    5.56048,
+    -3.74665,
+    5.56048
+],
+  "geometry": {"coordinates":[-3.74665,5.56048],"type":"Point"}
+}

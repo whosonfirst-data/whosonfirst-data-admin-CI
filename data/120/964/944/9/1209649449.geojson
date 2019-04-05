@@ -1,0 +1,61 @@
+{
+  "id": 1209649449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.97627,8.67927,-5.97627,8.67927",
+    "geom:latitude":8.67927,
+    "geom:longitude":-5.97627,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Mahra",
+    "gn:country_code":"CI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284706,
+    "gn:latitude":8.67927,
+    "gn:longitude":-5.97627,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Mahra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284706
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8b8e2b0bc029456e9f8dc68ca1620f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209649449
+        }
+    ],
+    "wof:id":1209649449,
+    "wof:lastmodified":1536280627,
+    "wof:name":"Mahra",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.97627,
+    8.679269999999999,
+    -5.97627,
+    8.679269999999999
+],
+  "geometry": {"coordinates":[-5.97627,8.67927],"type":"Point"}
+}

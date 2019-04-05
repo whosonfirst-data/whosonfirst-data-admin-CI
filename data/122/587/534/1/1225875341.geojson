@@ -1,0 +1,67 @@
+{
+  "id": 1225875341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24033,6.99548,-8.24033,6.99548",
+    "geom:latitude":6.99548,
+    "geom:longitude":-8.24033,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gnaleu",
+    "gn:country_code":"CI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7848848,
+    "gn:latitude":6.99548,
+    "gn:longitude":-8.24033,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gnaleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7848848
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"513ced58766fe2d04516f2dee4f0461b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1225875341,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1225875341,
+    "wof:lastmodified":1536970768,
+    "wof:name":"Gnaleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24033,
+    6.99548,
+    -8.24033,
+    6.99548
+],
+  "geometry": {"coordinates":[-8.24033,6.99548],"type":"Point"}
+}

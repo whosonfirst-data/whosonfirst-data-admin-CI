@@ -1,0 +1,74 @@
+{
+  "id": 1276374311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13183,9.58461,-8.13183,9.58461",
+    "geom:latitude":9.58461,
+    "geom:longitude":-8.13183,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Gbeleban",
+    "gn:country_code":"CI",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2288565,
+    "gn:latitude":9.58461,
+    "gn:longitude":-8.13183,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Gb\u00e9l\u00e9ban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gueleba",
+        "Gb\u00e9l\u00e9ba",
+        "G\u00e9l\u00e9ban",
+        "Gb\u00e9l\u00e9ban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288565,
+        "wk:page":"Gb%C3%A9l%C3%A9ban"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3827739763301467f69d863bbdad44e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1276374311,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1276374311,
+    "wof:lastmodified":1537591018,
+    "wof:name":"Gbeleban",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13183,
+    9.58461,
+    -8.13183,
+    9.58461
+],
+  "geometry": {"coordinates":[-8.13183,9.58461],"type":"Point"}
+}

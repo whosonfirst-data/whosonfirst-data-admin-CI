@@ -1,0 +1,67 @@
+{
+  "id": 1243292231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.25,6.58333,-6.25,6.58333",
+    "geom:latitude":6.58333,
+    "geom:longitude":-6.25,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Gagnoa",
+    "gn:country_code":"CI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596931,
+    "gn:latitude":6.58333,
+    "gn:longitude":-6.25,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gagnoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596931
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3ac3400d73982e23b8b6aabf010df777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1243292231,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1243292231,
+    "wof:lastmodified":1537026782,
+    "wof:name":"Gagnoa",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.25,
+    6.58333,
+    -6.25,
+    6.58333
+],
+  "geometry": {"coordinates":[-6.25,6.58333],"type":"Point"}
+}

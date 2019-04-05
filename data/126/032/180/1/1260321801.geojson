@@ -1,0 +1,67 @@
+{
+  "id": 1260321801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.79336,9.82533,-3.79336,9.82533",
+    "geom:latitude":9.82533,
+    "geom:longitude":-3.79336,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Zanze",
+    "gn:country_code":"CI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279437,
+    "gn:latitude":9.82533,
+    "gn:longitude":-3.79336,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zanz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279437
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"70ac29a6775e35a87da4c3dd31b5a82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1260321801,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1260321801,
+    "wof:lastmodified":1536660523,
+    "wof:name":"Zanze",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.79336,
+    9.82533,
+    -3.79336,
+    9.82533
+],
+  "geometry": {"coordinates":[-3.79336,9.82533],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327370475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.60982,9.14943,-4.60982,9.14943",
+    "geom:latitude":9.14943,
+    "geom:longitude":-4.60982,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Kong",
+    "gn:country_code":"CI",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2286458,
+    "gn:latitude":9.14943,
+    "gn:longitude":-4.60982,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286458,
+        "wk:page":"Kong%2C_C%C3%B4te_d%27Ivoire"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f16e84faf4a897955afc2e901ca4e2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1327370475,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1327370475,
+    "wof:lastmodified":1537489423,
+    "wof:name":"Kong",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.60982,
+    9.14943,
+    -4.60982,
+    9.14943
+],
+  "geometry": {"coordinates":[-4.60982,9.14943],"type":"Point"}
+}

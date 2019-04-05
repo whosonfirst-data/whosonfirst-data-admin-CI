@@ -1,0 +1,61 @@
+{
+  "id": 1209251815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43853,5.22129,-3.43853,5.22129",
+    "geom:latitude":5.22129,
+    "geom:longitude":-3.43853,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Kokokro",
+    "gn:country_code":"CI",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032049,
+    "gn:latitude":5.22129,
+    "gn:longitude":-3.43853,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kokokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032049
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3a6b7131c34df6d215113ec653cee6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209251815
+        }
+    ],
+    "wof:id":1209251815,
+    "wof:lastmodified":1536292981,
+    "wof:name":"Kokokro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43853,
+    5.22129,
+    -3.43853,
+    5.22129
+],
+  "geometry": {"coordinates":[-3.43853,5.22129],"type":"Point"}
+}

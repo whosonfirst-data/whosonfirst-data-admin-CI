@@ -1,0 +1,71 @@
+{
+  "id": 1259914787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07127,8.54704,-7.07127,8.54704",
+    "geom:latitude":8.54704,
+    "geom:longitude":-7.07127,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Tongbwe",
+    "gn:country_code":"CI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280453,
+    "gn:latitude":8.54704,
+    "gn:longitude":-7.07127,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tongbw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toungou\u00e9",
+        "Tongbw\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280453
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b9c50de49db7f67830657ef47a675bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1259914787,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1259914787,
+    "wof:lastmodified":1537590910,
+    "wof:name":"Tongbwe",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07127,
+    8.54704,
+    -7.07127,
+    8.54704
+],
+  "geometry": {"coordinates":[-7.07127,8.54704],"type":"Point"}
+}

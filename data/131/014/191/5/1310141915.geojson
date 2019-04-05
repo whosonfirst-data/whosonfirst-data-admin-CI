@@ -1,0 +1,67 @@
+{
+  "id": 1310141915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.07106,7.15163,-4.07106,7.15163",
+    "geom:latitude":7.15163,
+    "geom:longitude":-4.07106,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Arikokro",
+    "gn:country_code":"CI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292760,
+    "gn:latitude":7.15163,
+    "gn:longitude":-4.07106,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Arikokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292760
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7aa43f287211cf0ad0a76a93b6f8eda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1310141915,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1310141915,
+    "wof:lastmodified":1536944453,
+    "wof:name":"Arikokro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.07106,
+    7.15163,
+    -4.07106,
+    7.15163
+],
+  "geometry": {"coordinates":[-4.07106,7.15163],"type":"Point"}
+}

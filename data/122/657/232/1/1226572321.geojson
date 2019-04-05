@@ -1,0 +1,67 @@
+{
+  "id": 1226572321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20079,4.58784,-7.20079,4.58784",
+    "geom:latitude":4.58784,
+    "geom:longitude":-7.20079,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Irepwe",
+    "gn:country_code":"CI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287814,
+    "gn:latitude":4.58784,
+    "gn:longitude":-7.20079,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ir\u00e9pw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287814
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"39179f63f6077a9d1fff1cfb86ba545a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1226572321,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1226572321,
+    "wof:lastmodified":1536960801,
+    "wof:name":"Irepwe",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20079,
+    4.58784,
+    -7.20079,
+    4.58784
+],
+  "geometry": {"coordinates":[-7.20079,4.58784],"type":"Point"}
+}

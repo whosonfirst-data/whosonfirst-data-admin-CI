@@ -1,0 +1,67 @@
+{
+  "id": 1327368027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86703,5.89832,-5.86703,5.89832",
+    "geom:latitude":5.89832,
+    "geom:longitude":-5.86703,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Gaoulilie",
+    "gn:country_code":"CI",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288760,
+    "gn:latitude":5.89832,
+    "gn:longitude":-5.86703,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gaoulili\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288760
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"21e4a7d5cdb7446b862ef08e2ce9860c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1327368027,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1327368027,
+    "wof:lastmodified":1536774464,
+    "wof:name":"Gaoulilie",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86703,
+    5.89832,
+    -5.86703,
+    5.89832
+],
+  "geometry": {"coordinates":[-5.86703,5.89832],"type":"Point"}
+}

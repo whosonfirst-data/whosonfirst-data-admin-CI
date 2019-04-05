@@ -1,0 +1,71 @@
+{
+  "id": 1276696725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.19674,8.08901,-3.19674,8.08901",
+    "geom:latitude":8.08901,
+    "geom:longitude":-3.19674,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Nagabare",
+    "gn:country_code":"CI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284086,
+    "gn:latitude":8.08901,
+    "gn:longitude":-3.19674,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nagabar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9nagar\u00e9",
+        "Nagabar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284086
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eda71cec5e09564fbfff1ea0714f0cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1276696725,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276696725,
+    "wof:lastmodified":1537590960,
+    "wof:name":"Nagabare",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.19674,
+    8.08901,
+    -3.19674,
+    8.08901
+],
+  "geometry": {"coordinates":[-3.19674,8.08901],"type":"Point"}
+}

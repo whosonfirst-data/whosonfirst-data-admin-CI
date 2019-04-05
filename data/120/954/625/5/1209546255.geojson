@@ -1,0 +1,61 @@
+{
+  "id": 1209546255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80338,7.50485,-7.80338,7.50485",
+    "geom:latitude":7.50485,
+    "geom:longitude":-7.80338,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ligbale II",
+    "gn:country_code":"CI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850648,
+    "gn:latitude":7.50485,
+    "gn:longitude":-7.80338,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Ligbal\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850648
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b3d0f75ae8ffc149001deaf4227d6649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546255
+        }
+    ],
+    "wof:id":1209546255,
+    "wof:lastmodified":1536283834,
+    "wof:name":"Ligbale II",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8033800000000015,
+    7.50485,
+    -7.8033800000000015,
+    7.50485
+],
+  "geometry": {"coordinates":[-7.80338,7.50485],"type":"Point"}
+}

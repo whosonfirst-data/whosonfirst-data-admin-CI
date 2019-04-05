@@ -1,0 +1,71 @@
+{
+  "id": 1276374013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.97322,9.08278,-5.97322,9.08278",
+    "geom:latitude":9.08278,
+    "geom:longitude":-5.97322,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Sedakaha",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281903,
+    "gn:latitude":9.08278,
+    "gn:longitude":-5.97322,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9dakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9da",
+        "S\u00e9dakaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281903
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"89976934b45ae28e70f7ed2157b8b01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1276374013,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1276374013,
+    "wof:lastmodified":1537590928,
+    "wof:name":"Sedakaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.97322,
+    9.08278,
+    -5.97322,
+    9.08278
+],
+  "geometry": {"coordinates":[-5.97322,9.08278],"type":"Point"}
+}

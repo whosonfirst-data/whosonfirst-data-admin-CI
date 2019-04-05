@@ -1,0 +1,65 @@
+{
+  "id": 1209043619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67449,7.33087,-7.67449,7.33087",
+    "geom:latitude":7.33087,
+    "geom:longitude":-7.67449,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbangbegouine",
+    "gn:country_code":"CI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292166,
+    "gn:latitude":7.33087,
+    "gn:longitude":-7.67449,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gbangb\u00e9gouin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbangb\u00e9gouin\u00e9",
+        "Banhoukouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292166
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7a1fad7e6a92a65a353615ed6421fd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209043619
+        }
+    ],
+    "wof:id":1209043619,
+    "wof:lastmodified":1537591069,
+    "wof:name":"Gbangbegouine",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67449,
+    7.33087,
+    -7.67449,
+    7.33087
+],
+  "geometry": {"coordinates":[-7.67449,7.33087],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327165501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69201,7.04902,-7.69201,7.04902",
+    "geom:latitude":7.04902,
+    "geom:longitude":-7.69201,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Blotile",
+    "gn:country_code":"CI",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291446,
+    "gn:latitude":7.04902,
+    "gn:longitude":-7.69201,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Blotil\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blotil\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291446,
+        "wk:page":"Blotil%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"576dd98816cfe58e186e8327ef404e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1327165501,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1327165501,
+    "wof:lastmodified":1537591059,
+    "wof:name":"Blotile",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69201,
+    7.04902,
+    -7.69201,
+    7.04902
+],
+  "geometry": {"coordinates":[-7.69201,7.04902],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226376883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.94393,5.98289,-3.94393,5.98289",
+    "geom:latitude":5.98289,
+    "geom:longitude":-3.94393,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Agou",
+    "gn:country_code":"CI",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2596951,
+    "gn:latitude":5.98289,
+    "gn:longitude":-3.94393,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Agou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596951,
+        "wk:page":"Agou%2C_C%C3%B4te_d%27Ivoire"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"adb6a0dcfe8283f91d164578e622d67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1226376883,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1226376883,
+    "wof:lastmodified":1537489468,
+    "wof:name":"Agou",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.94393,
+    5.98289,
+    -3.94393,
+    5.98289
+],
+  "geometry": {"coordinates":[-3.94393,5.98289],"type":"Point"}
+}

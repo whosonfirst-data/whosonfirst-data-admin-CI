@@ -1,0 +1,67 @@
+{
+  "id": 1243490709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21667,8.1,-5.21667,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-5.21667,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Togou",
+    "gn:country_code":"CI",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280504,
+    "gn:latitude":8.1,
+    "gn:longitude":-5.21667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Togou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280504
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"24f33f15e993cd1d3c2ff3208588bdef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1243490709,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1243490709,
+    "wof:lastmodified":1536741427,
+    "wof:name":"Togou",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21667,
+    8.1,
+    -5.21667,
+    8.1
+],
+  "geometry": {"coordinates":[-5.21667,8.1],"type":"Point"}
+}

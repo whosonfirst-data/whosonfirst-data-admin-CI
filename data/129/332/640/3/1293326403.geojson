@@ -1,0 +1,72 @@
+{
+  "id": 1293326403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52139,6.1175,-6.52139,6.1175",
+    "geom:latitude":6.1175,
+    "geom:longitude":-6.52139,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gougoueoua",
+    "gn:country_code":"CI",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288205,
+    "gn:latitude":6.1175,
+    "gn:longitude":-6.52139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gougou\u00e9oua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gogouahiouroua",
+        "Gougouh\u00e9oua",
+        "Gougou\u00e9oua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288205
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"03b6595b898f56612b84097109dee9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1293326403,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293326403,
+    "wof:lastmodified":1537591012,
+    "wof:name":"Gougoueoua",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52139,
+    6.1175,
+    -6.52139,
+    6.1175
+],
+  "geometry": {"coordinates":[-6.52139,6.1175],"type":"Point"}
+}

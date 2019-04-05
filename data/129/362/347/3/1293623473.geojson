@@ -1,0 +1,71 @@
+{
+  "id": 1293623473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77728,6.67498,-6.77728,6.67498",
+    "geom:latitude":6.67498,
+    "geom:longitude":-6.77728,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Debo I",
+    "gn:country_code":"CI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290342,
+    "gn:latitude":6.67498,
+    "gn:longitude":-6.77728,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"D\u00e9bo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9bo I",
+        "D\u00e9bo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290342
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d22da48f0e7be1a02e9606d232c6384c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293623473,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293623473,
+    "wof:lastmodified":1537591044,
+    "wof:name":"Debo I",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77728,
+    6.67498,
+    -6.77728,
+    6.67498
+],
+  "geometry": {"coordinates":[-6.77728,6.67498],"type":"Point"}
+}

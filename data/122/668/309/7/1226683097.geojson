@@ -1,0 +1,70 @@
+{
+  "id": 1226683097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.63378,5.54538,-3.63378,5.54538",
+    "geom:latitude":5.54538,
+    "geom:longitude":-3.63378,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Abroki",
+    "gn:country_code":"CI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597043,
+    "gn:latitude":5.54538,
+    "gn:longitude":-3.63378,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Abroki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abruki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597043
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"62c40923123357cef26850dabb393b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1226683097,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1226683097,
+    "wof:lastmodified":1537591093,
+    "wof:name":"Abroki",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.63378,
+    5.54538,
+    -3.63378,
+    5.54538
+],
+  "geometry": {"coordinates":[-3.63378,5.54538],"type":"Point"}
+}

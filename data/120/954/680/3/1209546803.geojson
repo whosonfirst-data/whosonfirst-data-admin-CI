@@ -1,0 +1,61 @@
+{
+  "id": 1209546803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58852,5.82471,-5.58852,5.82471",
+    "geom:latitude":5.82471,
+    "geom:longitude":-5.58852,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Betroulilie",
+    "gn:country_code":"CI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291699,
+    "gn:latitude":5.82471,
+    "gn:longitude":-5.58852,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u00e9troulili\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291699
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7b1b2fa8ab5fa03d22d2b939682d9e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546803
+        }
+    ],
+    "wof:id":1209546803,
+    "wof:lastmodified":1536283819,
+    "wof:name":"Betroulilie",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58852,
+    5.82471,
+    -5.58852,
+    5.82471
+],
+  "geometry": {"coordinates":[-5.58852,5.82471],"type":"Point"}
+}

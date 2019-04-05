@@ -1,0 +1,67 @@
+{
+  "id": 1276667977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58778,4.80194,-7.58778,4.80194",
+    "geom:latitude":4.80194,
+    "geom:longitude":-7.58778,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ouate",
+    "gn:country_code":"CI",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570377,
+    "gn:latitude":4.80194,
+    "gn:longitude":-7.58778,
+    "gn:modification_date":"1995-12-18",
+    "gn:name":"Ouat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570377
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7580b62d8399f27580610804cd0bffa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1276667977,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276667977,
+    "wof:lastmodified":1536826358,
+    "wof:name":"Ouate",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58778,
+    4.80194,
+    -7.58778,
+    4.80194
+],
+  "geometry": {"coordinates":[-7.58778,4.80194],"type":"Point"}
+}

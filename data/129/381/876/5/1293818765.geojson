@@ -1,0 +1,67 @@
+{
+  "id": 1293818765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56667,7.06667,-7.56667,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":-7.56667,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Tro",
+    "gn:country_code":"CI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280242,
+    "gn:latitude":7.06667,
+    "gn:longitude":-7.56667,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280242
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1196e10158e6842bd328d5fad5fe8e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1293818765,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1293818765,
+    "wof:lastmodified":1536806334,
+    "wof:name":"Tro",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56667,
+    7.06667,
+    -7.56667,
+    7.06667
+],
+  "geometry": {"coordinates":[-7.56667,7.06667],"type":"Point"}
+}

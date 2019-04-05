@@ -1,0 +1,70 @@
+{
+  "id": 1326760925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76106,7.06135,-5.76106,7.06135",
+    "geom:latitude":7.06135,
+    "geom:longitude":-5.76106,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Koupela",
+    "gn:country_code":"CI",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285781,
+    "gn:latitude":7.06135,
+    "gn:longitude":-5.76106,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Koup\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koup\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285781
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8e46655c1e6368b9f0e337f87fe0ecda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1326760925,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1326760925,
+    "wof:lastmodified":1537590981,
+    "wof:name":"Koupela",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76106,
+    7.06135,
+    -5.76106,
+    7.06135
+],
+  "geometry": {"coordinates":[-5.76106,7.06135],"type":"Point"}
+}

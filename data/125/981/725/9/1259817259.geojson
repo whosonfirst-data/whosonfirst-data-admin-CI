@@ -1,0 +1,71 @@
+{
+  "id": 1259817259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55093,8.0696,-7.55093,8.0696",
+    "geom:latitude":8.0696,
+    "geom:longitude":-7.55093,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Byemaso",
+    "gn:country_code":"CI",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290633,
+    "gn:latitude":8.0696,
+    "gn:longitude":-7.55093,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"By\u00e9maso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u00e9masso",
+        "By\u00e9maso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290633
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a392e560ebc4bc019b9aa396212d7930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1259817259,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1259817259,
+    "wof:lastmodified":1537591050,
+    "wof:name":"Byemaso",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55093,
+    8.0696,
+    -7.55093,
+    8.0696
+],
+  "geometry": {"coordinates":[-7.55093,8.0696],"type":"Point"}
+}

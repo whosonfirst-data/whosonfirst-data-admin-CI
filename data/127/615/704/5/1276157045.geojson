@@ -1,0 +1,70 @@
+{
+  "id": 1276157045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57882,5.35689,-3.57882,5.35689",
+    "geom:latitude":5.35689,
+    "geom:longitude":-3.57882,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Bato",
+    "gn:country_code":"CI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597102,
+    "gn:latitude":5.35689,
+    "gn:longitude":-3.57882,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597102
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6a4fdd1feac201cb1a910ebf9b5abf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1276157045,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1276157045,
+    "wof:lastmodified":1537591094,
+    "wof:name":"Bato",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57882,
+    5.35689,
+    -3.57882,
+    5.35689
+],
+  "geometry": {"coordinates":[-3.57882,5.35689],"type":"Point"}
+}

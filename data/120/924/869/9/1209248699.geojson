@@ -1,0 +1,61 @@
+{
+  "id": 1209248699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54322,6.53493,-7.54322,6.53493",
+    "geom:latitude":6.53493,
+    "geom:longitude":-7.54322,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Mona",
+    "gn:country_code":"CI",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284255,
+    "gn:latitude":6.53493,
+    "gn:longitude":-7.54322,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Mona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284255
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"246130c66637112835ea03542bb2c61f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209248699
+        }
+    ],
+    "wof:id":1209248699,
+    "wof:lastmodified":1536293076,
+    "wof:name":"Mona",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54322,
+    6.53493,
+    -7.54322,
+    6.53493
+],
+  "geometry": {"coordinates":[-7.54322,6.53493],"type":"Point"}
+}

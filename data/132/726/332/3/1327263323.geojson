@@ -1,0 +1,67 @@
+{
+  "id": 1327263323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18553,8.17811,-3.18553,8.17811",
+    "geom:latitude":8.17811,
+    "geom:longitude":-3.18553,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Nennguere-Nagare",
+    "gn:country_code":"CI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283752,
+    "gn:latitude":8.17811,
+    "gn:longitude":-3.18553,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nenngu\u00e9r\u00e9-Nagar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283752
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a02d8a023075e37386890043a664b930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1327263323,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327263323,
+    "wof:lastmodified":1536925725,
+    "wof:name":"Nennguere-Nagare",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18553,
+    8.17811,
+    -3.18553,
+    8.17811
+],
+  "geometry": {"coordinates":[-3.18553,8.17811],"type":"Point"}
+}

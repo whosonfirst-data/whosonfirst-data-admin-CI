@@ -1,0 +1,68 @@
+{
+  "id": 1309940251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1561,6.43832,-8.1561,6.43832",
+    "geom:latitude":6.43832,
+    "geom:longitude":-8.1561,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Tinhou",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280582,
+    "gn:latitude":6.43832,
+    "gn:longitude":-8.1561,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tinhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280582,
+        "wk:page":"Tinhou"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4312c431ca2b39ba0ea4b51ea3e3ce3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1309940251,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1309940251,
+    "wof:lastmodified":1537489389,
+    "wof:name":"Tinhou",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1561,
+    6.43832,
+    -8.1561,
+    6.43832
+],
+  "geometry": {"coordinates":[-8.1561,6.43832],"type":"Point"}
+}

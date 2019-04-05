@@ -1,0 +1,65 @@
+{
+  "id": 1209649961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27736,5.21645,-4.27736,5.21645",
+    "geom:latitude":5.21645,
+    "geom:longitude":-4.27736,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Sassako-Begniny",
+    "gn:country_code":"CI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281952,
+    "gn:latitude":5.21645,
+    "gn:longitude":-4.27736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sassako-B\u00e9gniny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sassako B\u00e9nigny",
+        "Sassako-B\u00e9gniny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281952
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"144fcddbd64d100034398706690614a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209649961
+        }
+    ],
+    "wof:id":1209649961,
+    "wof:lastmodified":1537590929,
+    "wof:name":"Sassako-Begniny",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27736,
+    5.21645,
+    -4.27736,
+    5.21645
+],
+  "geometry": {"coordinates":[-4.27736,5.21645],"type":"Point"}
+}

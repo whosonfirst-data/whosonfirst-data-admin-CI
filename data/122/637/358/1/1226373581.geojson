@@ -1,0 +1,67 @@
+{
+  "id": 1226373581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.07393,5.53412,-4.07393,5.53412",
+    "geom:latitude":5.53412,
+    "geom:longitude":-4.07393,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Adamo",
+    "gn:country_code":"CI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032393,
+    "gn:latitude":5.53412,
+    "gn:longitude":-4.07393,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Adamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108784991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032393
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6be86d61f0c040be261d912db62aed9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784991,
+            "locality_id":1226373581,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1226373581,
+    "wof:lastmodified":1536749436,
+    "wof:name":"Adamo",
+    "wof:parent_id":1108784991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.07393,
+    5.53412,
+    -4.07393,
+    5.53412
+],
+  "geometry": {"coordinates":[-4.07393,5.53412],"type":"Point"}
+}

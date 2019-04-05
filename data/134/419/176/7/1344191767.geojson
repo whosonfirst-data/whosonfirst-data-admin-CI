@@ -1,0 +1,73 @@
+{
+  "id": 1344191767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22341,6.23311,-5.22341,6.23311",
+    "geom:latitude":6.23311,
+    "geom:longitude":-5.22341,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Leleble",
+    "gn:country_code":"CI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285287,
+    "gn:latitude":6.23311,
+    "gn:longitude":-5.22341,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"L\u00e9l\u00e9bl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9t\u00e9bor\u00e9",
+        "L\u00e9l\u00e9bovy",
+        "L\u00e9l\u00e9bor\u00e9",
+        "L\u00e9l\u00e9bl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285287
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ce091205af8946c71cd034ed6a621b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1344191767,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1344191767,
+    "wof:lastmodified":1537590974,
+    "wof:name":"Leleble",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22341,
+    6.23311,
+    -5.22341,
+    6.23311
+],
+  "geometry": {"coordinates":[-5.22341,6.23311],"type":"Point"}
+}

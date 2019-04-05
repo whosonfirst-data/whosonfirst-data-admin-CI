@@ -1,0 +1,66 @@
+{
+  "id": 1209243615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50945,4.78006,-6.50945,4.78006",
+    "geom:latitude":4.78006,
+    "geom:longitude":-6.50945,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Popogo",
+    "gn:country_code":"CI",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282350,
+    "gn:latitude":4.78006,
+    "gn:longitude":-6.50945,
+    "gn:modification_date":"2018-01-26",
+    "gn:name":"Popogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popo",
+        "Popo Podio",
+        "Popogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282350
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"deb1b1a60c464c61d50ac23a29ba3fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209243615
+        }
+    ],
+    "wof:id":1209243615,
+    "wof:lastmodified":1537590935,
+    "wof:name":"Popogo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50945,
+    4.78006,
+    -6.50945,
+    4.78006
+],
+  "geometry": {"coordinates":[-6.50945,4.78006],"type":"Point"}
+}

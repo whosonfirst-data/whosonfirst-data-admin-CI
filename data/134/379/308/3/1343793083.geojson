@@ -1,0 +1,67 @@
+{
+  "id": 1343793083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72393,7.94747,-7.72393,7.94747",
+    "geom:latitude":7.94747,
+    "geom:longitude":-7.72393,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Oueyenkro",
+    "gn:country_code":"CI",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849850,
+    "gn:latitude":7.94747,
+    "gn:longitude":-7.72393,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ou\u00e9yenkro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849850
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9193ccc201a06334d3333e59b98a1de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1343793083,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1343793083,
+    "wof:lastmodified":1536764314,
+    "wof:name":"Oueyenkro",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72393,
+    7.94747,
+    -7.72393,
+    7.94747
+],
+  "geometry": {"coordinates":[-7.72393,7.94747],"type":"Point"}
+}

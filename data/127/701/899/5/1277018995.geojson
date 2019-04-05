@@ -1,0 +1,71 @@
+{
+  "id": 1277018995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.28255,7.88338,-3.28255,7.88338",
+    "geom:latitude":7.88338,
+    "geom:longitude":-3.28255,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tiedio",
+    "gn:country_code":"CI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280737,
+    "gn:latitude":7.88338,
+    "gn:longitude":-3.28255,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ti\u00e9dio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9dio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280737,
+        "wk:page":"Tch%C3%A8dio"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5ea2aa41cb8a3afdcee4cbcf75af4237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1277018995,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1277018995,
+    "wof:lastmodified":1537590914,
+    "wof:name":"Tiedio",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.28255,
+    7.88338,
+    -3.28255,
+    7.88338
+],
+  "geometry": {"coordinates":[-3.28255,7.88338],"type":"Point"}
+}

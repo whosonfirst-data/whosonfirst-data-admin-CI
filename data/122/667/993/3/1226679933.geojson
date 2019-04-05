@@ -1,0 +1,67 @@
+{
+  "id": 1226679933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38333,10.06667,-5.38333,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":-5.38333,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Fandougou",
+    "gn:country_code":"CI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289250,
+    "gn:latitude":10.06667,
+    "gn:longitude":-5.38333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Fandougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289250
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"18095437b793426fbb37f7042f5aef1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1226679933,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226679933,
+    "wof:lastmodified":1536809850,
+    "wof:name":"Fandougou",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.38333,
+    10.06667,
+    -5.38333,
+    10.06667
+],
+  "geometry": {"coordinates":[-5.38333,10.06667],"type":"Point"}
+}

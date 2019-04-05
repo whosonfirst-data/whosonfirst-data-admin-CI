@@ -1,0 +1,67 @@
+{
+  "id": 1343495989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.98361,7.32528,-4.98361,7.32528",
+    "geom:latitude":7.32528,
+    "geom:longitude":-4.98361,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Senikro",
+    "gn:country_code":"CI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281778,
+    "gn:latitude":7.32528,
+    "gn:longitude":-4.98361,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"S\u00e9nikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281778
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"323059b93bffdbae1b4f0b2623da1c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1343495989,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1343495989,
+    "wof:lastmodified":1536695090,
+    "wof:name":"Senikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.98361,
+    7.32528,
+    -4.98361,
+    7.32528
+],
+  "geometry": {"coordinates":[-4.98361,7.32528],"type":"Point"}
+}

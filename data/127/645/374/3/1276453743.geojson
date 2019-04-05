@@ -1,0 +1,67 @@
+{
+  "id": 1276453743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25,7.48333,-3.25,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":-3.25,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Koun-Fao",
+    "gn:country_code":"CI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11126250,
+    "gn:latitude":7.48333,
+    "gn:longitude":-3.25,
+    "gn:modification_date":"2016-04-22",
+    "gn:name":"Koun-Fao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11126250
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aa93c18fb17330dfaba3056d9755ec42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1276453743,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276453743,
+    "wof:lastmodified":1536614878,
+    "wof:name":"Koun-Fao",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25,
+    7.48333,
+    -3.25,
+    7.48333
+],
+  "geometry": {"coordinates":[-3.25,7.48333],"type":"Point"}
+}

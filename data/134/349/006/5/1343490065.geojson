@@ -1,0 +1,71 @@
+{
+  "id": 1343490065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52948,6.92126,-6.52948,6.92126",
+    "geom:latitude":6.92126,
+    "geom:longitude":-6.52948,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zebra",
+    "gn:country_code":"CI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279411,
+    "gn:latitude":6.92126,
+    "gn:longitude":-6.52948,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Z\u00e9bra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279411,
+        "wk:page":"Z%C3%A9bra"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"58057fe20936ee3df0ca4f97c795b388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1343490065,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1343490065,
+    "wof:lastmodified":1537590893,
+    "wof:name":"Zebra",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52948,
+    6.92126,
+    -6.52948,
+    6.92126
+],
+  "geometry": {"coordinates":[-6.52948,6.92126],"type":"Point"}
+}

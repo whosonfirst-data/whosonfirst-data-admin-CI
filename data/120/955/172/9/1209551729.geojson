@@ -1,0 +1,61 @@
+{
+  "id": 1209551729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.29196,7.53833,-4.29196,7.53833",
+    "geom:latitude":7.53833,
+    "geom:longitude":-4.29196,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Dangoukro",
+    "gn:country_code":"CI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290443,
+    "gn:latitude":7.53833,
+    "gn:longitude":-4.29196,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dangoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290443
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"25cd9ea28244ff0d12e940cfcce8b4ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209551729
+        }
+    ],
+    "wof:id":1209551729,
+    "wof:lastmodified":1536283672,
+    "wof:name":"Dangoukro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.29196,
+    7.53833,
+    -4.29196,
+    7.53833
+],
+  "geometry": {"coordinates":[-4.29196,7.53833],"type":"Point"}
+}

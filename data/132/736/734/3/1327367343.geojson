@@ -1,0 +1,70 @@
+{
+  "id": 1327367343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42986,6.654,-8.42986,6.654",
+    "geom:latitude":6.654,
+    "geom:longitude":-8.42986,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Koarho",
+    "gn:country_code":"CI",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287033,
+    "gn:latitude":6.654,
+    "gn:longitude":-8.42986,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Koarho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287033
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d0f23c031322691c6ba70db3d802e59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1327367343,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1327367343,
+    "wof:lastmodified":1537590994,
+    "wof:name":"Koarho",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42986,
+    6.654,
+    -8.42986,
+    6.654
+],
+  "geometry": {"coordinates":[-8.42986,6.654],"type":"Point"}
+}

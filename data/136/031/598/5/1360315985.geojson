@@ -1,0 +1,67 @@
+{
+  "id": 1360315985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5999,6.5158,-6.5999,6.5158",
+    "geom:latitude":6.5158,
+    "geom:longitude":-6.5999,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Sekouan",
+    "gn:country_code":"CI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281831,
+    "gn:latitude":6.5158,
+    "gn:longitude":-6.5999,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"S\u00e9kouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281831
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"48ef923bd174da63b8f4c0d19aaaa77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1360315985,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1360315985,
+    "wof:lastmodified":1536609973,
+    "wof:name":"Sekouan",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5999,
+    6.5158,
+    -6.5999,
+    6.5158
+],
+  "geometry": {"coordinates":[-6.5999,6.5158],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343992823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01611,6.11278,-6.01611,6.11278",
+    "geom:latitude":6.11278,
+    "geom:longitude":-6.01611,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Madou-Gouzio",
+    "gn:country_code":"CI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284755,
+    "gn:latitude":6.11278,
+    "gn:longitude":-6.01611,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Madou-Gouzio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284755
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6ef32c1f91f46c9ccc01e8394b2055f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1343992823,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1343992823,
+    "wof:lastmodified":1536972831,
+    "wof:name":"Madou-Gouzio",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01611,
+    6.11278,
+    -6.01611,
+    6.11278
+],
+  "geometry": {"coordinates":[-6.01611,6.11278],"type":"Point"}
+}

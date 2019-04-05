@@ -1,0 +1,73 @@
+{
+  "id": 1243584671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61522,5.28641,-3.61522,5.28641",
+    "geom:latitude":5.28641,
+    "geom:longitude":-3.61522,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Adihao",
+    "gn:country_code":"CI",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289409,
+    "gn:latitude":5.28641,
+    "gn:longitude":-3.61522,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Adihao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adiao",
+        "Jahu",
+        "Edio",
+        "Adihao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289409
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5ce0b33772dc9cce7d43ee0710a52a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1243584671,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1243584671,
+    "wof:lastmodified":1537591030,
+    "wof:name":"Adihao",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61522,
+    5.28641,
+    -3.61522,
+    5.28641
+],
+  "geometry": {"coordinates":[-3.61522,5.28641],"type":"Point"}
+}

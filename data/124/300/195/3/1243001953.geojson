@@ -1,0 +1,72 @@
+{
+  "id": 1243001953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.49807,8.5374,-3.49807,8.5374",
+    "geom:latitude":8.5374,
+    "geom:longitude":-3.49807,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Sinde-Anveyo",
+    "gn:country_code":"CI",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292854,
+    "gn:latitude":8.5374,
+    "gn:longitude":-3.49807,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sind\u00e9-Anv\u00e9yo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anv\u00e9yo",
+        "Anveyo Siend\u00e9",
+        "Sind\u00e9-Anv\u00e9yo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292854
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6caf702a617ad9429d234baa4e56beb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1243001953,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1243001953,
+    "wof:lastmodified":1537591080,
+    "wof:name":"Sinde-Anveyo",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.49807,
+    8.5374,
+    -3.49807,
+    8.5374
+],
+  "geometry": {"coordinates":[-3.49807,8.5374],"type":"Point"}
+}

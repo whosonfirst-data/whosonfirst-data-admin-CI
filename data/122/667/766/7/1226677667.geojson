@@ -1,0 +1,67 @@
+{
+  "id": 1226677667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.17083,5.38757,-3.17083,5.38757",
+    "geom:latitude":5.38757,
+    "geom:longitude":-3.17083,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Epienou",
+    "gn:country_code":"CI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597130,
+    "gn:latitude":5.38757,
+    "gn:longitude":-3.17083,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Epi\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597130
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8eabdff8e64da9d534eeb5d03a0327d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1226677667,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1226677667,
+    "wof:lastmodified":1536812957,
+    "wof:name":"Epienou",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.17083,
+    5.38757,
+    -3.17083,
+    5.38757
+],
+  "geometry": {"coordinates":[-3.17083,5.38757],"type":"Point"}
+}

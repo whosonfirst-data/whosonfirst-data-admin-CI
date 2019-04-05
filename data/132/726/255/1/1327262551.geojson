@@ -1,0 +1,72 @@
+{
+  "id": 1327262551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54335,6.24709,-3.54335,6.24709",
+    "geom:latitude":6.24709,
+    "geom:longitude":-3.54335,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Abongoua",
+    "gn:country_code":"CI",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293550,
+    "gn:latitude":6.24709,
+    "gn:longitude":-3.54335,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Abongoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abengoua",
+        "Abongoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293550,
+        "wk:page":"Abongoua"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"76a153e5222717c5f10aca5dde222780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1327262551,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327262551,
+    "wof:lastmodified":1537591090,
+    "wof:name":"Abongoua",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54335,
+    6.24709,
+    -3.54335,
+    6.24709
+],
+  "geometry": {"coordinates":[-3.54335,6.24709],"type":"Point"}
+}

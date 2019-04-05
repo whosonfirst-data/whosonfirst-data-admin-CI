@@ -1,0 +1,61 @@
+{
+  "id": 1209244087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.71346,5.64451,-3.71346,5.64451",
+    "geom:latitude":5.64451,
+    "geom:longitude":-3.71346,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Tuto",
+    "gn:country_code":"CI",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033117,
+    "gn:latitude":5.64451,
+    "gn:longitude":-3.71346,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Tuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033117
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"303cab9c0854385af83be4ea7961c3a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209244087
+        }
+    ],
+    "wof:id":1209244087,
+    "wof:lastmodified":1536293224,
+    "wof:name":"Tuto",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.71346,
+    5.64451,
+    -3.71346,
+    5.64451
+],
+  "geometry": {"coordinates":[-3.71346,5.64451],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209140097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23634,10.35497,-6.23634,10.35497",
+    "geom:latitude":10.35497,
+    "geom:longitude":-6.23634,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kanakono",
+    "gn:country_code":"CI",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287540,
+    "gn:latitude":10.35497,
+    "gn:longitude":-6.23634,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kanakono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanakoro",
+        "Kanakono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287540,
+        "wk:page":"Kanakono"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"224aede4590487dcf421f1d02970f708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209140097
+        }
+    ],
+    "wof:id":1209140097,
+    "wof:lastmodified":1537591002,
+    "wof:name":"Kanakono",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23634,
+    10.35497,
+    -6.23634,
+    10.35497
+],
+  "geometry": {"coordinates":[-6.23634,10.35497],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344092545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31729,4.56087,-7.31729,4.56087",
+    "geom:latitude":4.56087,
+    "geom:longitude":-7.31729,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Wedjere",
+    "gn:country_code":"CI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279912,
+    "gn:latitude":4.56087,
+    "gn:longitude":-7.31729,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Wedj\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou\u00e9gr\u00e9",
+        "Wegire",
+        "W\u00e9gr\u00e9",
+        "Wedj\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279912
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2006375f3f9d50697262d0f257d6fbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1344092545,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1344092545,
+    "wof:lastmodified":1537590901,
+    "wof:name":"Wedjere",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31729,
+    4.56087,
+    -7.31729,
+    4.56087
+],
+  "geometry": {"coordinates":[-7.31729,4.56087],"type":"Point"}
+}

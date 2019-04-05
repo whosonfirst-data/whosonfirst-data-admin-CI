@@ -1,0 +1,71 @@
+{
+  "id": 1293031363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.76561,8.17179,-5.76561,8.17179",
+    "geom:latitude":8.17179,
+    "geom:longitude":-5.76561,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Wedala",
+    "gn:country_code":"CI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279913,
+    "gn:latitude":8.17179,
+    "gn:longitude":-5.76561,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"W\u00e9dala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadala",
+        "W\u00e9dala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279913
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cfa2af705161ad9932465b39d3e6a075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1293031363,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1293031363,
+    "wof:lastmodified":1537590901,
+    "wof:name":"Wedala",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.76561,
+    8.17179,
+    -5.76561,
+    8.17179
+],
+  "geometry": {"coordinates":[-5.76561,8.17179],"type":"Point"}
+}

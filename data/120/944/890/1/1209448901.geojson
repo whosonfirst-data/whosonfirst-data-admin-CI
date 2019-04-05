@@ -1,0 +1,68 @@
+{
+  "id": 1209448901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78102,7.19109,-5.78102,7.19109",
+    "geom:latitude":7.19109,
+    "geom:longitude":-5.78102,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Okabo",
+    "gn:country_code":"CI",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282999,
+    "gn:latitude":7.19109,
+    "gn:longitude":-5.78102,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Okabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okouabo",
+        "Pangbakouam\u00e9kro",
+        "Okabo",
+        "Pangban Kouam\u00e9kro",
+        "Pangbankouam\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282999
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bfc5204fc164556c263a29d20e69c78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209448901
+        }
+    ],
+    "wof:id":1209448901,
+    "wof:lastmodified":1537590944,
+    "wof:name":"Okabo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78102,
+    7.19109,
+    -5.78102,
+    7.19109
+],
+  "geometry": {"coordinates":[-5.78102,7.19109],"type":"Point"}
+}

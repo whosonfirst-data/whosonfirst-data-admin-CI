@@ -1,0 +1,67 @@
+{
+  "id": 1226478503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.38917,5.23928,-3.38917,5.23928",
+    "geom:latitude":5.23928,
+    "geom:longitude":-3.38917,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Aboutou",
+    "gn:country_code":"CI",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032185,
+    "gn:latitude":5.23928,
+    "gn:longitude":-3.38917,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Aboutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032185
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f8ef776f93365ad31ca2693c6c28592f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1226478503,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1226478503,
+    "wof:lastmodified":1537091654,
+    "wof:name":"Aboutou",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.38917,
+    5.23928,
+    -3.38917,
+    5.23928
+],
+  "geometry": {"coordinates":[-3.38917,5.23928],"type":"Point"}
+}

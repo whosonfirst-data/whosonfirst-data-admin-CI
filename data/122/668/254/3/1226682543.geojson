@@ -1,0 +1,67 @@
+{
+  "id": 1226682543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21677,9.77121,-3.21677,9.77121",
+    "geom:latitude":9.77121,
+    "geom:longitude":-3.21677,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Lassouri",
+    "gn:country_code":"CI",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285363,
+    "gn:latitude":9.77121,
+    "gn:longitude":-3.21677,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lassouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285363
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b638e6f5238721909b01d3a2b85d5a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1226682543,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226682543,
+    "wof:lastmodified":1536806243,
+    "wof:name":"Lassouri",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21677,
+    9.77121,
+    -3.21677,
+    9.77121
+],
+  "geometry": {"coordinates":[-3.21677,9.77121],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209140339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.0908,5.52561,-4.0908,5.52561",
+    "geom:latitude":5.52561,
+    "geom:longitude":-4.0908,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Azaguie Blida",
+    "gn:country_code":"CI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292529,
+    "gn:latitude":5.52561,
+    "gn:longitude":-4.0908,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Azagui\u00e9 Blida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azagui\u00e9-Dianl\u00e9",
+        "Azagui\u00e9 Blida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292529
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e476dc9e7ddb25fff2a1b086e631f357",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209140339
+        }
+    ],
+    "wof:id":1209140339,
+    "wof:lastmodified":1537591074,
+    "wof:name":"Azaguie Blida",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.0908,
+    5.52561,
+    -4.0908,
+    5.52561
+],
+  "geometry": {"coordinates":[-4.0908,5.52561],"type":"Point"}
+}

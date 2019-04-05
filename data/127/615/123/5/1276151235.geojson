@@ -1,0 +1,67 @@
+{
+  "id": 1276151235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43531,9.91914,-7.43531,9.91914",
+    "geom:latitude":9.91914,
+    "geom:longitude":-7.43531,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Ziemougoula",
+    "gn:country_code":"CI",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279342,
+    "gn:latitude":9.91914,
+    "gn:longitude":-7.43531,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zi\u00e9mougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279342
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e3a206bd32ab0ef364745f8baaf521bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784987,
+            "locality_id":1276151235,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1276151235,
+    "wof:lastmodified":1537021871,
+    "wof:name":"Ziemougoula",
+    "wof:parent_id":1108784987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43531,
+    9.91914,
+    -7.43531,
+    9.91914
+],
+  "geometry": {"coordinates":[-7.43531,9.91914],"type":"Point"}
+}

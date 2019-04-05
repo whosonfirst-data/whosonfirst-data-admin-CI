@@ -1,0 +1,67 @@
+{
+  "id": 1243203603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91291,6.66109,-5.91291,6.66109",
+    "geom:latitude":6.66109,
+    "geom:longitude":-5.91291,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Begoneta",
+    "gn:country_code":"CI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291910,
+    "gn:latitude":6.66109,
+    "gn:longitude":-5.91291,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u00e9gon\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291910
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2b85814c8dbe4922e02366c5b061fb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1243203603,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1243203603,
+    "wof:lastmodified":1536658837,
+    "wof:name":"Begoneta",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91291,
+    6.66109,
+    -5.91291,
+    6.66109
+],
+  "geometry": {"coordinates":[-5.91291,6.66109],"type":"Point"}
+}

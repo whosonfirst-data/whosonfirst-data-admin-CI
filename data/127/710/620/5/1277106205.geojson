@@ -1,0 +1,71 @@
+{
+  "id": 1277106205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61417,7.51889,-7.61417,7.51889",
+    "geom:latitude":7.51889,
+    "geom:longitude":-7.61417,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Yasegouen",
+    "gn:country_code":"CI",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279683,
+    "gn:latitude":7.51889,
+    "gn:longitude":-7.61417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yas\u00e9gouen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yass\u00e9gouin",
+        "Yas\u00e9gouen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279683
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"721029bb2a9e172661c937a72b83428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1277106205,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1277106205,
+    "wof:lastmodified":1537590897,
+    "wof:name":"Yasegouen",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61417,
+    7.51889,
+    -7.61417,
+    7.51889
+],
+  "geometry": {"coordinates":[-7.61417,7.51889],"type":"Point"}
+}

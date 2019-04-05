@@ -1,0 +1,67 @@
+{
+  "id": 1193171403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.92194,7.18,-4.92194,7.18",
+    "geom:latitude":7.18,
+    "geom:longitude":-4.92194,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kouassi-Prikro I",
+    "gn:country_code":"CI",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285966,
+    "gn:latitude":7.18,
+    "gn:longitude":-4.92194,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kouassi-Prikro I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285966
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"28cb1d3698e0078d3e9ae8851f841c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1193171403,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1193171403,
+    "wof:lastmodified":1536380062,
+    "wof:name":"Kouassi-Prikro I",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.92194,
+    7.18,
+    -4.92194,
+    7.18
+],
+  "geometry": {"coordinates":[-4.92194,7.18],"type":"Point"}
+}

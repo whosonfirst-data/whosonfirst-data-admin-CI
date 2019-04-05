@@ -1,0 +1,72 @@
+{
+  "id": 1243101895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07373,8.28325,-6.07373,8.28325",
+    "geom:latitude":8.28325,
+    "geom:longitude":-6.07373,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Dawara",
+    "gn:country_code":"CI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289533,
+    "gn:latitude":8.28325,
+    "gn:longitude":-6.07373,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dawara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dwara",
+        "Daward",
+        "Dawara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289533
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7288fdb04c5d7bb067a0063650c2af91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1243101895,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1243101895,
+    "wof:lastmodified":1537591033,
+    "wof:name":"Dawara",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07373,
+    8.28325,
+    -6.07373,
+    8.28325
+],
+  "geometry": {"coordinates":[-6.07373,8.28325],"type":"Point"}
+}

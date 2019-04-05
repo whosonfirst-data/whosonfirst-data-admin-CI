@@ -1,0 +1,67 @@
+{
+  "id": 1276693433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.92139,6.30806,-3.92139,6.30806",
+    "geom:latitude":6.30806,
+    "geom:longitude":-3.92139,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Npokoi",
+    "gn:country_code":"CI",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283197,
+    "gn:latitude":6.30806,
+    "gn:longitude":-3.92139,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Npoko\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283197
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c1e3f14c5eaa5798ae70dbfa4455d14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1276693433,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1276693433,
+    "wof:lastmodified":1536793457,
+    "wof:name":"Npokoi",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.92139,
+    6.30806,
+    -3.92139,
+    6.30806
+],
+  "geometry": {"coordinates":[-3.92139,6.30806],"type":"Point"}
+}

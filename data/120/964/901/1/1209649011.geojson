@@ -1,0 +1,66 @@
+{
+  "id": 1209649011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52897,5.26206,-5.52897,5.26206",
+    "geom:latitude":5.26206,
+    "geom:longitude":-5.52897,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dahiri",
+    "gn:country_code":"CI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290529,
+    "gn:latitude":5.26206,
+    "gn:longitude":-5.52897,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dahiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dairi",
+        "Dahiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290529,
+        "wk:page":"Dahiri%2C_Ivory_Coast"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"762d7828502c303be98ce5e54521d7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209649011
+        }
+    ],
+    "wof:id":1209649011,
+    "wof:lastmodified":1537591048,
+    "wof:name":"Dahiri",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.52897,
+    5.26206,
+    -5.52897,
+    5.26206
+],
+  "geometry": {"coordinates":[-5.52897,5.26206],"type":"Point"}
+}

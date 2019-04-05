@@ -1,0 +1,65 @@
+{
+  "id": 1209042719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97544,6.79824,-4.97544,6.79824",
+    "geom:latitude":6.79824,
+    "geom:longitude":-4.97544,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Tokoreyaokro",
+    "gn:country_code":"CI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280489,
+    "gn:latitude":6.79824,
+    "gn:longitude":-4.97544,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tokor\u00e9yaokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tokor\u00e9yaokro",
+        "Tokr\u00e9-Yaokro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280489
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a67415bb976aee52dce19298a3720f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209042719
+        }
+    ],
+    "wof:id":1209042719,
+    "wof:lastmodified":1537590910,
+    "wof:name":"Tokoreyaokro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97544,
+    6.79824,
+    -4.97544,
+    6.79824
+],
+  "geometry": {"coordinates":[-4.97544,6.79824],"type":"Point"}
+}

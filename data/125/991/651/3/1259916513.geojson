@@ -1,0 +1,73 @@
+{
+  "id": 1259916513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79972,5.24083,-5.79972,5.24083",
+    "geom:latitude":5.24083,
+    "geom:longitude":-5.79972,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Tiagbe",
+    "gn:country_code":"CI",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280792,
+    "gn:latitude":5.24083,
+    "gn:longitude":-5.79972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tiagb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9gba",
+        "Tiagbo",
+        "Tiagba",
+        "Tiagb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280792
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8ed35be1ceae23e401d97ce91fd5f938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1259916513,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1259916513,
+    "wof:lastmodified":1537590914,
+    "wof:name":"Tiagbe",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79972,
+    5.24083,
+    -5.79972,
+    5.24083
+],
+  "geometry": {"coordinates":[-5.79972,5.24083],"type":"Point"}
+}

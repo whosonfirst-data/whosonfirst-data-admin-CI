@@ -1,0 +1,67 @@
+{
+  "id": 1343798375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00704,7.4231,-4.00704,7.4231",
+    "geom:latitude":7.4231,
+    "geom:longitude":-4.00704,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kouame-Akessekro",
+    "gn:country_code":"CI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286076,
+    "gn:latitude":7.4231,
+    "gn:longitude":-4.00704,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kouam\u00e9-Akess\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286076
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1733f26dbe4d2dc39e7470fe9e5c2ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1343798375,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1343798375,
+    "wof:lastmodified":1536756292,
+    "wof:name":"Kouame-Akessekro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00704,
+    7.4231,
+    -4.00704,
+    7.4231
+],
+  "geometry": {"coordinates":[-4.00704,7.4231],"type":"Point"}
+}

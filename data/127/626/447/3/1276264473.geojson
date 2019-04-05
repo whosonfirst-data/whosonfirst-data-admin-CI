@@ -1,0 +1,67 @@
+{
+  "id": 1276264473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10075,5.93088,-6.10075,5.93088",
+    "geom:latitude":5.93088,
+    "geom:longitude":-6.10075,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Valoua",
+    "gn:country_code":"CI",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280059,
+    "gn:latitude":5.93088,
+    "gn:longitude":-6.10075,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Valoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280059
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3787755a40d356d0e25c4e989c6ec7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1276264473,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1276264473,
+    "wof:lastmodified":1536869781,
+    "wof:name":"Valoua",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10075,
+    5.93088,
+    -6.10075,
+    5.93088
+],
+  "geometry": {"coordinates":[-6.10075,5.93088],"type":"Point"}
+}

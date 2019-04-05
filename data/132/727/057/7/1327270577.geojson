@@ -1,0 +1,70 @@
+{
+  "id": 1327270577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.84645,6.90088,-5.84645,6.90088",
+    "geom:latitude":6.90088,
+    "geom:longitude":-5.84645,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Tos Deux",
+    "gn:country_code":"CI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863938,
+    "gn:latitude":6.90088,
+    "gn:longitude":-5.84645,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Tos Deux",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tos 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863938
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6b79fcef1dab3ed0d1d64bb5a2381b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1327270577,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1327270577,
+    "wof:lastmodified":1537591095,
+    "wof:name":"Tos Deux",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.84645,
+    6.90088,
+    -5.84645,
+    6.90088
+],
+  "geometry": {"coordinates":[-5.84645,6.90088],"type":"Point"}
+}

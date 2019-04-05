@@ -1,0 +1,71 @@
+{
+  "id": 1226081995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20922,7.25529,-3.20922,7.25529",
+    "geom:latitude":7.25529,
+    "geom:longitude":-3.20922,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Akasso",
+    "gn:country_code":"CI",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293173,
+    "gn:latitude":7.25529,
+    "gn:longitude":-3.20922,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Akasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akaso",
+        "Akasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293173
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"764a15222d78c9494655d35974c3ed90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1226081995,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226081995,
+    "wof:lastmodified":1537591084,
+    "wof:name":"Akasso",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20922,
+    7.25529,
+    -3.20922,
+    7.25529
+],
+  "geometry": {"coordinates":[-3.20922,7.25529],"type":"Point"}
+}

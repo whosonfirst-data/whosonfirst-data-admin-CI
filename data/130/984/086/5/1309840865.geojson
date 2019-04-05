@@ -1,0 +1,67 @@
+{
+  "id": 1309840865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.74032,5.70769,-3.74032,5.70769",
+    "geom:latitude":5.70769,
+    "geom:longitude":-3.74032,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Aise",
+    "gn:country_code":"CI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033137,
+    "gn:latitude":5.70769,
+    "gn:longitude":-3.74032,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Ais\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033137
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d51ac089001ab44d07858fd4cb7fe08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1309840865,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1309840865,
+    "wof:lastmodified":1536879805,
+    "wof:name":"Aise",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.74032,
+    5.70769,
+    -3.74032,
+    5.70769
+],
+  "geometry": {"coordinates":[-3.74032,5.70769],"type":"Point"}
+}

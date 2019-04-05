@@ -1,0 +1,73 @@
+{
+  "id": 1276782485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21473,5.21101,-3.21473,5.21101",
+    "geom:latitude":5.21101,
+    "geom:longitude":-3.21473,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Etueboue",
+    "gn:country_code":"CI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289342,
+    "gn:latitude":5.21101,
+    "gn:longitude":-3.21473,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Etu\u00e9bou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etu\u00e9bou\u00e9",
+        "Etiobou\u00e9",
+        "Ettu\u00e9bou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289342,
+        "wk:page":"Etu%C3%A9bou%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5f57d5015347f2bbf2f11ff1480947e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1276782485,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1276782485,
+    "wof:lastmodified":1537591029,
+    "wof:name":"Etueboue",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21473,
+    5.21101,
+    -3.21473,
+    5.21101
+],
+  "geometry": {"coordinates":[-3.21473,5.21101],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209351461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48756,5.90272,-4.48756,5.90272",
+    "geom:latitude":5.90272,
+    "geom:longitude":-4.48756,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Broukro",
+    "gn:country_code":"CI",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032438,
+    "gn:latitude":5.90272,
+    "gn:longitude":-4.48756,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Broukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032438
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c5b6f6ca7975f5d6aac7079da8d885d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209351461
+        }
+    ],
+    "wof:id":1209351461,
+    "wof:lastmodified":1536289727,
+    "wof:name":"Broukro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48756,
+    5.90272,
+    -4.48756,
+    5.90272
+],
+  "geometry": {"coordinates":[-4.48756,5.90272],"type":"Point"}
+}

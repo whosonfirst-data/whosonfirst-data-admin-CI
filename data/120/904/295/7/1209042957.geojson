@@ -1,0 +1,61 @@
+{
+  "id": 1209042957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56423,7.11308,-7.56423,7.11308",
+    "geom:latitude":7.11308,
+    "geom:longitude":-7.56423,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Sebapleu",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850678,
+    "gn:latitude":7.11308,
+    "gn:longitude":-7.56423,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"S\u00e9bapleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850678
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"87a9647e7600233b2fa3ef3d56156b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209042957
+        }
+    ],
+    "wof:id":1209042957,
+    "wof:lastmodified":1536299486,
+    "wof:name":"Sebapleu",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56423,
+    7.11308,
+    -7.56423,
+    7.11308
+],
+  "geometry": {"coordinates":[-7.56423,7.11308],"type":"Point"}
+}

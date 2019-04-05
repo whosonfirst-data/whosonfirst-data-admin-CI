@@ -1,0 +1,67 @@
+{
+  "id": 1326560545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.90461,5.69105,-3.90461,5.69105",
+    "geom:latitude":5.69105,
+    "geom:longitude":-3.90461,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapo Sebakoua I",
+    "gn:country_code":"CI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033043,
+    "gn:latitude":5.69105,
+    "gn:longitude":-3.90461,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Yapo S\u00e9bakoua I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033043
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"48707aeb6eaf1032577a953e06633be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1326560545,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1326560545,
+    "wof:lastmodified":1536943825,
+    "wof:name":"Yapo Sebakoua I",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.90461,
+    5.69105,
+    -3.90461,
+    5.69105
+],
+  "geometry": {"coordinates":[-3.90461,5.69105],"type":"Point"}
+}

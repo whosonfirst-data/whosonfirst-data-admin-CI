@@ -1,0 +1,71 @@
+{
+  "id": 1326764873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96931,8.139,-4.96931,8.139",
+    "geom:latitude":8.139,
+    "geom:longitude":-4.96931,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Atienka",
+    "gn:country_code":"CI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292599,
+    "gn:latitude":8.139,
+    "gn:longitude":-4.96931,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Atienka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atienkana",
+        "Atienka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292599
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f8b75b371f7a8cd93d975288ddb65ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1326764873,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1326764873,
+    "wof:lastmodified":1537591076,
+    "wof:name":"Atienka",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96931,
+    8.139,
+    -4.96931,
+    8.139
+],
+  "geometry": {"coordinates":[-4.96931,8.139],"type":"Point"}
+}

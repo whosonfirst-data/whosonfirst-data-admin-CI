@@ -1,0 +1,67 @@
+{
+  "id": 1293134687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63742,9.33397,-5.63742,9.33397",
+    "geom:latitude":9.33397,
+    "geom:longitude":-5.63742,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tagbanga",
+    "gn:country_code":"CI",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281093,
+    "gn:latitude":9.33397,
+    "gn:longitude":-5.63742,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tagbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281093
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c3fd23a93ddf827807c242593377d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1293134687,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293134687,
+    "wof:lastmodified":1536798845,
+    "wof:name":"Tagbanga",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63742,
+    9.33397,
+    -5.63742,
+    9.33397
+],
+  "geometry": {"coordinates":[-5.63742,9.33397],"type":"Point"}
+}

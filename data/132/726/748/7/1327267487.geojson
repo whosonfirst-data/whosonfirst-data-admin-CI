@@ -1,0 +1,71 @@
+{
+  "id": 1327267487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.75462,5.8605,-5.75462,5.8605",
+    "geom:latitude":5.8605,
+    "geom:longitude":-5.75462,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Nyemenakouya",
+    "gn:country_code":"CI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283104,
+    "gn:latitude":5.8605,
+    "gn:longitude":-5.75462,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ny\u00e9m\u00e9nakouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niemakoya",
+        "Ny\u00e9m\u00e9nakouya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283104
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ba5fd3443630ba7456397fc950babd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1327267487,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1327267487,
+    "wof:lastmodified":1537590946,
+    "wof:name":"Nyemenakouya",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.75462,
+    5.8605,
+    -5.75462,
+    5.8605
+],
+  "geometry": {"coordinates":[-5.75462,5.8605],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225975937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52069,7.15007,-7.52069,7.15007",
+    "geom:latitude":7.15007,
+    "geom:longitude":-7.52069,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Koulinle",
+    "gn:country_code":"CI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287059,
+    "gn:latitude":7.15007,
+    "gn:longitude":-7.52069,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koulinl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keinl\u00e9",
+        "Klind\u00e9",
+        "Klinl\u00e9",
+        "Klenl\u00e9",
+        "Koulinl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287059
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c70682493151ba77f376fb9afd6a4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1225975937,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1225975937,
+    "wof:lastmodified":1537590995,
+    "wof:name":"Koulinle",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52069,
+    7.15007,
+    -7.52069,
+    7.15007
+],
+  "geometry": {"coordinates":[-7.52069,7.15007],"type":"Point"}
+}

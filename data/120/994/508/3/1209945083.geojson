@@ -1,0 +1,67 @@
+{
+  "id": 1209945083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75769,7.03288,-3.75769,7.03288",
+    "geom:latitude":7.03288,
+    "geom:longitude":-3.75769,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Aounokro",
+    "gn:country_code":"CI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292806,
+    "gn:latitude":7.03288,
+    "gn:longitude":-3.75769,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Aounokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292806
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e4ba4d3cacd90ce105ca1fa9969e2759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1209945083,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1209945083,
+    "wof:lastmodified":1536386769,
+    "wof:name":"Aounokro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75769,
+    7.03288,
+    -3.75769,
+    7.03288
+],
+  "geometry": {"coordinates":[-3.75769,7.03288],"type":"Point"}
+}

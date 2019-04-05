@@ -1,0 +1,67 @@
+{
+  "id": 1310140437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.16611,9.45299,-3.16611,9.45299",
+    "geom:latitude":9.45299,
+    "geom:longitude":-3.16611,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Kounia",
+    "gn:country_code":"CI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285797,
+    "gn:latitude":9.45299,
+    "gn:longitude":-3.16611,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kounia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285797
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"53873c5498173cd30a8d199cb6e141b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1310140437,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1310140437,
+    "wof:lastmodified":1536946506,
+    "wof:name":"Kounia",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.16611,
+    9.45299,
+    -3.16611,
+    9.45299
+],
+  "geometry": {"coordinates":[-3.16611,9.45299],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276374601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28333,9.61667,-4.28333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-4.28333,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Balanfodougou",
+    "gn:country_code":"CI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292321,
+    "gn:latitude":9.61667,
+    "gn:longitude":-4.28333,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Balanfodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292321,
+        "wk:page":"Balanfodougou"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"71bbe498504eb79812de88dedadbbb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1276374601,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276374601,
+    "wof:lastmodified":1537489459,
+    "wof:name":"Balanfodougou",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28333,
+    9.61667,
+    -4.28333,
+    9.61667
+],
+  "geometry": {"coordinates":[-4.28333,9.61667],"type":"Point"}
+}

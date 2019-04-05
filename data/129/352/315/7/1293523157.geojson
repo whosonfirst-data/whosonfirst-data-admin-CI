@@ -1,0 +1,67 @@
+{
+  "id": 1293523157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.92424,5.77899,-3.92424,5.77899",
+    "geom:latitude":5.77899,
+    "geom:longitude":-3.92424,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapo Adoapo",
+    "gn:country_code":"CI",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033358,
+    "gn:latitude":5.77899,
+    "gn:longitude":-3.92424,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Yapo Adoapo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033358
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a59e96896a090e2c9e20782459435841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1293523157,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293523157,
+    "wof:lastmodified":1536735743,
+    "wof:name":"Yapo Adoapo",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.92424,
+    5.77899,
+    -3.92424,
+    5.77899
+],
+  "geometry": {"coordinates":[-3.92424,5.77899],"type":"Point"}
+}

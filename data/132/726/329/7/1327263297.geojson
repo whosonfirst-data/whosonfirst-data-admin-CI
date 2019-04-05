@@ -1,0 +1,67 @@
+{
+  "id": 1327263297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.95221,8.11894,-2.95221,8.11894",
+    "geom:latitude":8.11894,
+    "geom:longitude":-2.95221,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Bagelebe",
+    "gn:country_code":"CI",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292405,
+    "gn:latitude":8.11894,
+    "gn:longitude":-2.95221,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bag\u00e9l\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292405
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"937cc12773e92cdccea0ef8bcc0cad47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1327263297,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327263297,
+    "wof:lastmodified":1536925764,
+    "wof:name":"Bagelebe",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.95221,
+    8.11894,
+    -2.95221,
+    8.11894
+],
+  "geometry": {"coordinates":[-2.95221,8.11894],"type":"Point"}
+}

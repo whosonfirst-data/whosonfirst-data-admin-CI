@@ -1,0 +1,61 @@
+{
+  "id": 1209546373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05932,7.16785,-5.05932,7.16785",
+    "geom:latitude":7.16785,
+    "geom:longitude":-5.05932,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Aounyassou",
+    "gn:country_code":"CI",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292803,
+    "gn:latitude":7.16785,
+    "gn:longitude":-5.05932,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Aounyassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292803
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"25de9fa8f2213403c70df70dbdb9d5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546373
+        }
+    ],
+    "wof:id":1209546373,
+    "wof:lastmodified":1536283830,
+    "wof:name":"Aounyassou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05932,
+    7.16785,
+    -5.05932,
+    7.16785
+],
+  "geometry": {"coordinates":[-5.05932,7.16785],"type":"Point"}
+}

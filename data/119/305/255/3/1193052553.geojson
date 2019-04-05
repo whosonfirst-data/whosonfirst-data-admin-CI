@@ -1,0 +1,67 @@
+{
+  "id": 1193052553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40084,7.14739,-4.40084,7.14739",
+    "geom:latitude":7.14739,
+    "geom:longitude":-4.40084,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Kouadjo Ghonou",
+    "gn:country_code":"CI",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7884033,
+    "gn:latitude":7.14739,
+    "gn:longitude":-4.40084,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Kouadjo Ghonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7884033
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"80475ee1ed7eb87a801e7b3b9081035c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1193052553,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1193052553,
+    "wof:lastmodified":1536365025,
+    "wof:name":"Kouadjo Ghonou",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40084,
+    7.14739,
+    -4.40084,
+    7.14739
+],
+  "geometry": {"coordinates":[-4.40084,7.14739],"type":"Point"}
+}

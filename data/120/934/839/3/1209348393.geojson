@@ -1,0 +1,66 @@
+{
+  "id": 1209348393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57435,7.34226,-3.57435,7.34226",
+    "geom:latitude":7.34226,
+    "geom:longitude":-3.57435,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Katimasso",
+    "gn:country_code":"CI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287300,
+    "gn:latitude":7.34226,
+    "gn:longitude":-3.57435,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Katimasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u00e9 Kat\u00e9menso",
+        "Ab\u00e9",
+        "Katimasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287300
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cc634dcbc29f789c5f0cf39c93206400",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348393
+        }
+    ],
+    "wof:id":1209348393,
+    "wof:lastmodified":1537590998,
+    "wof:name":"Katimasso",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57435,
+    7.34226,
+    -3.57435,
+    7.34226
+],
+  "geometry": {"coordinates":[-3.57435,7.34226],"type":"Point"}
+}

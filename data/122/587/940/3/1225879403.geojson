@@ -1,0 +1,67 @@
+{
+  "id": 1225879403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.81021,9.71984,-7.81021,9.71984",
+    "geom:latitude":9.71984,
+    "geom:longitude":-7.81021,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Sanangourani",
+    "gn:country_code":"CI",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282086,
+    "gn:latitude":9.71984,
+    "gn:longitude":-7.81021,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sanangourani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282086
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cb29e6cab97632b8b2b3261287808630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1225879403,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1225879403,
+    "wof:lastmodified":1536964928,
+    "wof:name":"Sanangourani",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.81021,
+    9.71984,
+    -7.81021,
+    9.71984
+],
+  "geometry": {"coordinates":[-7.81021,9.71984],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293723503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89414,7.51046,-4.89414,7.51046",
+    "geom:latitude":7.51046,
+    "geom:longitude":-4.89414,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Angan Koffikro",
+    "gn:country_code":"CI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286804,
+    "gn:latitude":7.51046,
+    "gn:longitude":-4.89414,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Angan Koffikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koukro",
+        "Kofikro",
+        "Angan Koffikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286804
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"165b0b6eba3a5aafecdef713eb56321d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293723503,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293723503,
+    "wof:lastmodified":1537590994,
+    "wof:name":"Angan Koffikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89414,
+    7.51046,
+    -4.89414,
+    7.51046
+],
+  "geometry": {"coordinates":[-4.89414,7.51046],"type":"Point"}
+}

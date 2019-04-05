@@ -1,0 +1,71 @@
+{
+  "id": 1310442153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95163,9.61309,-3.95163,9.61309",
+    "geom:latitude":9.61309,
+    "geom:longitude":-3.95163,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Timbaoure",
+    "gn:country_code":"CI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280619,
+    "gn:latitude":9.61309,
+    "gn:longitude":-3.95163,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Timbaour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timbaour\u00e9",
+        "Tinbahour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280619
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a409b30e04146217fe7fbea84b690b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1310442153,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1310442153,
+    "wof:lastmodified":1537590912,
+    "wof:name":"Timbaoure",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95163,
+    9.61309,
+    -3.95163,
+    9.61309
+],
+  "geometry": {"coordinates":[-3.95163,9.61309],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310634445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81773,7.53963,-4.81773,7.53963",
+    "geom:latitude":7.53963,
+    "geom:longitude":-4.81773,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Gbangbossou",
+    "gn:country_code":"CI",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292193,
+    "gn:latitude":7.53963,
+    "gn:longitude":-4.81773,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gbangbossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangbouassou",
+        "Bangbossou",
+        "Gbangbossou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292193
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e5911d21ae27db8b9aa07455696ad0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1310634445,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1310634445,
+    "wof:lastmodified":1537591070,
+    "wof:name":"Gbangbossou",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81773,
+    7.53963,
+    -4.81773,
+    7.53963
+],
+  "geometry": {"coordinates":[-4.81773,7.53963],"type":"Point"}
+}

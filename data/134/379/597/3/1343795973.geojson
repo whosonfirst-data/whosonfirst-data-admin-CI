@@ -1,0 +1,67 @@
+{
+  "id": 1343795973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97589,6.65295,-4.97589,6.65295",
+    "geom:latitude":6.65295,
+    "geom:longitude":-4.97589,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Lomo-Nord",
+    "gn:country_code":"CI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284963,
+    "gn:latitude":6.65295,
+    "gn:longitude":-4.97589,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lomo-Nord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284963
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"67a9e3893400c2843c51241e174d06ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1343795973,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1343795973,
+    "wof:lastmodified":1536759947,
+    "wof:name":"Lomo-Nord",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97589,
+    6.65295,
+    -4.97589,
+    6.65295
+],
+  "geometry": {"coordinates":[-4.97589,6.65295],"type":"Point"}
+}

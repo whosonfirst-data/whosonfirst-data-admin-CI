@@ -1,0 +1,75 @@
+{
+  "id": 1344188013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32612,5.21132,-4.32612,5.21132",
+    "geom:latitude":5.21132,
+    "geom:longitude":-4.32612,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Avagou",
+    "gn:country_code":"CI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292551,
+    "gn:latitude":5.21132,
+    "gn:longitude":-4.32612,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Avagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit Ivory",
+        "Avagon",
+        "Half Ivory",
+        "Moyen Ivory Town",
+        "Half Ivory Town",
+        "Avagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292551
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"991e8e68c8a478fc6ec25dcfff88afc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1344188013,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1344188013,
+    "wof:lastmodified":1537591074,
+    "wof:name":"Avagou",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32612,
+    5.21132,
+    -4.32612,
+    5.21132
+],
+  "geometry": {"coordinates":[-4.32612,5.21132],"type":"Point"}
+}

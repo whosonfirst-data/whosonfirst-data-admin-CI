@@ -1,0 +1,73 @@
+{
+  "id": 1360115715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.60796,7.1944,-3.60796,7.1944",
+    "geom:latitude":7.1944,
+    "geom:longitude":-3.60796,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Komoe-Noua",
+    "gn:country_code":"CI",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286542,
+    "gn:latitude":7.1944,
+    "gn:longitude":-3.60796,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Komo\u00e9-Noua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Como\u00e9 Noua",
+        "Angouakro",
+        "Angouakrou",
+        "Komo\u00e9-Noua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286542
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a9ffd12542c2458796ef6276bedddc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1360115715,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1360115715,
+    "wof:lastmodified":1537590991,
+    "wof:name":"Komoe-Noua",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.60796,
+    7.1944,
+    -3.60796,
+    7.1944
+],
+  "geometry": {"coordinates":[-3.60796,7.1944],"type":"Point"}
+}

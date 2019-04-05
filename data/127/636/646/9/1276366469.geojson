@@ -1,0 +1,72 @@
+{
+  "id": 1276366469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12955,7.61419,-7.12955,7.61419",
+    "geom:latitude":7.61419,
+    "geom:longitude":-7.12955,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Semien",
+    "gn:country_code":"CI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281794,
+    "gn:latitude":7.61419,
+    "gn:longitude":-7.12955,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9mien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9mian",
+        "S\u00e9mien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281794,
+        "wk:page":"S%C3%A9mien"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ebd536e99943f988ceaacdad7cf15167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1276366469,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1276366469,
+    "wof:lastmodified":1537590926,
+    "wof:name":"Semien",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12955,
+    7.61419,
+    -7.12955,
+    7.61419
+],
+  "geometry": {"coordinates":[-7.12955,7.61419],"type":"Point"}
+}

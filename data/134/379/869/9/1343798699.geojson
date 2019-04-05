@@ -1,0 +1,67 @@
+{
+  "id": 1343798699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.81437,5.1481,-6.81437,5.1481",
+    "geom:latitude":5.1481,
+    "geom:longitude":-6.81437,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Djakoteti",
+    "gn:country_code":"CI",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289880,
+    "gn:latitude":5.1481,
+    "gn:longitude":-6.81437,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Djakot\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289880
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2e7c23a8115d85245d70254fbd96a4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1343798699,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343798699,
+    "wof:lastmodified":1536755781,
+    "wof:name":"Djakoteti",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.81437,
+    5.1481,
+    -6.81437,
+    5.1481
+],
+  "geometry": {"coordinates":[-6.81437,5.1481],"type":"Point"}
+}

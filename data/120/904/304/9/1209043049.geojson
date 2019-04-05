@@ -1,0 +1,67 @@
+{
+  "id": 1209043049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3,7.9,-4.3,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":-4.3,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Groudamou",
+    "gn:country_code":"CI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288057,
+    "gn:latitude":7.9,
+    "gn:longitude":-4.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Groudamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bl\u00e9dam",
+        "Grudamu",
+        "Groudana",
+        "Groudamou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288057
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"541852c3256bd2e54b6a2e843d466a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209043049
+        }
+    ],
+    "wof:id":1209043049,
+    "wof:lastmodified":1537591009,
+    "wof:name":"Groudamou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3,
+    7.9,
+    -4.3,
+    7.9
+],
+  "geometry": {"coordinates":[-4.3,7.9],"type":"Point"}
+}

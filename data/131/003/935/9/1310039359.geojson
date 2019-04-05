@@ -1,0 +1,67 @@
+{
+  "id": 1310039359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04436,7.37979,-5.04436,7.37979",
+    "geom:latitude":7.37979,
+    "geom:longitude":-5.04436,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Golikro",
+    "gn:country_code":"CI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288380,
+    "gn:latitude":7.37979,
+    "gn:longitude":-5.04436,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Golikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288380
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2f1075af5f6e6b62e2878f38fa42f084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1310039359,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1310039359,
+    "wof:lastmodified":1537088704,
+    "wof:name":"Golikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04436,
+    7.37979,
+    -5.04436,
+    7.37979
+],
+  "geometry": {"coordinates":[-5.04436,7.37979],"type":"Point"}
+}

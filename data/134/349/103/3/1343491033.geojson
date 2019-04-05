@@ -1,0 +1,67 @@
+{
+  "id": 1343491033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56294,7.99805,-4.56294,7.99805",
+    "geom:latitude":7.99805,
+    "geom:longitude":-4.56294,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kombara Mangorasso",
+    "gn:country_code":"CI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889354,
+    "gn:latitude":7.99805,
+    "gn:longitude":-4.56294,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Kombara Mangorasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889354
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9ba925c877c820770c6131ec0d1fc617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1343491033,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1343491033,
+    "wof:lastmodified":1536702377,
+    "wof:name":"Kombara Mangorasso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56294,
+    7.99805,
+    -4.56294,
+    7.99805
+],
+  "geometry": {"coordinates":[-4.56294,7.99805],"type":"Point"}
+}

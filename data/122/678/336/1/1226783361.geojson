@@ -1,0 +1,67 @@
+{
+  "id": 1226783361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.76894,8.55646,-3.76894,8.55646",
+    "geom:latitude":8.55646,
+    "geom:longitude":-3.76894,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Zamou",
+    "gn:country_code":"CI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279486,
+    "gn:latitude":8.55646,
+    "gn:longitude":-3.76894,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279486
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6b8e3b21e371401e4793e2a773c2fde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1226783361,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226783361,
+    "wof:lastmodified":1536661413,
+    "wof:name":"Zamou",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.76894,
+    8.55646,
+    -3.76894,
+    8.55646
+],
+  "geometry": {"coordinates":[-3.76894,8.55646],"type":"Point"}
+}

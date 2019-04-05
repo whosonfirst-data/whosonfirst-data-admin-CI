@@ -1,0 +1,71 @@
+{
+  "id": 1242612303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08761,9.70657,-5.08761,9.70657",
+    "geom:latitude":9.70657,
+    "geom:longitude":-5.08761,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Worosantyakaha",
+    "gn:country_code":"CI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279858,
+    "gn:latitude":9.70657,
+    "gn:longitude":-5.08761,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Worosantyakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Worossantiakaha",
+        "Worosantyakaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279858
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"87fc0775f0826c9370225718ca9a6a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1242612303,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1242612303,
+    "wof:lastmodified":1537590899,
+    "wof:name":"Worosantyakaha",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08761,
+    9.70657,
+    -5.08761,
+    9.70657
+],
+  "geometry": {"coordinates":[-5.08761,9.70657],"type":"Point"}
+}

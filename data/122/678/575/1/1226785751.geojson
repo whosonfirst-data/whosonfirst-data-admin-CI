@@ -1,0 +1,70 @@
+{
+  "id": 1226785751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9072,6.75595,-6.9072,6.75595",
+    "geom:latitude":6.75595,
+    "geom:longitude":-6.9072,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Mahigbeu II",
+    "gn:country_code":"CI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284702,
+    "gn:latitude":6.75595,
+    "gn:longitude":-6.9072,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mahigbeu II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maigb\u00e9 II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284702
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fc07d9a5f9d3fa62226eb86703f24517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1226785751,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1226785751,
+    "wof:lastmodified":1537590969,
+    "wof:name":"Mahigbeu II",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9072,
+    6.75595,
+    -6.9072,
+    6.75595
+],
+  "geometry": {"coordinates":[-6.9072,6.75595],"type":"Point"}
+}

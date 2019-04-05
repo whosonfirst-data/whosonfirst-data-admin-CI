@@ -1,0 +1,71 @@
+{
+  "id": 1343992477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01464,7.14149,-8.01464,7.14149",
+    "geom:latitude":7.14149,
+    "geom:longitude":-8.01464,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Veguien",
+    "gn:country_code":"CI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280039,
+    "gn:latitude":7.14149,
+    "gn:longitude":-8.01464,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"V\u00e9guien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e9guien",
+        "V\u00e9gouin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280039
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c37b3f05b675351f0ab59526445bbc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1343992477,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1343992477,
+    "wof:lastmodified":1537590903,
+    "wof:name":"Veguien",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01464,
+    7.14149,
+    -8.01464,
+    7.14149
+],
+  "geometry": {"coordinates":[-8.01464,7.14149],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209035625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7475,5.56233,-3.7475,5.56233",
+    "geom:latitude":5.56233,
+    "geom:longitude":-3.7475,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapo Kouakou",
+    "gn:country_code":"CI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033101,
+    "gn:latitude":5.56233,
+    "gn:longitude":-3.7475,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Yapo Kouakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033101
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"31315e286ae0b8cc4a7943bc7348aeed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209035625
+        }
+    ],
+    "wof:id":1209035625,
+    "wof:lastmodified":1536299710,
+    "wof:name":"Yapo Kouakou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7475,
+    5.56233,
+    -3.7475,
+    5.56233
+],
+  "geometry": {"coordinates":[-3.7475,5.56233],"type":"Point"}
+}

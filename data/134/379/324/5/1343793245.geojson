@@ -1,0 +1,73 @@
+{
+  "id": 1343793245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7902,8.87507,-7.7902,8.87507",
+    "geom:latitude":8.87507,
+    "geom:longitude":-7.7902,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bouko",
+    "gn:country_code":"CI",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290872,
+    "gn:latitude":8.87507,
+    "gn:longitude":-7.7902,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bouko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Booko",
+        "Boko",
+        "Bouko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290872,
+        "wk:page":"Booko"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4538129a0189e00e6ed3a70450d0e7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1343793245,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1343793245,
+    "wof:lastmodified":1537591053,
+    "wof:name":"Bouko",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7902,
+    8.87507,
+    -7.7902,
+    8.87507
+],
+  "geometry": {"coordinates":[-7.7902,8.87507],"type":"Point"}
+}

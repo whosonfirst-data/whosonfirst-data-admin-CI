@@ -1,0 +1,61 @@
+{
+  "id": 1209649651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08035,9.35725,-3.08035,9.35725",
+    "geom:latitude":9.35725,
+    "geom:longitude":-3.08035,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Noka",
+    "gn:country_code":"CI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283289,
+    "gn:latitude":9.35725,
+    "gn:longitude":-3.08035,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Noka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283289
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b09b35a32f87096ec67262856b9eae6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209649651
+        }
+    ],
+    "wof:id":1209649651,
+    "wof:lastmodified":1536280621,
+    "wof:name":"Noka",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08035,
+    9.35725,
+    -3.08035,
+    9.35725
+],
+  "geometry": {"coordinates":[-3.08035,9.35725],"type":"Point"}
+}

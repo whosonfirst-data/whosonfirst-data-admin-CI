@@ -1,0 +1,67 @@
+{
+  "id": 1327365001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15872,8.16208,-6.15872,8.16208",
+    "geom:latitude":8.16208,
+    "geom:longitude":-6.15872,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Mamidougou",
+    "gn:country_code":"CI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284661,
+    "gn:latitude":8.16208,
+    "gn:longitude":-6.15872,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mamidougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284661
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"11f320238933136d4f0fb804e1030613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1327365001,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1327365001,
+    "wof:lastmodified":1536778747,
+    "wof:name":"Mamidougou",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15872,
+    8.16208,
+    -6.15872,
+    8.16208
+],
+  "geometry": {"coordinates":[-6.15872,8.16208],"type":"Point"}
+}

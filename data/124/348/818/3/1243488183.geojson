@@ -1,0 +1,67 @@
+{
+  "id": 1243488183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36278,7.90611,-4.36278,7.90611",
+    "geom:latitude":7.90611,
+    "geom:longitude":-4.36278,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Notoble",
+    "gn:country_code":"CI",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283253,
+    "gn:latitude":7.90611,
+    "gn:longitude":-4.36278,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Notobl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283253
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4b662657477fce30564b5ab905091bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1243488183,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1243488183,
+    "wof:lastmodified":1536745062,
+    "wof:name":"Notoble",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36278,
+    7.90611,
+    -4.36278,
+    7.90611
+],
+  "geometry": {"coordinates":[-4.36278,7.90611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242611479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99295,6.94475,-4.99295,6.94475",
+    "geom:latitude":6.94475,
+    "geom:longitude":-4.99295,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Assamoikro",
+    "gn:country_code":"CI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292726,
+    "gn:latitude":6.94475,
+    "gn:longitude":-4.99295,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Assamoikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292726
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6b8288e9e19f94e92f95e4fb882833df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1242611479,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1242611479,
+    "wof:lastmodified":1537014198,
+    "wof:name":"Assamoikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99295,
+    6.94475,
+    -4.99295,
+    6.94475
+],
+  "geometry": {"coordinates":[-4.99295,6.94475],"type":"Point"}
+}

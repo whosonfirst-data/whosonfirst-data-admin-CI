@@ -1,0 +1,71 @@
+{
+  "id": 1343692169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87996,7.49427,-5.87996,7.49427",
+    "geom:latitude":7.49427,
+    "geom:longitude":-5.87996,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zankoifla",
+    "gn:country_code":"CI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279451,
+    "gn:latitude":7.49427,
+    "gn:longitude":-5.87996,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zanko\u00effla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanko\u00effla",
+        "Zankoifla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279451
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2e4c35d942bccaec4412ef9178be8212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1343692169,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1343692169,
+    "wof:lastmodified":1537590893,
+    "wof:name":"Zankoifla",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87996,
+    7.49427,
+    -5.87996,
+    7.49427
+],
+  "geometry": {"coordinates":[-5.87996,7.49427],"type":"Point"}
+}

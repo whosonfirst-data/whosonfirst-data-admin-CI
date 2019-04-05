@@ -1,0 +1,66 @@
+{
+  "id": 1209550003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06774,5.25664,-6.06774,5.25664",
+    "geom:latitude":5.25664,
+    "geom:longitude":-6.06774,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dakpadou",
+    "gn:country_code":"CI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290511,
+    "gn:latitude":5.25664,
+    "gn:longitude":-6.06774,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dakpadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dagpadou",
+        "Dakpadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290511,
+        "wk:page":"Dakpadou"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"97539d2bc2d04f7c5ec6df5d18a3f283",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209550003
+        }
+    ],
+    "wof:id":1209550003,
+    "wof:lastmodified":1537591047,
+    "wof:name":"Dakpadou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06774,
+    5.25664,
+    -6.06774,
+    5.25664
+],
+  "geometry": {"coordinates":[-6.06774,5.25664],"type":"Point"}
+}

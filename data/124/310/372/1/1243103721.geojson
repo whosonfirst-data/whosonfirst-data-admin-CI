@@ -1,0 +1,67 @@
+{
+  "id": 1243103721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06745,6.51701,-5.06745,6.51701",
+    "geom:latitude":6.51701,
+    "geom:longitude":-5.06745,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Ouaouakro",
+    "gn:country_code":"CI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282900,
+    "gn:latitude":6.51701,
+    "gn:longitude":-5.06745,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ouaouakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282900
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a4a7fb435d80bddd6588f21e50fce598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1243103721,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1243103721,
+    "wof:lastmodified":1536802409,
+    "wof:name":"Ouaouakro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06745,
+    6.51701,
+    -5.06745,
+    6.51701
+],
+  "geometry": {"coordinates":[-5.06745,6.51701],"type":"Point"}
+}

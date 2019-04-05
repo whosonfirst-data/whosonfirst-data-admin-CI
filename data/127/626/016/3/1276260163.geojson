@@ -1,0 +1,67 @@
+{
+  "id": 1276260163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11872,8.16644,-7.11872,8.16644",
+    "geom:latitude":8.16644,
+    "geom:longitude":-7.11872,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Meschwebougou",
+    "gn:country_code":"CI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284358,
+    "gn:latitude":8.16644,
+    "gn:longitude":-7.11872,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"M\u00e8schw\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284358
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8c8251ab512a99b2f884d7545d386ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1276260163,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1276260163,
+    "wof:lastmodified":1536875825,
+    "wof:name":"Meschwebougou",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11872,
+    8.16644,
+    -7.11872,
+    8.16644
+],
+  "geometry": {"coordinates":[-7.11872,8.16644],"type":"Point"}
+}

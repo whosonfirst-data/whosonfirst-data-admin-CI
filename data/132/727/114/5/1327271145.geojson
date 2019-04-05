@@ -1,0 +1,71 @@
+{
+  "id": 1327271145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05493,9.56197,-5.05493,9.56197",
+    "geom:latitude":9.56197,
+    "geom:longitude":-5.05493,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tyasanakaha",
+    "gn:country_code":"CI",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280187,
+    "gn:latitude":9.56197,
+    "gn:longitude":-5.05493,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tyasanakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiassanakaha",
+        "Tyasanakaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280187
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8d348ba5a5140f71c3c55e28c965d821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1327271145,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1327271145,
+    "wof:lastmodified":1537590907,
+    "wof:name":"Tyasanakaha",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05493,
+    9.56197,
+    -5.05493,
+    9.56197
+],
+  "geometry": {"coordinates":[-5.05493,9.56197],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209348487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56986,6.09257,-5.56986,6.09257",
+    "geom:latitude":6.09257,
+    "geom:longitude":-5.56986,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Gohouboua",
+    "gn:country_code":"CI",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288253,
+    "gn:latitude":6.09257,
+    "gn:longitude":-5.56986,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gohouboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouboua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288253
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e565946cad626019d4395a22aa9edf93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348487
+        }
+    ],
+    "wof:id":1209348487,
+    "wof:lastmodified":1537591013,
+    "wof:name":"Gohouboua",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56986,
+    6.09257,
+    -5.56986,
+    6.09257
+],
+  "geometry": {"coordinates":[-5.56986,6.09257],"type":"Point"}
+}

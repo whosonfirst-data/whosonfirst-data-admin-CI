@@ -1,0 +1,93 @@
+{
+  "id": 421185055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.1613155,7.656979,-3.1613155,7.656979",
+    "geom:latitude":7.656979,
+    "geom:longitude":-3.161316,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bpy_x_preferred":[
+        "\u09a4\u09be\u09a8\u09cd\u09a6\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Tanda"
+    ],
+    "name:fra_x_preferred":[
+        "Tanda"
+    ],
+    "name:nld_x_preferred":[
+        "Tanda"
+    ],
+    "name:pol_x_preferred":[
+        "Tanda"
+    ],
+    "name:swa_x_preferred":[
+        "Tanda"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tanda",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Zanzan",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1017743,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":20069979,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20069979,
+        "qs:id":1017743,
+        "wd:id":"Q357816"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009431,
+    "wof:geomhash":"8d6f5def4cdda57eeb98d9833bd03d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421185055,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":421185055,
+    "wof:lastmodified":1527726504,
+    "wof:name":"Tanda",
+    "wof:parent_id":85669895,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1613155,
+    7.656979,
+    -3.1613155,
+    7.656979
+],
+  "geometry": {"coordinates":[-3.1613155,7.656979],"type":"Point"}
+}

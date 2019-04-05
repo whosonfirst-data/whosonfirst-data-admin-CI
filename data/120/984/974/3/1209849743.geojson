@@ -1,0 +1,71 @@
+{
+  "id": 1209849743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35535,7.33153,-8.35535,7.33153",
+    "geom:latitude":7.33153,
+    "geom:longitude":-8.35535,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gban Houye",
+    "gn:country_code":"CI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288780,
+    "gn:latitude":7.33153,
+    "gn:longitude":-8.35535,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gban Houy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gban Houy\u00e9",
+        "Ganhouy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288780
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"37f6c0c6bb1606a43e15f5d3034c4479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1209849743,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1209849743,
+    "wof:lastmodified":1537591024,
+    "wof:name":"Gban Houye",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35535,
+    7.33153,
+    -8.35535,
+    7.33153
+],
+  "geometry": {"coordinates":[-8.35535,7.33153],"type":"Point"}
+}

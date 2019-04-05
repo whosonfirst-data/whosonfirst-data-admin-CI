@@ -1,0 +1,67 @@
+{
+  "id": 1226580133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42129,5.91643,-4.42129,5.91643",
+    "geom:latitude":5.91643,
+    "geom:longitude":-4.42129,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Bassa",
+    "gn:country_code":"CI",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032467,
+    "gn:latitude":5.91643,
+    "gn:longitude":-4.42129,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Bassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032467
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a1ffb056e4fe3477f4a76ce8f0d44164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1226580133,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1226580133,
+    "wof:lastmodified":1536950596,
+    "wof:name":"Bassa",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42129,
+    5.91643,
+    -4.42129,
+    5.91643
+],
+  "geometry": {"coordinates":[-4.42129,5.91643],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276480963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2453,7.67385,-5.2453,7.67385",
+    "geom:latitude":7.67385,
+    "geom:longitude":-5.2453,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Kondehinou",
+    "gn:country_code":"CI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286489,
+    "gn:latitude":7.67385,
+    "gn:longitude":-5.2453,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kond\u00e9hinou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286489
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"61dc2da0f4be47a09f946f12a51ee4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1276480963,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1276480963,
+    "wof:lastmodified":1537075022,
+    "wof:name":"Kondehinou",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2453,
+    7.67385,
+    -5.2453,
+    7.67385
+],
+  "geometry": {"coordinates":[-5.2453,7.67385],"type":"Point"}
+}

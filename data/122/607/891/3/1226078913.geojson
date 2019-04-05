@@ -1,0 +1,71 @@
+{
+  "id": 1226078913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5,10.0,-6.5,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-6.5,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Ziasso",
+    "gn:country_code":"CI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279348,
+    "gn:latitude":10.0,
+    "gn:longitude":-6.5,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ziasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zi\u00e9kan",
+        "Ziasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279348
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0435d5184a24e62a6407ccfb7e9409fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1226078913,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226078913,
+    "wof:lastmodified":1537590891,
+    "wof:name":"Ziasso",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5,
+    10.0,
+    -6.5,
+    10.0
+],
+  "geometry": {"coordinates":[-6.5,10.0],"type":"Point"}
+}

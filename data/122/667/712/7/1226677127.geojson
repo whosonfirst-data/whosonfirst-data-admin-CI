@@ -1,0 +1,72 @@
+{
+  "id": 1226677127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16609,6.65623,-6.16609,6.65623",
+    "geom:latitude":6.65623,
+    "geom:longitude":-6.16609,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Gadouan",
+    "gn:country_code":"CI",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288439,
+    "gn:latitude":6.65623,
+    "gn:longitude":-6.16609,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gadouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godouan",
+        "Gadouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288439,
+        "wk:page":"Gadouan"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"43536f1c61dae26b886cc6763f1cc4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1226677127,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1226677127,
+    "wof:lastmodified":1537591015,
+    "wof:name":"Gadouan",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16609,
+    6.65623,
+    -6.16609,
+    6.65623
+],
+  "geometry": {"coordinates":[-6.16609,6.65623],"type":"Point"}
+}

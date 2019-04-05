@@ -1,0 +1,61 @@
+{
+  "id": 1209142257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.99215,5.73386,-3.99215,5.73386",
+    "geom:latitude":5.73386,
+    "geom:longitude":-3.99215,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yaoassa",
+    "gn:country_code":"CI",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033027,
+    "gn:latitude":5.73386,
+    "gn:longitude":-3.99215,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Yaoassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033027
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8ea091b1c18eb5de5bb0ff00d35e8f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142257
+        }
+    ],
+    "wof:id":1209142257,
+    "wof:lastmodified":1536296466,
+    "wof:name":"Yaoassa",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.99215,
+    5.73386,
+    -3.99215,
+    5.73386
+],
+  "geometry": {"coordinates":[-3.99215,5.73386],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327367939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43133,9.65675,-3.43133,9.65675",
+    "geom:latitude":9.65675,
+    "geom:longitude":-3.43133,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Bidigue",
+    "gn:country_code":"CI",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291643,
+    "gn:latitude":9.65675,
+    "gn:longitude":-3.43133,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bidigu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291643
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4109338825e82315ab803d20044595b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1327367939,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327367939,
+    "wof:lastmodified":1536774589,
+    "wof:name":"Bidigue",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43133,
+    9.65675,
+    -3.43133,
+    9.65675
+],
+  "geometry": {"coordinates":[-3.43133,9.65675],"type":"Point"}
+}

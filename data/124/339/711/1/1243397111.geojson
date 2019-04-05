@@ -1,0 +1,72 @@
+{
+  "id": 1243397111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08209,9.44482,-5.08209,9.44482",
+    "geom:latitude":9.44482,
+    "geom:longitude":-5.08209,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Sefonnyenekaha",
+    "gn:country_code":"CI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281889,
+    "gn:latitude":9.44482,
+    "gn:longitude":-5.08209,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9fonny\u00e9n\u00e9kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9foni\u00e9n\u00e9kaha",
+        "S\u00e9fonni\u00e9n\u00e9kaha",
+        "S\u00e9fonny\u00e9n\u00e9kaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281889
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"15a215223079a1b02aba61ff0d9647e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1243397111,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1243397111,
+    "wof:lastmodified":1537590927,
+    "wof:name":"Sefonnyenekaha",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08209,
+    9.44482,
+    -5.08209,
+    9.44482
+],
+  "geometry": {"coordinates":[-5.08209,9.44482],"type":"Point"}
+}

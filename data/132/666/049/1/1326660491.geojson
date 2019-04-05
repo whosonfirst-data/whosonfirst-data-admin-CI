@@ -1,0 +1,67 @@
+{
+  "id": 1326660491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37914,5.24854,-6.37914,5.24854",
+    "geom:latitude":5.24854,
+    "geom:longitude":-6.37914,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Breguiagui",
+    "gn:country_code":"CI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290736,
+    "gn:latitude":5.24854,
+    "gn:longitude":-6.37914,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Br\u00e9guiagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290736
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2c6b2dbf4f5191bdf0d0a587c262756b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1326660491,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1326660491,
+    "wof:lastmodified":1536799305,
+    "wof:name":"Breguiagui",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37914,
+    5.24854,
+    -6.37914,
+    5.24854
+],
+  "geometry": {"coordinates":[-6.37914,5.24854],"type":"Point"}
+}

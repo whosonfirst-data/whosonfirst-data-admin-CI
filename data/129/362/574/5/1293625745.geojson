@@ -1,0 +1,71 @@
+{
+  "id": 1293625745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81614,7.28664,-4.81614,7.28664",
+    "geom:latitude":7.28664,
+    "geom:longitude":-4.81614,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Takikro",
+    "gn:country_code":"CI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281061,
+    "gn:latitude":7.28664,
+    "gn:longitude":-4.81614,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Takikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taki",
+        "Takikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281061
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d29346acbb0841cfb7e792a95db1c050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293625745,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293625745,
+    "wof:lastmodified":1537590917,
+    "wof:name":"Takikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81614,
+    7.28664,
+    -4.81614,
+    7.28664
+],
+  "geometry": {"coordinates":[-4.81614,7.28664],"type":"Point"}
+}

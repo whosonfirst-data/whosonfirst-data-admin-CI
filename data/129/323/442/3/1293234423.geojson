@@ -1,0 +1,71 @@
+{
+  "id": 1293234423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.60705,9.27642,-4.60705,9.27642",
+    "geom:latitude":9.27642,
+    "geom:longitude":-4.60705,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Lomono",
+    "gn:country_code":"CI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284964,
+    "gn:latitude":9.27642,
+    "gn:longitude":-4.60705,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lomono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemono",
+        "Lomono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284964
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e6ebc0721b72a416e9e1b997c1392bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1293234423,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293234423,
+    "wof:lastmodified":1537590971,
+    "wof:name":"Lomono",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.60705,
+    9.27642,
+    -4.60705,
+    9.27642
+],
+  "geometry": {"coordinates":[-4.60705,9.27642],"type":"Point"}
+}

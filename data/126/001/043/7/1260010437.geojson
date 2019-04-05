@@ -1,0 +1,72 @@
+{
+  "id": 1260010437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.17084,5.90458,-4.17084,5.90458",
+    "geom:latitude":5.90458,
+    "geom:longitude":-4.17084,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ery-Makouguie II",
+    "gn:country_code":"CI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596945,
+    "gn:latitude":5.90458,
+    "gn:longitude":-4.17084,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Ery-Makougui\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ery-Makougui\u00e9 II",
+        "Eri Makogui\u00e9 II",
+        "Ery Makogui\u00e9 Deux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596945
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"58f020988ecab90b08d530e90fc4ce8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1260010437,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1260010437,
+    "wof:lastmodified":1537591092,
+    "wof:name":"Ery-Makouguie II",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.17084,
+    5.90458,
+    -4.17084,
+    5.90458
+],
+  "geometry": {"coordinates":[-4.17084,5.90458],"type":"Point"}
+}

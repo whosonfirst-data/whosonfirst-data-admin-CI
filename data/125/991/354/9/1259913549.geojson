@@ -1,0 +1,63 @@
+{
+  "id": 1259913549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16316,4.90776,-6.16316,4.90776",
+    "geom:latitude":4.90776,
+    "geom:longitude":-6.16316,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Lateko",
+    "gn:country_code":"CI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285359,
+    "gn:latitude":4.90776,
+    "gn:longitude":-6.16316,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Lat\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285359
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2b58e77424533c47376be876b83f1764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259913549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259913549,
+    "wof:lastmodified":1536735959,
+    "wof:name":"Lateko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16316,
+    4.90776,
+    -6.16316,
+    4.90776
+],
+  "geometry": {"coordinates":[-6.16316,4.90776],"type":"Point"}
+}

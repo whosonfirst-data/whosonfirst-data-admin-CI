@@ -1,0 +1,71 @@
+{
+  "id": 1293619137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.16667,8.35,-5.16667,8.35",
+    "geom:latitude":8.35,
+    "geom:longitude":-5.16667,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Lo Nyeke",
+    "gn:country_code":"CI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284939,
+    "gn:latitude":8.35,
+    "gn:longitude":-5.16667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"L\u00f4 Ny\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotioro",
+        "L\u00f4 Ny\u00e9k\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284939
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"21bba27eb2ffefe8bb5933a47bb265ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1293619137,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1293619137,
+    "wof:lastmodified":1537590971,
+    "wof:name":"Lo Nyeke",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.16667,
+    8.35,
+    -5.16667,
+    8.35
+],
+  "geometry": {"coordinates":[-5.16667,8.35],"type":"Point"}
+}

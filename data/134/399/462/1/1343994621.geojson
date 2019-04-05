@@ -1,0 +1,67 @@
+{
+  "id": 1343994621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15528,5.88972,-5.15528,5.88972",
+    "geom:latitude":5.88972,
+    "geom:longitude":-5.15528,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Tata",
+    "gn:country_code":"CI",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280916,
+    "gn:latitude":5.88972,
+    "gn:longitude":-5.15528,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280916
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3b48a6f43b1bea25a85466b27efcbbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1343994621,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1343994621,
+    "wof:lastmodified":1536970220,
+    "wof:name":"Tata",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15528,
+    5.88972,
+    -5.15528,
+    5.88972
+],
+  "geometry": {"coordinates":[-5.15528,5.88972],"type":"Point"}
+}

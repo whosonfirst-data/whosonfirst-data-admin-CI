@@ -1,0 +1,70 @@
+{
+  "id": 1226784001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88928,6.77099,-4.88928,6.77099",
+    "geom:latitude":6.77099,
+    "geom:longitude":-4.88928,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Pokoukro",
+    "gn:country_code":"CI",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282704,
+    "gn:latitude":6.77099,
+    "gn:longitude":-4.88928,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Pokoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakoukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282704
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2dc790316ff0dd91e5d5008e77a2ac64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1226784001,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1226784001,
+    "wof:lastmodified":1537590940,
+    "wof:name":"Pokoukro",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88928,
+    6.77099,
+    -4.88928,
+    6.77099
+],
+  "geometry": {"coordinates":[-4.88928,6.77099],"type":"Point"}
+}

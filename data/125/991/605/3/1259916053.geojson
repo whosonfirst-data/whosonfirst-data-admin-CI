@@ -1,0 +1,67 @@
+{
+  "id": 1259916053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5643,8.2513,-4.5643,8.2513",
+    "geom:latitude":8.2513,
+    "geom:longitude":-4.5643,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Lopolessedougou",
+    "gn:country_code":"CI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284912,
+    "gn:latitude":8.2513,
+    "gn:longitude":-4.5643,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Lopoless\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284912
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6cc4a4d795f9e9a4e2bd2d34b2f1adb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1259916053,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1259916053,
+    "wof:lastmodified":1536732427,
+    "wof:name":"Lopolessedougou",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5643,
+    8.2513,
+    -4.5643,
+    8.2513
+],
+  "geometry": {"coordinates":[-4.5643,8.2513],"type":"Point"}
+}

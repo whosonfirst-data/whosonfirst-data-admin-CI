@@ -1,0 +1,67 @@
+{
+  "id": 1277113265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.06471,8.88491,-3.06471,8.88491",
+    "geom:latitude":8.88491,
+    "geom:longitude":-3.06471,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Siraodi",
+    "gn:country_code":"CI",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281564,
+    "gn:latitude":8.88491,
+    "gn:longitude":-3.06471,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Siraodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281564
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"842fd721902af6452f89b62155225006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1277113265,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1277113265,
+    "wof:lastmodified":1536723909,
+    "wof:name":"Siraodi",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.06471,
+    8.88491,
+    -3.06471,
+    8.88491
+],
+  "geometry": {"coordinates":[-3.06471,8.88491],"type":"Point"}
+}

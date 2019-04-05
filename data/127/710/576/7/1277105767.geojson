@@ -1,0 +1,72 @@
+{
+  "id": 1277105767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.77139,5.24195,-3.77139,5.24195",
+    "geom:latitude":5.24195,
+    "geom:longitude":-3.77139,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Vitre Un",
+    "gn:country_code":"CI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595328,
+    "gn:latitude":5.24195,
+    "gn:longitude":-3.77139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Vitr\u00e9 Un",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vitr\u00e9 Un",
+        "Vitr\u00e9",
+        "Vitr\u00e9 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595328
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8ddf52139c6419e5549ed5ec30545fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1277105767,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1277105767,
+    "wof:lastmodified":1537591091,
+    "wof:name":"Vitre Un",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.77139,
+    5.24195,
+    -3.77139,
+    5.24195
+],
+  "geometry": {"coordinates":[-3.77139,5.24195],"type":"Point"}
+}

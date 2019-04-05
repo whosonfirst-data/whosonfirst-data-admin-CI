@@ -1,0 +1,67 @@
+{
+  "id": 1259411303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0231,6.04492,-6.0231,6.04492",
+    "geom:latitude":6.04492,
+    "geom:longitude":-6.0231,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Noaguiyo",
+    "gn:country_code":"CI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283317,
+    "gn:latitude":6.04492,
+    "gn:longitude":-6.0231,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Noaguiyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283317
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"720438de7c6d6a5d4a6300016a2c970b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1259411303,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1259411303,
+    "wof:lastmodified":1536962478,
+    "wof:name":"Noaguiyo",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0231,
+    6.04492,
+    -6.0231,
+    6.04492
+],
+  "geometry": {"coordinates":[-6.0231,6.04492],"type":"Point"}
+}

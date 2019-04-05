@@ -1,0 +1,71 @@
+{
+  "id": 1260014047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89314,6.96672,-4.89314,6.96672",
+    "geom:latitude":6.96672,
+    "geom:longitude":-4.89314,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Konan-Kekrekro",
+    "gn:country_code":"CI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286513,
+    "gn:latitude":6.96672,
+    "gn:longitude":-4.89314,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Konan-K\u00e9kr\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konan-K\u00e9kr\u00e9kro",
+        "Konan K\u00e9kr\u00e9ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286513
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"45367b0e1852d6445f5a8b171b8968a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1260014047,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1260014047,
+    "wof:lastmodified":1537590991,
+    "wof:name":"Konan-Kekrekro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89314,
+    6.96672,
+    -4.89314,
+    6.96672
+],
+  "geometry": {"coordinates":[-4.89314,6.96672],"type":"Point"}
+}

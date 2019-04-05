@@ -1,0 +1,67 @@
+{
+  "id": 1276263921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29025,5.97426,-5.29025,5.97426",
+    "geom:latitude":5.97426,
+    "geom:longitude":-5.29025,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Gueou",
+    "gn:country_code":"CI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596872,
+    "gn:latitude":5.97426,
+    "gn:longitude":-5.29025,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gu\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596872
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1540b57591416d74b2e85cbac0f6a09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1276263921,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1276263921,
+    "wof:lastmodified":1536870568,
+    "wof:name":"Gueou",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29025,
+    5.97426,
+    -5.29025,
+    5.97426
+],
+  "geometry": {"coordinates":[-5.29025,5.97426],"type":"Point"}
+}

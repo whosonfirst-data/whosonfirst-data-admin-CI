@@ -1,0 +1,67 @@
+{
+  "id": 1243103583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.39795,9.46908,-3.39795,9.46908",
+    "geom:latitude":9.46908,
+    "geom:longitude":-3.39795,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Konzie",
+    "gn:country_code":"CI",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286336,
+    "gn:latitude":9.46908,
+    "gn:longitude":-3.39795,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Konzi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286336
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8ceba5eb4452af360806cb38db64f6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1243103583,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1243103583,
+    "wof:lastmodified":1536802615,
+    "wof:name":"Konzie",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.39795,
+    9.46908,
+    -3.39795,
+    9.46908
+],
+  "geometry": {"coordinates":[-3.39795,9.46908],"type":"Point"}
+}

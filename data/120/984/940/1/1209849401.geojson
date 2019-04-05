@@ -1,0 +1,71 @@
+{
+  "id": 1209849401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.62145,8.04653,-2.62145,8.04653",
+    "geom:latitude":8.04653,
+    "geom:longitude":-2.62145,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Boroumba",
+    "gn:country_code":"CI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291013,
+    "gn:latitude":8.04653,
+    "gn:longitude":-2.62145,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Boroumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borumba",
+        "Boroumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291013
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f8d0ae74f82a97379daafc1a77da5ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1209849401,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1209849401,
+    "wof:lastmodified":1537591054,
+    "wof:name":"Boroumba",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.62145,
+    8.04653,
+    -2.62145,
+    8.04653
+],
+  "geometry": {"coordinates":[-2.62145,8.04653],"type":"Point"}
+}

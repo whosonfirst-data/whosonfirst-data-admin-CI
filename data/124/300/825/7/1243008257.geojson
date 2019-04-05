@@ -1,0 +1,67 @@
+{
+  "id": 1243008257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47034,7.65823,-7.47034,7.65823",
+    "geom:latitude":7.65823,
+    "geom:longitude":-7.47034,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gotondie",
+    "gn:country_code":"CI",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288294,
+    "gn:latitude":7.65823,
+    "gn:longitude":-7.47034,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gotondi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288294
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ab8f3586f8f6b9ea8be3037b09109529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1243008257,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1243008257,
+    "wof:lastmodified":1536940925,
+    "wof:name":"Gotondie",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47034,
+    7.65823,
+    -7.47034,
+    7.65823
+],
+  "geometry": {"coordinates":[-7.47034,7.65823],"type":"Point"}
+}

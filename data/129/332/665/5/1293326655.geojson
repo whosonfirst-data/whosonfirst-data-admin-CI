@@ -1,0 +1,67 @@
+{
+  "id": 1293326655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.52472,7.85964,-4.52472,7.85964",
+    "geom:latitude":7.85964,
+    "geom:longitude":-4.52472,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Yaodankro",
+    "gn:country_code":"CI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7883805,
+    "gn:latitude":7.85964,
+    "gn:longitude":-4.52472,
+    "gn:modification_date":"2011-07-11",
+    "gn:name":"Yaodankro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883805
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"63a74614ca1544bd0cee0c49f974d202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1293326655,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1293326655,
+    "wof:lastmodified":1537018197,
+    "wof:name":"Yaodankro",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.52472,
+    7.85964,
+    -4.52472,
+    7.85964
+],
+  "geometry": {"coordinates":[-4.52472,7.85964],"type":"Point"}
+}

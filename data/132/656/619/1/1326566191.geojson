@@ -1,0 +1,67 @@
+{
+  "id": 1326566191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48491,6.98823,-7.48491,6.98823",
+    "geom:latitude":6.98823,
+    "geom:longitude":-7.48491,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Guinglo",
+    "gn:country_code":"CI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287946,
+    "gn:latitude":6.98823,
+    "gn:longitude":-7.48491,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Guinglo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287946
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"29caf143bce6e8e2910de90d7ed44db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1326566191,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1326566191,
+    "wof:lastmodified":1536935747,
+    "wof:name":"Guinglo",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48491,
+    6.98823,
+    -7.48491,
+    6.98823
+],
+  "geometry": {"coordinates":[-7.48491,6.98823],"type":"Point"}
+}

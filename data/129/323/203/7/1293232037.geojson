@@ -1,0 +1,74 @@
+{
+  "id": 1293232037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53987,4.6081,-7.53987,4.6081",
+    "geom:latitude":4.6081,
+    "geom:longitude":-7.53987,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Georgestown",
+    "gn:country_code":"CI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288556,
+    "gn:latitude":4.6081,
+    "gn:longitude":-7.53987,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Georgestown",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giog\u00e9",
+        "Georges Town",
+        "Giogi\u00e9",
+        "George-Town",
+        "Georgestown"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288556
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ea59d71c8f471fb2efd1231d6112bbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1293232037,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293232037,
+    "wof:lastmodified":1537591018,
+    "wof:name":"Georgestown",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53987,
+    4.6081,
+    -7.53987,
+    4.6081
+],
+  "geometry": {"coordinates":[-7.53987,4.6081],"type":"Point"}
+}

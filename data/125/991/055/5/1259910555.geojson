@@ -1,0 +1,72 @@
+{
+  "id": 1259910555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41091,6.57974,-8.41091,6.57974",
+    "geom:latitude":6.57974,
+    "geom:longitude":-8.41091,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Toulepleu",
+    "gn:country_code":"CI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2280335,
+    "gn:latitude":6.57974,
+    "gn:longitude":-8.41091,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Toul\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toulobli",
+        "Toul\u00e9pleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280335,
+        "wk:page":"Toul%C3%A9pleu"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dea540eee441635fe726db504b172c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1259910555,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1259910555,
+    "wof:lastmodified":1537590908,
+    "wof:name":"Toulepleu",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41091,
+    6.57974,
+    -8.41091,
+    6.57974
+],
+  "geometry": {"coordinates":[-8.41091,6.57974],"type":"Point"}
+}

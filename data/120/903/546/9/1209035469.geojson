@@ -1,0 +1,61 @@
+{
+  "id": 1209035469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.44669,6.99004,-4.44669,6.99004",
+    "geom:latitude":6.99004,
+    "geom:longitude":-4.44669,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kondo-Koffikro",
+    "gn:country_code":"CI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286484,
+    "gn:latitude":6.99004,
+    "gn:longitude":-4.44669,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kondo-Koffikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286484
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a2571bb2f1fa694014433a8f88232248",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209035469
+        }
+    ],
+    "wof:id":1209035469,
+    "wof:lastmodified":1536299715,
+    "wof:name":"Kondo-Koffikro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.44669,
+    6.99004,
+    -4.44669,
+    6.99004
+],
+  "geometry": {"coordinates":[-4.44669,6.99004],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310141797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43821,6.65142,-4.43821,6.65142",
+    "geom:latitude":6.65142,
+    "geom:longitude":-4.43821,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kouakro",
+    "gn:country_code":"CI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286084,
+    "gn:latitude":6.65142,
+    "gn:longitude":-4.43821,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kouakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krouakro",
+        "Kouakro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286084
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ad4f3b6e30197a55a2d364846f3dda1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1310141797,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1310141797,
+    "wof:lastmodified":1537590985,
+    "wof:name":"Kouakro",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43821,
+    6.65142,
+    -4.43821,
+    6.65142
+],
+  "geometry": {"coordinates":[-4.43821,6.65142],"type":"Point"}
+}

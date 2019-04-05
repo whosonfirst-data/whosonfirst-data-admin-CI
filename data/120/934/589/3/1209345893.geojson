@@ -1,0 +1,61 @@
+{
+  "id": 1209345893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96667,9.73333,-3.96667,9.73333",
+    "geom:latitude":9.73333,
+    "geom:longitude":-3.96667,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Kintourougo",
+    "gn:country_code":"CI",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287094,
+    "gn:latitude":9.73333,
+    "gn:longitude":-3.96667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kintourougo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287094
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a7c4100b060db7001fa21b00aca2dca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209345893
+        }
+    ],
+    "wof:id":1209345893,
+    "wof:lastmodified":1536289914,
+    "wof:name":"Kintourougo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96667,
+    9.73333,
+    -3.96667,
+    9.73333
+],
+  "geometry": {"coordinates":[-3.96667,9.73333],"type":"Point"}
+}

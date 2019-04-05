@@ -1,0 +1,67 @@
+{
+  "id": 1360320079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23827,9.65941,-5.23827,9.65941",
+    "geom:latitude":9.65941,
+    "geom:longitude":-5.23827,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Gbemivogo",
+    "gn:country_code":"CI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288645,
+    "gn:latitude":9.65941,
+    "gn:longitude":-5.23827,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gb\u00e9mivogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288645
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6ccb5dbd12a69b91a19f2e8a8c94d250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1360320079,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1360320079,
+    "wof:lastmodified":1536603552,
+    "wof:name":"Gbemivogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23827,
+    9.65941,
+    -5.23827,
+    9.65941
+],
+  "geometry": {"coordinates":[-5.23827,9.65941],"type":"Point"}
+}

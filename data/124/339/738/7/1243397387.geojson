@@ -1,0 +1,71 @@
+{
+  "id": 1243397387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41371,6.49617,-4.41371,6.49617",
+    "geom:latitude":6.49617,
+    "geom:longitude":-4.41371,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Diekadiokro",
+    "gn:country_code":"CI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290097,
+    "gn:latitude":6.49617,
+    "gn:longitude":-4.41371,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Di\u00e9kadiokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9kadi\u00e9kro",
+        "Di\u00e9kadiokro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290097
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"73def52096cfdee0f9945a4f8e47179d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1243397387,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1243397387,
+    "wof:lastmodified":1537591040,
+    "wof:name":"Diekadiokro",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41371,
+    6.49617,
+    -4.41371,
+    6.49617
+],
+  "geometry": {"coordinates":[-4.41371,6.49617],"type":"Point"}
+}

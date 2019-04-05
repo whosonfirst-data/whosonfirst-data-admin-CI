@@ -1,0 +1,72 @@
+{
+  "id": 1225875863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.34273,5.29375,-4.34273,5.29375",
+    "geom:latitude":5.29375,
+    "geom:longitude":-4.34273,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Ngatty",
+    "gn:country_code":"CI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283707,
+    "gn:latitude":5.29375,
+    "gn:longitude":-4.34273,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ngatty",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agati",
+        "Ngaty",
+        "Ngatty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283707
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e5a1bedfbe584808f3100689ff71b082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1225875863,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1225875863,
+    "wof:lastmodified":1537590954,
+    "wof:name":"Ngatty",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.34273,
+    5.29375,
+    -4.34273,
+    5.29375
+],
+  "geometry": {"coordinates":[-4.34273,5.29375],"type":"Point"}
+}

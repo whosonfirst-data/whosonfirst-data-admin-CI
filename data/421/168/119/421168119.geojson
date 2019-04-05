@@ -1,0 +1,82 @@
+{
+  "id": 421168119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91667,6.61667,-5.91667,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":-5.91667,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:msa_x_preferred":[
+        "Sinfra"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2281606,
+    "qs:gn_pop":59919,
+    "qs:name":"Sinfra",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Marahou\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1034674,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":56123173,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281606,
+        "gp:id":56123173,
+        "qs:id":1034674,
+        "wd:id":"Q12709357"
+    },
+    "wof:country":"CI",
+    "wof:created":1459008755,
+    "wof:geomhash":"cdd90c7fca81a2f2d28e940b816211d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421168119,
+            "region_id":1108806117
+        }
+    ],
+    "wof:id":421168119,
+    "wof:lastmodified":1527716095,
+    "wof:name":"Sinfra",
+    "wof:parent_id":1108806117,
+    "wof:placetype":"locality",
+    "wof:population":59919,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91667,
+    6.61667,
+    -5.91667,
+    6.61667
+],
+  "geometry": {"coordinates":[-5.91667,6.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277019971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.45741,5.33908,-3.45741,5.33908",
+    "geom:latitude":5.33908,
+    "geom:longitude":-3.45741,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Larabia",
+    "gn:country_code":"CI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031884,
+    "gn:latitude":5.33908,
+    "gn:longitude":-3.45741,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Larabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031884
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c131d0fb1be249d8e7ec4f15a9bea9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1277019971,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1277019971,
+    "wof:lastmodified":1536852108,
+    "wof:name":"Larabia",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.45741,
+    5.33908,
+    -3.45741,
+    5.33908
+],
+  "geometry": {"coordinates":[-3.45741,5.33908],"type":"Point"}
+}

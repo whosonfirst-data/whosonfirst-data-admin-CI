@@ -1,0 +1,68 @@
+{
+  "id": 1209851767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.47424,7.12906,-6.47424,7.12906",
+    "geom:latitude":7.12906,
+    "geom:longitude":-6.47424,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Bonoufla",
+    "gn:country_code":"CI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291086,
+    "gn:latitude":7.12906,
+    "gn:longitude":-6.47424,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bonoufla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291086,
+        "wk:page":"Bonoufla"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9699f8a0d7115db2de597519a6bb8f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1209851767,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1209851767,
+    "wof:lastmodified":1537489452,
+    "wof:name":"Bonoufla",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47424,
+    7.12906,
+    -6.47424,
+    7.12906
+],
+  "geometry": {"coordinates":[-6.47424,7.12906],"type":"Point"}
+}

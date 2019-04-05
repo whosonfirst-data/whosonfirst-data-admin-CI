@@ -1,0 +1,67 @@
+{
+  "id": 1193173077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31667,7.26667,-7.31667,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":-7.31667,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Kenkolo",
+    "gn:country_code":"CI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287194,
+    "gn:latitude":7.26667,
+    "gn:longitude":-7.31667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kenkolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287194
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6b5f2e158ca838db1751f4ffcb74d308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1193173077,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1193173077,
+    "wof:lastmodified":1536378250,
+    "wof:name":"Kenkolo",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31667,
+    7.26667,
+    -7.31667,
+    7.26667
+],
+  "geometry": {"coordinates":[-7.31667,7.26667],"type":"Point"}
+}

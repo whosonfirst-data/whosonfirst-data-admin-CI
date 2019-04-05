@@ -1,0 +1,70 @@
+{
+  "id": 1343793407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01341,6.45867,-6.01341,6.45867",
+    "geom:latitude":6.45867,
+    "geom:longitude":-6.01341,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Yazermi",
+    "gn:country_code":"CI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279680,
+    "gn:latitude":6.45867,
+    "gn:longitude":-6.01341,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yazermi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yasermi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279680
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5f22a8e4e0f52696ea0916ab49976e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1343793407,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1343793407,
+    "wof:lastmodified":1537590897,
+    "wof:name":"Yazermi",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01341,
+    6.45867,
+    -6.01341,
+    6.45867
+],
+  "geometry": {"coordinates":[-6.01341,6.45867],"type":"Point"}
+}

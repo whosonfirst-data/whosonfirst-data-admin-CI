@@ -1,0 +1,67 @@
+{
+  "id": 1276481965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63132,5.09394,-6.63132,5.09394",
+    "geom:latitude":5.09394,
+    "geom:longitude":-6.63132,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Fae",
+    "gn:country_code":"CI",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289317,
+    "gn:latitude":5.09394,
+    "gn:longitude":-6.63132,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Fa\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289317
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"530ad9b567b47cbc665b5a1ba9058722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1276481965,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276481965,
+    "wof:lastmodified":1537073600,
+    "wof:name":"Fae",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63132,
+    5.09394,
+    -6.63132,
+    5.09394
+],
+  "geometry": {"coordinates":[-6.63132,5.09394],"type":"Point"}
+}

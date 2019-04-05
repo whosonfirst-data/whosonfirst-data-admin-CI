@@ -1,0 +1,73 @@
+{
+  "id": 1326664405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.14786,8.92198,-4.14786,8.92198",
+    "geom:latitude":8.92198,
+    "geom:longitude":-4.14786,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Bilimono",
+    "gn:country_code":"CI",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291596,
+    "gn:latitude":8.92198,
+    "gn:longitude":-4.14786,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Bilimono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bil\u00e9mona",
+        "Bilimono",
+        "Bilimonon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291596,
+        "wk:page":"Bilimono"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e20fd98a613a1d7bd5a8e71050999d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1326664405,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1326664405,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Bilimono",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.14786,
+    8.92198,
+    -4.14786,
+    8.92198
+],
+  "geometry": {"coordinates":[-4.14786,8.92198],"type":"Point"}
+}

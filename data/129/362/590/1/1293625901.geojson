@@ -1,0 +1,67 @@
+{
+  "id": 1293625901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.0132,7.11912,-4.0132,7.11912",
+    "geom:latitude":7.11912,
+    "geom:longitude":-4.0132,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Dengre-Peperessou",
+    "gn:country_code":"CI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290295,
+    "gn:latitude":7.11912,
+    "gn:longitude":-4.0132,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"D\u00e9ngr\u00e9-P\u00e9p\u00e9ressou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290295
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"403717fdb04385da8413bb5e1ba426cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1293625901,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1293625901,
+    "wof:lastmodified":1537081421,
+    "wof:name":"Dengre-Peperessou",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.0132,
+    7.11912,
+    -4.0132,
+    7.11912
+],
+  "geometry": {"coordinates":[-4.0132,7.11912],"type":"Point"}
+}

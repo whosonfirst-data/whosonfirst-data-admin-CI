@@ -1,0 +1,71 @@
+{
+  "id": 1326466619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65954,10.16889,-7.65954,10.16889",
+    "geom:latitude":10.16889,
+    "geom:longitude":-7.65954,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Nabagala",
+    "gn:country_code":"CI",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284125,
+    "gn:latitude":10.16889,
+    "gn:longitude":-7.65954,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nabagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabarala",
+        "Nabagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284125
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d0a6848aa7b4dc089fe49762496eccf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784987,
+            "locality_id":1326466619,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1326466619,
+    "wof:lastmodified":1537590960,
+    "wof:name":"Nabagala",
+    "wof:parent_id":1108784987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65954,
+    10.16889,
+    -7.65954,
+    10.16889
+],
+  "geometry": {"coordinates":[-7.65954,10.16889],"type":"Point"}
+}

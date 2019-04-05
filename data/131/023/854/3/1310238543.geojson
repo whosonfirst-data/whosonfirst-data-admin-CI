@@ -1,0 +1,72 @@
+{
+  "id": 1310238543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.52748,6.80516,-3.52748,6.80516",
+    "geom:latitude":6.80516,
+    "geom:longitude":-3.52748,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Kouassi-Beniekro",
+    "gn:country_code":"CI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286013,
+    "gn:latitude":6.80516,
+    "gn:longitude":-3.52748,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kouassi-B\u00e9ni\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouassi Dandiakro",
+        "Kouassib\u00e9n\u00e9krou",
+        "Kouassi-B\u00e9ni\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669921,
+        1108784983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286013
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d01781f8c27f10d0486c2b3f7b08126b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784983,
+            "locality_id":1310238543,
+            "region_id":85669921
+        }
+    ],
+    "wof:id":1310238543,
+    "wof:lastmodified":1537590984,
+    "wof:name":"Kouassi-Beniekro",
+    "wof:parent_id":1108784983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.52748,
+    6.80516,
+    -3.52748,
+    6.80516
+],
+  "geometry": {"coordinates":[-3.52748,6.80516],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327270103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74222,8.0425,-6.74222,8.0425",
+    "geom:latitude":8.0425,
+    "geom:longitude":-6.74222,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Kouego",
+    "gn:country_code":"CI",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597398,
+    "gn:latitude":8.0425,
+    "gn:longitude":-6.74222,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kouego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597398
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e6ff4416202c3a90d0a6ca12adeaf136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1327270103,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1327270103,
+    "wof:lastmodified":1536915623,
+    "wof:name":"Kouego",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74222,
+    8.0425,
+    -6.74222,
+    8.0425
+],
+  "geometry": {"coordinates":[-6.74222,8.0425],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226783503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59697,6.84239,-6.59697,6.84239",
+    "geom:latitude":6.84239,
+    "geom:longitude":-6.59697,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Lobogueguia",
+    "gn:country_code":"CI",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285147,
+    "gn:latitude":6.84239,
+    "gn:longitude":-6.59697,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Lobogu\u00e9guia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labogui\u00e9guia",
+        "Lobogu\u00e9zia",
+        "Loboguiguia",
+        "Lobogu\u00e9guia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285147
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6060670a4a73831aefd9da73cbec97cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1226783503,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1226783503,
+    "wof:lastmodified":1537590972,
+    "wof:name":"Lobogueguia",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59697,
+    6.84239,
+    -6.59697,
+    6.84239
+],
+  "geometry": {"coordinates":[-6.59697,6.84239],"type":"Point"}
+}

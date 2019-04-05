@@ -1,0 +1,71 @@
+{
+  "id": 1293231937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27837,5.11695,-5.27837,5.11695",
+    "geom:latitude":5.11695,
+    "geom:longitude":-5.27837,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Dibou",
+    "gn:country_code":"CI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290133,
+    "gn:latitude":5.11695,
+    "gn:longitude":-5.27837,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dibou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit Lahou",
+        "Klein Lahu",
+        "Petit Lahu",
+        "Dibu",
+        "Pickaninny Lahu",
+        "Dibou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290133
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2f0979469ec7492ea6ab088aaa0d4d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293231937,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293231937,
+    "wof:lastmodified":1537591041,
+    "wof:name":"Dibou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27837,
+    5.11695,
+    -5.27837,
+    5.11695
+],
+  "geometry": {"coordinates":[-5.27837,5.11695],"type":"Point"}
+}

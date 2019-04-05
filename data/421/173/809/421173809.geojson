@@ -1,0 +1,75 @@
+{
+  "id": 421173809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.048217,7.710991,-5.048217,7.710991",
+    "geom:latitude":7.710991,
+    "geom:longitude":-5.048217,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bouak\u00e9",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Vall\u00e9e du Bandama",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1322417,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":20069990,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":608,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20069990,
+        "qs:id":1322417,
+        "wd:id":"Q271000"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009006,
+    "wof:geomhash":"b10478fd4ac54a100dd8e433951c63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421173809,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":421173809,
+    "wof:lastmodified":1527716260,
+    "wof:name":"Bouak\u00e9",
+    "wof:parent_id":85669899,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.048217,
+    7.710991,
+    -5.048217,
+    7.710991
+],
+  "geometry": {"coordinates":[-5.048217,7.710991],"type":"Point"}
+}

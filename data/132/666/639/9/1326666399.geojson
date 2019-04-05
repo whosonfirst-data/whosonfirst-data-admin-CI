@@ -1,0 +1,71 @@
+{
+  "id": 1326666399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10993,7.01148,-8.10993,7.01148",
+    "geom:latitude":7.01148,
+    "geom:longitude":-8.10993,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbeapieu",
+    "gn:country_code":"CI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288656,
+    "gn:latitude":7.01148,
+    "gn:longitude":-8.10993,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gb\u00e9apieu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9apieu",
+        "Gb\u00e9apleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288656
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"932f42717a216dbf9ae6fcc119bde8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1326666399,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1326666399,
+    "wof:lastmodified":1537591020,
+    "wof:name":"Gbeapieu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10993,
+    7.01148,
+    -8.10993,
+    7.01148
+],
+  "geometry": {"coordinates":[-8.10993,7.01148],"type":"Point"}
+}

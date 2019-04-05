@@ -1,0 +1,67 @@
+{
+  "id": 1276366067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86753,5.91465,-5.86753,5.91465",
+    "geom:latitude":5.91465,
+    "geom:longitude":-5.86753,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Krabalilie",
+    "gn:country_code":"CI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285634,
+    "gn:latitude":5.91465,
+    "gn:longitude":-5.86753,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Krabalili\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285634
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"46a48d2eea32e5c27353c2eb112cfba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1276366067,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1276366067,
+    "wof:lastmodified":1536734918,
+    "wof:name":"Krabalilie",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86753,
+    5.91465,
+    -5.86753,
+    5.91465
+],
+  "geometry": {"coordinates":[-5.86753,5.91465],"type":"Point"}
+}

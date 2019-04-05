@@ -1,0 +1,61 @@
+{
+  "id": 1209249571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.86117,5.90799,-3.86117,5.90799",
+    "geom:latitude":5.90799,
+    "geom:longitude":-3.86117,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ope",
+    "gn:country_code":"CI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596954,
+    "gn:latitude":5.90799,
+    "gn:longitude":-3.86117,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Op\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596954
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"92de01236bba04cb60f7762f665bb8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249571
+        }
+    ],
+    "wof:id":1209249571,
+    "wof:lastmodified":1536293049,
+    "wof:name":"Ope",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.86117,
+    5.90799,
+    -3.86117,
+    5.90799
+],
+  "geometry": {"coordinates":[-3.86117,5.90799],"type":"Point"}
+}

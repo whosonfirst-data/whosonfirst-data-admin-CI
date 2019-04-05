@@ -1,0 +1,61 @@
+{
+  "id": 1209348149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.64629,6.74131,-4.64629,6.74131",
+    "geom:latitude":6.74131,
+    "geom:longitude":-4.64629,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Niamassou",
+    "gn:country_code":"CI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283589,
+    "gn:latitude":6.74131,
+    "gn:longitude":-4.64629,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Niamassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283589
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"70571dd08704658ddbf1389508486b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348149
+        }
+    ],
+    "wof:id":1209348149,
+    "wof:lastmodified":1536289839,
+    "wof:name":"Niamassou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6462900000000005,
+    6.74131,
+    -4.6462900000000005,
+    6.74131
+],
+  "geometry": {"coordinates":[-4.64629,6.74131],"type":"Point"}
+}

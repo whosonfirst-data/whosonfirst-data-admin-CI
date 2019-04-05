@@ -1,0 +1,71 @@
+{
+  "id": 1327170545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88697,7.56655,-5.88697,7.56655",
+    "geom:latitude":7.56655,
+    "geom:longitude":-5.88697,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Duisseizra",
+    "gn:country_code":"CI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289536,
+    "gn:latitude":7.56655,
+    "gn:longitude":-5.88697,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Duiss\u00e9izra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duiss\u00e9izra",
+        "Durs\u00e9ifla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289536
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7e2602142e47a4cb3f89c773add8d19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1327170545,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1327170545,
+    "wof:lastmodified":1537591034,
+    "wof:name":"Duisseizra",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88697,
+    7.56655,
+    -5.88697,
+    7.56655
+],
+  "geometry": {"coordinates":[-5.88697,7.56655],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209547091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90343,6.6151,-5.90343,6.6151",
+    "geom:latitude":6.6151,
+    "geom:longitude":-5.90343,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Proniani",
+    "gn:country_code":"CI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282268,
+    "gn:latitude":6.6151,
+    "gn:longitude":-5.90343,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Proniani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282268
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8df7b001900f5240f79247e4460445a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209547091
+        }
+    ],
+    "wof:id":1209547091,
+    "wof:lastmodified":1536283811,
+    "wof:name":"Proniani",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90343,
+    6.6151,
+    -5.90343,
+    6.6151
+],
+  "geometry": {"coordinates":[-5.90343,6.6151],"type":"Point"}
+}

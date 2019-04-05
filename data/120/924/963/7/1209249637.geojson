@@ -1,0 +1,61 @@
+{
+  "id": 1209249637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88545,8.80991,-5.88545,8.80991",
+    "geom:latitude":8.80991,
+    "geom:longitude":-5.88545,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Samatigila",
+    "gn:country_code":"CI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282125,
+    "gn:latitude":8.80991,
+    "gn:longitude":-5.88545,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Samatigila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282125
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"80f863986d2f66f11ac07e680a3e94de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249637
+        }
+    ],
+    "wof:id":1209249637,
+    "wof:lastmodified":1536293047,
+    "wof:name":"Samatigila",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88545,
+    8.80991,
+    -5.88545,
+    8.80991
+],
+  "geometry": {"coordinates":[-5.88545,8.80991],"type":"Point"}
+}

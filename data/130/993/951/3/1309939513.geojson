@@ -1,0 +1,77 @@
+{
+  "id": 1309939513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55953,4.66569,-7.55953,4.66569",
+    "geom:latitude":4.66569,
+    "geom:longitude":-7.55953,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Toupa",
+    "gn:country_code":"CI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280290,
+    "gn:latitude":4.66569,
+    "gn:longitude":-7.55953,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Toupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280290
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"13d4ac61d652f81aa807100b14f70901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1309939513,
+            "region_id":85673517
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1309939513,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1309939513,
+    "wof:lastmodified":1536738425,
+    "wof:name":"Toupa",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55953,
+    4.66569,
+    -7.55953,
+    4.66569
+],
+  "geometry": {"coordinates":[-7.55953,4.66569],"type":"Point"}
+}

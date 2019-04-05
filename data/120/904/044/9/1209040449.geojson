@@ -1,0 +1,61 @@
+{
+  "id": 1209040449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64156,5.58842,-3.64156,5.58842",
+    "geom:latitude":5.58842,
+    "geom:longitude":-3.64156,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ale Asso",
+    "gn:country_code":"CI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033163,
+    "gn:latitude":5.58842,
+    "gn:longitude":-3.64156,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Al\u00e9 Asso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033163
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"51413865fa1b06e4de183265fe14ad73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209040449
+        }
+    ],
+    "wof:id":1209040449,
+    "wof:lastmodified":1536299562,
+    "wof:name":"Ale Asso",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64156,
+    5.588419999999998,
+    -3.64156,
+    5.588419999999998
+],
+  "geometry": {"coordinates":[-3.64156,5.58842],"type":"Point"}
+}

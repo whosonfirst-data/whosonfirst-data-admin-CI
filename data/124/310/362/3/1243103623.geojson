@@ -1,0 +1,67 @@
+{
+  "id": 1243103623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.80818,5.5349,-3.80818,5.5349",
+    "geom:latitude":5.5349,
+    "geom:longitude":-3.80818,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Bechie",
+    "gn:country_code":"CI",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033064,
+    "gn:latitude":5.5349,
+    "gn:longitude":-3.80818,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Bechie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033064
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e1d7c22089500734c24a52251419d5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1243103623,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1243103623,
+    "wof:lastmodified":1536802558,
+    "wof:name":"Bechie",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.80818,
+    5.5349,
+    -3.80818,
+    5.5349
+],
+  "geometry": {"coordinates":[-3.80818,5.5349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360120513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.75524,5.7781,-4.75524,5.7781",
+    "geom:latitude":5.7781,
+    "geom:longitude":-4.75524,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Botinde",
+    "gn:country_code":"CI",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290995,
+    "gn:latitude":5.7781,
+    "gn:longitude":-4.75524,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Botind\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botind\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290995,
+        "wk:page":"Botind%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c50dfd2ded67341011f9fa99bb3cbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1360120513,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1360120513,
+    "wof:lastmodified":1537591054,
+    "wof:name":"Botinde",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.75524,
+    5.7781,
+    -4.75524,
+    5.7781
+],
+  "geometry": {"coordinates":[-4.75524,5.7781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327171071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.66254,5.5183,-3.66254,5.5183",
+    "geom:latitude":5.5183,
+    "geom:longitude":-3.66254,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ogou",
+    "gn:country_code":"CI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033091,
+    "gn:latitude":5.5183,
+    "gn:longitude":-3.66254,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Ogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033091
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a4c596ced1c4e92498cd7e73a7c6fee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1327171071,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327171071,
+    "wof:lastmodified":1537055649,
+    "wof:name":"Ogou",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.66254,
+    5.5183,
+    -3.66254,
+    5.5183
+],
+  "geometry": {"coordinates":[-3.66254,5.5183],"type":"Point"}
+}

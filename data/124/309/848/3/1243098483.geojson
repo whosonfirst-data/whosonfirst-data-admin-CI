@@ -1,0 +1,67 @@
+{
+  "id": 1243098483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59516,9.09423,-7.59516,9.09423",
+    "geom:latitude":9.09423,
+    "geom:longitude":-7.59516,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Toumba",
+    "gn:country_code":"CI",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280328,
+    "gn:latitude":9.09423,
+    "gn:longitude":-7.59516,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Toumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280328
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"644bd05c3cd857839613a68d304c1569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1243098483,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1243098483,
+    "wof:lastmodified":1536809697,
+    "wof:name":"Toumba",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59516,
+    9.09423,
+    -7.59516,
+    9.09423
+],
+  "geometry": {"coordinates":[-7.59516,9.09423],"type":"Point"}
+}

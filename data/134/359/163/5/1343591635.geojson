@@ -1,0 +1,67 @@
+{
+  "id": 1343591635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.20667,7.66028,-4.20667,7.66028",
+    "geom:latitude":7.66028,
+    "geom:longitude":-4.20667,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Doudoni-Gue",
+    "gn:country_code":"CI",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289674,
+    "gn:latitude":7.66028,
+    "gn:longitude":-4.20667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Doudoni-Gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289674
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a871ed42e98f5b5609da7e04af518b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1343591635,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1343591635,
+    "wof:lastmodified":1537052328,
+    "wof:name":"Doudoni-Gue",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.20667,
+    7.66028,
+    -4.20667,
+    7.66028
+],
+  "geometry": {"coordinates":[-4.20667,7.66028],"type":"Point"}
+}

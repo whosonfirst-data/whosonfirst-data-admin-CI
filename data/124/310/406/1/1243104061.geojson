@@ -1,0 +1,71 @@
+{
+  "id": 1243104061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94578,6.74406,-6.94578,6.74406",
+    "geom:latitude":6.74406,
+    "geom:longitude":-6.94578,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Dileya",
+    "gn:country_code":"CI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289988,
+    "gn:latitude":6.74406,
+    "gn:longitude":-6.94578,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dil\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9l\u00e9ya",
+        "Dil\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289988
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"46d647a541739e8a75938b7220b5b767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1243104061,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1243104061,
+    "wof:lastmodified":1537591039,
+    "wof:name":"Dileya",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94578,
+    6.74406,
+    -6.94578,
+    6.74406
+],
+  "geometry": {"coordinates":[-6.94578,6.74406],"type":"Point"}
+}

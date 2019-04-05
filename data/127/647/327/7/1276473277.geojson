@@ -1,0 +1,67 @@
+{
+  "id": 1276473277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13716,6.61251,-8.13716,6.61251",
+    "geom:latitude":6.61251,
+    "geom:longitude":-8.13716,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ganhia",
+    "gn:country_code":"CI",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288784,
+    "gn:latitude":6.61251,
+    "gn:longitude":-8.13716,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ganhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288784
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0c3059ac4eb8f3d39391064956638a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1276473277,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1276473277,
+    "wof:lastmodified":1537085464,
+    "wof:name":"Ganhia",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13716,
+    6.61251,
+    -8.13716,
+    6.61251
+],
+  "geometry": {"coordinates":[-8.13716,6.61251],"type":"Point"}
+}

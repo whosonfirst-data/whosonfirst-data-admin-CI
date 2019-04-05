@@ -1,0 +1,61 @@
+{
+  "id": 1209035431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04978,7.3446,-5.04978,7.3446",
+    "geom:latitude":7.3446,
+    "geom:longitude":-5.04978,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Mafe",
+    "gn:country_code":"CI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284749,
+    "gn:latitude":7.3446,
+    "gn:longitude":-5.04978,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Maf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284749
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"901065d8f44d0cfeb940fec5223ccdfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209035431
+        }
+    ],
+    "wof:id":1209035431,
+    "wof:lastmodified":1536299716,
+    "wof:name":"Mafe",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04978,
+    7.3446,
+    -5.04978,
+    7.3446
+],
+  "geometry": {"coordinates":[-5.04978,7.3446],"type":"Point"}
+}

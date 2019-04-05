@@ -1,0 +1,72 @@
+{
+  "id": 1259411573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91781,8.57659,-6.91781,8.57659",
+    "geom:latitude":8.57659,
+    "geom:longitude":-6.91781,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Swaso",
+    "gn:country_code":"CI",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281158,
+    "gn:latitude":8.57659,
+    "gn:longitude":-6.91781,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Swaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suasso",
+        "Souasso",
+        "Swaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281158
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4e829a60f0fde960e65e414b4a2a9ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1259411573,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1259411573,
+    "wof:lastmodified":1537590919,
+    "wof:name":"Swaso",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91781,
+    8.57659,
+    -6.91781,
+    8.57659
+],
+  "geometry": {"coordinates":[-6.91781,8.57659],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293625635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64508,5.77991,-5.64508,5.77991",
+    "geom:latitude":5.77991,
+    "geom:longitude":-5.64508,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Bogalilie I",
+    "gn:country_code":"CI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291335,
+    "gn:latitude":5.77991,
+    "gn:longitude":-5.64508,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bogalili\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291335
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e51e6465c2130a146d5e48a3af6b4964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1293625635,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1293625635,
+    "wof:lastmodified":1537081780,
+    "wof:name":"Bogalilie I",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64508,
+    5.77991,
+    -5.64508,
+    5.77991
+],
+  "geometry": {"coordinates":[-5.64508,5.77991],"type":"Point"}
+}

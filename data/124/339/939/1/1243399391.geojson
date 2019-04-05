@@ -1,0 +1,67 @@
+{
+  "id": 1243399391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78705,8.24206,-2.78705,8.24206",
+    "geom:latitude":8.24206,
+    "geom:longitude":-2.78705,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Motoukoua",
+    "gn:country_code":"CI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284188,
+    "gn:latitude":8.24206,
+    "gn:longitude":-2.78705,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Motoukoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284188
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4e333a2abd7a0561f1ed0b2b83fdc6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1243399391,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1243399391,
+    "wof:lastmodified":1536872434,
+    "wof:name":"Motoukoua",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78705,
+    8.24206,
+    -2.78705,
+    8.24206
+],
+  "geometry": {"coordinates":[-2.78705,8.24206],"type":"Point"}
+}

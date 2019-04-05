@@ -1,0 +1,71 @@
+{
+  "id": 1293718277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5768,9.37431,-5.5768,9.37431",
+    "geom:latitude":9.37431,
+    "geom:longitude":-5.5768,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Dagbonkaha",
+    "gn:country_code":"CI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290548,
+    "gn:latitude":9.37431,
+    "gn:longitude":-5.5768,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dagbonkaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagbankaha",
+        "Dagbonkaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290548
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5bb0d735df29a6e899d0663ed07f1e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1293718277,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293718277,
+    "wof:lastmodified":1537591048,
+    "wof:name":"Dagbonkaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5768,
+    9.37431,
+    -5.5768,
+    9.37431
+],
+  "geometry": {"coordinates":[-5.5768,9.37431],"type":"Point"}
+}

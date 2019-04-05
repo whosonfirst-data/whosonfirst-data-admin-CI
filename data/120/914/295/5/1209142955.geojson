@@ -1,0 +1,61 @@
+{
+  "id": 1209142955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21557,7.21723,-8.21557,7.21723",
+    "geom:latitude":7.21723,
+    "geom:longitude":-8.21557,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Deahouepleu",
+    "gn:country_code":"CI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290358,
+    "gn:latitude":7.21723,
+    "gn:longitude":-8.21557,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"D\u00e9ahou\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290358
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ad98fd84e11b63d22250b4125599a1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142955
+        }
+    ],
+    "wof:id":1209142955,
+    "wof:lastmodified":1536296445,
+    "wof:name":"Deahouepleu",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21557,
+    7.217230000000002,
+    -8.21557,
+    7.217230000000002
+],
+  "geometry": {"coordinates":[-8.21557,7.21723],"type":"Point"}
+}

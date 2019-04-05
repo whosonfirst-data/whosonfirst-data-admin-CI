@@ -1,0 +1,71 @@
+{
+  "id": 1326466533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.75868,8.32055,-4.75868,8.32055",
+    "geom:latitude":8.32055,
+    "geom:longitude":-4.75868,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Karpele",
+    "gn:country_code":"CI",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287356,
+    "gn:latitude":8.32055,
+    "gn:longitude":-4.75868,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Karp\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karp\u00e9l\u00e9",
+        "Krap\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287356
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1ccb591fab66d71ebb723afefc4d1888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1326466533,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1326466533,
+    "wof:lastmodified":1537590999,
+    "wof:name":"Karpele",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.75868,
+    8.32055,
+    -4.75868,
+    8.32055
+],
+  "geometry": {"coordinates":[-4.75868,8.32055],"type":"Point"}
+}

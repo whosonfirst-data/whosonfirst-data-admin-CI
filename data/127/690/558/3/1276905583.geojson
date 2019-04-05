@@ -1,0 +1,72 @@
+{
+  "id": 1276905583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38272,8.15174,-4.38272,8.15174",
+    "geom:latitude":8.15174,
+    "geom:longitude":-4.38272,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Diendana-Sokoura",
+    "gn:country_code":"CI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290073,
+    "gn:latitude":8.15174,
+    "gn:longitude":-4.38272,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Diendana-Sokoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diend\u00e9ma-Sokora",
+        "Diendana",
+        "Diendana-Sokoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290073
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"395271b46e63827f480fe7d7a7f45f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1276905583,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1276905583,
+    "wof:lastmodified":1537591040,
+    "wof:name":"Diendana-Sokoura",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38272,
+    8.15174,
+    -4.38272,
+    8.15174
+],
+  "geometry": {"coordinates":[-4.38272,8.15174],"type":"Point"}
+}

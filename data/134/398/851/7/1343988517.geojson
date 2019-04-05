@@ -1,0 +1,73 @@
+{
+  "id": 1343988517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.32285,9.28498,-6.32285,9.28498",
+    "geom:latitude":9.28498,
+    "geom:longitude":-6.32285,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Ganaoni",
+    "gn:country_code":"CI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283723,
+    "gn:latitude":9.28498,
+    "gn:longitude":-6.32285,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ganaoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nganoni",
+        "Nganaoni",
+        "Ganaoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283723,
+        "wk:page":"Ganaoni"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7c81fd48caff5d4f1d4086c46229db21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1343988517,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343988517,
+    "wof:lastmodified":1537590954,
+    "wof:name":"Ganaoni",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.32285,
+    9.28498,
+    -6.32285,
+    9.28498
+],
+  "geometry": {"coordinates":[-6.32285,9.28498],"type":"Point"}
+}

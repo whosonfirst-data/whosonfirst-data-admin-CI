@@ -1,0 +1,67 @@
+{
+  "id": 1243203109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67289,6.82195,-4.67289,6.82195",
+    "geom:latitude":6.82195,
+    "geom:longitude":-4.67289,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Kayabo",
+    "gn:country_code":"CI",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7859729,
+    "gn:latitude":6.82195,
+    "gn:longitude":-4.67289,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Kayabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7859729
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3615934a59922a48fb8c000ef1ae64ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1243203109,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1243203109,
+    "wof:lastmodified":1536659566,
+    "wof:name":"Kayabo",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67289,
+    6.82195,
+    -4.67289,
+    6.82195
+],
+  "geometry": {"coordinates":[-4.67289,6.82195],"type":"Point"}
+}

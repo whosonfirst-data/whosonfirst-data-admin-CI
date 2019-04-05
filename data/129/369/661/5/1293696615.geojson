@@ -1,0 +1,67 @@
+{
+  "id": 1293696615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91667,4.63333,-6.91667,4.63333",
+    "geom:latitude":4.63333,
+    "geom:longitude":-6.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gbaoulo",
+    "gn:cc2":"CI",
+    "gn:country_code":"CI",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288676,
+    "gn:latitude":4.63333,
+    "gn:longitude":-6.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gbaoulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bablo",
+        "Baoulo",
+        "Gbaoulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288676
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5baffe4df92d1ccbc22afb1cfc0e2a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293696615,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293696615,
+    "wof:lastmodified":1537591021,
+    "wof:name":"Gbaoulo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91667,
+    4.63333,
+    -6.91667,
+    4.63333
+],
+  "geometry": {"coordinates":[-6.91667,4.63333],"type":"Point"}
+}

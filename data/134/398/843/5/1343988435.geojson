@@ -1,0 +1,71 @@
+{
+  "id": 1343988435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40143,5.82056,-7.40143,5.82056",
+    "geom:latitude":5.82056,
+    "geom:longitude":-7.40143,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Pauleoula",
+    "gn:country_code":"CI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282610,
+    "gn:latitude":5.82056,
+    "gn:longitude":-7.40143,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Paul\u00e9oula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paul\u00e9oula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282610,
+        "wk:page":"Paul%C3%A9oula"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8edb976ca1c565fd304d0fb22c30c434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1343988435,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1343988435,
+    "wof:lastmodified":1537590939,
+    "wof:name":"Pauleoula",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40143,
+    5.82056,
+    -7.40143,
+    5.82056
+],
+  "geometry": {"coordinates":[-7.40143,5.82056],"type":"Point"}
+}

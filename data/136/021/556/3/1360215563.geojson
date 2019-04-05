@@ -1,0 +1,67 @@
+{
+  "id": 1360215563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27094,5.97668,-4.27094,5.97668",
+    "geom:latitude":5.97668,
+    "geom:longitude":-4.27094,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Kotou Missako",
+    "gn:country_code":"CI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032832,
+    "gn:latitude":5.97668,
+    "gn:longitude":-4.27094,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Kotou Missako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032832
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"16df1b1220ef9b5ca4fdd0bf9d122571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1360215563,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1360215563,
+    "wof:lastmodified":1536757663,
+    "wof:name":"Kotou Missako",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27094,
+    5.97668,
+    -4.27094,
+    5.97668
+],
+  "geometry": {"coordinates":[-4.27094,5.97668],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310441241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56229,5.18642,-4.56229,5.18642",
+    "geom:latitude":5.18642,
+    "geom:longitude":-4.56229,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Adjacouti",
+    "gn:country_code":"CI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293376,
+    "gn:latitude":5.18642,
+    "gn:longitude":-4.56229,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Adjacouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajaconti",
+        "Adjacouti\u00e9",
+        "Adjakouti",
+        "Adjacouty",
+        "Adjaconti",
+        "Adjacouti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293376
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"62e00d96b8988fb1e75f6fbc91a19331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1310441241,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1310441241,
+    "wof:lastmodified":1537591087,
+    "wof:name":"Adjacouti",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56229,
+    5.18642,
+    -4.56229,
+    5.18642
+],
+  "geometry": {"coordinates":[-4.56229,5.18642],"type":"Point"}
+}

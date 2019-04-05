@@ -1,0 +1,81 @@
+{
+  "id": 1292940817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41491,6.67138,-8.41491,6.67138",
+    "geom:latitude":6.67138,
+    "geom:longitude":-8.41491,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gueiossepleu",
+    "gn:country_code":"CI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288023,
+    "gn:latitude":6.67138,
+    "gn:longitude":-8.41491,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gu\u00e9ioss\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9ioss\u00e9pleu",
+        "Gu\u00e9iossi\u00e9pleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288023
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"91d0487baf9039e9482f289e5e3a25a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1292940817,
+            "region_id":85673551
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1292940817,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1292940817,
+    "wof:lastmodified":1537591008,
+    "wof:name":"Gueiossepleu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41491,
+    6.67138,
+    -8.41491,
+    6.67138
+],
+  "geometry": {"coordinates":[-8.41491,6.67138],"type":"Point"}
+}

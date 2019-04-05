@@ -1,0 +1,71 @@
+{
+  "id": 1293619921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15009,7.88279,-5.15009,7.88279",
+    "geom:latitude":7.88279,
+    "geom:longitude":-5.15009,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Nguessan kiekro",
+    "gn:country_code":"CI",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283666,
+    "gn:latitude":7.88279,
+    "gn:longitude":-5.15009,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nguessan ki\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguessan ki\u00e9kro",
+        "Nguessanki\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283666
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a6587da6f940cd5d0cf0cd5acfdb79be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1293619921,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1293619921,
+    "wof:lastmodified":1537590953,
+    "wof:name":"Nguessan kiekro",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15009,
+    7.88279,
+    -5.15009,
+    7.88279
+],
+  "geometry": {"coordinates":[-5.15009,7.88279],"type":"Point"}
+}

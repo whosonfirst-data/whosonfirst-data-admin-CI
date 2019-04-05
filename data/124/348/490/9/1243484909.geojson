@@ -1,0 +1,67 @@
+{
+  "id": 1243484909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67588,9.41248,-4.67588,9.41248",
+    "geom:latitude":9.41248,
+    "geom:longitude":-4.67588,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Massetougoda",
+    "gn:country_code":"CI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284509,
+    "gn:latitude":9.41248,
+    "gn:longitude":-4.67588,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mass\u00e9tougoda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284509
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5a2c448b859bfcbaea6ae9fdcdaef017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1243484909,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1243484909,
+    "wof:lastmodified":1536750050,
+    "wof:name":"Massetougoda",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67588,
+    9.41248,
+    -4.67588,
+    9.41248
+],
+  "geometry": {"coordinates":[-4.67588,9.41248],"type":"Point"}
+}

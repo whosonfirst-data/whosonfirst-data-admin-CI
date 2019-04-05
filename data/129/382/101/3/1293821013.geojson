@@ -1,0 +1,73 @@
+{
+  "id": 1293821013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2355,6.79519,-6.2355,6.79519",
+    "geom:latitude":6.79519,
+    "geom:longitude":-6.2355,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zaliohouan",
+    "gn:country_code":"CI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279495,
+    "gn:latitude":6.79519,
+    "gn:longitude":-6.2355,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zaliohouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaliouan",
+        "Zaliohouan",
+        "Zalihouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279495,
+        "wk:page":"Zaliohouan"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2393b92fccd49e897c3774492a72a02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293821013,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293821013,
+    "wof:lastmodified":1537590894,
+    "wof:name":"Zaliohouan",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2355,
+    6.79519,
+    -6.2355,
+    6.79519
+],
+  "geometry": {"coordinates":[-6.2355,6.79519],"type":"Point"}
+}

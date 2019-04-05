@@ -1,0 +1,67 @@
+{
+  "id": 1276911327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.03333,7.13333,-4.03333,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-4.03333,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Bokakro",
+    "gn:country_code":"CI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291245,
+    "gn:latitude":7.13333,
+    "gn:longitude":-4.03333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Bokakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291245
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"66d01cd16a3c2368592691308db12a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1276911327,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1276911327,
+    "wof:lastmodified":1536998206,
+    "wof:name":"Bokakro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.03333,
+    7.13333,
+    -4.03333,
+    7.13333
+],
+  "geometry": {"coordinates":[-4.03333,7.13333],"type":"Point"}
+}

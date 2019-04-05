@@ -1,0 +1,72 @@
+{
+  "id": 1343693091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.58599,9.09681,-4.58599,9.09681",
+    "geom:latitude":9.09681,
+    "geom:longitude":-4.58599,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Teneguera",
+    "gn:country_code":"CI",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280838,
+    "gn:latitude":9.09681,
+    "gn:longitude":-4.58599,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"T\u00e9n\u00e9gu\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teningara",
+        "Teninguera",
+        "T\u00e9n\u00e9gu\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280838
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d89f9419a70884ff5ed3130bc3ddcb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1343693091,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343693091,
+    "wof:lastmodified":1537590915,
+    "wof:name":"Teneguera",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.58599,
+    9.09681,
+    -4.58599,
+    9.09681
+],
+  "geometry": {"coordinates":[-4.58599,9.09681],"type":"Point"}
+}

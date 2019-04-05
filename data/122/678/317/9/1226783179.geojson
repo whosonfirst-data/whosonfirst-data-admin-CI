@@ -1,0 +1,67 @@
+{
+  "id": 1226783179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47332,7.069,-7.47332,7.069",
+    "geom:latitude":7.069,
+    "geom:longitude":-7.47332,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Seba",
+    "gn:country_code":"CI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281920,
+    "gn:latitude":7.069,
+    "gn:longitude":-7.47332,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"S\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281920
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a1615ed0049de233fb3e7e3693f168a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1226783179,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1226783179,
+    "wof:lastmodified":1536661685,
+    "wof:name":"Seba",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47332,
+    7.069,
+    -7.47332,
+    7.069
+],
+  "geometry": {"coordinates":[-7.47332,7.069],"type":"Point"}
+}

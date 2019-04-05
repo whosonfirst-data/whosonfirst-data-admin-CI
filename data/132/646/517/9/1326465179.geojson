@@ -1,0 +1,72 @@
+{
+  "id": 1326465179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41398,5.40157,-4.41398,5.40157",
+    "geom:latitude":5.40157,
+    "geom:longitude":-4.41398,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Orbaff",
+    "gn:country_code":"CI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282957,
+    "gn:latitude":5.40157,
+    "gn:longitude":-4.41398,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Orbaff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orbaf",
+        "Orbaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282957,
+        "wk:page":"Orbaff"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7d229c2e95cb5d3cb4b1b489df1c2b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1326465179,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1326465179,
+    "wof:lastmodified":1537590943,
+    "wof:name":"Orbaff",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41398,
+    5.40157,
+    -4.41398,
+    5.40157
+],
+  "geometry": {"coordinates":[-4.41398,5.40157],"type":"Point"}
+}

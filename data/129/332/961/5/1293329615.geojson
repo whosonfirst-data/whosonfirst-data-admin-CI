@@ -1,0 +1,67 @@
+{
+  "id": 1293329615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.39726,6.77074,-6.39726,6.77074",
+    "geom:latitude":6.77074,
+    "geom:longitude":-6.39726,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Bolia",
+    "gn:country_code":"CI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291195,
+    "gn:latitude":6.77074,
+    "gn:longitude":-6.39726,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bolia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291195
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"020cefc458933d0f9b728ac8bbec530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293329615,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293329615,
+    "wof:lastmodified":1537013870,
+    "wof:name":"Bolia",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39726,
+    6.77074,
+    -6.39726,
+    6.77074
+],
+  "geometry": {"coordinates":[-6.39726,6.77074],"type":"Point"}
+}

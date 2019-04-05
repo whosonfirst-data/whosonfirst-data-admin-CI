@@ -1,0 +1,67 @@
+{
+  "id": 1242808763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65353,5.50208,-3.65353,5.50208",
+    "geom:latitude":5.50208,
+    "geom:longitude":-3.65353,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Kodja",
+    "gn:country_code":"CI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033092,
+    "gn:latitude":5.50208,
+    "gn:longitude":-3.65353,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Kodja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033092
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"29c3640d6cb9a839cb5ebc1cf8ca08af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1242808763,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1242808763,
+    "wof:lastmodified":1536731124,
+    "wof:name":"Kodja",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65353,
+    5.50208,
+    -3.65353,
+    5.50208
+],
+  "geometry": {"coordinates":[-3.65353,5.50208],"type":"Point"}
+}

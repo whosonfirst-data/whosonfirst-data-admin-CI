@@ -1,0 +1,67 @@
+{
+  "id": 1276908877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5,9.86667,-3.5,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":-3.5,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Vinverena",
+    "gn:country_code":"CI",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280029,
+    "gn:latitude":9.86667,
+    "gn:longitude":-3.5,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Vinv\u00e9r\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280029
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a89df9153ec6abd2474367ee19c984e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1276908877,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276908877,
+    "wof:lastmodified":1537001671,
+    "wof:name":"Vinverena",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5,
+    9.86667,
+    -3.5,
+    9.86667
+],
+  "geometry": {"coordinates":[-3.5,9.86667],"type":"Point"}
+}

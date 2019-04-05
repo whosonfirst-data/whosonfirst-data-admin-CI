@@ -1,0 +1,61 @@
+{
+  "id": 1209345079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3062,6.96005,-8.3062,6.96005",
+    "geom:latitude":6.96005,
+    "geom:longitude":-8.3062,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Doueleu",
+    "gn:country_code":"CI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289662,
+    "gn:latitude":6.96005,
+    "gn:longitude":-8.3062,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dou\u00e9leu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289662
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8ceeb1b282fad4e473770a5ec75136b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209345079
+        }
+    ],
+    "wof:id":1209345079,
+    "wof:lastmodified":1536289939,
+    "wof:name":"Doueleu",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3062,
+    6.96005,
+    -8.3062,
+    6.96005
+],
+  "geometry": {"coordinates":[-8.3062,6.96005],"type":"Point"}
+}

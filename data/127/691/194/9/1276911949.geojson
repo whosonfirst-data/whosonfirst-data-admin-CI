@@ -1,0 +1,71 @@
+{
+  "id": 1276911949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9828,7.40715,-4.9828,7.40715",
+    "geom:latitude":7.40715,
+    "geom:longitude":-4.9828,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Mlonouble",
+    "gn:country_code":"CI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284263,
+    "gn:latitude":7.40715,
+    "gn:longitude":-4.9828,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mlonoubl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlonoubl\u00e9",
+        "Molonoubl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284263
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3178b09a8e38c19d4de9d1c92ca2b153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1276911949,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1276911949,
+    "wof:lastmodified":1537590962,
+    "wof:name":"Mlonouble",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9828,
+    7.40715,
+    -4.9828,
+    7.40715
+],
+  "geometry": {"coordinates":[-4.9828,7.40715],"type":"Point"}
+}

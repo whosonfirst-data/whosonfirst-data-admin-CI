@@ -1,0 +1,106 @@
+{
+  "id": 421182037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05054,7.43027,-6.05054,7.43027",
+    "geom:latitude":7.43027,
+    "geom:longitude":-6.05054,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:eng_x_preferred":[
+        "Zu\u00e9noula Department"
+    ],
+    "name:est_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:fre_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:may_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:rum_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Zu\u00e9noula"
+    ],
+    "name:swe_x_preferred":[
+        "Zu\u00e9noula"
+    ],
+    "name:unk_x_variant":[
+        "Z\u00e9noula"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2279172,
+    "qs:gn_pop":34435,
+    "qs:name":"Zuenoula",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Marahou\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":542821,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":56125407,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279172,
+        "gp:id":56125407,
+        "qs:id":542821,
+        "wd:id":"Q3576317"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009316,
+    "wof:geomhash":"928bc982e9d2e3fa4ba518525be6fb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421182037,
+            "region_id":1108806117
+        }
+    ],
+    "wof:id":421182037,
+    "wof:lastmodified":1527726436,
+    "wof:name":"Zuenoula",
+    "wof:parent_id":1108806117,
+    "wof:placetype":"locality",
+    "wof:population":34435,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05054,
+    7.43027,
+    -6.05054,
+    7.43027
+],
+  "geometry": {"coordinates":[-6.05054,7.43027],"type":"Point"}
+}

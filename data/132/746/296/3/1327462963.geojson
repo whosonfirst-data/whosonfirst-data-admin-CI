@@ -1,0 +1,67 @@
+{
+  "id": 1327462963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18665,9.18103,-5.18665,9.18103",
+    "geom:latitude":9.18103,
+    "geom:longitude":-5.18665,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kafelekaha",
+    "gn:country_code":"CI",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287697,
+    "gn:latitude":9.18103,
+    "gn:longitude":-5.18665,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kaf\u00e9l\u00e9kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287697
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bc761e882df419ab19db89d409bc0cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1327462963,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327462963,
+    "wof:lastmodified":1536635483,
+    "wof:name":"Kafelekaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18665,
+    9.18103,
+    -5.18665,
+    9.18103
+],
+  "geometry": {"coordinates":[-5.18665,9.18103],"type":"Point"}
+}

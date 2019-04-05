@@ -1,0 +1,71 @@
+{
+  "id": 1309746121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2671,6.67193,-4.2671,6.67193",
+    "geom:latitude":6.67193,
+    "geom:longitude":-4.2671,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Tanosso",
+    "gn:country_code":"CI",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281000,
+    "gn:latitude":6.67193,
+    "gn:longitude":-4.2671,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tanosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanasso",
+        "Tanosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281000
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7a3d6cdb9eba6684902e8109df17409a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1309746121,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1309746121,
+    "wof:lastmodified":1537590917,
+    "wof:name":"Tanosso",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2671,
+    6.67193,
+    -4.2671,
+    6.67193
+],
+  "geometry": {"coordinates":[-4.2671,6.67193],"type":"Point"}
+}

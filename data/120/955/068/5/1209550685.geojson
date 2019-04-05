@@ -1,0 +1,66 @@
+{
+  "id": 1209550685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72144,6.99426,-3.72144,6.99426",
+    "geom:latitude":6.99426,
+    "geom:longitude":-3.72144,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Elinso",
+    "gn:country_code":"CI",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289383,
+    "gn:latitude":6.99426,
+    "gn:longitude":-3.72144,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Elinso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elinsso",
+        "Elesso",
+        "Elinso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289383
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"307c596db765fecd312237dd4d5e2fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209550685
+        }
+    ],
+    "wof:id":1209550685,
+    "wof:lastmodified":1537591030,
+    "wof:name":"Elinso",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72144,
+    6.99426,
+    -3.72144,
+    6.99426
+],
+  "geometry": {"coordinates":[-3.72144,6.99426],"type":"Point"}
+}

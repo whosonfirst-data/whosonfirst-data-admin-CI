@@ -1,0 +1,64 @@
+{
+  "id": 1209546893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83563,6.07421,-5.83563,6.07421",
+    "geom:latitude":6.07421,
+    "geom:longitude":-5.83563,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Bobia",
+    "gn:country_code":"CI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291408,
+    "gn:latitude":6.07421,
+    "gn:longitude":-5.83563,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bobia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291408
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"042f7a2105188f8f61067103738f73d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546893
+        }
+    ],
+    "wof:id":1209546893,
+    "wof:lastmodified":1537591059,
+    "wof:name":"Bobia",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83563,
+    6.07421,
+    -5.83563,
+    6.07421
+],
+  "geometry": {"coordinates":[-5.83563,6.07421],"type":"Point"}
+}

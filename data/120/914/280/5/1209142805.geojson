@@ -1,0 +1,61 @@
+{
+  "id": 1209142805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21656,7.83337,-3.21656,7.83337",
+    "geom:latitude":7.83337,
+    "geom:longitude":-3.21656,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tangamourou",
+    "gn:country_code":"CI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280987,
+    "gn:latitude":7.83337,
+    "gn:longitude":-3.21656,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tangamourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280987
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9d62d1515a13c407be951c20cdc17db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142805
+        }
+    ],
+    "wof:id":1209142805,
+    "wof:lastmodified":1536296450,
+    "wof:name":"Tangamourou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21656,
+    7.833369999999999,
+    -3.21656,
+    7.833369999999999
+],
+  "geometry": {"coordinates":[-3.21656,7.83337],"type":"Point"}
+}

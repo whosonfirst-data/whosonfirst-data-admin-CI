@@ -1,0 +1,67 @@
+{
+  "id": 1277106009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31449,9.65997,-3.31449,9.65997",
+    "geom:latitude":9.65997,
+    "geom:longitude":-3.31449,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Borodouo",
+    "gn:country_code":"CI",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291044,
+    "gn:latitude":9.65997,
+    "gn:longitude":-3.31449,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Borodouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291044
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"44928bb6f71b80e9d433160ba5d429e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1277106009,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1277106009,
+    "wof:lastmodified":1536734343,
+    "wof:name":"Borodouo",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31449,
+    9.65997,
+    -3.31449,
+    9.65997
+],
+  "geometry": {"coordinates":[-3.31449,9.65997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343697861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.82677,7.73138,-3.82677,7.73138",
+    "geom:latitude":7.73138,
+    "geom:longitude":-3.82677,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kotobo",
+    "gn:country_code":"CI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286220,
+    "gn:latitude":7.73138,
+    "gn:longitude":-3.82677,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kotobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotoba",
+        "Kotobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286220
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aa5a74d3d9f880958ddfb0dd5705dfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1343697861,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1343697861,
+    "wof:lastmodified":1537590987,
+    "wof:name":"Kotobo",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.82677,
+    7.73138,
+    -3.82677,
+    7.73138
+],
+  "geometry": {"coordinates":[-3.82677,7.73138],"type":"Point"}
+}

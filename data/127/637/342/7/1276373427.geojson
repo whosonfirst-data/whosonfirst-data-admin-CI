@@ -1,0 +1,73 @@
+{
+  "id": 1276373427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40298,6.4625,-8.40298,6.4625",
+    "geom:latitude":6.4625,
+    "geom:longitude":-8.40298,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Bakoubli",
+    "gn:country_code":"CI",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292341,
+    "gn:latitude":6.4625,
+    "gn:longitude":-8.40298,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Bakoubli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baoubli",
+        "Baboubli",
+        "Bakoubli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292341,
+        "wk:page":"Bakoubli"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"828c9890ac1d46d2a2ce392354530449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1276373427,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1276373427,
+    "wof:lastmodified":1537591072,
+    "wof:name":"Bakoubli",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40298,
+    6.4625,
+    -8.40298,
+    6.4625
+],
+  "geometry": {"coordinates":[-8.40298,6.4625],"type":"Point"}
+}

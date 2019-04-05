@@ -1,0 +1,66 @@
+{
+  "id": 1209348731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19893,6.48154,-8.19893,6.48154",
+    "geom:latitude":6.48154,
+    "geom:longitude":-8.19893,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Koadguezon",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287036,
+    "gn:latitude":6.48154,
+    "gn:longitude":-8.19893,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Koadgu\u00e9zon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaodgu\u00e9zon",
+        "Koad\u00e9gu\u00e9zon",
+        "Koadgu\u00e9zon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287036
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d7750f17c916f32411f0633d07749053",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348731
+        }
+    ],
+    "wof:id":1209348731,
+    "wof:lastmodified":1537590995,
+    "wof:name":"Koadguezon",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19893,
+    6.48154,
+    -8.19893,
+    6.48154
+],
+  "geometry": {"coordinates":[-8.19893,6.48154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243293109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18985,5.87986,-5.18985,5.87986",
+    "geom:latitude":5.87986,
+    "geom:longitude":-5.18985,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Beheri",
+    "gn:country_code":"CI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291904,
+    "gn:latitude":5.87986,
+    "gn:longitude":-5.18985,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Beh\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9n\u00e9ri",
+        "Beh\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291904
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"68e9bac1f142d15d6b56e308ed19f155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1243293109,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1243293109,
+    "wof:lastmodified":1537591066,
+    "wof:name":"Beheri",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18985,
+    5.87986,
+    -5.18985,
+    5.87986
+],
+  "geometry": {"coordinates":[-5.18985,5.87986],"type":"Point"}
+}

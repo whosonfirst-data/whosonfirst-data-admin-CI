@@ -1,0 +1,71 @@
+{
+  "id": 1243206167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46485,5.30981,-4.46485,5.30981",
+    "geom:latitude":5.30981,
+    "geom:longitude":-4.46485,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Bodou",
+    "gn:country_code":"CI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291357,
+    "gn:latitude":5.30981,
+    "gn:longitude":-4.46485,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bodou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudou",
+        "Bodou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291357
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"650b42c57e25d1d695ac917e815ddb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1243206167,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1243206167,
+    "wof:lastmodified":1537591058,
+    "wof:name":"Bodou",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46485,
+    5.30981,
+    -4.46485,
+    5.30981
+],
+  "geometry": {"coordinates":[-4.46485,5.30981],"type":"Point"}
+}

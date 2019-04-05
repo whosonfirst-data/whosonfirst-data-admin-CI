@@ -1,0 +1,65 @@
+{
+  "id": 1209249653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80204,8.17149,-5.80204,8.17149",
+    "geom:latitude":8.17149,
+    "geom:longitude":-5.80204,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Koromabla",
+    "gn:country_code":"CI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286272,
+    "gn:latitude":8.17149,
+    "gn:longitude":-5.80204,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Koromabla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroumabla",
+        "Koromabla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286272
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ef84dcd54daff8e7edb37e84e129b570",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249653
+        }
+    ],
+    "wof:id":1209249653,
+    "wof:lastmodified":1537590988,
+    "wof:name":"Koromabla",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80204,
+    8.17149,
+    -5.80204,
+    8.17149
+],
+  "geometry": {"coordinates":[-5.80204,8.17149],"type":"Point"}
+}

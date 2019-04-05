@@ -1,0 +1,72 @@
+{
+  "id": 1243101077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84476,7.06992,-6.84476,7.06992",
+    "geom:latitude":7.06992,
+    "geom:longitude":-6.84476,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Monoko Zohi Deux",
+    "gn:country_code":"CI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284243,
+    "gn:latitude":7.06992,
+    "gn:longitude":-6.84476,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Monoko Zohi Deux",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monoko-Zoi",
+        "Monokon Zohi",
+        "Monoko Zohi Deux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284243
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5a5f2a2b48503d585336e922d409f70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1243101077,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1243101077,
+    "wof:lastmodified":1537590961,
+    "wof:name":"Monoko Zohi Deux",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84476,
+    7.06992,
+    -6.84476,
+    7.06992
+],
+  "geometry": {"coordinates":[-6.84476,7.06992],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260010585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.98424,7.63547,-4.98424,7.63547",
+    "geom:latitude":7.63547,
+    "geom:longitude":-4.98424,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Suibonou",
+    "gn:country_code":"CI",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281263,
+    "gn:latitude":7.63547,
+    "gn:longitude":-4.98424,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Suibonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souibonou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281263
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"faa930fadc7e42394827d26298e7b3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1260010585,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1260010585,
+    "wof:lastmodified":1537590920,
+    "wof:name":"Suibonou",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.98424,
+    7.63547,
+    -4.98424,
+    7.63547
+],
+  "geometry": {"coordinates":[-4.98424,7.63547],"type":"Point"}
+}

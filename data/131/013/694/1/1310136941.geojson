@@ -1,0 +1,72 @@
+{
+  "id": 1310136941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15,8.23333,-5.15,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":-5.15,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dakaha",
+    "gn:country_code":"CI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290524,
+    "gn:latitude":8.23333,
+    "gn:longitude":-5.15,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9nankaha",
+        "P\u00e9na-Kaha",
+        "Dakaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290524
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5f0b8ffe89f00caf7b75f2359f0414ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1310136941,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1310136941,
+    "wof:lastmodified":1537591047,
+    "wof:name":"Dakaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15,
+    8.23333,
+    -5.15,
+    8.23333
+],
+  "geometry": {"coordinates":[-5.15,8.23333],"type":"Point"}
+}

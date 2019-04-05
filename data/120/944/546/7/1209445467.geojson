@@ -1,0 +1,67 @@
+{
+  "id": 1209445467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89666,9.11687,-6.89666,9.11687",
+    "geom:latitude":9.11687,
+    "geom:longitude":-6.89666,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Gbonkaha",
+    "gn:country_code":"CI",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288597,
+    "gn:latitude":9.11687,
+    "gn:longitude":-6.89666,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gbonkaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbongaa",
+        "Gbongaha",
+        "Gbonkaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288597,
+        "wk:page":"Gbongaha"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8fac58a8c91176329e78c05c116d01d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209445467
+        }
+    ],
+    "wof:id":1209445467,
+    "wof:lastmodified":1537591019,
+    "wof:name":"Gbonkaha",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89666,
+    9.11687,
+    -6.89666,
+    9.11687
+],
+  "geometry": {"coordinates":[-6.89666,9.11687],"type":"Point"}
+}

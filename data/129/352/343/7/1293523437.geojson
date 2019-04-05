@@ -1,0 +1,72 @@
+{
+  "id": 1293523437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28808,7.14096,-8.28808,7.14096",
+    "geom:latitude":7.14096,
+    "geom:longitude":-8.28808,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Guedoloupleu",
+    "gn:country_code":"CI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288030,
+    "gn:latitude":7.14096,
+    "gn:longitude":-8.28808,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gu\u00e9doloupleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godoloupleu",
+        "Guedoloupleu",
+        "Gu\u00e9doloupleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288030
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"75cacb39bfaf9299887b5f5fb4afca36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1293523437,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1293523437,
+    "wof:lastmodified":1537591009,
+    "wof:name":"Guedoloupleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28808,
+    7.14096,
+    -8.28808,
+    7.14096
+],
+  "geometry": {"coordinates":[-8.28808,7.14096],"type":"Point"}
+}

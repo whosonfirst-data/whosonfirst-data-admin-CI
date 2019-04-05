@@ -1,0 +1,74 @@
+{
+  "id": 1193155555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07623,4.67703,-7.07623,4.67703",
+    "geom:latitude":4.67703,
+    "geom:longitude":-7.07623,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Grand Bereby",
+    "gn:country_code":"CI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8521317,
+    "gn:latitude":4.67703,
+    "gn:longitude":-7.07623,
+    "gn:modification_date":"2013-04-11",
+    "gn:name":"Grand B\u00e9r\u00e9by",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grand B\u00e9r\u00e9by"
+    ],
+    "name:fra_x_preferred":[
+        "Grand B\u00e9r\u00e9by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521317,
+        "wk:page":"Grand-B%C3%A9r%C3%A9by"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ed7dd5b028140077a3f87501bd89de29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1193155555,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1193155555,
+    "wof:lastmodified":1537591097,
+    "wof:name":"Grand Bereby",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07623,
+    4.67703,
+    -7.07623,
+    4.67703
+],
+  "geometry": {"coordinates":[-7.07623,4.67703],"type":"Point"}
+}

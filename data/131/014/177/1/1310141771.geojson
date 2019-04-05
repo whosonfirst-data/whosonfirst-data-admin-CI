@@ -1,0 +1,71 @@
+{
+  "id": 1310141771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36667,5.55,-5.36667,5.55",
+    "geom:latitude":5.55,
+    "geom:longitude":-5.36667,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Eremankono",
+    "gn:country_code":"CI",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289359,
+    "gn:latitude":5.55,
+    "gn:longitude":-5.36667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Er\u00e9mankono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emankono",
+        "Er\u00e9mankono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289359
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8e4d8c2b4119bb63729735a195f117d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1310141771,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1310141771,
+    "wof:lastmodified":1537591029,
+    "wof:name":"Eremankono",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36667,
+    5.55,
+    -5.36667,
+    5.55
+],
+  "geometry": {"coordinates":[-5.36667,5.55],"type":"Point"}
+}

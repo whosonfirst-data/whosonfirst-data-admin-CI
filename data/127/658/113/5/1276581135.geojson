@@ -1,0 +1,67 @@
+{
+  "id": 1276581135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39387,5.78625,-4.39387,5.78625",
+    "geom:latitude":5.78625,
+    "geom:longitude":-4.39387,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Odi Ngbesso",
+    "gn:country_code":"CI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032641,
+    "gn:latitude":5.78625,
+    "gn:longitude":-4.39387,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Odi Ngbesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032641
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6caaba7e36d35982657873af7b6cbfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1276581135,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1276581135,
+    "wof:lastmodified":1536944869,
+    "wof:name":"Odi Ngbesso",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39387,
+    5.78625,
+    -4.39387,
+    5.78625
+],
+  "geometry": {"coordinates":[-4.39387,5.78625],"type":"Point"}
+}

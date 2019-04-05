@@ -1,0 +1,107 @@
+{
+  "id": 421185599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95235,6.32035,-3.95235,6.32035",
+    "geom:latitude":6.32035,
+    "geom:longitude":-3.95235,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Affery"
+    ],
+    "name:dut_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:eng_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:fra_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:fre_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:may_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:msa_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:swe_x_preferred":[
+        "Affery"
+    ],
+    "name:unk_x_variant":[
+        "Grand Af\u00e9ri"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2288118,
+    "qs:gn_pop":29909,
+    "qs:name":"Affery",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Agn\u00e9by",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1034709,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":56123168,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288118,
+        "gp:id":56123168,
+        "qs:id":1034709,
+        "wd:id":"Q2826105",
+        "wk:page":"Aff\u00e9ry"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009448,
+    "wof:geomhash":"c39b230d685e84d43b8243128ee6ef92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421185599,
+            "region_id":1108806105
+        }
+    ],
+    "wof:id":421185599,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Affery",
+    "wof:parent_id":1108806105,
+    "wof:placetype":"locality",
+    "wof:population":29909,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95235,
+    6.32035,
+    -3.95235,
+    6.32035
+],
+  "geometry": {"coordinates":[-3.95235,6.32035],"type":"Point"}
+}

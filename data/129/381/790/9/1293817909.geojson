@@ -1,0 +1,67 @@
+{
+  "id": 1293817909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.70806,8.59226,-2.70806,8.59226",
+    "geom:latitude":8.59226,
+    "geom:longitude":-2.70806,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Bandoli",
+    "gn:country_code":"CI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292206,
+    "gn:latitude":8.59226,
+    "gn:longitude":-2.70806,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bandoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292206
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1398a9fda11ce1fe3f48a9459ebed1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1293817909,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1293817909,
+    "wof:lastmodified":1536807552,
+    "wof:name":"Bandoli",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.70806,
+    8.59226,
+    -2.70806,
+    8.59226
+],
+  "geometry": {"coordinates":[-2.70806,8.59226],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209345657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48189,7.52264,-5.48189,7.52264",
+    "geom:latitude":7.52264,
+    "geom:longitude":-5.48189,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Pambassou",
+    "gn:country_code":"CI",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282683,
+    "gn:latitude":7.52264,
+    "gn:longitude":-5.48189,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pambassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pambasou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282683
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d01b23c9bbd9a9ca6338a26185c9c3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209345657
+        }
+    ],
+    "wof:id":1209345657,
+    "wof:lastmodified":1537590940,
+    "wof:name":"Pambassou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48189,
+    7.52264,
+    -5.48189,
+    7.52264
+],
+  "geometry": {"coordinates":[-5.48189,7.52264],"type":"Point"}
+}

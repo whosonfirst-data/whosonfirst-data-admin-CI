@@ -1,0 +1,67 @@
+{
+  "id": 1343597141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.05674,4.69496,-7.05674,4.69496",
+    "geom:latitude":4.69496,
+    "geom:longitude":-7.05674,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Hinklo",
+    "gn:country_code":"CI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287885,
+    "gn:latitude":4.69496,
+    "gn:longitude":-7.05674,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Hinklo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287885
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"198d7c5a52f7453e6dc8835faeb1cce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1343597141,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343597141,
+    "wof:lastmodified":1537044514,
+    "wof:name":"Hinklo",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.05674,
+    4.69496,
+    -7.05674,
+    4.69496
+],
+  "geometry": {"coordinates":[-7.05674,4.69496],"type":"Point"}
+}

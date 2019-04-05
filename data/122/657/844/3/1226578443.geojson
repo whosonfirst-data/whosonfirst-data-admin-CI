@@ -1,0 +1,71 @@
+{
+  "id": 1226578443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.84079,7.74449,-3.84079,7.74449",
+    "geom:latitude":7.74449,
+    "geom:longitude":-3.84079,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Atimabo",
+    "gn:country_code":"CI",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292592,
+    "gn:latitude":7.74449,
+    "gn:longitude":-3.84079,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Atimabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Attimabo",
+        "Atimabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292592
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b515c3b326dd3a4dd9b70fc203ea74bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1226578443,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1226578443,
+    "wof:lastmodified":1537591075,
+    "wof:name":"Atimabo",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.84079,
+    7.74449,
+    -3.84079,
+    7.74449
+],
+  "geometry": {"coordinates":[-3.84079,7.74449],"type":"Point"}
+}

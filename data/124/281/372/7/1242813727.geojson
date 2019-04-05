@@ -1,0 +1,71 @@
+{
+  "id": 1242813727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23111,5.12159,-5.23111,5.12159",
+    "geom:latitude":5.12159,
+    "geom:longitude":-5.23111,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Greguiberi",
+    "gn:country_code":"CI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288089,
+    "gn:latitude":5.12159,
+    "gn:longitude":-5.23111,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gr\u00e9guib\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gr\u00e9gib\u00e9ri",
+        "Gr\u00e9guib\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288089
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"11421f7fa89461ad27a234c9ef952b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1242813727,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1242813727,
+    "wof:lastmodified":1537591010,
+    "wof:name":"Greguiberi",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23111,
+    5.12159,
+    -5.23111,
+    5.12159
+],
+  "geometry": {"coordinates":[-5.23111,5.12159],"type":"Point"}
+}

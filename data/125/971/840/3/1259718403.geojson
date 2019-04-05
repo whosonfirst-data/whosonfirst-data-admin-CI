@@ -1,0 +1,67 @@
+{
+  "id": 1259718403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.67791,8.87415,-5.67791,8.87415",
+    "geom:latitude":8.87415,
+    "geom:longitude":-5.67791,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Noufire",
+    "gn:country_code":"CI",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283237,
+    "gn:latitude":8.87415,
+    "gn:longitude":-5.67791,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Noufir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283237
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bd22ca4bf79c31edfed862397ca25419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1259718403,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1259718403,
+    "wof:lastmodified":1537016046,
+    "wof:name":"Noufire",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.67791,
+    8.87415,
+    -5.67791,
+    8.87415
+],
+  "geometry": {"coordinates":[-5.67791,8.87415],"type":"Point"}
+}

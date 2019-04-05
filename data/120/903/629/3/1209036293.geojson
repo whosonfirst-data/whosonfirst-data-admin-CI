@@ -1,0 +1,61 @@
+{
+  "id": 1209036293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.93599,9.40273,-2.93599,9.40273",
+    "geom:latitude":9.40273,
+    "geom:longitude":-2.93599,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Pouon",
+    "gn:country_code":"CI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282302,
+    "gn:latitude":9.40273,
+    "gn:longitude":-2.93599,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pouon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282302
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"55bd7dcf30a546ef76eafd0e3a888684",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209036293
+        }
+    ],
+    "wof:id":1209036293,
+    "wof:lastmodified":1536299690,
+    "wof:name":"Pouon",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9359900000000003,
+    9.40273,
+    -2.9359900000000003,
+    9.40273
+],
+  "geometry": {"coordinates":[-2.93599,9.40273],"type":"Point"}
+}

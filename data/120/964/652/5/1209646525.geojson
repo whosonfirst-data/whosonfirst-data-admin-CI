@@ -1,0 +1,61 @@
+{
+  "id": 1209646525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8121,5.92313,-3.8121,5.92313",
+    "geom:latitude":5.92313,
+    "geom:longitude":-3.8121,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapo Yapo",
+    "gn:country_code":"CI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033395,
+    "gn:latitude":5.92313,
+    "gn:longitude":-3.8121,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Yapo Yapo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033395
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e27936e8ea70fe32bbdc5002f185829d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209646525
+        }
+    ],
+    "wof:id":1209646525,
+    "wof:lastmodified":1536280718,
+    "wof:name":"Yapo Yapo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8121,
+    5.9231300000000005,
+    -3.8121,
+    5.9231300000000005
+],
+  "geometry": {"coordinates":[-3.8121,5.92313],"type":"Point"}
+}

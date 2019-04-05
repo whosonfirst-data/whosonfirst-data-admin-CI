@@ -1,0 +1,62 @@
+{
+  "id": 1209649947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44297,7.94669,-3.44297,7.94669",
+    "geom:latitude":7.94669,
+    "geom:longitude":-3.44297,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Namassi",
+    "gn:country_code":"CI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284038,
+    "gn:latitude":7.94669,
+    "gn:longitude":-3.44297,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Namassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284038,
+        "wk:page":"Namassi"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7f7f1198a7994381d6fcb34e38a141b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209649947
+        }
+    ],
+    "wof:id":1209649947,
+    "wof:lastmodified":1537489409,
+    "wof:name":"Namassi",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44297,
+    7.94669,
+    -3.44297,
+    7.94669
+],
+  "geometry": {"coordinates":[-3.44297,7.94669],"type":"Point"}
+}

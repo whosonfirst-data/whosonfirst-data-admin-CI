@@ -1,0 +1,67 @@
+{
+  "id": 1327269979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27909,6.86001,-8.27909,6.86001",
+    "geom:latitude":6.86001,
+    "geom:longitude":-8.27909,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Mahapleu II",
+    "gn:country_code":"CI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284718,
+    "gn:latitude":6.86001,
+    "gn:longitude":-8.27909,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mahapleu II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284718
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8072ac7e5e2047c6f4000eebbd3e7fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1327269979,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1327269979,
+    "wof:lastmodified":1536915812,
+    "wof:name":"Mahapleu II",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27909,
+    6.86001,
+    -8.27909,
+    6.86001
+],
+  "geometry": {"coordinates":[-8.27909,6.86001],"type":"Point"}
+}

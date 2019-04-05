@@ -1,0 +1,72 @@
+{
+  "id": 1344188199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6926,5.81083,-6.6926,5.81083",
+    "geom:latitude":5.81083,
+    "geom:longitude":-6.6926,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gnamandji",
+    "gn:country_code":"CI",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288489,
+    "gn:latitude":5.81083,
+    "gn:longitude":-6.6926,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gnamandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niamagu\u00e9",
+        "Niamagui",
+        "Gnamandji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288489
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7e3d4976269dcd7b10b68de393c5d9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1344188199,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1344188199,
+    "wof:lastmodified":1537591016,
+    "wof:name":"Gnamandji",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6926,
+    5.81083,
+    -6.6926,
+    5.81083
+],
+  "geometry": {"coordinates":[-6.6926,5.81083],"type":"Point"}
+}

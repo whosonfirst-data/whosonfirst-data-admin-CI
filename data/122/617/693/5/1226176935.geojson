@@ -1,0 +1,73 @@
+{
+  "id": 1226176935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.19024,6.01203,-3.19024,6.01203",
+    "geom:latitude":6.01203,
+    "geom:longitude":-3.19024,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Bianouan",
+    "gn:country_code":"CI",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291663,
+    "gn:latitude":6.01203,
+    "gn:longitude":-3.19024,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bianouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Byanouan",
+        "Bianuan",
+        "Bianouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291663,
+        "wk:page":"Bianouan"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4fe217df1d758eb9ed04c87cb4e7a7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1226176935,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1226176935,
+    "wof:lastmodified":1537591063,
+    "wof:name":"Bianouan",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.19024,
+    6.01203,
+    -3.19024,
+    6.01203
+],
+  "geometry": {"coordinates":[-3.19024,6.01203],"type":"Point"}
+}

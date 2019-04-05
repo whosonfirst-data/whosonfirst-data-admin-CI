@@ -1,0 +1,67 @@
+{
+  "id": 1326767125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.34727,5.93821,-4.34727,5.93821",
+    "geom:latitude":5.93821,
+    "geom:longitude":-4.34727,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Bahoua",
+    "gn:country_code":"CI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032550,
+    "gn:latitude":5.93821,
+    "gn:longitude":-4.34727,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Bahoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032550
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"67c7042a8f55b27d48fe6bfbc0d94ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1326767125,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1326767125,
+    "wof:lastmodified":1536644679,
+    "wof:name":"Bahoua",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.34727,
+    5.93821,
+    -4.34727,
+    5.93821
+],
+  "geometry": {"coordinates":[-4.34727,5.93821],"type":"Point"}
+}

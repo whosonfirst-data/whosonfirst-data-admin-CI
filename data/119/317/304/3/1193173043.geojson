@@ -1,0 +1,72 @@
+{
+  "id": 1193173043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60612,8.76847,-7.60612,8.76847",
+    "geom:latitude":8.76847,
+    "geom:longitude":-7.60612,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bambadougou",
+    "gn:country_code":"CI",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292292,
+    "gn:latitude":8.76847,
+    "gn:longitude":-7.60612,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bambadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banbadou",
+        "Bambadou",
+        "Bambadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292292
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9fa85c5179ffd7a87a24d9fed8057038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1193173043,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1193173043,
+    "wof:lastmodified":1537591071,
+    "wof:name":"Bambadougou",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60612,
+    8.76847,
+    -7.60612,
+    8.76847
+],
+  "geometry": {"coordinates":[-7.60612,8.76847],"type":"Point"}
+}

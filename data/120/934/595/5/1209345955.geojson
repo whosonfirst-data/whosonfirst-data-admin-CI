@@ -1,0 +1,65 @@
+{
+  "id": 1209345955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8165,6.02512,-3.8165,6.02512",
+    "geom:latitude":6.02512,
+    "geom:longitude":-3.8165,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Massandji",
+    "gn:country_code":"CI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284514,
+    "gn:latitude":6.02512,
+    "gn:longitude":-3.8165,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Massandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massadji",
+        "Massandji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284514
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"777461883fe367ce304cd2df2ff722da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209345955
+        }
+    ],
+    "wof:id":1209345955,
+    "wof:lastmodified":1537590966,
+    "wof:name":"Massandji",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8165,
+    6.02512,
+    -3.8165,
+    6.02512
+],
+  "geometry": {"coordinates":[-3.8165,6.02512],"type":"Point"}
+}

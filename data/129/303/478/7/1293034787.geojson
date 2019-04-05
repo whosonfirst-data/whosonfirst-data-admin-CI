@@ -1,0 +1,67 @@
+{
+  "id": 1293034787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52466,5.25287,-5.52466,5.25287",
+    "geom:latitude":5.25287,
+    "geom:longitude":-5.52466,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Tetidou",
+    "gn:country_code":"CI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280797,
+    "gn:latitude":5.25287,
+    "gn:longitude":-5.52466,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"T\u00e9tidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280797
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6adab08691c9f35ccbb6a6ed0cd0106f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1293034787,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293034787,
+    "wof:lastmodified":1536943338,
+    "wof:name":"Tetidou",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.52466,
+    5.25287,
+    -5.52466,
+    5.25287
+],
+  "geometry": {"coordinates":[-5.52466,5.25287],"type":"Point"}
+}

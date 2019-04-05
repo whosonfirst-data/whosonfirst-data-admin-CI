@@ -1,0 +1,67 @@
+{
+  "id": 1225875751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55808,7.81648,-7.55808,7.81648",
+    "geom:latitude":7.81648,
+    "geom:longitude":-7.55808,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Doualeba",
+    "gn:country_code":"CI",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289696,
+    "gn:latitude":7.81648,
+    "gn:longitude":-7.55808,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Doual\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289696
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"15d13631337578c52ab2706dbe0db4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1225875751,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1225875751,
+    "wof:lastmodified":1536970156,
+    "wof:name":"Doualeba",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55808,
+    7.81648,
+    -7.55808,
+    7.81648
+],
+  "geometry": {"coordinates":[-7.55808,7.81648],"type":"Point"}
+}

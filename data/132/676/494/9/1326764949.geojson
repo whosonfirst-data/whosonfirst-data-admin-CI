@@ -1,0 +1,71 @@
+{
+  "id": 1326764949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58163,7.45544,-7.58163,7.45544",
+    "geom:latitude":7.45544,
+    "geom:longitude":-7.58163,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Yebegouen",
+    "gn:country_code":"CI",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279674,
+    "gn:latitude":7.45544,
+    "gn:longitude":-7.58163,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Y\u00e9b\u00e9gouen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e9b\u00e9gouin",
+        "Y\u00e9b\u00e9gouen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279674
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"97e72ad3d10da3115d901dacac2aa6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1326764949,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1326764949,
+    "wof:lastmodified":1537590897,
+    "wof:name":"Yebegouen",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58163,
+    7.45544,
+    -7.58163,
+    7.45544
+],
+  "geometry": {"coordinates":[-7.58163,7.45544],"type":"Point"}
+}

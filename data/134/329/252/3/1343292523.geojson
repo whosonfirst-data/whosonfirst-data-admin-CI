@@ -1,0 +1,71 @@
+{
+  "id": 1343292523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26667,9.61667,-5.26667,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-5.26667,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Fyatonvogo",
+    "gn:country_code":"CI",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288858,
+    "gn:latitude":9.61667,
+    "gn:longitude":-5.26667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Fyatonvogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiatonvogo",
+        "Fyatonvogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288858
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8d54c461a85203a820a6fb6f8a2d4d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1343292523,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343292523,
+    "wof:lastmodified":1537591025,
+    "wof:name":"Fyatonvogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26667,
+    9.61667,
+    -5.26667,
+    9.61667
+],
+  "geometry": {"coordinates":[-5.26667,9.61667],"type":"Point"}
+}

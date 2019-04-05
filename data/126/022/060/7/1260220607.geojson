@@ -1,0 +1,74 @@
+{
+  "id": 1260220607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.14037,5.2146,-5.14037,5.2146",
+    "geom:latitude":5.2146,
+    "geom:longitude":-5.14037,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Gegboudougou",
+    "gn:country_code":"CI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288567,
+    "gn:latitude":5.2146,
+    "gn:longitude":-5.14037,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"G\u00e9gboudougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Digb\u00e9dougou",
+        "Guegboudoukou",
+        "Doubou\u00e9dou",
+        "Doubou\u00e9don",
+        "G\u00e9gboudougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288567
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0da2146b36f6974840deab1093474f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1260220607,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1260220607,
+    "wof:lastmodified":1537591018,
+    "wof:name":"Gegboudougou",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.14037,
+    5.2146,
+    -5.14037,
+    5.2146
+],
+  "geometry": {"coordinates":[-5.14037,5.2146],"type":"Point"}
+}

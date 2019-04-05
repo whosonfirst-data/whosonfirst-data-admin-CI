@@ -1,0 +1,67 @@
+{
+  "id": 1293518381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.96374,8.11906,-2.96374,8.11906",
+    "geom:latitude":8.11906,
+    "geom:longitude":-2.96374,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Sinbilimi",
+    "gn:country_code":"CI",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281623,
+    "gn:latitude":8.11906,
+    "gn:longitude":-2.96374,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sinbilimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281623
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3cd684eb6a0a9db1996e1ae96bcf53fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1293518381,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1293518381,
+    "wof:lastmodified":1536742379,
+    "wof:name":"Sinbilimi",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.96374,
+    8.11906,
+    -2.96374,
+    8.11906
+],
+  "geometry": {"coordinates":[-2.96374,8.11906],"type":"Point"}
+}

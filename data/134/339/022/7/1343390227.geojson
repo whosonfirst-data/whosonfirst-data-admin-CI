@@ -1,0 +1,72 @@
+{
+  "id": 1343390227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41275,7.53116,-7.41275,7.53116",
+    "geom:latitude":7.53116,
+    "geom:longitude":-7.41275,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbonne",
+    "gn:country_code":"CI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288590,
+    "gn:latitude":7.53116,
+    "gn:longitude":-7.41275,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gbonn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbon\u00e9",
+        "Gbonn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288590,
+        "wk:page":"Gbonn%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4f63474364156d5c91d8eea75697a6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1343390227,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1343390227,
+    "wof:lastmodified":1537591019,
+    "wof:name":"Gbonne",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41275,
+    7.53116,
+    -7.41275,
+    7.53116
+],
+  "geometry": {"coordinates":[-7.41275,7.53116],"type":"Point"}
+}

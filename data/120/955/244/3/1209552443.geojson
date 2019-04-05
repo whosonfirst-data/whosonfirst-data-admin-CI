@@ -1,0 +1,62 @@
+{
+  "id": 1209552443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19282,6.89011,-7.19282,6.89011",
+    "geom:latitude":6.89011,
+    "geom:longitude":-7.19282,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Bagohouo",
+    "gn:country_code":"CI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292403,
+    "gn:latitude":6.89011,
+    "gn:longitude":-7.19282,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Bagohouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292403,
+        "wk:page":"Bagohouo"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c12621eaa6a29f878509ff72baf1564c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209552443
+        }
+    ],
+    "wof:id":1209552443,
+    "wof:lastmodified":1537489459,
+    "wof:name":"Bagohouo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19282,
+    6.89011,
+    -7.19282,
+    6.89011
+],
+  "geometry": {"coordinates":[-7.19282,6.89011],"type":"Point"}
+}

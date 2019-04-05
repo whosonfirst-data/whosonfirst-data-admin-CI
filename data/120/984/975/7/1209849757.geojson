@@ -1,0 +1,71 @@
+{
+  "id": 1209849757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.81551,9.11981,-5.81551,9.11981",
+    "geom:latitude":9.11981,
+    "geom:longitude":-5.81551,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Karakpo",
+    "gn:country_code":"CI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287385,
+    "gn:latitude":9.11981,
+    "gn:longitude":-5.81551,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Karakpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katapko",
+        "Karakpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287385
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0c523a7bf86e571cd002b6f24850ec8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1209849757,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1209849757,
+    "wof:lastmodified":1537590999,
+    "wof:name":"Karakpo",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.81551,
+    9.11981,
+    -5.81551,
+    9.11981
+],
+  "geometry": {"coordinates":[-5.81551,9.11981],"type":"Point"}
+}

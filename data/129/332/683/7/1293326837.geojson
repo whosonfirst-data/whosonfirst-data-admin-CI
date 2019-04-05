@@ -1,0 +1,67 @@
+{
+  "id": 1293326837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53444,5.95806,-5.53444,5.95806",
+    "geom:latitude":5.95806,
+    "geom:longitude":-5.53444,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Zabre",
+    "gn:country_code":"CI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279538,
+    "gn:latitude":5.95806,
+    "gn:longitude":-5.53444,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zabr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279538
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7a80ffd70f42c5232e6502f4da831770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1293326837,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1293326837,
+    "wof:lastmodified":1537017951,
+    "wof:name":"Zabre",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.53444,
+    5.95806,
+    -5.53444,
+    5.95806
+],
+  "geometry": {"coordinates":[-5.53444,5.95806],"type":"Point"}
+}

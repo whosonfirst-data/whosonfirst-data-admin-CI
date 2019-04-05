@@ -1,0 +1,72 @@
+{
+  "id": 1226373475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.19226,6.14078,-5.19226,6.14078",
+    "geom:latitude":6.14078,
+    "geom:longitude":-5.19226,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Zego",
+    "gn:country_code":"CI",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279402,
+    "gn:latitude":6.14078,
+    "gn:longitude":-5.19226,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Z\u00e9go",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9go",
+        "Z\u00e9go"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279402,
+        "wk:page":"Z%C3%A9go"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9ea14f820eee2ecc6c3daa57c001c038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1226373475,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1226373475,
+    "wof:lastmodified":1537590893,
+    "wof:name":"Zego",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.19226,
+    6.14078,
+    -5.19226,
+    6.14078
+],
+  "geometry": {"coordinates":[-5.19226,6.14078],"type":"Point"}
+}

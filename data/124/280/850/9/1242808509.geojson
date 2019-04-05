@@ -1,0 +1,67 @@
+{
+  "id": 1242808509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55,8.46667,-4.55,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-4.55,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tinguedougou",
+    "gn:country_code":"CI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280586,
+    "gn:latitude":8.46667,
+    "gn:longitude":-4.55,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tingu\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280586
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"76c11d2b36e3369d5e7d24bbed127922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1242808509,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1242808509,
+    "wof:lastmodified":1536731480,
+    "wof:name":"Tinguedougou",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55,
+    8.46667,
+    -4.55,
+    8.46667
+],
+  "geometry": {"coordinates":[-4.55,8.46667],"type":"Point"}
+}

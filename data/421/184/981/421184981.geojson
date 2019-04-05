@@ -1,0 +1,81 @@
+{
+  "id": 421184981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.767822,7.008215,-5.767822,7.008215",
+    "geom:latitude":7.008215,
+    "geom:longitude":-5.767822,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bouafl\u00e9",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Marahou\u00e9",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1015436,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":20069974,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108806117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20069974,
+        "qs:id":1015436
+    },
+    "wof:country":"CI",
+    "wof:created":1459009428,
+    "wof:geomhash":"4dfcc7af685cfdb4034a4ca508c3b654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421184981,
+            "region_id":85669877
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421184981,
+            "region_id":1108806117
+        }
+    ],
+    "wof:id":421184981,
+    "wof:lastmodified":1500048385,
+    "wof:name":"Bouafl\u00e9",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.767822,
+    7.008215,
+    -5.767822,
+    7.008215
+],
+  "geometry": {"coordinates":[-5.767822,7.008215],"type":"Point"}
+}

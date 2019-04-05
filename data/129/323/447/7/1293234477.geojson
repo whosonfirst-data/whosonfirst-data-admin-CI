@@ -1,0 +1,71 @@
+{
+  "id": 1293234477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.85618,6.33441,-4.85618,6.33441",
+    "geom:latitude":6.33441,
+    "geom:longitude":-4.85618,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kpouebo",
+    "gn:country_code":"CI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285639,
+    "gn:latitude":6.33441,
+    "gn:longitude":-4.85618,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kpou\u00e9bo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpou\u00e9bo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285639,
+        "wk:page":"Kpou%C3%A8bo"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cb63a629d3dd3853ecc1176d205f8619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293234477,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293234477,
+    "wof:lastmodified":1537590979,
+    "wof:name":"Kpouebo",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.85618,
+    6.33441,
+    -4.85618,
+    6.33441
+],
+  "geometry": {"coordinates":[-4.85618,6.33441],"type":"Point"}
+}

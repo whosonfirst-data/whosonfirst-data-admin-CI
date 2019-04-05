@@ -1,0 +1,67 @@
+{
+  "id": 1310333829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.4322,6.68742,-6.4322,6.68742",
+    "geom:latitude":6.68742,
+    "geom:longitude":-6.4322,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Badouboua",
+    "gn:country_code":"CI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292436,
+    "gn:latitude":6.68742,
+    "gn:longitude":-6.4322,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Badouboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292436
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d780f3e329fb737d7becddff07daa8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1310333829,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1310333829,
+    "wof:lastmodified":1536667275,
+    "wof:name":"Badouboua",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.4322,
+    6.68742,
+    -6.4322,
+    6.68742
+],
+  "geometry": {"coordinates":[-6.4322,6.68742],"type":"Point"}
+}

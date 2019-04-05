@@ -1,0 +1,67 @@
+{
+  "id": 1326566335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2925,9.65308,-6.2925,9.65308",
+    "geom:latitude":9.65308,
+    "geom:longitude":-6.2925,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Sogo",
+    "gn:country_code":"CI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281493,
+    "gn:latitude":9.65308,
+    "gn:longitude":-6.2925,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281493
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6e50d4b1db840a8cd23d33a7153189d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1326566335,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1326566335,
+    "wof:lastmodified":1536935515,
+    "wof:name":"Sogo",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2925,
+    9.65308,
+    -6.2925,
+    9.65308
+],
+  "geometry": {"coordinates":[-6.2925,9.65308],"type":"Point"}
+}

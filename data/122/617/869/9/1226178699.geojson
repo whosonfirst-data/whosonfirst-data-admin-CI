@@ -1,0 +1,67 @@
+{
+  "id": 1226178699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4157,5.32225,-3.4157,5.32225",
+    "geom:latitude":5.32225,
+    "geom:longitude":-3.4157,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Dadiekouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032192,
+    "gn:latitude":5.32225,
+    "gn:longitude":-3.4157,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Dadi\u00e9kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032192
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9e607d5cd459654dd41f78b4b0cd3632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1226178699,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1226178699,
+    "wof:lastmodified":1537028898,
+    "wof:name":"Dadiekouassikro",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4157,
+    5.32225,
+    -3.4157,
+    5.32225
+],
+  "geometry": {"coordinates":[-3.4157,5.32225],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360022081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57897,10.23378,-5.57897,10.23378",
+    "geom:latitude":10.23378,
+    "geom:longitude":-5.57897,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Poundiali",
+    "gn:country_code":"CI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282308,
+    "gn:latitude":10.23378,
+    "gn:longitude":-5.57897,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Poundiali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282308
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"64b2745204744381600f7a1b5ba07a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1360022081,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1360022081,
+    "wof:lastmodified":1537034903,
+    "wof:name":"Poundiali",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57897,
+    10.23378,
+    -5.57897,
+    10.23378
+],
+  "geometry": {"coordinates":[-5.57897,10.23378],"type":"Point"}
+}

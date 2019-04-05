@@ -1,0 +1,61 @@
+{
+  "id": 1209142337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.38206,5.35522,-3.38206,5.35522",
+    "geom:latitude":5.35522,
+    "geom:longitude":-3.38206,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Toumanguie Sodepalm Deux",
+    "gn:country_code":"CI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032107,
+    "gn:latitude":5.35522,
+    "gn:longitude":-3.38206,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Toumangui\u00e9 Sodepalm Deux",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032107
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"21b6ee5336bab9d2730cdcc1c19f975b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142337
+        }
+    ],
+    "wof:id":1209142337,
+    "wof:lastmodified":1536296464,
+    "wof:name":"Toumanguie Sodepalm Deux",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.38206,
+    5.35522,
+    -3.38206,
+    5.35522
+],
+  "geometry": {"coordinates":[-3.38206,5.35522],"type":"Point"}
+}

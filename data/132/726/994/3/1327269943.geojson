@@ -1,0 +1,72 @@
+{
+  "id": 1327269943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.88615,9.46754,-3.88615,9.46754",
+    "geom:latitude":9.46754,
+    "geom:longitude":-3.88615,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Biguilaye",
+    "gn:country_code":"CI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291609,
+    "gn:latitude":9.46754,
+    "gn:longitude":-3.88615,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Biguilaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biguilay",
+        "Biquilay",
+        "Biguilaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291609
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5ba2075c9607589e9cd08591d9ccf705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1327269943,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327269943,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Biguilaye",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.88615,
+    9.46754,
+    -3.88615,
+    9.46754
+],
+  "geometry": {"coordinates":[-3.88615,9.46754],"type":"Point"}
+}

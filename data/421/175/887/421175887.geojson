@@ -1,0 +1,84 @@
+{
+  "id": 421175887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.682,5.84752,-5.682,5.84752",
+    "geom:latitude":5.84752,
+    "geom:longitude":-5.682,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u043e\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Iakota"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2285449,
+    "qs:gn_pop":38055,
+    "qs:name":"Lakota",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Sud-Bandama",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1034684,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":56123167,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285449,
+        "gp:id":56123167,
+        "qs:id":1034684
+    },
+    "wof:country":"CI",
+    "wof:created":1459009083,
+    "wof:geomhash":"4576844fb5d25c06a3ff200332c49fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421175887,
+            "region_id":1108806103
+        }
+    ],
+    "wof:id":421175887,
+    "wof:lastmodified":1527716336,
+    "wof:name":"Lakota",
+    "wof:parent_id":1108806103,
+    "wof:placetype":"locality",
+    "wof:population":38055,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.682,
+    5.84752,
+    -5.682,
+    5.84752
+],
+  "geometry": {"coordinates":[-5.682,5.84752],"type":"Point"}
+}

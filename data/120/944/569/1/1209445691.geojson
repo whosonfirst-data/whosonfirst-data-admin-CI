@@ -1,0 +1,66 @@
+{
+  "id": 1209445691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.37902,5.85952,-4.37902,5.85952",
+    "geom:latitude":5.85952,
+    "geom:longitude":-4.37902,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Anno",
+    "gn:country_code":"CI",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292877,
+    "gn:latitude":5.85952,
+    "gn:longitude":-4.37902,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Anno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ano",
+        "Anno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292877,
+        "wk:page":"Anno_%28Agboville%29"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"061c0b89fb977509cd69a52ca488c41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209445691
+        }
+    ],
+    "wof:id":1209445691,
+    "wof:lastmodified":1537591080,
+    "wof:name":"Anno",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.37902,
+    5.85952,
+    -4.37902,
+    5.85952
+],
+  "geometry": {"coordinates":[-4.37902,5.85952],"type":"Point"}
+}

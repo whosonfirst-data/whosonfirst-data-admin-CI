@@ -1,0 +1,67 @@
+{
+  "id": 1293525577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.99401,8.26742,-4.99401,8.26742",
+    "geom:latitude":8.26742,
+    "geom:longitude":-4.99401,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tafolo",
+    "gn:country_code":"CI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281099,
+    "gn:latitude":8.26742,
+    "gn:longitude":-4.99401,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tafolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281099
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6423b5b89ec2d5c927f7d76b32eaa5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1293525577,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1293525577,
+    "wof:lastmodified":1536732350,
+    "wof:name":"Tafolo",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.99401,
+    8.26742,
+    -4.99401,
+    8.26742
+],
+  "geometry": {"coordinates":[-4.99401,8.26742],"type":"Point"}
+}

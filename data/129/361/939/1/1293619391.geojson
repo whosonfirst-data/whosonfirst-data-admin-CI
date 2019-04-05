@@ -1,0 +1,67 @@
+{
+  "id": 1293619391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33009,7.01866,-6.33009,7.01866",
+    "geom:latitude":7.01866,
+    "geom:longitude":-6.33009,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Begafla",
+    "gn:country_code":"CI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291914,
+    "gn:latitude":7.01866,
+    "gn:longitude":-6.33009,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u00e9gafla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291914
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b289d3f8c568985f1eed4c0805e6ffb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293619391,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293619391,
+    "wof:lastmodified":1537090988,
+    "wof:name":"Begafla",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33009,
+    7.01866,
+    -6.33009,
+    7.01866
+],
+  "geometry": {"coordinates":[-6.33009,7.01866],"type":"Point"}
+}

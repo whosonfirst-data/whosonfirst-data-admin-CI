@@ -1,0 +1,67 @@
+{
+  "id": 1209746683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91056,5.4175,-5.91056,5.4175",
+    "geom:latitude":5.4175,
+    "geom:longitude":-5.91056,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Broyoukrou",
+    "gn:country_code":"CI",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290655,
+    "gn:latitude":5.4175,
+    "gn:longitude":-5.91056,
+    "gn:modification_date":"2009-03-26",
+    "gn:name":"Broyoukrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290655
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f988cee722c99439b5345b2e27dd0f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1209746683,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1209746683,
+    "wof:lastmodified":1536394660,
+    "wof:name":"Broyoukrou",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91056,
+    5.4175,
+    -5.91056,
+    5.4175
+],
+  "geometry": {"coordinates":[-5.91056,5.4175],"type":"Point"}
+}

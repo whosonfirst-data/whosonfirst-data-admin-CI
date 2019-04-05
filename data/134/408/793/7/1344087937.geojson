@@ -1,0 +1,71 @@
+{
+  "id": 1344087937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.066,6.14212,-6.066,6.14212",
+    "geom:latitude":6.14212,
+    "geom:longitude":-6.066,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Nialiahio",
+    "gn:country_code":"CI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283601,
+    "gn:latitude":6.14212,
+    "gn:longitude":-6.066,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nialiahio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nialayo",
+        "Nialiayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283601
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fff4437b18cf0e27401cbb9c19b98f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1344087937,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1344087937,
+    "wof:lastmodified":1537590952,
+    "wof:name":"Nialiahio",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.066,
+    6.14212,
+    -6.066,
+    6.14212
+],
+  "geometry": {"coordinates":[-6.066,6.14212],"type":"Point"}
+}

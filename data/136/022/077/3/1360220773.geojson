@@ -1,0 +1,67 @@
+{
+  "id": 1360220773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56434,5.65002,-4.56434,5.65002",
+    "geom:latitude":5.65002,
+    "geom:longitude":-4.56434,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Brafoueby",
+    "gn:country_code":"CI",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596902,
+    "gn:latitude":5.65002,
+    "gn:longitude":-4.56434,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Brafou\u00e9by",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596902
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4dae534a367654c09b0f89306bfef2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1360220773,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1360220773,
+    "wof:lastmodified":1536749761,
+    "wof:name":"Brafoueby",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56434,
+    5.65002,
+    -4.56434,
+    5.65002
+],
+  "geometry": {"coordinates":[-4.56434,5.65002],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243208875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.25966,5.96586,-4.25966,5.96586",
+    "geom:latitude":5.96586,
+    "geom:longitude":-4.25966,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Bakari",
+    "gn:country_code":"CI",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032791,
+    "gn:latitude":5.96586,
+    "gn:longitude":-4.25966,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Bakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032791
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8615c5afdd5617462c61b85fa81a02f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1243208875,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1243208875,
+    "wof:lastmodified":1536650873,
+    "wof:name":"Bakari",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.25966,
+    5.96586,
+    -4.25966,
+    5.96586
+],
+  "geometry": {"coordinates":[-4.25966,5.96586],"type":"Point"}
+}

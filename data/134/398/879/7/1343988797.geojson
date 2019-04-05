@@ -1,0 +1,67 @@
+{
+  "id": 1343988797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48717,5.99185,-4.48717,5.99185",
+    "geom:latitude":5.99185,
+    "geom:longitude":-4.48717,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Assamoua I",
+    "gn:country_code":"CI",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032511,
+    "gn:latitude":5.99185,
+    "gn:longitude":-4.48717,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Assamoua I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032511
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"596f9ce69e2f4e09d210bb807d009a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1343988797,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1343988797,
+    "wof:lastmodified":1536978583,
+    "wof:name":"Assamoua I",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48717,
+    5.99185,
+    -4.48717,
+    5.99185
+],
+  "geometry": {"coordinates":[-4.48717,5.99185],"type":"Point"}
+}

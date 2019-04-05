@@ -1,0 +1,61 @@
+{
+  "id": 1209142515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09421,6.05573,-4.09421,6.05573",
+    "geom:latitude":6.05573,
+    "geom:longitude":-4.09421,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Seguie",
+    "gn:country_code":"CI",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281862,
+    "gn:latitude":6.05573,
+    "gn:longitude":-4.09421,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"S\u00e9gui\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281862
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"caf1f6d8e9d1fc8c367594a25ce8134b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142515
+        }
+    ],
+    "wof:id":1209142515,
+    "wof:lastmodified":1536296458,
+    "wof:name":"Seguie",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09421,
+    6.0557300000000005,
+    -4.09421,
+    6.0557300000000005
+],
+  "geometry": {"coordinates":[-4.09421,6.05573],"type":"Point"}
+}

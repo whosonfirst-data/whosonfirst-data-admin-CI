@@ -1,0 +1,61 @@
+{
+  "id": 1209445675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96852,6.95907,-4.96852,6.95907",
+    "geom:latitude":6.95907,
+    "geom:longitude":-4.96852,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kossou",
+    "gn:country_code":"CI",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286235,
+    "gn:latitude":6.95907,
+    "gn:longitude":-4.96852,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286235
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c3ab2ee74be7186e55c55fe62a6b2483",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209445675
+        }
+    ],
+    "wof:id":1209445675,
+    "wof:lastmodified":1536286826,
+    "wof:name":"Kossou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96852,
+    6.95907,
+    -4.96852,
+    6.95907
+],
+  "geometry": {"coordinates":[-4.96852,6.95907],"type":"Point"}
+}

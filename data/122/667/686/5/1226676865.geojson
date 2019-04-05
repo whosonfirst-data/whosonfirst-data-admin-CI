@@ -1,0 +1,71 @@
+{
+  "id": 1226676865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5226,9.39568,-5.5226,9.39568",
+    "geom:latitude":9.39568,
+    "geom:longitude":-5.5226,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Dobyankaha",
+    "gn:country_code":"CI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289819,
+    "gn:latitude":9.39568,
+    "gn:longitude":-5.5226,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dobyankaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dopiankaha",
+        "Dobyankaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289819
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3813e466cfd355316e577f276086399f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1226676865,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226676865,
+    "wof:lastmodified":1537591037,
+    "wof:name":"Dobyankaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5226,
+    9.39568,
+    -5.5226,
+    9.39568
+],
+  "geometry": {"coordinates":[-5.5226,9.39568],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209648911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87167,10.04389,-5.87167,10.04389",
+    "geom:latitude":10.04389,
+    "geom:longitude":-5.87167,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Wokolo",
+    "gn:country_code":"CI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279883,
+    "gn:latitude":10.04389,
+    "gn:longitude":-5.87167,
+    "gn:modification_date":"2009-03-26",
+    "gn:name":"Wokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279883
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2465bf3b0bf2a0c5481ac5221b0f8cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209648911
+        }
+    ],
+    "wof:id":1209648911,
+    "wof:lastmodified":1536280644,
+    "wof:name":"Wokolo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87167,
+    10.04389,
+    -5.87167,
+    10.04389
+],
+  "geometry": {"coordinates":[-5.87167,10.04389],"type":"Point"}
+}

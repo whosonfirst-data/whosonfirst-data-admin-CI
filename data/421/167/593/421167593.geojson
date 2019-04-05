@@ -1,0 +1,110 @@
+{
+  "id": 421167593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31063,7.85249,-5.31063,7.85249",
+    "geom:latitude":7.85249,
+    "geom:longitude":-5.31063,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Botro"
+    ],
+    "name:dut_x_preferred":[
+        "Botro"
+    ],
+    "name:eng_x_preferred":[
+        "Botro"
+    ],
+    "name:fra_x_preferred":[
+        "Botro"
+    ],
+    "name:fre_x_preferred":[
+        "Botro"
+    ],
+    "name:may_x_preferred":[
+        "Botro"
+    ],
+    "name:msa_x_preferred":[
+        "Botro"
+    ],
+    "name:ron_x_preferred":[
+        "Botro"
+    ],
+    "name:rum_x_preferred":[
+        "Botro"
+    ],
+    "name:swe_x_preferred":[
+        "Botro"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2290985,
+    "qs:gn_pop":13375,
+    "qs:name":"Botro",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Vall\u00e9e du Bandama",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":139361,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1341049,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290985,
+        "gp:id":1341049,
+        "qs:id":139361,
+        "wd:id":"Q2911824",
+        "wk:page":"Botro"
+    },
+    "wof:country":"CI",
+    "wof:created":1459008737,
+    "wof:geomhash":"68ff0ce75f9c23634155583c206eb83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421167593,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":421167593,
+    "wof:lastmodified":1527716152,
+    "wof:name":"Botro",
+    "wof:parent_id":85669899,
+    "wof:placetype":"locality",
+    "wof:population":13375,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31063,
+    7.85249,
+    -5.31063,
+    7.85249
+],
+  "geometry": {"coordinates":[-5.31063,7.85249],"type":"Point"}
+}

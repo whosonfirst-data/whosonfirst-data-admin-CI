@@ -1,0 +1,61 @@
+{
+  "id": 1209249903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09984,5.44733,-4.09984,5.44733",
+    "geom:latitude":5.44733,
+    "geom:longitude":-4.09984,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Djoura",
+    "gn:country_code":"CI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031529,
+    "gn:latitude":5.44733,
+    "gn:longitude":-4.09984,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Djoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031529
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2ce0046ae7064394d23e706dd391a788",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249903
+        }
+    ],
+    "wof:id":1209249903,
+    "wof:lastmodified":1536293038,
+    "wof:name":"Djoura",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09984,
+    5.44733,
+    -4.09984,
+    5.44733
+],
+  "geometry": {"coordinates":[-4.09984,5.44733],"type":"Point"}
+}

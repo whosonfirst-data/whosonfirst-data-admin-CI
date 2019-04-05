@@ -1,0 +1,73 @@
+{
+  "id": 1242808583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54967,5.65336,-3.54967,5.65336",
+    "geom:latitude":5.65336,
+    "geom:longitude":-3.54967,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Alosso I",
+    "gn:country_code":"CI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293018,
+    "gn:latitude":5.65336,
+    "gn:longitude":-3.54967,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Alosso I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alosso",
+        "Aloso",
+        "Alosso Un",
+        "Alosso I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293018
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ee60b4fc7c08117b9ce51dbaa09f7019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1242808583,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1242808583,
+    "wof:lastmodified":1537591082,
+    "wof:name":"Alosso I",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54967,
+    5.65336,
+    -3.54967,
+    5.65336
+],
+  "geometry": {"coordinates":[-3.54967,5.65336],"type":"Point"}
+}

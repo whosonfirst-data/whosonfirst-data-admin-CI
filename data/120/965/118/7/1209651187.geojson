@@ -1,0 +1,65 @@
+{
+  "id": 1209651187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72639,8.62931,-3.72639,8.62931",
+    "geom:latitude":8.62931,
+    "geom:longitude":-3.72639,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Bavayo",
+    "gn:country_code":"CI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292001,
+    "gn:latitude":8.62931,
+    "gn:longitude":-3.72639,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bavayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayogouma",
+        "Bavayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292001
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"363b2c78c747f929eaee5fab69a5496b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209651187
+        }
+    ],
+    "wof:id":1209651187,
+    "wof:lastmodified":1537591067,
+    "wof:name":"Bavayo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72639,
+    8.62931,
+    -3.72639,
+    8.62931
+],
+  "geometry": {"coordinates":[-3.72639,8.62931],"type":"Point"}
+}

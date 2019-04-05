@@ -1,0 +1,71 @@
+{
+  "id": 1344092981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.37331,8.51746,-7.37331,8.51746",
+    "geom:latitude":8.51746,
+    "geom:longitude":-7.37331,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Kountiguisso",
+    "gn:country_code":"CI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285816,
+    "gn:latitude":8.51746,
+    "gn:longitude":-7.37331,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kountiguisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koundiso",
+        "Kountiguisso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285816
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9074e6537e22254575366c6399d13bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1344092981,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1344092981,
+    "wof:lastmodified":1537590982,
+    "wof:name":"Kountiguisso",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.37331,
+    8.51746,
+    -7.37331,
+    8.51746
+],
+  "geometry": {"coordinates":[-7.37331,8.51746],"type":"Point"}
+}

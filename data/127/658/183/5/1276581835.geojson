@@ -1,0 +1,67 @@
+{
+  "id": 1276581835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87846,7.18623,-7.87846,7.18623",
+    "geom:latitude":7.18623,
+    "geom:longitude":-7.87846,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Kpangouine",
+    "gn:country_code":"CI",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285662,
+    "gn:latitude":7.18623,
+    "gn:longitude":-7.87846,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kpangouin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285662
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c6b572f4fbb70dca82b02945f64f4a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1276581835,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1276581835,
+    "wof:lastmodified":1536943903,
+    "wof:name":"Kpangouine",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87846,
+    7.18623,
+    -7.87846,
+    7.18623
+],
+  "geometry": {"coordinates":[-7.87846,7.18623],"type":"Point"}
+}

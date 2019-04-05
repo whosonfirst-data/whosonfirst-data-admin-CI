@@ -1,0 +1,67 @@
+{
+  "id": 1309940645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01194,10.08667,-6.01194,10.08667",
+    "geom:latitude":10.08667,
+    "geom:longitude":-6.01194,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Zankouana",
+    "gn:country_code":"CI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279449,
+    "gn:latitude":10.08667,
+    "gn:longitude":-6.01194,
+    "gn:modification_date":"2009-03-26",
+    "gn:name":"Zankouana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279449
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d5267e48789864c9f42e4cd42687c3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1309940645,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1309940645,
+    "wof:lastmodified":1536736810,
+    "wof:name":"Zankouana",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01194,
+    10.08667,
+    -6.01194,
+    10.08667
+],
+  "geometry": {"coordinates":[-6.01194,10.08667],"type":"Point"}
+}

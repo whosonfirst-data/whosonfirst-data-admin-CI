@@ -1,0 +1,67 @@
+{
+  "id": 1293426689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64554,7.13547,-7.64554,7.13547",
+    "geom:latitude":7.13547,
+    "geom:longitude":-7.64554,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gouele",
+    "gn:country_code":"CI",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288231,
+    "gn:latitude":7.13547,
+    "gn:longitude":-7.64554,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gou\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288231
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"36bc82005f40b218adf481e9f3c4eac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1293426689,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1293426689,
+    "wof:lastmodified":1536873612,
+    "wof:name":"Gouele",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64554,
+    7.13547,
+    -7.64554,
+    7.13547
+],
+  "geometry": {"coordinates":[-7.64554,7.13547],"type":"Point"}
+}

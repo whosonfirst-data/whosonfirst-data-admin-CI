@@ -1,0 +1,68 @@
+{
+  "id": 1242613819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79834,6.97647,-7.79834,6.97647",
+    "geom:latitude":6.97647,
+    "geom:longitude":-7.79834,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Zou",
+    "gn:country_code":"CI",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279240,
+    "gn:latitude":6.97647,
+    "gn:longitude":-7.79834,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279240,
+        "wk:page":"Zou%2C_Ivory_Coast"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"433451d67f38bc07b72fca83707fff40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1242613819,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1242613819,
+    "wof:lastmodified":1537489380,
+    "wof:name":"Zou",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79834,
+    6.97647,
+    -7.79834,
+    6.97647
+],
+  "geometry": {"coordinates":[-7.79834,6.97647],"type":"Point"}
+}

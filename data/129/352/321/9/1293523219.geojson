@@ -1,0 +1,67 @@
+{
+  "id": 1293523219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48434,6.49467,-6.48434,6.49467",
+    "geom:latitude":6.49467,
+    "geom:longitude":-6.48434,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Bitapia",
+    "gn:country_code":"CI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291533,
+    "gn:latitude":6.49467,
+    "gn:longitude":-6.48434,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bitapia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291533
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"56c0665eb16ba05b3093b7e1b2213bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293523219,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293523219,
+    "wof:lastmodified":1536735660,
+    "wof:name":"Bitapia",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48434,
+    6.49467,
+    -6.48434,
+    6.49467
+],
+  "geometry": {"coordinates":[-6.48434,6.49467],"type":"Point"}
+}

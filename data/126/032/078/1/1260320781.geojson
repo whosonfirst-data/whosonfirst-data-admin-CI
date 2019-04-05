@@ -1,0 +1,71 @@
+{
+  "id": 1260320781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14793,7.0142,-8.14793,7.0142",
+    "geom:latitude":7.0142,
+    "geom:longitude":-8.14793,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Sogueneu",
+    "gn:country_code":"CI",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281486,
+    "gn:latitude":7.0142,
+    "gn:longitude":-8.14793,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sogueneu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sogu\u00e9n\u00e9",
+        "Sogueneu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281486
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cef1098da3888dddf040971318fbfac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1260320781,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1260320781,
+    "wof:lastmodified":1537590923,
+    "wof:name":"Sogueneu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14793,
+    7.0142,
+    -8.14793,
+    7.0142
+],
+  "geometry": {"coordinates":[-8.14793,7.0142],"type":"Point"}
+}

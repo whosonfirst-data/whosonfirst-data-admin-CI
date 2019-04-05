@@ -1,0 +1,67 @@
+{
+  "id": 1276373927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43644,5.48568,-3.43644,5.48568",
+    "geom:latitude":5.48568,
+    "geom:longitude":-3.43644,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Gazno",
+    "gn:country_code":"CI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031847,
+    "gn:latitude":5.48568,
+    "gn:longitude":-3.43644,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gazno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031847
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"90007266bddb71a3a544252e8d71b8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1276373927,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1276373927,
+    "wof:lastmodified":1536724418,
+    "wof:name":"Gazno",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43644,
+    5.48568,
+    -3.43644,
+    5.48568
+],
+  "geometry": {"coordinates":[-3.43644,5.48568],"type":"Point"}
+}

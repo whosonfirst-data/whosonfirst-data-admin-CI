@@ -1,0 +1,70 @@
+{
+  "id": 1327170229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3714,6.75012,-7.3714,6.75012",
+    "geom:latitude":6.75012,
+    "geom:longitude":-7.3714,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Guitrozon",
+    "gn:country_code":"CI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287925,
+    "gn:latitude":6.75012,
+    "gn:longitude":-7.3714,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Guitrozon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guitrouzon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287925
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"88da7196980475eb00fdaff12cd1da4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1327170229,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1327170229,
+    "wof:lastmodified":1537591007,
+    "wof:name":"Guitrozon",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3714,
+    6.75012,
+    -7.3714,
+    6.75012
+],
+  "geometry": {"coordinates":[-7.3714,6.75012],"type":"Point"}
+}

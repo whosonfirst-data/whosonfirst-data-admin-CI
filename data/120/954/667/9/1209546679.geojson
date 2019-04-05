@@ -1,0 +1,61 @@
+{
+  "id": 1209546679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26393,7.21145,-7.26393,7.21145",
+    "geom:latitude":7.21145,
+    "geom:longitude":-7.26393,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Sebazon",
+    "gn:country_code":"CI",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281914,
+    "gn:latitude":7.21145,
+    "gn:longitude":-7.26393,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"S\u00e9bazon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281914
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1ddc662171555474ecad472480b496df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546679
+        }
+    ],
+    "wof:id":1209546679,
+    "wof:lastmodified":1536283822,
+    "wof:name":"Sebazon",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26393,
+    7.21145,
+    -7.26393,
+    7.21145
+],
+  "geometry": {"coordinates":[-7.26393,7.21145],"type":"Point"}
+}

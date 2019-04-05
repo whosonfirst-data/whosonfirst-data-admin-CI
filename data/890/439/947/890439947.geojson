@@ -1,0 +1,241 @@
+{
+  "id": 890439947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6363,4.74851,-6.6363,4.74851",
+    "geom:latitude":4.74851,
+    "geom:longitude":-6.6363,
+    "gn:country":"CI",
+    "gn:fcode":"PPLA",
+    "gn:pop":196751,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648"
+    ],
+    "name:bre_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "name:cze_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:dan_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:dut_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:eng_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:epo_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:fre_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:ger_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:hrv_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:hun_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:ita_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\uff1d\u30da\u30c9\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\ud398\ub4dc\ub85c"
+    ],
+    "name:lit_x_preferred":[
+        "San Pedras"
+    ],
+    "name:may_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:msa_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:nau_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:nob_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646-\u067e\u062f\u0631\u0648\u060c \u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:rum_x_preferred":[
+        "San P\u00e9dro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro"
+    ],
+    "name:swe_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Ivory Coast",
+    "ne:ADM0_A3":"CIV",
+    "ne:ADM1NAME":"Bas-Sassandra",
+    "ne:ADMIN1_COD":76,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":5,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2282006,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"San-Pedro",
+    "ne:GN_POP":196751,
+    "ne:GTOPO30":106.0,
+    "ne:ISO_A2":"CI",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":4.770418,
+    "ne:LONGITUDE":-6.639967,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San-Pedro",
+    "ne:MAX_AREAKM":29.0,
+    "ne:MAX_AREAMI":11.0,
+    "ne:MAX_BBXMAX":-6.616667,
+    "ne:MAX_BBXMIN":-6.691667,
+    "ne:MAX_BBYMAX":4.791667,
+    "ne:MAX_BBYMIN":4.733333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":39.0,
+    "ne:MAX_PERMI":24.0,
+    "ne:MAX_POP10":210273,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-6.65098,
+    "ne:MEAN_BBYC":4.760784,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":29.0,
+    "ne:MIN_AREAMI":11.0,
+    "ne:MIN_BBXMAX":-6.616667,
+    "ne:MIN_BBXMIN":-6.691667,
+    "ne:MIN_BBYMAX":4.791667,
+    "ne:MIN_BBYMIN":4.733333,
+    "ne:MIN_PERKM":39.0,
+    "ne:MIN_PERMI":24.0,
+    "ne:NAME":"San-Pedro",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San-Pedro",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":210273,
+    "ne:POP_MIN":196751,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Ivory Coast",
+    "ne:SOV_A3":"CIV",
+    "ne:TIMEZONE":"Africa/Abidjan",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"San-P\u00e9dro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282006,
+        "gp:id":56121559,
+        "qs:id":278346,
+        "wd:id":"Q609831",
+        "wk:page":"San-P\u00e9dro, Ivory Coast"
+    },
+    "wof:country":"CI",
+    "wof:created":1469052256,
+    "wof:geomhash":"06d519972d9f29e0e2b067eee6653152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":890439947,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":890439947,
+    "wof:lastmodified":1553816398,
+    "wof:name":"San-P\u00e9dro",
+    "wof:parent_id":85669889,
+    "wof:placetype":"locality",
+    "wof:population":196751,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6363,
+    4.74851,
+    -6.6363,
+    4.74851
+],
+  "geometry": {"coordinates":[-6.6363,4.74851],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209446029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62722,9.04306,-7.62722,9.04306",
+    "geom:latitude":9.04306,
+    "geom:longitude":-7.62722,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Mohi-Moussadougou",
+    "gn:country_code":"CI",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284270,
+    "gn:latitude":9.04306,
+    "gn:longitude":-7.62722,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mohi-Moussadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohi",
+        "Moi-Mousadougou",
+        "Mohi-Moussadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284270
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3c6e46053b69ae8541d228521ef9feb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209446029
+        }
+    ],
+    "wof:id":1209446029,
+    "wof:lastmodified":1537590962,
+    "wof:name":"Mohi-Moussadougou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62722,
+    9.04306,
+    -7.62722,
+    9.04306
+],
+  "geometry": {"coordinates":[-7.62722,9.04306],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209140149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09361,5.823,-4.09361,5.823",
+    "geom:latitude":5.823,
+    "geom:longitude":-4.09361,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ndi Ngau",
+    "gn:country_code":"CI",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032886,
+    "gn:latitude":5.823,
+    "gn:longitude":-4.09361,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Ndi Ngau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032886
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"53fd619259df0af6482fee742507a795",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209140149
+        }
+    ],
+    "wof:id":1209140149,
+    "wof:lastmodified":1536296531,
+    "wof:name":"Ndi Ngau",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09361,
+    5.823,
+    -4.09361,
+    5.823
+],
+  "geometry": {"coordinates":[-4.09361,5.823],"type":"Point"}
+}

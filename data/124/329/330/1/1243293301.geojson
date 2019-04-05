@@ -1,0 +1,67 @@
+{
+  "id": 1243293301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3383,6.57684,-8.3383,6.57684",
+    "geom:latitude":6.57684,
+    "geom:longitude":-8.3383,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Saebri",
+    "gn:country_code":"CI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282218,
+    "gn:latitude":6.57684,
+    "gn:longitude":-8.3383,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Saebri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282218
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6d1ba9d7a577fa5711d7a98d9c0db7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1243293301,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1243293301,
+    "wof:lastmodified":1537025232,
+    "wof:name":"Saebri",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3383,
+    6.57684,
+    -8.3383,
+    6.57684
+],
+  "geometry": {"coordinates":[-8.3383,6.57684],"type":"Point"}
+}

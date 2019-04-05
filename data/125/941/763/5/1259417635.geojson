@@ -1,0 +1,67 @@
+{
+  "id": 1259417635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36544,7.21919,-5.36544,7.21919",
+    "geom:latitude":7.21919,
+    "geom:longitude":-5.36544,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Komorossou",
+    "gn:country_code":"CI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286532,
+    "gn:latitude":7.21919,
+    "gn:longitude":-5.36544,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Komorossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286532
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9b1ace052c99213298bd61e0ba4a6d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1259417635,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1259417635,
+    "wof:lastmodified":1536953470,
+    "wof:name":"Komorossou",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36544,
+    7.21919,
+    -5.36544,
+    7.21919
+],
+  "geometry": {"coordinates":[-5.36544,7.21919],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310039537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6457,5.62558,-3.6457,5.62558",
+    "geom:latitude":5.62558,
+    "geom:longitude":-3.6457,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapi Yachi",
+    "gn:country_code":"CI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033155,
+    "gn:latitude":5.62558,
+    "gn:longitude":-3.6457,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Yapi Yachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033155
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a4e2f4c188f8fb0261601db35cb2c305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1310039537,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1310039537,
+    "wof:lastmodified":1537088439,
+    "wof:name":"Yapi Yachi",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6457,
+    5.62558,
+    -3.6457,
+    5.62558
+],
+  "geometry": {"coordinates":[-3.6457,5.62558],"type":"Point"}
+}

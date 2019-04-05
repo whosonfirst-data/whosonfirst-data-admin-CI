@@ -1,0 +1,73 @@
+{
+  "id": 1360019357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10723,5.79262,-6.10723,5.79262",
+    "geom:latitude":5.79262,
+    "geom:longitude":-6.10723,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Inagbehio",
+    "gn:country_code":"CI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287839,
+    "gn:latitude":5.79262,
+    "gn:longitude":-6.10723,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Inagb\u00e9hio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iragbohio",
+        "Inakb\u00e9hio",
+        "Inakb\u00e9yo",
+        "Inagb\u00e9hio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287839
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c6ee44f39e2d405d2adc2d845b9cc6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1360019357,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1360019357,
+    "wof:lastmodified":1537591006,
+    "wof:name":"Inagbehio",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10723,
+    5.79262,
+    -6.10723,
+    5.79262
+],
+  "geometry": {"coordinates":[-6.10723,5.79262],"type":"Point"}
+}

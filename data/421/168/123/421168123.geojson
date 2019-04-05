@@ -1,0 +1,113 @@
+{
+  "id": 421168123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.4864,7.01232,-7.4864,7.01232",
+    "geom:latitude":7.01232,
+    "geom:longitude":-7.4864,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bangolo"
+    ],
+    "name:dut_x_preferred":[
+        "Bangolo"
+    ],
+    "name:eng_x_preferred":[
+        "Bangolo"
+    ],
+    "name:fra_x_preferred":[
+        "Bangolo"
+    ],
+    "name:fre_x_preferred":[
+        "Bangolo"
+    ],
+    "name:may_x_preferred":[
+        "Bangolo"
+    ],
+    "name:msa_x_preferred":[
+        "Bangolo"
+    ],
+    "name:ron_x_preferred":[
+        "Bangolo"
+    ],
+    "name:rum_x_preferred":[
+        "Bangolo"
+    ],
+    "name:swe_x_preferred":[
+        "Bangolo"
+    ],
+    "name:unk_x_variant":[
+        "Zagna"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2292179,
+    "qs:gn_pop":17712,
+    "qs:name":"Bangolo",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Dix-Huit Montagnes",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1034728,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1487159,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292179,
+        "gp:id":1487159,
+        "qs:id":1034728,
+        "wd:id":"Q2882487",
+        "wk:page":"Bangolo"
+    },
+    "wof:country":"CI",
+    "wof:created":1459008755,
+    "wof:geomhash":"7a3d53fa88713a4ac6e0e029025765d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421168123,
+            "region_id":1108806101
+        }
+    ],
+    "wof:id":421168123,
+    "wof:lastmodified":1527716099,
+    "wof:name":"Bangolo",
+    "wof:parent_id":1108806101,
+    "wof:placetype":"locality",
+    "wof:population":17712,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4864,
+    7.01232,
+    -7.4864,
+    7.01232
+],
+  "geometry": {"coordinates":[-7.4864,7.01232],"type":"Point"}
+}

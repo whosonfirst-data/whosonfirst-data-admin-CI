@@ -1,0 +1,71 @@
+{
+  "id": 1310139923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.14562,5.79951,-4.14562,5.79951",
+    "geom:latitude":5.79951,
+    "geom:longitude":-4.14562,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Abeguie",
+    "gn:country_code":"CI",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596949,
+    "gn:latitude":5.79951,
+    "gn:longitude":-4.14562,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Ab\u00e9gui\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u00e9gui\u00e9",
+        "Ab\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596949
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ecd443e570cbd0a5f94be50fe65676df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1310139923,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1310139923,
+    "wof:lastmodified":1537591092,
+    "wof:name":"Abeguie",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.14562,
+    5.79951,
+    -4.14562,
+    5.79951
+],
+  "geometry": {"coordinates":[-4.14562,5.79951],"type":"Point"}
+}

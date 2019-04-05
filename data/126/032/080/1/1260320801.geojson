@@ -1,0 +1,70 @@
+{
+  "id": 1260320801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25368,7.64088,-5.25368,7.64088",
+    "geom:latitude":7.64088,
+    "geom:longitude":-5.25368,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Abole Kouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536703,
+    "gn:latitude":7.64088,
+    "gn:longitude":-5.25368,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Abole Kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouasikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536703
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"44af1906287d989d365db8f031836e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1260320801,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1260320801,
+    "wof:lastmodified":1537591097,
+    "wof:name":"Abole Kouassikro",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25368,
+    7.64088,
+    -5.25368,
+    7.64088
+],
+  "geometry": {"coordinates":[-5.25368,7.64088],"type":"Point"}
+}

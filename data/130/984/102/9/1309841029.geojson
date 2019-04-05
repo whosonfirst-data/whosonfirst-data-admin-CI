@@ -1,0 +1,71 @@
+{
+  "id": 1309841029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88108,5.42743,-5.88108,5.42743",
+    "geom:latitude":5.42743,
+    "geom:longitude":-5.88108,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Tripoko",
+    "gn:country_code":"CI",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280243,
+    "gn:latitude":5.42743,
+    "gn:longitude":-5.88108,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tripoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiripoko",
+        "Tripoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280243
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b9793826d0bbddbabe4d1f2db2c0dd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1309841029,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1309841029,
+    "wof:lastmodified":1537590907,
+    "wof:name":"Tripoko",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88108,
+    5.42743,
+    -5.88108,
+    5.42743
+],
+  "geometry": {"coordinates":[-5.88108,5.42743],"type":"Point"}
+}

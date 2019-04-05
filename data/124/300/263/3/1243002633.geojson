@@ -1,0 +1,67 @@
+{
+  "id": 1243002633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72434,8.28565,-7.72434,8.28565",
+    "geom:latitude":8.28565,
+    "geom:longitude":-7.72434,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Saala",
+    "gn:country_code":"CI",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282235,
+    "gn:latitude":8.28565,
+    "gn:longitude":-7.72434,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Saala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282235
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c2756ecbc977a7781233ba15aec656f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1243002633,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1243002633,
+    "wof:lastmodified":1536948808,
+    "wof:name":"Saala",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72434,
+    8.28565,
+    -7.72434,
+    8.28565
+],
+  "geometry": {"coordinates":[-7.72434,8.28565],"type":"Point"}
+}

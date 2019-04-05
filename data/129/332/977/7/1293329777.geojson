@@ -1,0 +1,73 @@
+{
+  "id": 1293329777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60241,5.10965,-5.60241,5.10965",
+    "geom:latitude":5.10965,
+    "geom:longitude":-5.60241,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Zakarekro",
+    "gn:country_code":"CI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279509,
+    "gn:latitude":5.10965,
+    "gn:longitude":-5.60241,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Zakar\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zakareko",
+        "Zakarko",
+        "Zakako",
+        "Zakar\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279509
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e3b49fca76de4dffd7a3a009c91881e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1293329777,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293329777,
+    "wof:lastmodified":1537590894,
+    "wof:name":"Zakarekro",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60241,
+    5.10965,
+    -5.60241,
+    5.10965
+],
+  "geometry": {"coordinates":[-5.60241,5.10965],"type":"Point"}
+}

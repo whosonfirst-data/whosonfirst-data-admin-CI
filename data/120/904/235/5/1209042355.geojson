@@ -1,0 +1,67 @@
+{
+  "id": 1209042355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.16404,9.06883,-5.16404,9.06883",
+    "geom:latitude":9.06883,
+    "geom:longitude":-5.16404,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tafire",
+    "gn:country_code":"CI",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281103,
+    "gn:latitude":9.06883,
+    "gn:longitude":-5.16404,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tafir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taffire-Soba",
+        "Tafir\u00e9-Soba",
+        "Tafir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281103,
+        "wk:page":"Tafir%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2ee552055cfeace6772fd0d38251f8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209042355
+        }
+    ],
+    "wof:id":1209042355,
+    "wof:lastmodified":1537590918,
+    "wof:name":"Tafire",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.16404,
+    9.06883,
+    -5.16404,
+    9.06883
+],
+  "geometry": {"coordinates":[-5.16404,9.06883],"type":"Point"}
+}

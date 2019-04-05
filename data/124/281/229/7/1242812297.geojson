@@ -1,0 +1,70 @@
+{
+  "id": 1242812297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83709,6.81292,-4.83709,6.81292",
+    "geom:latitude":6.81292,
+    "geom:longitude":-4.83709,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Adahou",
+    "gn:country_code":"CI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293436,
+    "gn:latitude":6.81292,
+    "gn:longitude":-4.83709,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Adahou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293436
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9b7e7954d6d13b73a19e3d3294eafbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1242812297,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1242812297,
+    "wof:lastmodified":1537591088,
+    "wof:name":"Adahou",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83709,
+    6.81292,
+    -4.83709,
+    6.81292
+],
+  "geometry": {"coordinates":[-4.83709,6.81292],"type":"Point"}
+}

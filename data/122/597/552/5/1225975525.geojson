@@ -1,0 +1,67 @@
+{
+  "id": 1225975525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35013,5.8514,-4.35013,5.8514",
+    "geom:latitude":5.8514,
+    "geom:longitude":-4.35013,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ohouga Ngbesso",
+    "gn:country_code":"CI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032574,
+    "gn:latitude":5.8514,
+    "gn:longitude":-4.35013,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Ohouga Ngbesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032574
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"897f42ba3d021261d5782fc147bafae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1225975525,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1225975525,
+    "wof:lastmodified":1536825490,
+    "wof:name":"Ohouga Ngbesso",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35013,
+    5.8514,
+    -4.35013,
+    5.8514
+],
+  "geometry": {"coordinates":[-4.35013,5.8514],"type":"Point"}
+}

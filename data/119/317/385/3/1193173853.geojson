@@ -1,0 +1,70 @@
+{
+  "id": 1193173853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93807,6.11643,-5.93807,6.11643",
+    "geom:latitude":6.11643,
+    "geom:longitude":-5.93807,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Barouhio",
+    "gn:country_code":"CI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292054,
+    "gn:latitude":6.11643,
+    "gn:longitude":-5.93807,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Barouhio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barouyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292054
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c4a4aac2c853e34c21fc268ba4947b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1193173853,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1193173853,
+    "wof:lastmodified":1537591068,
+    "wof:name":"Barouhio",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93807,
+    6.11643,
+    -5.93807,
+    6.11643
+],
+  "geometry": {"coordinates":[-5.93807,6.11643],"type":"Point"}
+}

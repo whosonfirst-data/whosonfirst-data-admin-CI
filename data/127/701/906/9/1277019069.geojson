@@ -1,0 +1,71 @@
+{
+  "id": 1277019069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44361,6.32694,-3.44361,6.32694",
+    "geom:latitude":6.32694,
+    "geom:longitude":-3.44361,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Ehuiasso alongounou",
+    "gn:country_code":"CI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293064,
+    "gn:latitude":6.32694,
+    "gn:longitude":-3.44361,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ehuiasso alongounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alangouanou",
+        "Ehuiasso alongounou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669921,
+        1108784983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293064
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6f2f4ec93a176c97d00dec1055b26ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784983,
+            "locality_id":1277019069,
+            "region_id":85669921
+        }
+    ],
+    "wof:id":1277019069,
+    "wof:lastmodified":1537591083,
+    "wof:name":"Ehuiasso alongounou",
+    "wof:parent_id":1108784983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44361,
+    6.32694,
+    -3.44361,
+    6.32694
+],
+  "geometry": {"coordinates":[-3.44361,6.32694],"type":"Point"}
+}

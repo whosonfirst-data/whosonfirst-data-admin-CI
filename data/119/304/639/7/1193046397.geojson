@@ -1,0 +1,71 @@
+{
+  "id": 1193046397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35724,4.65446,-7.35724,4.65446",
+    "geom:latitude":4.65446,
+    "geom:longitude":-7.35724,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Kratwe",
+    "gn:country_code":"CI",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285621,
+    "gn:latitude":4.65446,
+    "gn:longitude":-7.35724,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kratw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kratou\u00e9",
+        "Kratw\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285621
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"870843c064e66a2663f787d3404f16d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1193046397,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1193046397,
+    "wof:lastmodified":1537590979,
+    "wof:name":"Kratwe",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35724,
+    4.65446,
+    -7.35724,
+    4.65446
+],
+  "geometry": {"coordinates":[-7.35724,4.65446],"type":"Point"}
+}

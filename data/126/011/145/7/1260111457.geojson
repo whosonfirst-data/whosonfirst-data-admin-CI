@@ -1,0 +1,71 @@
+{
+  "id": 1260111457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4337,7.12214,-4.4337,7.12214",
+    "geom:latitude":7.12214,
+    "geom:longitude":-4.4337,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sale-Balekro",
+    "gn:country_code":"CI",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282156,
+    "gn:latitude":7.12214,
+    "gn:longitude":-4.4337,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Sal\u00e9-Bal\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salebeliekro",
+        "Sal\u00e9-Bal\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282156
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6930aff003dad7b59c59cc718d0ebd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1260111457,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1260111457,
+    "wof:lastmodified":1537590931,
+    "wof:name":"Sale-Balekro",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4337,
+    7.12214,
+    -4.4337,
+    7.12214
+],
+  "geometry": {"coordinates":[-4.4337,7.12214],"type":"Point"}
+}

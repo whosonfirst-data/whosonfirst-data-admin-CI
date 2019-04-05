@@ -1,0 +1,71 @@
+{
+  "id": 1260013853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.49358,6.81191,-6.49358,6.81191",
+    "geom:latitude":6.81191,
+    "geom:longitude":-6.49358,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Tadea",
+    "gn:country_code":"CI",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281112,
+    "gn:latitude":6.81191,
+    "gn:longitude":-6.49358,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tad\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tad\u00e9a",
+        "Tadia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281112
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a9674907dd3e93e784cd94d63547f55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1260013853,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1260013853,
+    "wof:lastmodified":1537590918,
+    "wof:name":"Tadea",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49358,
+    6.81191,
+    -6.49358,
+    6.81191
+],
+  "geometry": {"coordinates":[-6.49358,6.81191],"type":"Point"}
+}

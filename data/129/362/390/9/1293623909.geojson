@@ -1,0 +1,71 @@
+{
+  "id": 1293623909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47115,9.25773,-5.47115,9.25773",
+    "geom:latitude":9.25773,
+    "geom:longitude":-5.47115,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nyematolo",
+    "gn:country_code":"CI",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283105,
+    "gn:latitude":9.25773,
+    "gn:longitude":-5.47115,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ny\u00e9matolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u00e9matolo",
+        "Ny\u00e9matolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283105
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8d9ea1ead21618aae0c4365b27da8fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1293623909,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293623909,
+    "wof:lastmodified":1537590946,
+    "wof:name":"Nyematolo",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47115,
+    9.25773,
+    -5.47115,
+    9.25773
+],
+  "geometry": {"coordinates":[-5.47115,9.25773],"type":"Point"}
+}

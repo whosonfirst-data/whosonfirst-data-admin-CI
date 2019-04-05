@@ -1,0 +1,61 @@
+{
+  "id": 1209248579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41667,8.41667,-4.41667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-4.41667,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tagouanon",
+    "gn:country_code":"CI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281086,
+    "gn:latitude":8.41667,
+    "gn:longitude":-4.41667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tagouanon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281086
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"abb399e0a2a84997e2df918dbc793b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209248579
+        }
+    ],
+    "wof:id":1209248579,
+    "wof:lastmodified":1536293079,
+    "wof:name":"Tagouanon",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41667,
+    8.41667,
+    -4.41667,
+    8.41667
+],
+  "geometry": {"coordinates":[-4.41667,8.41667],"type":"Point"}
+}

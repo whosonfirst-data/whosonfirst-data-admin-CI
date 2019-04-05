@@ -1,0 +1,61 @@
+{
+  "id": 1209136827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8131,10.37206,-5.8131,10.37206",
+    "geom:latitude":10.37206,
+    "geom:longitude":-5.8131,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Loulo",
+    "gn:country_code":"CI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284822,
+    "gn:latitude":10.37206,
+    "gn:longitude":-5.8131,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Loulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284822
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"785ca687b3a9792170fb3b096c0683e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209136827
+        }
+    ],
+    "wof:id":1209136827,
+    "wof:lastmodified":1536296633,
+    "wof:name":"Loulo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8131,
+    10.37206,
+    -5.8131,
+    10.37206
+],
+  "geometry": {"coordinates":[-5.8131,10.37206],"type":"Point"}
+}

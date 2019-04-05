@@ -1,0 +1,67 @@
+{
+  "id": 1277105457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.30457,5.87038,-4.30457,5.87038",
+    "geom:latitude":5.87038,
+    "geom:longitude":-4.30457,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Dibi Konan",
+    "gn:country_code":"CI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032706,
+    "gn:latitude":5.87038,
+    "gn:longitude":-4.30457,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Dibi Konan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032706
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7c716baad91d4f6ba44f84c402783edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1277105457,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1277105457,
+    "wof:lastmodified":1536735140,
+    "wof:name":"Dibi Konan",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.30457,
+    5.87038,
+    -4.30457,
+    5.87038
+],
+  "geometry": {"coordinates":[-4.30457,5.87038],"type":"Point"}
+}

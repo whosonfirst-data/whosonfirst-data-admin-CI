@@ -1,0 +1,72 @@
+{
+  "id": 1343497243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46335,5.39141,-6.46335,5.39141",
+    "geom:latitude":5.39141,
+    "geom:longitude":-6.46335,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Krohon",
+    "gn:country_code":"CI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285586,
+    "gn:latitude":5.39141,
+    "gn:longitude":-6.46335,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Krohon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kronn",
+        "Kroon",
+        "Krohon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285586
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"896a4ae7c7cd74c0d1372b83e4f39376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1343497243,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343497243,
+    "wof:lastmodified":1537590978,
+    "wof:name":"Krohon",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46335,
+    5.39141,
+    -6.46335,
+    5.39141
+],
+  "geometry": {"coordinates":[-6.46335,5.39141],"type":"Point"}
+}

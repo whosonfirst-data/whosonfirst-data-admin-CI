@@ -1,0 +1,71 @@
+{
+  "id": 1327470763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60681,5.62668,-5.60681,5.62668",
+    "geom:latitude":5.62668,
+    "geom:longitude":-5.60681,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Akridou",
+    "gn:country_code":"CI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293085,
+    "gn:latitude":5.62668,
+    "gn:longitude":-5.60681,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Akridou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akridu",
+        "Akridou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293085
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4173bfcfc2f20adc9daad3102d29c43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1327470763,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1327470763,
+    "wof:lastmodified":1537591083,
+    "wof:name":"Akridou",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60681,
+    5.62668,
+    -5.60681,
+    5.62668
+],
+  "geometry": {"coordinates":[-5.60681,5.62668],"type":"Point"}
+}

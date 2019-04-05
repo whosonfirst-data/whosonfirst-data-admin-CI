@@ -1,0 +1,61 @@
+{
+  "id": 1209251075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27168,7.28602,-5.27168,7.28602",
+    "geom:latitude":7.28602,
+    "geom:longitude":-5.27168,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Yao Kouame",
+    "gn:country_code":"CI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279720,
+    "gn:latitude":7.28602,
+    "gn:longitude":-5.27168,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yao Kouame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279720
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5d7148c19bc2c462f9fc7f47b78ebff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209251075
+        }
+    ],
+    "wof:id":1209251075,
+    "wof:lastmodified":1536293002,
+    "wof:name":"Yao Kouame",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27168,
+    7.28602,
+    -5.27168,
+    7.28602
+],
+  "geometry": {"coordinates":[-5.27168,7.28602],"type":"Point"}
+}

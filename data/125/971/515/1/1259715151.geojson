@@ -1,0 +1,67 @@
+{
+  "id": 1259715151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6,9.45,-5.6,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":-5.6,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Lenekaha",
+    "gn:country_code":"CI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285275,
+    "gn:latitude":9.45,
+    "gn:longitude":-5.6,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"L\u00e9n\u00e9kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285275
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9f5b260237d7ed159d2ebff630a9be77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1259715151,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1259715151,
+    "wof:lastmodified":1537020622,
+    "wof:name":"Lenekaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6,
+    9.45,
+    -5.6,
+    9.45
+],
+  "geometry": {"coordinates":[-5.6,9.45],"type":"Point"}
+}

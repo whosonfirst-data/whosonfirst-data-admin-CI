@@ -1,0 +1,67 @@
+{
+  "id": 1209945041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.62337,5.59249,-3.62337,5.59249",
+    "geom:latitude":5.59249,
+    "geom:longitude":-3.62337,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ayeron Ayeron",
+    "gn:country_code":"CI",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033157,
+    "gn:latitude":5.59249,
+    "gn:longitude":-3.62337,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Ayeron Ayeron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033157
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cb900b51a5c09162a55207151a0df9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1209945041,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1209945041,
+    "wof:lastmodified":1536386788,
+    "wof:name":"Ayeron Ayeron",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.62337,
+    5.59249,
+    -3.62337,
+    5.59249
+],
+  "geometry": {"coordinates":[-3.62337,5.59249],"type":"Point"}
+}

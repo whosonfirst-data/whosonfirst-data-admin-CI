@@ -1,0 +1,67 @@
+{
+  "id": 1259419161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6,9.35,-4.6,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":-4.6,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Birinderasso",
+    "gn:country_code":"CI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291546,
+    "gn:latitude":9.35,
+    "gn:longitude":-4.6,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Birind\u00e9rasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291546
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7d676b122dae903790ec1b8a502fa7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1259419161,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1259419161,
+    "wof:lastmodified":1536951322,
+    "wof:name":"Birinderasso",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6,
+    9.35,
+    -4.6,
+    9.35
+],
+  "geometry": {"coordinates":[-4.6,9.35],"type":"Point"}
+}

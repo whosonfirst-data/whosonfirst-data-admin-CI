@@ -1,0 +1,122 @@
+{
+  "id": 421188169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9631,7.0591,-3.9631,7.0591",
+    "geom:latitude":7.0591,
+    "geom:longitude":-3.9631,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Daoukro"
+    ],
+    "name:dut_x_preferred":[
+        "Daoukro"
+    ],
+    "name:eng_x_preferred":[
+        "Daoukro"
+    ],
+    "name:fra_x_preferred":[
+        "Daoukro"
+    ],
+    "name:fre_x_preferred":[
+        "Daoukro"
+    ],
+    "name:ger_x_preferred":[
+        "Daoukro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30aa\u30af\u30ed"
+    ],
+    "name:may_x_preferred":[
+        "Daoukro"
+    ],
+    "name:msa_x_preferred":[
+        "Daoukro"
+    ],
+    "name:ron_x_preferred":[
+        "Daoukro"
+    ],
+    "name:rum_x_preferred":[
+        "Daoukro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0443\u043a\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Daoukro"
+    ],
+    "name:unk_x_variant":[
+        "Daukro"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2290412,
+    "qs:gn_pop":40175,
+    "qs:name":"Daoukro",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"N'zi-Como\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1089365,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1341389,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":404,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290412,
+        "gp:id":1341389,
+        "qs:id":1089365,
+        "wd:id":"Q3015844",
+        "wk:page":"Daoukro"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009536,
+    "wof:geomhash":"91fbc73cb41bf02df51d3915a9866afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421188169,
+            "region_id":1108806107
+        }
+    ],
+    "wof:id":421188169,
+    "wof:lastmodified":1527716276,
+    "wof:name":"Daoukro",
+    "wof:parent_id":1108806107,
+    "wof:placetype":"locality",
+    "wof:population":40175,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9631,
+    7.0591,
+    -3.9631,
+    7.0591
+],
+  "geometry": {"coordinates":[-3.9631,7.0591],"type":"Point"}
+}

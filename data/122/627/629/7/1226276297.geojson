@@ -1,0 +1,72 @@
+{
+  "id": 1226276297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63959,7.78478,-7.63959,7.78478",
+    "geom:latitude":7.78478,
+    "geom:longitude":-7.63959,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gouefinso",
+    "gn:country_code":"CI",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288570,
+    "gn:latitude":7.78478,
+    "gn:longitude":-7.63959,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gou\u00e9finso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9finso",
+        "G\u00e9f\u00e8nso",
+        "Gou\u00e9finso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288570
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"282d658e50f45704e53f38398e284263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1226276297,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1226276297,
+    "wof:lastmodified":1537591018,
+    "wof:name":"Gouefinso",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63959,
+    7.78478,
+    -7.63959,
+    7.78478
+],
+  "geometry": {"coordinates":[-7.63959,7.78478],"type":"Point"}
+}

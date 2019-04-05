@@ -1,0 +1,70 @@
+{
+  "id": 1226677063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13748,6.84558,-5.13748,6.84558",
+    "geom:latitude":6.84558,
+    "geom:longitude":-5.13748,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Kakoubroukro",
+    "gn:country_code":"CI",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286114,
+    "gn:latitude":6.84558,
+    "gn:longitude":-5.13748,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kakoubroukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouakoubroukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108784993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286114
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"09eb779bf5efaf6c696f53390fabb587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784993,
+            "locality_id":1226677063,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1226677063,
+    "wof:lastmodified":1537590985,
+    "wof:name":"Kakoubroukro",
+    "wof:parent_id":1108784993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13748,
+    6.84558,
+    -5.13748,
+    6.84558
+],
+  "geometry": {"coordinates":[-5.13748,6.84558],"type":"Point"}
+}

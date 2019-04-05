@@ -1,0 +1,61 @@
+{
+  "id": 1209041363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43587,5.86623,-7.43587,5.86623",
+    "geom:latitude":5.86623,
+    "geom:longitude":-7.43587,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Dikouli",
+    "gn:country_code":"CI",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289995,
+    "gn:latitude":5.86623,
+    "gn:longitude":-7.43587,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dikouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289995
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4928fc2ea9a861c6de97d9c817612bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209041363
+        }
+    ],
+    "wof:id":1209041363,
+    "wof:lastmodified":1536299535,
+    "wof:name":"Dikouli",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.435869999999999,
+    5.866230000000002,
+    -7.435869999999999,
+    5.866230000000002
+],
+  "geometry": {"coordinates":[-7.43587,5.86623],"type":"Point"}
+}

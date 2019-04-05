@@ -1,0 +1,67 @@
+{
+  "id": 1293329657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.59382,6.10485,-5.59382,6.10485",
+    "geom:latitude":6.10485,
+    "geom:longitude":-5.59382,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Bodieko",
+    "gn:country_code":"CI",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291371,
+    "gn:latitude":6.10485,
+    "gn:longitude":-5.59382,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bodi\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291371
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8a8c08306688377335897ca784930b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1293329657,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1293329657,
+    "wof:lastmodified":1537013801,
+    "wof:name":"Bodieko",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.59382,
+    6.10485,
+    -5.59382,
+    6.10485
+],
+  "geometry": {"coordinates":[-5.59382,6.10485],"type":"Point"}
+}

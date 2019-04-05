@@ -1,0 +1,67 @@
+{
+  "id": 1327468379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55281,8.42582,-4.55281,8.42582",
+    "geom:latitude":8.42582,
+    "geom:longitude":-4.55281,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kadieoule-Sobara",
+    "gn:country_code":"CI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287721,
+    "gn:latitude":8.42582,
+    "gn:longitude":-4.55281,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kadi\u00e9oul\u00e9-Sobara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287721
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4cbf58793f0bcad3784369f9c8b1721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1327468379,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327468379,
+    "wof:lastmodified":1536627018,
+    "wof:name":"Kadieoule-Sobara",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55281,
+    8.42582,
+    -4.55281,
+    8.42582
+],
+  "geometry": {"coordinates":[-4.55281,8.42582],"type":"Point"}
+}

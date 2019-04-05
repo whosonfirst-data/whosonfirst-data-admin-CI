@@ -1,0 +1,67 @@
+{
+  "id": 1293129367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03629,4.73672,-7.03629,4.73672",
+    "geom:latitude":4.73672,
+    "geom:longitude":-7.03629,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Petit Boua",
+    "gn:country_code":"CI",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282512,
+    "gn:latitude":4.73672,
+    "gn:longitude":-7.03629,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Petit Boua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282512
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"11916fc7f73a3bbc88c80cc68c80ebb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1293129367,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293129367,
+    "wof:lastmodified":1536806305,
+    "wof:name":"Petit Boua",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03629,
+    4.73672,
+    -7.03629,
+    4.73672
+],
+  "geometry": {"coordinates":[-7.03629,4.73672],"type":"Point"}
+}

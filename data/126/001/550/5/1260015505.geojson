@@ -1,0 +1,67 @@
+{
+  "id": 1260015505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48972,6.11139,-7.48972,6.11139",
+    "geom:latitude":6.11139,
+    "geom:longitude":-7.48972,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Soloky",
+    "gn:country_code":"CI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596818,
+    "gn:latitude":6.11139,
+    "gn:longitude":-7.48972,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Soloky",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596818
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"47c3a3027cb8ef9650d0c5ba8d28ea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1260015505,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1260015505,
+    "wof:lastmodified":1537082670,
+    "wof:name":"Soloky",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48972,
+    6.11139,
+    -7.48972,
+    6.11139
+],
+  "geometry": {"coordinates":[-7.48972,6.11139],"type":"Point"}
+}

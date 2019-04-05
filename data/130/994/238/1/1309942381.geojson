@@ -1,0 +1,72 @@
+{
+  "id": 1309942381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61823,9.97,-6.61823,9.97",
+    "geom:latitude":9.97,
+    "geom:longitude":-6.61823,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"N'deou",
+    "gn:country_code":"CI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283847,
+    "gn:latitude":9.97,
+    "gn:longitude":-6.61823,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"N\u2019deou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dy\u00e9o",
+        "Ndi\u00e9ou",
+        "N\u2019deou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283847
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4c249311425e4498e7ba2c7347d5a67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1309942381,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1309942381,
+    "wof:lastmodified":1537590955,
+    "wof:name":"N'deou",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61823,
+    9.97,
+    -6.61823,
+    9.97
+],
+  "geometry": {"coordinates":[-6.61823,9.97],"type":"Point"}
+}

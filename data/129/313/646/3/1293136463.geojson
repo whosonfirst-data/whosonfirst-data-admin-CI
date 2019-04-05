@@ -1,0 +1,70 @@
+{
+  "id": 1293136463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52826,6.36467,-7.52826,6.36467",
+    "geom:latitude":6.36467,
+    "geom:longitude":-7.52826,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ditroudra Beoue",
+    "gn:country_code":"CI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289890,
+    "gn:latitude":6.36467,
+    "gn:longitude":-7.52826,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ditroudra B\u00e9ou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ditroudra B\u00e9ou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289890
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6b2ffd6b0f70b5ae498e4152bc4769ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1293136463,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1293136463,
+    "wof:lastmodified":1537591038,
+    "wof:name":"Ditroudra Beoue",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52826,
+    6.36467,
+    -7.52826,
+    6.36467
+],
+  "geometry": {"coordinates":[-7.52826,6.36467],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226677083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52806,9.53333,-6.52806,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":-6.52806,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nondara",
+    "gn:country_code":"CI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283276,
+    "gn:latitude":9.53333,
+    "gn:longitude":-6.52806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nondara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nandala",
+        "Noonlara",
+        "Nondara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283276
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"21e2a6eebb65eee7855285ff2382494c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1226677083,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226677083,
+    "wof:lastmodified":1537590949,
+    "wof:name":"Nondara",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52806,
+    9.53333,
+    -6.52806,
+    9.53333
+],
+  "geometry": {"coordinates":[-6.52806,9.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243588587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0064,8.32597,-6.0064,8.32597",
+    "geom:latitude":8.32597,
+    "geom:longitude":-6.0064,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Tondolo",
+    "gn:country_code":"CI",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280460,
+    "gn:latitude":8.32597,
+    "gn:longitude":-6.0064,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tondolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280460
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9aeb27b7b0c38acbfcaa5d068b138a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1243588587,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1243588587,
+    "wof:lastmodified":1537094334,
+    "wof:name":"Tondolo",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0064,
+    8.32597,
+    -6.0064,
+    8.32597
+],
+  "geometry": {"coordinates":[-6.0064,8.32597],"type":"Point"}
+}

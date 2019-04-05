@@ -1,0 +1,61 @@
+{
+  "id": 1209350873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36667,7.01667,-4.36667,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":-4.36667,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kouanikona",
+    "gn:country_code":"CI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286034,
+    "gn:latitude":7.01667,
+    "gn:longitude":-4.36667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kouanikona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286034
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e299c772f8e57d04c1c422b6b7a2b994",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209350873
+        }
+    ],
+    "wof:id":1209350873,
+    "wof:lastmodified":1536289745,
+    "wof:name":"Kouanikona",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36667,
+    7.01667,
+    -4.36667,
+    7.01667
+],
+  "geometry": {"coordinates":[-4.36667,7.01667],"type":"Point"}
+}

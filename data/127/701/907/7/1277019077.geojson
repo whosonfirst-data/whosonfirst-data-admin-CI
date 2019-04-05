@@ -1,0 +1,71 @@
+{
+  "id": 1277019077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60154,8.75112,-5.60154,8.75112",
+    "geom:latitude":8.75112,
+    "geom:longitude":-5.60154,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Katyonron",
+    "gn:country_code":"CI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287276,
+    "gn:latitude":8.75112,
+    "gn:longitude":-5.60154,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Katyonron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kationron",
+        "Katyonron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287276
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5b0535a1e9b203da3e4d17cb390bb51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1277019077,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1277019077,
+    "wof:lastmodified":1537590997,
+    "wof:name":"Katyonron",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60154,
+    8.75112,
+    -5.60154,
+    8.75112
+],
+  "geometry": {"coordinates":[-5.60154,8.75112],"type":"Point"}
+}

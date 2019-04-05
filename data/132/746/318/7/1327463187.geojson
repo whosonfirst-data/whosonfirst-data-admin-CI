@@ -1,0 +1,67 @@
+{
+  "id": 1327463187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44141,5.96582,-3.44141,5.96582",
+    "geom:latitude":5.96582,
+    "geom:longitude":-3.44141,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Taria",
+    "gn:country_code":"CI",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032040,
+    "gn:latitude":5.96582,
+    "gn:longitude":-3.44141,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Taria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669921,
+        1108784983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032040
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"90c3f84404130a4ee9eea169f2e6c353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784983,
+            "locality_id":1327463187,
+            "region_id":85669921
+        }
+    ],
+    "wof:id":1327463187,
+    "wof:lastmodified":1536635133,
+    "wof:name":"Taria",
+    "wof:parent_id":1108784983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44141,
+    5.96582,
+    -3.44141,
+    5.96582
+],
+  "geometry": {"coordinates":[-3.44141,5.96582],"type":"Point"}
+}

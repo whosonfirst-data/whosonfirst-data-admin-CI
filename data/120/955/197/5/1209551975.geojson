@@ -1,0 +1,61 @@
+{
+  "id": 1209551975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.34015,8.35731,-4.34015,8.35731",
+    "geom:latitude":8.35731,
+    "geom:longitude":-4.34015,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tonfoin",
+    "gn:country_code":"CI",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280456,
+    "gn:latitude":8.35731,
+    "gn:longitude":-4.34015,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tonfoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280456
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"473e9bcee420bc2da32f81aa96165f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209551975
+        }
+    ],
+    "wof:id":1209551975,
+    "wof:lastmodified":1536283665,
+    "wof:name":"Tonfoin",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.34015,
+    8.35731,
+    -4.34015,
+    8.35731
+],
+  "geometry": {"coordinates":[-4.34015,8.35731],"type":"Point"}
+}

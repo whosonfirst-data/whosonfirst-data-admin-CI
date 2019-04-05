@@ -1,0 +1,67 @@
+{
+  "id": 1293426143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18821,7.19597,-5.18821,7.19597",
+    "geom:latitude":7.19597,
+    "geom:longitude":-5.18821,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kofi Kouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286821,
+    "gn:latitude":7.19597,
+    "gn:longitude":-5.18821,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kofi Kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286821
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e31671221c610935720e2533a3999f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293426143,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293426143,
+    "wof:lastmodified":1536874447,
+    "wof:name":"Kofi Kouassikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18821,
+    7.19597,
+    -5.18821,
+    7.19597
+],
+  "geometry": {"coordinates":[-5.18821,7.19597],"type":"Point"}
+}

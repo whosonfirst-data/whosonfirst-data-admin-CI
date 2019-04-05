@@ -1,0 +1,71 @@
+{
+  "id": 1276696541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.11689,6.49078,-5.11689,6.49078",
+    "geom:latitude":6.49078,
+    "geom:longitude":-5.11689,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Laliiekro",
+    "gn:country_code":"CI",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285439,
+    "gn:latitude":6.49078,
+    "gn:longitude":-5.11689,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lalii\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lalii\u00e9kro",
+        "Lali\u00e9kro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285439
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ab1286751b0b4a466e26c204452853d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1276696541,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1276696541,
+    "wof:lastmodified":1537590976,
+    "wof:name":"Laliiekro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.11689,
+    6.49078,
+    -5.11689,
+    6.49078
+],
+  "geometry": {"coordinates":[-5.11689,6.49078],"type":"Point"}
+}

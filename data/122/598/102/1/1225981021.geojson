@@ -1,0 +1,71 @@
+{
+  "id": 1225981021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05244,8.27777,-5.05244,8.27777",
+    "geom:latitude":8.27777,
+    "geom:longitude":-5.05244,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Takala",
+    "gn:country_code":"CI",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281070,
+    "gn:latitude":8.27777,
+    "gn:longitude":-5.05244,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Takala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagala",
+        "Takala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281070
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2961221a5350f8340c181520548256a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1225981021,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1225981021,
+    "wof:lastmodified":1537590917,
+    "wof:name":"Takala",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05244,
+    8.27777,
+    -5.05244,
+    8.27777
+],
+  "geometry": {"coordinates":[-5.05244,8.27777],"type":"Point"}
+}

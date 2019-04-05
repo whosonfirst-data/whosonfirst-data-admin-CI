@@ -1,0 +1,68 @@
+{
+  "id": 1327066325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.51229,6.30276,-7.51229,6.30276",
+    "geom:latitude":6.30276,
+    "geom:longitude":-7.51229,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Zro",
+    "gn:country_code":"CI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279188,
+    "gn:latitude":6.30276,
+    "gn:longitude":-7.51229,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Zro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279188,
+        "wk:page":"Zro"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7b364fd4d983049e31e66819a501f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1327066325,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1327066325,
+    "wof:lastmodified":1537489379,
+    "wof:name":"Zro",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.51229,
+    6.30276,
+    -7.51229,
+    6.30276
+],
+  "geometry": {"coordinates":[-7.51229,6.30276],"type":"Point"}
+}

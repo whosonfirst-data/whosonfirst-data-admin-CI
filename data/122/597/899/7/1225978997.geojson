@@ -1,0 +1,71 @@
+{
+  "id": 1225978997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.17112,6.32358,-6.17112,6.32358",
+    "geom:latitude":6.32358,
+    "geom:longitude":-6.17112,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Seguiehoa",
+    "gn:country_code":"CI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281859,
+    "gn:latitude":6.32358,
+    "gn:longitude":-6.17112,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"S\u00e9gui\u00e9hoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9gui\u00e9hoa",
+        "S\u00e9gui\u00e9oa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281859
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"893b9a51e9b3a6e4ace324461a75f89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1225978997,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1225978997,
+    "wof:lastmodified":1537590927,
+    "wof:name":"Seguiehoa",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.17112,
+    6.32358,
+    -6.17112,
+    6.32358
+],
+  "geometry": {"coordinates":[-6.17112,6.32358],"type":"Point"}
+}

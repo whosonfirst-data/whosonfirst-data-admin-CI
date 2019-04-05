@@ -1,0 +1,71 @@
+{
+  "id": 1193047683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10229,6.7558,-6.10229,6.7558",
+    "geom:latitude":6.7558,
+    "geom:longitude":-6.10229,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Vrigrita",
+    "gn:country_code":"CI",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280008,
+    "gn:latitude":6.7558,
+    "gn:longitude":-6.10229,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Vrigrita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrigri",
+        "Vrigrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280008
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5261b4f2eb88163e056156a5ac4d26e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1193047683,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1193047683,
+    "wof:lastmodified":1537590903,
+    "wof:name":"Vrigrita",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10229,
+    6.7558,
+    -6.10229,
+    6.7558
+],
+  "geometry": {"coordinates":[-6.10229,6.7558],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343297179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12694,7.29977,-8.12694,7.29977",
+    "geom:latitude":7.29977,
+    "geom:longitude":-8.12694,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Goualeu",
+    "gn:country_code":"CI",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288229,
+    "gn:latitude":7.29977,
+    "gn:longitude":-8.12694,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Goualeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goueleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288229
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1e4a7b927f3ad50cc903cf779849dfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1343297179,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1343297179,
+    "wof:lastmodified":1537591012,
+    "wof:name":"Goualeu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12694,
+    7.29977,
+    -8.12694,
+    7.29977
+],
+  "geometry": {"coordinates":[-8.12694,7.29977],"type":"Point"}
+}

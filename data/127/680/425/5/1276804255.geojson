@@ -1,0 +1,67 @@
+{
+  "id": 1276804255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14545,7.11285,-8.14545,7.11285",
+    "geom:latitude":7.11285,
+    "geom:longitude":-8.14545,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Banteadepleu",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292119,
+    "gn:latitude":7.11285,
+    "gn:longitude":-8.14545,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bant\u00e9adepleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292119
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aa103d38e847546db7e11c7083da8c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1276804255,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1276804255,
+    "wof:lastmodified":1536644191,
+    "wof:name":"Banteadepleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14545,
+    7.11285,
+    -8.14545,
+    7.11285
+],
+  "geometry": {"coordinates":[-8.14545,7.11285],"type":"Point"}
+}

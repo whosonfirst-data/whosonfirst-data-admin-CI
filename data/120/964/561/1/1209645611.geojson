@@ -1,0 +1,61 @@
+{
+  "id": 1209645611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48333,8.66667,-5.48333,8.66667",
+    "geom:latitude":8.66667,
+    "geom:longitude":-5.48333,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Pkontara",
+    "gn:country_code":"CI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282443,
+    "gn:latitude":8.66667,
+    "gn:longitude":-5.48333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Pkontara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282443
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"83725e00188fb1be83f3d84a1413557c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209645611
+        }
+    ],
+    "wof:id":1209645611,
+    "wof:lastmodified":1536280745,
+    "wof:name":"Pkontara",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4833300000000005,
+    8.66667,
+    -5.4833300000000005,
+    8.66667
+],
+  "geometry": {"coordinates":[-5.48333,8.66667],"type":"Point"}
+}

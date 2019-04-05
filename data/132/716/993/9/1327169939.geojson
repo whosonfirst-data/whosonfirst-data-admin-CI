@@ -1,0 +1,67 @@
+{
+  "id": 1327169939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.93333,9.4,-3.93333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-3.93333,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tikorosso",
+    "gn:country_code":"CI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280631,
+    "gn:latitude":9.4,
+    "gn:longitude":-3.93333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tikorosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280631
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0f0e7af6e776c2cd5d005e9fea8d263a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1327169939,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327169939,
+    "wof:lastmodified":1537057278,
+    "wof:name":"Tikorosso",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.93333,
+    9.4,
+    -3.93333,
+    9.4
+],
+  "geometry": {"coordinates":[-3.93333,9.4],"type":"Point"}
+}

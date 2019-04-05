@@ -1,0 +1,67 @@
+{
+  "id": 1327469889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64299,5.50532,-3.64299,5.50532",
+    "geom:latitude":5.50532,
+    "geom:longitude":-3.64299,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Kamara",
+    "gn:country_code":"CI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033170,
+    "gn:latitude":5.50532,
+    "gn:longitude":-3.64299,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kamara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033170
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b57e1a15fb1ade56c76b14626f4d8923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1327469889,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327469889,
+    "wof:lastmodified":1536624613,
+    "wof:name":"Kamara",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64299,
+    5.50532,
+    -3.64299,
+    5.50532
+],
+  "geometry": {"coordinates":[-3.64299,5.50532],"type":"Point"}
+}

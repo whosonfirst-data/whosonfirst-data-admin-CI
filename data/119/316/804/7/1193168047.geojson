@@ -1,0 +1,67 @@
+{
+  "id": 1193168047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.16864,6.65089,-4.16864,6.65089",
+    "geom:latitude":6.65089,
+    "geom:longitude":-4.16864,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ehukro",
+    "gn:country_code":"CI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289396,
+    "gn:latitude":6.65089,
+    "gn:longitude":-4.16864,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ehukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289396
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b16210e236098ec400ae2a85689316fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1193168047,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1193168047,
+    "wof:lastmodified":1536383540,
+    "wof:name":"Ehukro",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.16864,
+    6.65089,
+    -4.16864,
+    6.65089
+],
+  "geometry": {"coordinates":[-4.16864,6.65089],"type":"Point"}
+}

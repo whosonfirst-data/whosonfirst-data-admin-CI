@@ -1,0 +1,61 @@
+{
+  "id": 1209040525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.03528,7.095,-3.03528,7.095",
+    "geom:latitude":7.095,
+    "geom:longitude":-3.03528,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Kouadiokrou",
+    "gn:country_code":"CI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595380,
+    "gn:latitude":7.095,
+    "gn:longitude":-3.03528,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Kouadiokrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595380
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b4941466e0514455bd6258cd9a7c29bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209040525
+        }
+    ],
+    "wof:id":1209040525,
+    "wof:lastmodified":1536299560,
+    "wof:name":"Kouadiokrou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.03528,
+    7.095,
+    -3.03528,
+    7.095
+],
+  "geometry": {"coordinates":[-3.03528,7.095],"type":"Point"}
+}

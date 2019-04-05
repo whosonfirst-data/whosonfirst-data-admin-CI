@@ -1,0 +1,67 @@
+{
+  "id": 1259910349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98306,4.5958,-6.98306,4.5958",
+    "geom:latitude":4.5958,
+    "geom:longitude":-6.98306,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dahoua",
+    "gn:country_code":"CI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290532,
+    "gn:latitude":4.5958,
+    "gn:longitude":-6.98306,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dahoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290532
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8c1fe18e2cb66ebad2641b10fd48fb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1259910349,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1259910349,
+    "wof:lastmodified":1536740403,
+    "wof:name":"Dahoua",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98306,
+    4.5958,
+    -6.98306,
+    4.5958
+],
+  "geometry": {"coordinates":[-6.98306,4.5958],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259714125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0324,8.38396,-8.0324,8.38396",
+    "geom:latitude":8.38396,
+    "geom:longitude":-8.0324,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bayela",
+    "gn:country_code":"CI",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291969,
+    "gn:latitude":8.38396,
+    "gn:longitude":-8.0324,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bay\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291969
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3f428362f7aa7619ebe98eec2242ec5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1259714125,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1259714125,
+    "wof:lastmodified":1537022063,
+    "wof:name":"Bayela",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0324,
+    8.38396,
+    -8.0324,
+    8.38396
+],
+  "geometry": {"coordinates":[-8.0324,8.38396],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310136481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.06026,5.83886,-4.06026,5.83886",
+    "geom:latitude":5.83886,
+    "geom:longitude":-4.06026,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Adouaie Ekpome",
+    "gn:country_code":"CI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032919,
+    "gn:latitude":5.83886,
+    "gn:longitude":-4.06026,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Adouai\u00e9 Ekpom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032919
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e002a4dd3a948e52ba5013eb95f1afe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1310136481,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1310136481,
+    "wof:lastmodified":1536952087,
+    "wof:name":"Adouaie Ekpome",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.06026,
+    5.83886,
+    -4.06026,
+    5.83886
+],
+  "geometry": {"coordinates":[-4.06026,5.83886],"type":"Point"}
+}

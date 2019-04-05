@@ -1,0 +1,71 @@
+{
+  "id": 1310535003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63121,6.91413,-7.63121,6.91413",
+    "geom:latitude":6.91413,
+    "geom:longitude":-7.63121,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Kahin",
+    "gn:country_code":"CI",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287653,
+    "gn:latitude":6.91413,
+    "gn:longitude":-7.63121,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kahin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahen",
+        "Kahin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287653
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8a1b12012423b8f4bba9ff90c84edb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1310535003,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1310535003,
+    "wof:lastmodified":1537591003,
+    "wof:name":"Kahin",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63121,
+    6.91413,
+    -7.63121,
+    6.91413
+],
+  "geometry": {"coordinates":[-7.63121,6.91413],"type":"Point"}
+}

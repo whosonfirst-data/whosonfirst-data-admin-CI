@@ -1,0 +1,65 @@
+{
+  "id": 1209651347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87217,6.05257,-5.87217,6.05257",
+    "geom:latitude":6.05257,
+    "geom:longitude":-5.87217,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Dikouehipalenyoa",
+    "gn:country_code":"CI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289996,
+    "gn:latitude":6.05257,
+    "gn:longitude":-5.87217,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dikou\u00e9hipal\u00e9nyoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dikou\u00e9hipal\u00e9nyoa",
+        "Dikou\u00e9ipal\u00e9gnoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289996
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"638f6f3c26ae494e800df5cb999c6bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209651347
+        }
+    ],
+    "wof:id":1209651347,
+    "wof:lastmodified":1537591039,
+    "wof:name":"Dikouehipalenyoa",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87217,
+    6.05257,
+    -5.87217,
+    6.05257
+],
+  "geometry": {"coordinates":[-5.87217,6.05257],"type":"Point"}
+}

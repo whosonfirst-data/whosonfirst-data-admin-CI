@@ -1,0 +1,67 @@
+{
+  "id": 1327370567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84954,4.67772,-6.84954,4.67772",
+    "geom:latitude":4.67772,
+    "geom:longitude":-6.84954,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gai",
+    "gn:country_code":"CI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288816,
+    "gn:latitude":4.67772,
+    "gn:longitude":-6.84954,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288816
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"89e4090197154653dff12dbcdfeb461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1327370567,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1327370567,
+    "wof:lastmodified":1536770519,
+    "wof:name":"Gai",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84954,
+    4.67772,
+    -6.84954,
+    4.67772
+],
+  "geometry": {"coordinates":[-6.84954,4.67772],"type":"Point"}
+}

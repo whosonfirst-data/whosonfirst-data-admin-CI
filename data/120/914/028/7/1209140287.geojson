@@ -1,0 +1,61 @@
+{
+  "id": 1209140287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16377,8.0732,-6.16377,8.0732",
+    "geom:latitude":8.0732,
+    "geom:longitude":-6.16377,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Soukourala",
+    "gn:country_code":"CI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281237,
+    "gn:latitude":8.0732,
+    "gn:longitude":-6.16377,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Soukourala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281237
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4a6a0389a8519711906c74349338b10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209140287
+        }
+    ],
+    "wof:id":1209140287,
+    "wof:lastmodified":1536296527,
+    "wof:name":"Soukourala",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16377,
+    8.0732,
+    -6.16377,
+    8.0732
+],
+  "geometry": {"coordinates":[-6.16377,8.0732],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326959429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48083,5.57681,-4.48083,5.57681",
+    "geom:latitude":5.57681,
+    "geom:longitude":-4.48083,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Badjo Ngalla",
+    "gn:country_code":"CI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031938,
+    "gn:latitude":5.57681,
+    "gn:longitude":-4.48083,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Badjo Ngalla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031938
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ded3a506132a52f4e7543e21f995324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1326959429,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1326959429,
+    "wof:lastmodified":1536864412,
+    "wof:name":"Badjo Ngalla",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48083,
+    5.57681,
+    -4.48083,
+    5.57681
+],
+  "geometry": {"coordinates":[-4.48083,5.57681],"type":"Point"}
+}

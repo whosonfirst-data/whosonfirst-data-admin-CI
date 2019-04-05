@@ -1,0 +1,66 @@
+{
+  "id": 1209041461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86619,5.61631,-4.86619,5.61631",
+    "geom:latitude":5.61631,
+    "geom:longitude":-4.86619,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Breti",
+    "gn:country_code":"CI",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290728,
+    "gn:latitude":5.61631,
+    "gn:longitude":-4.86619,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Br\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbr\u00e9ti-Bakanda",
+        "M\u2019Brett\u00e9",
+        "Br\u00e9ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290728
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"da102cd2d034e793c433a4eef09f76a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209041461
+        }
+    ],
+    "wof:id":1209041461,
+    "wof:lastmodified":1537591051,
+    "wof:name":"Breti",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86619,
+    5.61631,
+    -4.86619,
+    5.61631
+],
+  "geometry": {"coordinates":[-4.86619,5.61631],"type":"Point"}
+}

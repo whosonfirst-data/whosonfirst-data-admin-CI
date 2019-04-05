@@ -1,0 +1,67 @@
+{
+  "id": 1293425605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.79218,6.23958,-3.79218,6.23958",
+    "geom:latitude":6.23958,
+    "geom:longitude":-3.79218,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Aouabo",
+    "gn:country_code":"CI",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292832,
+    "gn:latitude":6.23958,
+    "gn:longitude":-3.79218,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Aouabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292832
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4a18e8e579e18fef74c03a8e6c661322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1293425605,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293425605,
+    "wof:lastmodified":1536875325,
+    "wof:name":"Aouabo",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.79218,
+    6.23958,
+    -3.79218,
+    6.23958
+],
+  "geometry": {"coordinates":[-3.79218,6.23958],"type":"Point"}
+}

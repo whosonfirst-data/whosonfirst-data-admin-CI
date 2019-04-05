@@ -1,0 +1,71 @@
+{
+  "id": 1243299535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.03006,5.4151,-3.03006,5.4151",
+    "geom:latitude":5.4151,
+    "geom:longitude":-3.03006,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Mafere",
+    "gn:country_code":"CI",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":2284744,
+    "gn:latitude":5.4151,
+    "gn:longitude":-3.03006,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Maf\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maf\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284744,
+        "wk:page":"Maf%C3%A9r%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3c9c3ffe2880fbb629852ccb8632db8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1243299535,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1243299535,
+    "wof:lastmodified":1537590969,
+    "wof:name":"Mafere",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.03006,
+    5.4151,
+    -3.03006,
+    5.4151
+],
+  "geometry": {"coordinates":[-3.03006,5.4151],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326666113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9388,5.40217,-3.9388,5.40217",
+    "geom:latitude":5.40217,
+    "geom:longitude":-3.9388,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Djorogo Bite Un",
+    "gn:country_code":"CI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031633,
+    "gn:latitude":5.40217,
+    "gn:longitude":-3.9388,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Djorogo Bit\u00e9 Un",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108784991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031633
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d92f20409188196be9dee002565c33e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784991,
+            "locality_id":1326666113,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1326666113,
+    "wof:lastmodified":1536791381,
+    "wof:name":"Djorogo Bite Un",
+    "wof:parent_id":1108784991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9388,
+    5.40217,
+    -3.9388,
+    5.40217
+],
+  "geometry": {"coordinates":[-3.9388,5.40217],"type":"Point"}
+}

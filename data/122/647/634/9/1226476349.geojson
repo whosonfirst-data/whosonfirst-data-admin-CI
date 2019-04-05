@@ -1,0 +1,72 @@
+{
+  "id": 1226476349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09634,8.31595,-6.09634,8.31595",
+    "geom:latitude":8.31595,
+    "geom:longitude":-6.09634,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Samorosso",
+    "gn:country_code":"CI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282105,
+    "gn:latitude":8.31595,
+    "gn:longitude":-6.09634,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Samorosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samogosso",
+        "Samoroso",
+        "Samorosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282105
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f7d23c344ab4c7ac042b8603e890797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1226476349,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1226476349,
+    "wof:lastmodified":1537590931,
+    "wof:name":"Samorosso",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09634,
+    8.31595,
+    -6.09634,
+    8.31595
+],
+  "geometry": {"coordinates":[-6.09634,8.31595],"type":"Point"}
+}

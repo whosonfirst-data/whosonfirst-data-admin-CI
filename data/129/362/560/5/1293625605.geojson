@@ -1,0 +1,67 @@
+{
+  "id": 1293625605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62083,8.43417,-6.62083,8.43417",
+    "geom:latitude":8.43417,
+    "geom:longitude":-6.62083,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Kabelekoro",
+    "gn:country_code":"CI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287741,
+    "gn:latitude":8.43417,
+    "gn:longitude":-6.62083,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kab\u00e9l\u00e9koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287741
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9a4e2d8603a5fb152b05f08d56bdc125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1293625605,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1293625605,
+    "wof:lastmodified":1537081821,
+    "wof:name":"Kabelekoro",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62083,
+    8.43417,
+    -6.62083,
+    8.43417
+],
+  "geometry": {"coordinates":[-6.62083,8.43417],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209946037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66231,5.79686,-4.66231,5.79686",
+    "geom:latitude":5.79686,
+    "geom:longitude":-4.66231,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Binao",
+    "gn:country_code":"CI",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291591,
+    "gn:latitude":5.79686,
+    "gn:longitude":-4.66231,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Binao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bina\u00e9",
+        "Bianu",
+        "Binao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291591
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"028d67311f45dd8eeb7728012fd38d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1209946037,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1209946037,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Binao",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66231,
+    5.79686,
+    -4.66231,
+    5.79686
+],
+  "geometry": {"coordinates":[-4.66231,5.79686],"type":"Point"}
+}

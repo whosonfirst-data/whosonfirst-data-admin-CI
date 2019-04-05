@@ -1,0 +1,67 @@
+{
+  "id": 1259619973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45689,5.90569,-5.45689,5.90569",
+    "geom:latitude":5.90569,
+    "geom:longitude":-5.45689,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Lagaze",
+    "gn:country_code":"CI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285482,
+    "gn:latitude":5.90569,
+    "gn:longitude":-5.45689,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Lagaz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285482
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"124fdd9fa168f580f0f84d6e7b0a3332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1259619973,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1259619973,
+    "wof:lastmodified":1536662059,
+    "wof:name":"Lagaze",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45689,
+    5.90569,
+    -5.45689,
+    5.90569
+],
+  "geometry": {"coordinates":[-5.45689,5.90569],"type":"Point"}
+}

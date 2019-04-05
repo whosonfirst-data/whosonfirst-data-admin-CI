@@ -1,0 +1,72 @@
+{
+  "id": 1243398007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59038,4.8223,-7.59038,4.8223",
+    "geom:latitude":4.8223,
+    "geom:longitude":-7.59038,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Ouesseto",
+    "gn:country_code":"CI",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282755,
+    "gn:latitude":4.8223,
+    "gn:longitude":-7.59038,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ouesseto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouss\u00e9to",
+        "Ous\u00e9to",
+        "Ouesseto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282755
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5c31d4dac9abb4e7c01ff9e4ccfc8b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1243398007,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1243398007,
+    "wof:lastmodified":1537590941,
+    "wof:name":"Ouesseto",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59038,
+    4.8223,
+    -7.59038,
+    4.8223
+],
+  "geometry": {"coordinates":[-7.59038,4.8223],"type":"Point"}
+}

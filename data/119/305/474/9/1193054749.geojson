@@ -1,0 +1,67 @@
+{
+  "id": 1193054749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39932,6.93724,-7.39932,6.93724",
+    "geom:latitude":6.93724,
+    "geom:longitude":-7.39932,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Bahe Seban",
+    "gn:country_code":"CI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536582,
+    "gn:latitude":6.93724,
+    "gn:longitude":-7.39932,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Bah\u00e9 S\u00e9ban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536582
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3b61c29656eb4240350f75829bca177b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1193054749,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1193054749,
+    "wof:lastmodified":1536384021,
+    "wof:name":"Bahe Seban",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39932,
+    6.93724,
+    -7.39932,
+    6.93724
+],
+  "geometry": {"coordinates":[-7.39932,6.93724],"type":"Point"}
+}

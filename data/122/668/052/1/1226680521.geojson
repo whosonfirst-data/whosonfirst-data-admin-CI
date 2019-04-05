@@ -1,0 +1,71 @@
+{
+  "id": 1226680521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59205,8.10115,-6.59205,8.10115",
+    "geom:latitude":8.10115,
+    "geom:longitude":-6.59205,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Sokoura",
+    "gn:country_code":"CI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281442,
+    "gn:latitude":8.10115,
+    "gn:longitude":-6.59205,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sokoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokora",
+        "Sokoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281442
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a255385be30de2de839950887fedb023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1226680521,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1226680521,
+    "wof:lastmodified":1537590922,
+    "wof:name":"Sokoura",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59205,
+    8.10115,
+    -6.59205,
+    8.10115
+],
+  "geometry": {"coordinates":[-6.59205,8.10115],"type":"Point"}
+}

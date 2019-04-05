@@ -1,0 +1,67 @@
+{
+  "id": 1293523319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69075,6.51283,-6.69075,6.51283",
+    "geom:latitude":6.51283,
+    "geom:longitude":-6.69075,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Guibouo",
+    "gn:country_code":"CI",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287964,
+    "gn:latitude":6.51283,
+    "gn:longitude":-6.69075,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Guibouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287964
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f43cf45a704ca3489aa4ad1867155d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293523319,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293523319,
+    "wof:lastmodified":1536735524,
+    "wof:name":"Guibouo",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69075,
+    6.51283,
+    -6.69075,
+    6.51283
+],
+  "geometry": {"coordinates":[-6.69075,6.51283],"type":"Point"}
+}

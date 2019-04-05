@@ -1,0 +1,67 @@
+{
+  "id": 1327168211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48319,5.29427,-4.48319,5.29427",
+    "geom:latitude":5.29427,
+    "geom:longitude":-4.48319,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Tiaha",
+    "gn:country_code":"CI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280788,
+    "gn:latitude":5.29427,
+    "gn:longitude":-4.48319,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tiaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280788
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1fa32622e99c9e3db6c1c8bdef5c3f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1327168211,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1327168211,
+    "wof:lastmodified":1537059729,
+    "wof:name":"Tiaha",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48319,
+    5.29427,
+    -4.48319,
+    5.29427
+],
+  "geometry": {"coordinates":[-4.48319,5.29427],"type":"Point"}
+}

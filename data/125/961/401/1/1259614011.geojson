@@ -1,0 +1,72 @@
+{
+  "id": 1259614011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.39433,5.93311,-6.39433,5.93311",
+    "geom:latitude":5.93311,
+    "geom:longitude":-6.39433,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Babayroua",
+    "gn:country_code":"CI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292488,
+    "gn:latitude":5.93311,
+    "gn:longitude":-6.39433,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Babayroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babeyoroua",
+        "Babayoourouvoua",
+        "Babayroua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292488
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8b668f2d355109b4cbe47ec48a518157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1259614011,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1259614011,
+    "wof:lastmodified":1537591074,
+    "wof:name":"Babayroua",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39433,
+    5.93311,
+    -6.39433,
+    5.93311
+],
+  "geometry": {"coordinates":[-6.39433,5.93311],"type":"Point"}
+}

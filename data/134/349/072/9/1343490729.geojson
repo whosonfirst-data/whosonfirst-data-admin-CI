@@ -1,0 +1,72 @@
+{
+  "id": 1343490729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15137,5.03347,-6.15137,5.03347",
+    "geom:latitude":5.03347,
+    "geom:longitude":-6.15137,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gaoulou",
+    "gn:country_code":"CI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288759,
+    "gn:latitude":5.03347,
+    "gn:longitude":-6.15137,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gaoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gooulou",
+        "Gaoulo",
+        "Gaoulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288759
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d786b2198f6478cee27cdb3377e31a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1343490729,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343490729,
+    "wof:lastmodified":1537591023,
+    "wof:name":"Gaoulou",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15137,
+    5.03347,
+    -6.15137,
+    5.03347
+],
+  "geometry": {"coordinates":[-6.15137,5.03347],"type":"Point"}
+}

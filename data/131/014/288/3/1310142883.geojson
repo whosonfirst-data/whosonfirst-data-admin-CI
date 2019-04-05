@@ -1,0 +1,67 @@
+{
+  "id": 1310142883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1025,9.30564,-7.1025,9.30564",
+    "geom:latitude":9.30564,
+    "geom:longitude":-7.1025,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Sienso-Koroni",
+    "gn:country_code":"CI",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281656,
+    "gn:latitude":9.30564,
+    "gn:longitude":-7.1025,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sienso-Koroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281656
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f316987cd44b8dca0e80151ed19f7f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1310142883,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1310142883,
+    "wof:lastmodified":1536943072,
+    "wof:name":"Sienso-Koroni",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1025,
+    9.30564,
+    -7.1025,
+    9.30564
+],
+  "geometry": {"coordinates":[-7.1025,9.30564],"type":"Point"}
+}

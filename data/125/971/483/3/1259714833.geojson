@@ -1,0 +1,70 @@
+{
+  "id": 1259714833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.29729,5.45791,-4.29729,5.45791",
+    "geom:latitude":5.45791,
+    "geom:longitude":-4.29729,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Niansoukro",
+    "gn:country_code":"CI",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597076,
+    "gn:latitude":5.45791,
+    "gn:longitude":-4.29729,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Niansoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gnansoukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108784991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597076
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0672355f3b2f5e14bb7a9c3c73eb59b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784991,
+            "locality_id":1259714833,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1259714833,
+    "wof:lastmodified":1537591093,
+    "wof:name":"Niansoukro",
+    "wof:parent_id":1108784991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.29729,
+    5.45791,
+    -4.29729,
+    5.45791
+],
+  "geometry": {"coordinates":[-4.29729,5.45791],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 421178809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58086,7.67395,-5.58086,7.67395",
+    "geom:latitude":7.67395,
+    "geom:longitude":-5.58086,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a6\u30df"
+    ],
+    "name:may_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e9oumi"
+    ],
+    "name:unk_x_variant":[
+        "Beumi"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2291779,
+    "qs:gn_pop":23053,
+    "qs:name":"B\u00e9oumi",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Vall\u00e9e du Bandama",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":139374,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1340642,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291779,
+        "gp:id":1340642,
+        "qs:id":139374,
+        "wd:id":"Q2929948",
+        "wk:page":"B\u00e9oumi"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009194,
+    "wof:geomhash":"9802dd09be077ac1f417b88804adf0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421178809,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":421178809,
+    "wof:lastmodified":1527717726,
+    "wof:name":"B\u00e9oumi",
+    "wof:parent_id":85669899,
+    "wof:placetype":"locality",
+    "wof:population":23053,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58086,
+    7.67395,
+    -5.58086,
+    7.67395
+],
+  "geometry": {"coordinates":[-5.58086,7.67395],"type":"Point"}
+}

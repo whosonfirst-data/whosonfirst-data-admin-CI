@@ -1,0 +1,67 @@
+{
+  "id": 1226173609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06739,8.04298,-7.06739,8.04298",
+    "geom:latitude":8.04298,
+    "geom:longitude":-7.06739,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Nyedougouso",
+    "gn:country_code":"CI",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283113,
+    "gn:latitude":8.04298,
+    "gn:longitude":-7.06739,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ny\u00e9dougouso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283113
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d57210ee05a247587bb2f8a873e7691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1226173609,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1226173609,
+    "wof:lastmodified":1537036028,
+    "wof:name":"Nyedougouso",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06739,
+    8.04298,
+    -7.06739,
+    8.04298
+],
+  "geometry": {"coordinates":[-7.06739,8.04298],"type":"Point"}
+}

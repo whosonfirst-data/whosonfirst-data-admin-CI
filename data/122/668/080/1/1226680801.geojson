@@ -1,0 +1,67 @@
+{
+  "id": 1226680801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57043,8.15214,-7.57043,8.15214",
+    "geom:latitude":8.15214,
+    "geom:longitude":-7.57043,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Yenko",
+    "gn:country_code":"CI",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279638,
+    "gn:latitude":8.15214,
+    "gn:longitude":-7.57043,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yenko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279638
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"38cb3dfa0c882a854231ebb84750bf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1226680801,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1226680801,
+    "wof:lastmodified":1536808653,
+    "wof:name":"Yenko",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57043,
+    8.15214,
+    -7.57043,
+    8.15214
+],
+  "geometry": {"coordinates":[-7.57043,8.15214],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343693287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24392,6.82062,-7.24392,6.82062",
+    "geom:latitude":6.82062,
+    "geom:longitude":-7.24392,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gunglo Zia",
+    "gn:country_code":"CI",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287945,
+    "gn:latitude":6.82062,
+    "gn:longitude":-7.24392,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gunglo Zia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guinglo Bohouo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287945
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ce9fb64071bde72c2414f3fd8ceb5671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1343693287,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1343693287,
+    "wof:lastmodified":1537591007,
+    "wof:name":"Gunglo Zia",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24392,
+    6.82062,
+    -7.24392,
+    6.82062
+],
+  "geometry": {"coordinates":[-7.24392,6.82062],"type":"Point"}
+}

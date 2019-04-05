@@ -1,0 +1,67 @@
+{
+  "id": 1326865013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91502,6.53436,-7.91502,6.53436",
+    "geom:latitude":6.53436,
+    "geom:longitude":-7.91502,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Douandrou",
+    "gn:country_code":"CI",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289693,
+    "gn:latitude":6.53436,
+    "gn:longitude":-7.91502,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Douandrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289693
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a6cc3011e3d07fd7f3774cadaa334086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1326865013,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1326865013,
+    "wof:lastmodified":1537000760,
+    "wof:name":"Douandrou",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91502,
+    6.53436,
+    -7.91502,
+    6.53436
+],
+  "geometry": {"coordinates":[-7.91502,6.53436],"type":"Point"}
+}

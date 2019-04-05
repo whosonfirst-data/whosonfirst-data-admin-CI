@@ -1,0 +1,67 @@
+{
+  "id": 1360315961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6415,9.08161,-4.6415,9.08161",
+    "geom:latitude":9.08161,
+    "geom:longitude":-4.6415,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Diangbanasso",
+    "gn:country_code":"CI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290197,
+    "gn:latitude":9.08161,
+    "gn:longitude":-4.6415,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Diangbanasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290197
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8f44180aea13667e736e71713c02ddfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1360315961,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1360315961,
+    "wof:lastmodified":1536610012,
+    "wof:name":"Diangbanasso",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6415,
+    9.08161,
+    -4.6415,
+    9.08161
+],
+  "geometry": {"coordinates":[-4.6415,9.08161],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343489909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45556,5.99467,-4.45556,5.99467",
+    "geom:latitude":5.99467,
+    "geom:longitude":-4.45556,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Essegnon",
+    "gn:country_code":"CI",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032011,
+    "gn:latitude":5.99467,
+    "gn:longitude":-4.45556,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Essegnon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032011
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"89048183725b244415dfce73290133f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1343489909,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1343489909,
+    "wof:lastmodified":1536704100,
+    "wof:name":"Essegnon",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45556,
+    5.99467,
+    -4.45556,
+    5.99467
+],
+  "geometry": {"coordinates":[-4.45556,5.99467],"type":"Point"}
+}

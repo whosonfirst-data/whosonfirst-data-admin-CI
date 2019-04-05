@@ -1,0 +1,67 @@
+{
+  "id": 1343992767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42399,6.59205,-5.42399,6.59205",
+    "geom:latitude":6.59205,
+    "geom:longitude":-5.42399,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Kouamefra",
+    "gn:country_code":"CI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286069,
+    "gn:latitude":6.59205,
+    "gn:longitude":-5.42399,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kouam\u00e9fra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286069
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"006dc0c73bd8c1b320407f1185cb3056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1343992767,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1343992767,
+    "wof:lastmodified":1536972908,
+    "wof:name":"Kouamefra",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42399,
+    6.59205,
+    -5.42399,
+    6.59205
+],
+  "geometry": {"coordinates":[-5.42399,6.59205],"type":"Point"}
+}

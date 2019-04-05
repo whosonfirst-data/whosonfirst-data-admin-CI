@@ -1,0 +1,64 @@
+{
+  "id": 1209139807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94422,7.13627,-4.94422,7.13627",
+    "geom:latitude":7.13627,
+    "geom:longitude":-4.94422,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Amienkro",
+    "gn:country_code":"CI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292962,
+    "gn:latitude":7.13627,
+    "gn:longitude":-4.94422,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Amienkro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amiankro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292962
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3104764199b6660c5da917a08abb603d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209139807
+        }
+    ],
+    "wof:id":1209139807,
+    "wof:lastmodified":1537591081,
+    "wof:name":"Amienkro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94422,
+    7.13627,
+    -4.94422,
+    7.13627
+],
+  "geometry": {"coordinates":[-4.94422,7.13627],"type":"Point"}
+}

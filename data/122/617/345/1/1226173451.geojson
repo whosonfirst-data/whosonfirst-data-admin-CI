@@ -1,0 +1,70 @@
+{
+  "id": 1226173451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57385,8.09299,-3.57385,8.09299",
+    "geom:latitude":8.09299,
+    "geom:longitude":-3.57385,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Talahini-Tomora",
+    "gn:country_code":"CI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281036,
+    "gn:latitude":8.09299,
+    "gn:longitude":-3.57385,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Talahini-Tomora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talahini-Tomoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281036
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b668bf3edd5ccce9714dad579944348b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1226173451,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226173451,
+    "wof:lastmodified":1537590917,
+    "wof:name":"Talahini-Tomora",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57385,
+    8.09299,
+    -3.57385,
+    8.09299
+],
+  "geometry": {"coordinates":[-3.57385,8.09299],"type":"Point"}
+}

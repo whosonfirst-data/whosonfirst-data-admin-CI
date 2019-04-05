@@ -1,0 +1,67 @@
+{
+  "id": 1293525811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89992,5.92439,-5.89992,5.92439",
+    "geom:latitude":5.92439,
+    "geom:longitude":-5.89992,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Derigoue",
+    "gn:country_code":"CI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290275,
+    "gn:latitude":5.92439,
+    "gn:longitude":-5.89992,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"D\u00e9rigou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290275
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"64e4df0cda527d3eefcbadd493af0c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1293525811,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1293525811,
+    "wof:lastmodified":1536732015,
+    "wof:name":"Derigoue",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89992,
+    5.92439,
+    -5.89992,
+    5.92439
+],
+  "geometry": {"coordinates":[-5.89992,5.92439],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260317711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46935,7.12039,-7.46935,7.12039",
+    "geom:latitude":7.12039,
+    "geom:longitude":-7.46935,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Zeo",
+    "gn:country_code":"CI",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279383,
+    "gn:latitude":7.12039,
+    "gn:longitude":-7.46935,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Z\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279383,
+        "wk:page":"Z%C3%A9o"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cfc5ca949094ac68f5916bac8704edca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1260317711,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1260317711,
+    "wof:lastmodified":1537590892,
+    "wof:name":"Zeo",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46935,
+    7.12039,
+    -7.46935,
+    7.12039
+],
+  "geometry": {"coordinates":[-7.46935,7.12039],"type":"Point"}
+}

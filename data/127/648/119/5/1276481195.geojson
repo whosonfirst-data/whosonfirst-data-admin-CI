@@ -1,0 +1,67 @@
+{
+  "id": 1276481195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.00278,6.79667,-6.00278,6.79667",
+    "geom:latitude":6.79667,
+    "geom:longitude":-6.00278,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zanoufla",
+    "gn:country_code":"CI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279446,
+    "gn:latitude":6.79667,
+    "gn:longitude":-6.00278,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zanoufla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279446
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8f23f02026bd2c83d16f63b171d50ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1276481195,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1276481195,
+    "wof:lastmodified":1537074684,
+    "wof:name":"Zanoufla",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.00278,
+    6.79667,
+    -6.00278,
+    6.79667
+],
+  "geometry": {"coordinates":[-6.00278,6.79667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310116213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.16916,5.30502,-3.16916,5.30502",
+    "geom:latitude":5.30502,
+    "geom:longitude":-3.16916,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Aby",
+    "gn:country_code":"CI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293445,
+    "gn:latitude":5.30502,
+    "gn:longitude":-3.16916,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aby",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abi",
+        "Aby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293445,
+        "wk:page":"Aby%2C_Aboisso"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8bde6c511e07e57a63d22320fb418353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1310116213,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1310116213,
+    "wof:lastmodified":1537591088,
+    "wof:name":"Aby",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.16916,
+    5.30502,
+    -3.16916,
+    5.30502
+],
+  "geometry": {"coordinates":[-3.16916,5.30502],"type":"Point"}
+}

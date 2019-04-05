@@ -1,0 +1,61 @@
+{
+  "id": 1209651721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86346,8.14733,-7.86346,8.14733",
+    "geom:latitude":8.14733,
+    "geom:longitude":-7.86346,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bontoulo",
+    "gn:country_code":"CI",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291084,
+    "gn:latitude":8.14733,
+    "gn:longitude":-7.86346,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bontoulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291084
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f42cc61620e5eb69717682a45a247df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209651721
+        }
+    ],
+    "wof:id":1209651721,
+    "wof:lastmodified":1536280558,
+    "wof:name":"Bontoulo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.863460000000001,
+    8.14733,
+    -7.863460000000001,
+    8.14733
+],
+  "geometry": {"coordinates":[-7.86346,8.14733],"type":"Point"}
+}

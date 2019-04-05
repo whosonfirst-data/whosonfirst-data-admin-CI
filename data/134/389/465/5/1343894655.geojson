@@ -1,0 +1,72 @@
+{
+  "id": 1343894655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06502,8.36834,-8.06502,8.36834",
+    "geom:latitude":8.36834,
+    "geom:longitude":-8.06502,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Wena",
+    "gn:country_code":"CI",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279903,
+    "gn:latitude":8.36834,
+    "gn:longitude":-8.06502,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"W\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gou\u00e9na",
+        "Ou\u00e9na",
+        "W\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279903
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4928716dff8e7e873073b3ea6add6c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1343894655,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1343894655,
+    "wof:lastmodified":1537590900,
+    "wof:name":"Wena",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06502,
+    8.36834,
+    -8.06502,
+    8.36834
+],
+  "geometry": {"coordinates":[-8.06502,8.36834],"type":"Point"}
+}

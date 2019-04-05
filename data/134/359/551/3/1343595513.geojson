@@ -1,0 +1,67 @@
+{
+  "id": 1343595513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23696,7.36623,-7.23696,7.36623",
+    "geom:latitude":7.36623,
+    "geom:longitude":-7.23696,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Makahebli",
+    "gn:country_code":"CI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284697,
+    "gn:latitude":7.36623,
+    "gn:longitude":-7.23696,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Makah\u00e9bli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284697
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"54a947b01ea2dd3c74a245e53fad50b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1343595513,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1343595513,
+    "wof:lastmodified":1537046849,
+    "wof:name":"Makahebli",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23696,
+    7.36623,
+    -7.23696,
+    7.36623
+],
+  "geometry": {"coordinates":[-7.23696,7.36623],"type":"Point"}
+}

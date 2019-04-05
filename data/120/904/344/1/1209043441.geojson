@@ -1,0 +1,61 @@
+{
+  "id": 1209043441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.05,7.51667,-4.05,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":-4.05,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Assouekro",
+    "gn:country_code":"CI",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292644,
+    "gn:latitude":7.51667,
+    "gn:longitude":-4.05,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Assou\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292644
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bbbf46ad5de9f3626c4ff4dfaef2444a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209043441
+        }
+    ],
+    "wof:id":1209043441,
+    "wof:lastmodified":1536299471,
+    "wof:name":"Assouekro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.05,
+    7.516669999999999,
+    -4.05,
+    7.516669999999999
+],
+  "geometry": {"coordinates":[-4.05,7.51667],"type":"Point"}
+}

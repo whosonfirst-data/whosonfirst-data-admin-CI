@@ -1,0 +1,67 @@
+{
+  "id": 1327269839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42056,7.81389,-4.42056,7.81389",
+    "geom:latitude":7.81389,
+    "geom:longitude":-4.42056,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Amakro",
+    "gn:country_code":"CI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292996,
+    "gn:latitude":7.81389,
+    "gn:longitude":-4.42056,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Amakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292996
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c9660469a21dc5ff3f31d545c9df5e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1327269839,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1327269839,
+    "wof:lastmodified":1536916048,
+    "wof:name":"Amakro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42056,
+    7.81389,
+    -4.42056,
+    7.81389
+],
+  "geometry": {"coordinates":[-4.42056,7.81389],"type":"Point"}
+}

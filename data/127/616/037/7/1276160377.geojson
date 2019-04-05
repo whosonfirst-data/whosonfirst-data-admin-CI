@@ -1,0 +1,71 @@
+{
+  "id": 1276160377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65556,6.46,-3.65556,6.46",
+    "geom:latitude":6.46,
+    "geom:longitude":-3.65556,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Kouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285990,
+    "gn:latitude":6.46,
+    "gn:longitude":-3.65556,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouass\u00e9kro",
+        "Kouassikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285990
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b15d195e72ad6daa0d27301af807befd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1276160377,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1276160377,
+    "wof:lastmodified":1537590984,
+    "wof:name":"Kouassikro",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65556,
+    6.46,
+    -3.65556,
+    6.46
+],
+  "geometry": {"coordinates":[-3.65556,6.46],"type":"Point"}
+}

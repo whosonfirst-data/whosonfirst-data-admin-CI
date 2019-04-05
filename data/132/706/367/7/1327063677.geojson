@@ -1,0 +1,67 @@
+{
+  "id": 1327063677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01011,8.06081,-3.01011,8.06081",
+    "geom:latitude":8.06081,
+    "geom:longitude":-3.01011,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Kalome",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287592,
+    "gn:latitude":8.06081,
+    "gn:longitude":-3.01011,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kalom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287592
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ebbe2d147b6e82c981cfe3d84ec17ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1327063677,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327063677,
+    "wof:lastmodified":1536715725,
+    "wof:name":"Kalome",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01011,
+    8.06081,
+    -3.01011,
+    8.06081
+],
+  "geometry": {"coordinates":[-3.01011,8.06081],"type":"Point"}
+}

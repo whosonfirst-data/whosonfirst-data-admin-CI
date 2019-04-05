@@ -1,0 +1,67 @@
+{
+  "id": 1326966679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00085,5.89182,-4.00085,5.89182",
+    "geom:latitude":5.89182,
+    "geom:longitude":-4.00085,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Aise Beche",
+    "gn:country_code":"CI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032966,
+    "gn:latitude":5.89182,
+    "gn:longitude":-4.00085,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Aise Bech\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032966
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b2d8a0d0a4ec0a7a442a373f3d639bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1326966679,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1326966679,
+    "wof:lastmodified":1536854007,
+    "wof:name":"Aise Beche",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00085,
+    5.89182,
+    -4.00085,
+    5.89182
+],
+  "geometry": {"coordinates":[-4.00085,5.89182],"type":"Point"}
+}

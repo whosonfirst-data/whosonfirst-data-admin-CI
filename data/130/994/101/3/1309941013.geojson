@@ -1,0 +1,67 @@
+{
+  "id": 1309941013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.70028,7.5275,-7.70028,7.5275",
+    "geom:latitude":7.5275,
+    "geom:longitude":-7.70028,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Goulelepleu",
+    "gn:country_code":"CI",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288182,
+    "gn:latitude":7.5275,
+    "gn:longitude":-7.70028,
+    "gn:modification_date":"2009-03-26",
+    "gn:name":"Goul\u00e9l\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288182
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ad0da9765011f31263507f4bcb157533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1309941013,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1309941013,
+    "wof:lastmodified":1536736295,
+    "wof:name":"Goulelepleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70028,
+    7.5275,
+    -7.70028,
+    7.5275
+],
+  "geometry": {"coordinates":[-7.70028,7.5275],"type":"Point"}
+}

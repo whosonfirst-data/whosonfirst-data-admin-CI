@@ -1,0 +1,67 @@
+{
+  "id": 1293307613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.40329,4.82029,-6.40329,4.82029",
+    "geom:latitude":4.82029,
+    "geom:longitude":-6.40329,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kounoukou",
+    "gn:country_code":"CI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285793,
+    "gn:latitude":4.82029,
+    "gn:longitude":-6.40329,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kounoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285793
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4b06b1f865204fd2440395333ed79821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1293307613,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293307613,
+    "wof:lastmodified":1537044434,
+    "wof:name":"Kounoukou",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.40329,
+    4.82029,
+    -6.40329,
+    4.82029
+],
+  "geometry": {"coordinates":[-6.40329,4.82029],"type":"Point"}
+}

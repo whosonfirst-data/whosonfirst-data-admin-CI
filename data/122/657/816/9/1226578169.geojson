@@ -1,0 +1,67 @@
+{
+  "id": 1226578169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.41194,9.47366,-3.41194,9.47366",
+    "geom:latitude":9.47366,
+    "geom:longitude":-3.41194,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Dorovitan",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289722,
+    "gn:latitude":9.47366,
+    "gn:longitude":-3.41194,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dorovitan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289722
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a3e8445eb68c0f8e75f67ba523585e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1226578169,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226578169,
+    "wof:lastmodified":1536953083,
+    "wof:name":"Dorovitan",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.41194,
+    9.47366,
+    -3.41194,
+    9.47366
+],
+  "geometry": {"coordinates":[-3.41194,9.47366],"type":"Point"}
+}

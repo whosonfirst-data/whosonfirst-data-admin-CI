@@ -1,0 +1,72 @@
+{
+  "id": 1260111639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67378,8.5166,-4.67378,8.5166",
+    "geom:latitude":8.5166,
+    "geom:longitude":-4.67378,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dienguesso",
+    "gn:country_code":"CI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290067,
+    "gn:latitude":8.5166,
+    "gn:longitude":-4.67378,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dienguesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinguesso",
+        "Diengueso",
+        "Dienguesso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290067
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"effd8a7434c99198477f5fef93e8db91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1260111639,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1260111639,
+    "wof:lastmodified":1537591040,
+    "wof:name":"Dienguesso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67378,
+    8.5166,
+    -4.67378,
+    8.5166
+],
+  "geometry": {"coordinates":[-4.67378,8.5166],"type":"Point"}
+}

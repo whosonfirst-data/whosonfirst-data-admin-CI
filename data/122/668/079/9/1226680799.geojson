@@ -1,0 +1,72 @@
+{
+  "id": 1226680799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03483,8.90446,-5.03483,8.90446",
+    "geom:latitude":8.90446,
+    "geom:longitude":-5.03483,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Koulokaha",
+    "gn:country_code":"CI",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285872,
+    "gn:latitude":8.90446,
+    "gn:longitude":-5.03483,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Koulokaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koloholo",
+        "Kolaholo",
+        "Koulokaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285872
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9d1f41c8c143acc07510eb5300b9074a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1226680799,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1226680799,
+    "wof:lastmodified":1537590983,
+    "wof:name":"Koulokaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03483,
+    8.90446,
+    -5.03483,
+    8.90446
+],
+  "geometry": {"coordinates":[-5.03483,8.90446],"type":"Point"}
+}

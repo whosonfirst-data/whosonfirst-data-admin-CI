@@ -1,0 +1,71 @@
+{
+  "id": 1344090283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7327,8.38556,-3.7327,8.38556",
+    "geom:latitude":8.38556,
+    "geom:longitude":-3.7327,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Borohila",
+    "gn:country_code":"CI",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291042,
+    "gn:latitude":8.38556,
+    "gn:longitude":-3.7327,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Borohila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bovron-Huetta",
+        "Borohila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291042
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a2a918646b68230cbc7f659b7142a63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1344090283,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1344090283,
+    "wof:lastmodified":1537591055,
+    "wof:name":"Borohila",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7327,
+    8.38556,
+    -3.7327,
+    8.38556
+],
+  "geometry": {"coordinates":[-3.7327,8.38556],"type":"Point"}
+}

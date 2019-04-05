@@ -1,0 +1,72 @@
+{
+  "id": 1259519411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57811,6.91672,-6.57811,6.91672",
+    "geom:latitude":6.91672,
+    "geom:longitude":-6.57811,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zahia",
+    "gn:country_code":"CI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279422,
+    "gn:latitude":6.91672,
+    "gn:longitude":-6.57811,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaya",
+        "Zahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279422,
+        "wk:page":"Zahia"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9ee53473d6afc4aa78d6b00f235ba8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1259519411,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1259519411,
+    "wof:lastmodified":1537590893,
+    "wof:name":"Zahia",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57811,
+    6.91672,
+    -6.57811,
+    6.91672
+],
+  "geometry": {"coordinates":[-6.57811,6.91672],"type":"Point"}
+}

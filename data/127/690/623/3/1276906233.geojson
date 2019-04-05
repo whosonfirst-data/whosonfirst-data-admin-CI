@@ -1,0 +1,71 @@
+{
+  "id": 1276906233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34175,5.96284,-6.34175,5.96284",
+    "geom:latitude":5.96284,
+    "geom:longitude":-6.34175,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Sayo",
+    "gn:country_code":"CI",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281926,
+    "gn:latitude":5.96284,
+    "gn:longitude":-6.34175,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sauyo",
+        "Sayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281926
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"76232899f7fe3d6c721bb0e3106628db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1276906233,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276906233,
+    "wof:lastmodified":1537590928,
+    "wof:name":"Sayo",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34175,
+    5.96284,
+    -6.34175,
+    5.96284
+],
+  "geometry": {"coordinates":[-6.34175,5.96284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276693961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.733,9.52229,-5.733,9.52229",
+    "geom:latitude":9.52229,
+    "geom:longitude":-5.733,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tyelivogo",
+    "gn:country_code":"CI",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280149,
+    "gn:latitude":9.52229,
+    "gn:longitude":-5.733,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ty\u00e9livogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9livogo",
+        "Ty\u00e9livogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280149
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2818fe0608e591ebdfcf14992981eec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1276693961,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1276693961,
+    "wof:lastmodified":1537590906,
+    "wof:name":"Tyelivogo",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.733,
+    9.52229,
+    -5.733,
+    9.52229
+],
+  "geometry": {"coordinates":[-5.733,9.52229],"type":"Point"}
+}

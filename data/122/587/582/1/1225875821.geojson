@@ -1,0 +1,67 @@
+{
+  "id": 1225875821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46711,9.45676,-5.46711,9.45676",
+    "geom:latitude":9.45676,
+    "geom:longitude":-5.46711,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Dabakaha",
+    "gn:country_code":"CI",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290610,
+    "gn:latitude":9.45676,
+    "gn:longitude":-5.46711,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dabakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290610
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"35412d1fa3fa04be473e405ecac7c63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1225875821,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1225875821,
+    "wof:lastmodified":1536970057,
+    "wof:name":"Dabakaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46711,
+    9.45676,
+    -5.46711,
+    9.45676
+],
+  "geometry": {"coordinates":[-5.46711,9.45676],"type":"Point"}
+}

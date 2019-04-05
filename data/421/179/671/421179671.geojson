@@ -1,0 +1,121 @@
+{
+  "id": 421179671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.20406,6.65175,-4.20406,6.65175",
+    "geom:latitude":6.65175,
+    "geom:longitude":-4.20406,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:ceb_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:dut_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:eng_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:fra_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:fre_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30b0\u30a2\u30cc"
+    ],
+    "name:may_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:msa_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:por_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:ron_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:rum_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:swe_x_preferred":[
+        "Bongouanou"
+    ],
+    "name:unk_x_variant":[
+        "Bonguanu"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2291113,
+    "qs:gn_pop":34405,
+    "qs:name":"Bongouanou",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"N'zi-Como\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":429614,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1340984,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291113,
+        "gp:id":1340984,
+        "qs:id":429614,
+        "wd:id":"Q2910064",
+        "wk:page":"Bongouanou"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009229,
+    "wof:geomhash":"fc5800b100a109e1125667f07604db22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421179671,
+            "region_id":1108806107
+        }
+    ],
+    "wof:id":421179671,
+    "wof:lastmodified":1513928574,
+    "wof:name":"Bongouanou",
+    "wof:parent_id":1108806107,
+    "wof:placetype":"locality",
+    "wof:population":34405,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.20406,
+    6.65175,
+    -4.20406,
+    6.65175
+],
+  "geometry": {"coordinates":[-4.20406,6.65175],"type":"Point"}
+}

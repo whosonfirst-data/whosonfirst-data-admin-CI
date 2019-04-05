@@ -1,0 +1,67 @@
+{
+  "id": 1343596013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46505,6.91024,-5.46505,6.91024",
+    "geom:latitude":6.91024,
+    "geom:longitude":-5.46505,
+    "gn:admin1_code":"98.0",
+    "gn:asciiname":"Kpasbassou",
+    "gn:country_code":"CI",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7847398,
+    "gn:latitude":6.91024,
+    "gn:longitude":-5.46505,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kpasbassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108784993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7847398
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"27c037f25d7cd311bc5dc3414a0b0d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784993,
+            "locality_id":1343596013,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1343596013,
+    "wof:lastmodified":1537046132,
+    "wof:name":"Kpasbassou",
+    "wof:parent_id":1108784993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46505,
+    6.91024,
+    -5.46505,
+    6.91024
+],
+  "geometry": {"coordinates":[-5.46505,6.91024],"type":"Point"}
+}

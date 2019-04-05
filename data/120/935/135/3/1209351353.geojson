@@ -1,0 +1,66 @@
+{
+  "id": 1209351353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75858,9.02549,-6.75858,9.02549",
+    "geom:latitude":9.02549,
+    "geom:longitude":-6.75858,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Sefledio",
+    "gn:country_code":"CI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281894,
+    "gn:latitude":9.02549,
+    "gn:longitude":-6.75858,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"S\u00e9fl\u00e9dio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9f\u00e9r\u00e9dio",
+        "S\u00e9fl\u00e9dyo",
+        "S\u00e9fl\u00e9dio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281894
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2922434a1964a7ee88312782cf716f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209351353
+        }
+    ],
+    "wof:id":1209351353,
+    "wof:lastmodified":1537590928,
+    "wof:name":"Sefledio",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75858,
+    9.02549,
+    -6.75858,
+    9.02549
+],
+  "geometry": {"coordinates":[-6.75858,9.02549],"type":"Point"}
+}

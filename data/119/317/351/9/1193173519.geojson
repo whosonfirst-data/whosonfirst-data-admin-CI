@@ -1,0 +1,67 @@
+{
+  "id": 1193173519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63572,5.86289,-6.63572,5.86289",
+    "geom:latitude":5.86289,
+    "geom:longitude":-6.63572,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Badayo I",
+    "gn:country_code":"CI",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292461,
+    "gn:latitude":5.86289,
+    "gn:longitude":-6.63572,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Badayo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292461
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4b26f6fa43154a31a1fce5b7928ce807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1193173519,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1193173519,
+    "wof:lastmodified":1536377778,
+    "wof:name":"Badayo I",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63572,
+    5.86289,
+    -6.63572,
+    5.86289
+],
+  "geometry": {"coordinates":[-6.63572,5.86289],"type":"Point"}
+}

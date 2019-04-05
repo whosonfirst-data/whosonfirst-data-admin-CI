@@ -1,0 +1,77 @@
+{
+  "id": 1343498081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55555,4.63879,-7.55555,4.63879",
+    "geom:latitude":4.63879,
+    "geom:longitude":-7.55555,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Noe",
+    "gn:country_code":"CI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283308,
+    "gn:latitude":4.63879,
+    "gn:longitude":-7.55555,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"No\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283308
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b3933d38c2545bae8afe7766ba03c17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1343498081,
+            "region_id":85673517
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1343498081,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343498081,
+    "wof:lastmodified":1536691938,
+    "wof:name":"Noe",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55555,
+    4.63879,
+    -7.55555,
+    4.63879
+],
+  "geometry": {"coordinates":[-7.55555,4.63879],"type":"Point"}
+}

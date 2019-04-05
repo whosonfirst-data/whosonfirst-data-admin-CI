@@ -1,0 +1,67 @@
+{
+  "id": 1243489345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01186,9.4451,-3.01186,9.4451",
+    "geom:latitude":9.4451,
+    "geom:longitude":-3.01186,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Dokor",
+    "gn:country_code":"CI",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289772,
+    "gn:latitude":9.4451,
+    "gn:longitude":-3.01186,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dokor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289772
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f2946e6ada142bf457b5bb6f471b5d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1243489345,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1243489345,
+    "wof:lastmodified":1536743358,
+    "wof:name":"Dokor",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01186,
+    9.4451,
+    -3.01186,
+    9.4451
+],
+  "geometry": {"coordinates":[-3.01186,9.4451],"type":"Point"}
+}

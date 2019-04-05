@@ -1,0 +1,71 @@
+{
+  "id": 1242909993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.41667,5.66667,-6.41667,5.66667",
+    "geom:latitude":5.66667,
+    "geom:longitude":-6.41667,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Mabehiri",
+    "gn:country_code":"CI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284777,
+    "gn:latitude":5.66667,
+    "gn:longitude":-6.41667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Mab\u00e9hiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabouhiri",
+        "Mab\u00e9hiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284777
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2c00784afdc5b7fcc52271cce5a15618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1242909993,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1242909993,
+    "wof:lastmodified":1537590970,
+    "wof:name":"Mabehiri",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.41667,
+    5.66667,
+    -6.41667,
+    5.66667
+],
+  "geometry": {"coordinates":[-6.41667,5.66667],"type":"Point"}
+}

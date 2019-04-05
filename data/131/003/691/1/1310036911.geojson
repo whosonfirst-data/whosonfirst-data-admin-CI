@@ -1,0 +1,71 @@
+{
+  "id": 1310036911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52945,4.77457,-7.52945,4.77457",
+    "geom:latitude":4.77457,
+    "geom:longitude":-7.52945,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dahioke",
+    "gn:country_code":"CI",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290534,
+    "gn:latitude":4.77457,
+    "gn:longitude":-7.52945,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dahiok\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahiok\u00e9",
+        "Dahio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290534
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9155f61921bcaa39d9e23c99e6e6daef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1310036911,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1310036911,
+    "wof:lastmodified":1537591048,
+    "wof:name":"Dahioke",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52945,
+    4.77457,
+    -7.52945,
+    4.77457
+],
+  "geometry": {"coordinates":[-7.52945,4.77457],"type":"Point"}
+}

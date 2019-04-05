@@ -1,0 +1,67 @@
+{
+  "id": 1209350861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03742,7.43303,-5.03742,7.43303",
+    "geom:latitude":7.43303,
+    "geom:longitude":-5.03742,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Pakabo",
+    "gn:country_code":"CI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282394,
+    "gn:latitude":7.43303,
+    "gn:longitude":-5.03742,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pakabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakobo",
+        "Pakobo Bossi",
+        "Pokobo Bossi",
+        "Pakabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282394
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3907962a411882a29ef41598e73eb30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209350861
+        }
+    ],
+    "wof:id":1209350861,
+    "wof:lastmodified":1537590936,
+    "wof:name":"Pakabo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03742,
+    7.43303,
+    -5.03742,
+    7.43303
+],
+  "geometry": {"coordinates":[-5.03742,7.43303],"type":"Point"}
+}

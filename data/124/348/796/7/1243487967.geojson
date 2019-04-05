@@ -1,0 +1,67 @@
+{
+  "id": 1243487967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59,7.05611,-7.59,7.05611",
+    "geom:latitude":7.05611,
+    "geom:longitude":-7.59,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Douonfapleu",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289608,
+    "gn:latitude":7.05611,
+    "gn:longitude":-7.59,
+    "gn:modification_date":"2009-03-26",
+    "gn:name":"Douonfapleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289608
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bd21b6b10523954ea4f707b586ad6356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1243487967,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1243487967,
+    "wof:lastmodified":1536745392,
+    "wof:name":"Douonfapleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59,
+    7.05611,
+    -7.59,
+    7.05611
+],
+  "geometry": {"coordinates":[-7.59,7.05611],"type":"Point"}
+}

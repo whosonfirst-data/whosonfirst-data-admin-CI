@@ -1,0 +1,67 @@
+{
+  "id": 1360221225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19079,6.94156,-8.19079,6.94156",
+    "geom:latitude":6.94156,
+    "geom:longitude":-8.19079,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Pepleul",
+    "gn:country_code":"CI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7883728,
+    "gn:latitude":6.94156,
+    "gn:longitude":-8.19079,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"P\u00e9pleul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7883728
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5d8c6e1712771655db073bcd4a688f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1360221225,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1360221225,
+    "wof:lastmodified":1536749023,
+    "wof:name":"Pepleul",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19079,
+    6.94156,
+    -8.19079,
+    6.94156
+],
+  "geometry": {"coordinates":[-8.19079,6.94156],"type":"Point"}
+}

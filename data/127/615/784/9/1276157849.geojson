@@ -1,0 +1,67 @@
+{
+  "id": 1276157849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6236,8.55419,-3.6236,8.55419",
+    "geom:latitude":8.55419,
+    "geom:longitude":-3.6236,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Kanhouralegue",
+    "gn:country_code":"CI",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287481,
+    "gn:latitude":8.55419,
+    "gn:longitude":-3.6236,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kanhoural\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287481
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0a67af9a29bba8f6cfa87ae168f23ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1276157849,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276157849,
+    "wof:lastmodified":1537013232,
+    "wof:name":"Kanhouralegue",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6236,
+    8.55419,
+    -3.6236,
+    8.55419
+],
+  "geometry": {"coordinates":[-3.6236,8.55419],"type":"Point"}
+}

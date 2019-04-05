@@ -1,0 +1,70 @@
+{
+  "id": 1343994529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83579,7.46893,-4.83579,7.46893",
+    "geom:latitude":7.46893,
+    "geom:longitude":-4.83579,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Ndaguessankro",
+    "gn:country_code":"CI",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283878,
+    "gn:latitude":7.46893,
+    "gn:longitude":-4.83579,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ndaguessankro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nda Nguissankro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283878
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"91feddba531727873992ad120542901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1343994529,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1343994529,
+    "wof:lastmodified":1537590956,
+    "wof:name":"Ndaguessankro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83579,
+    7.46893,
+    -4.83579,
+    7.46893
+],
+  "geometry": {"coordinates":[-4.83579,7.46893],"type":"Point"}
+}

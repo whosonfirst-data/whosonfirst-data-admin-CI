@@ -1,0 +1,61 @@
+{
+  "id": 1209350373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71769,8.32104,-7.71769,8.32104",
+    "geom:latitude":8.32104,
+    "geom:longitude":-7.71769,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Kouamodougou",
+    "gn:country_code":"CI",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286047,
+    "gn:latitude":8.32104,
+    "gn:longitude":-7.71769,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kouamodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286047
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3d5d202bd6b2725b09957e56f5ed2c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209350373
+        }
+    ],
+    "wof:id":1209350373,
+    "wof:lastmodified":1536289762,
+    "wof:name":"Kouamodougou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.717689999999998,
+    8.32104,
+    -7.717689999999998,
+    8.32104
+],
+  "geometry": {"coordinates":[-7.71769,8.32104],"type":"Point"}
+}

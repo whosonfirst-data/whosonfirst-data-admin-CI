@@ -1,0 +1,67 @@
+{
+  "id": 1260220735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.10968,7.48758,-4.10968,7.48758",
+    "geom:latitude":7.48758,
+    "geom:longitude":-4.10968,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Asounmakro",
+    "gn:country_code":"CI",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292747,
+    "gn:latitude":7.48758,
+    "gn:longitude":-4.10968,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Asounmakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292747
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fe95a84dc905a7b5f41825db411d2dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1260220735,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1260220735,
+    "wof:lastmodified":1536797293,
+    "wof:name":"Asounmakro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.10968,
+    7.48758,
+    -4.10968,
+    7.48758
+],
+  "geometry": {"coordinates":[-4.10968,7.48758],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209139691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.99811,5.15638,-2.99811,5.15638",
+    "geom:latitude":5.15638,
+    "geom:longitude":-2.99811,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Assue Mossi",
+    "gn:country_code":"CI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051547,
+    "gn:latitude":5.15638,
+    "gn:longitude":-2.99811,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Assu\u00e9 Mossi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051547
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0d0531752dc33c96f93b7658617ec2a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209139691
+        }
+    ],
+    "wof:id":1209139691,
+    "wof:lastmodified":1536296545,
+    "wof:name":"Assue Mossi",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.99811,
+    5.15638,
+    -2.99811,
+    5.15638
+],
+  "geometry": {"coordinates":[-2.99811,5.15638],"type":"Point"}
+}

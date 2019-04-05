@@ -1,0 +1,67 @@
+{
+  "id": 1293726329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54724,5.53731,-3.54724,5.53731",
+    "geom:latitude":5.53731,
+    "geom:longitude":-3.54724,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Petit Koumassi",
+    "gn:country_code":"CI",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032030,
+    "gn:latitude":5.53731,
+    "gn:longitude":-3.54724,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Petit Koumassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032030
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"11fdfd6004e45319c690a92e671d2e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1293726329,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1293726329,
+    "wof:lastmodified":1536940622,
+    "wof:name":"Petit Koumassi",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54724,
+    5.53731,
+    -3.54724,
+    5.53731
+],
+  "geometry": {"coordinates":[-3.54724,5.53731],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209251225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08604,6.94609,-8.08604,6.94609",
+    "geom:latitude":6.94609,
+    "geom:longitude":-8.08604,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Boutouo II",
+    "gn:country_code":"CI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290780,
+    "gn:latitude":6.94609,
+    "gn:longitude":-8.08604,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Boutouo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290780
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6d5675355a304b1ed3097c30602d8f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209251225
+        }
+    ],
+    "wof:id":1209251225,
+    "wof:lastmodified":1536292998,
+    "wof:name":"Boutouo II",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.086039999999999,
+    6.946089999999999,
+    -8.086039999999999,
+    6.946089999999999
+],
+  "geometry": {"coordinates":[-8.08604,6.94609],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310340451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.21667,7.31667,-4.21667,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":-4.21667,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Ladji",
+    "gn:country_code":"CI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285498,
+    "gn:latitude":7.31667,
+    "gn:longitude":-4.21667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ladji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285498
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"18b52ab5d6a2ec17ca7db38e7ebb7e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1310340451,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1310340451,
+    "wof:lastmodified":1536657639,
+    "wof:name":"Ladji",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.21667,
+    7.31667,
+    -4.21667,
+    7.31667
+],
+  "geometry": {"coordinates":[-4.21667,7.31667],"type":"Point"}
+}

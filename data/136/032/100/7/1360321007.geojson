@@ -1,0 +1,67 @@
+{
+  "id": 1360321007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.85019,5.56971,-3.85019,5.56971",
+    "geom:latitude":5.56971,
+    "geom:longitude":-3.85019,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Mambo Ouanda",
+    "gn:country_code":"CI",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033061,
+    "gn:latitude":5.56971,
+    "gn:longitude":-3.85019,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Mambo Ouanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033061
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"935aa7b2bb50c4a7123dba4173345173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1360321007,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1360321007,
+    "wof:lastmodified":1536602135,
+    "wof:name":"Mambo Ouanda",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.85019,
+    5.56971,
+    -3.85019,
+    5.56971
+],
+  "geometry": {"coordinates":[-3.85019,5.56971],"type":"Point"}
+}

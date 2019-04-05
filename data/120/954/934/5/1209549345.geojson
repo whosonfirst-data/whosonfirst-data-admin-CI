@@ -1,0 +1,61 @@
+{
+  "id": 1209549345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45545,7.79825,-5.45545,7.79825",
+    "geom:latitude":7.79825,
+    "geom:longitude":-5.45545,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Bouakro",
+    "gn:country_code":"CI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290945,
+    "gn:latitude":7.79825,
+    "gn:longitude":-5.45545,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bouakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290945
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b043504cfe5c5561bbe222049fd1d832",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209549345
+        }
+    ],
+    "wof:id":1209549345,
+    "wof:lastmodified":1536283743,
+    "wof:name":"Bouakro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45545,
+    7.79825,
+    -5.45545,
+    7.79825
+],
+  "geometry": {"coordinates":[-5.45545,7.79825],"type":"Point"}
+}

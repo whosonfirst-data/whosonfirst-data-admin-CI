@@ -1,0 +1,67 @@
+{
+  "id": 1226278563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07528,7.98472,-5.07528,7.98472",
+    "geom:latitude":7.98472,
+    "geom:longitude":-5.07528,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Ouana",
+    "gn:country_code":"CI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282914,
+    "gn:latitude":7.98472,
+    "gn:longitude":-5.07528,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ouana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282914
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0582fbfd2e339f718e252377f89d719e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1226278563,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1226278563,
+    "wof:lastmodified":1536885807,
+    "wof:name":"Ouana",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.07528,
+    7.98472,
+    -5.07528,
+    7.98472
+],
+  "geometry": {"coordinates":[-5.07528,7.98472],"type":"Point"}
+}

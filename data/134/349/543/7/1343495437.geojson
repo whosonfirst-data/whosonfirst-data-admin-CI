@@ -1,0 +1,67 @@
+{
+  "id": 1343495437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63579,10.29347,-5.63579,10.29347",
+    "geom:latitude":10.29347,
+    "geom:longitude":-5.63579,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kasseregue",
+    "gn:country_code":"CI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287345,
+    "gn:latitude":10.29347,
+    "gn:longitude":-5.63579,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kass\u00e9r\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287345
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a9eb779906807fb292bdb336c1ec646d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1343495437,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343495437,
+    "wof:lastmodified":1536695894,
+    "wof:name":"Kasseregue",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63579,
+    10.29347,
+    -5.63579,
+    10.29347
+],
+  "geometry": {"coordinates":[-5.63579,10.29347],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343697747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21667,8.96667,-5.21667,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":-5.21667,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kadekaha",
+    "gn:country_code":"CI",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287724,
+    "gn:latitude":8.96667,
+    "gn:longitude":-5.21667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kad\u00e9kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287724
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9543974063ff2cccb8a4a4262fc243bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1343697747,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1343697747,
+    "wof:lastmodified":1536901347,
+    "wof:name":"Kadekaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21667,
+    8.96667,
+    -5.21667,
+    8.96667
+],
+  "geometry": {"coordinates":[-5.21667,8.96667],"type":"Point"}
+}

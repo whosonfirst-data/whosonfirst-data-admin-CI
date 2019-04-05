@@ -1,0 +1,67 @@
+{
+  "id": 1242612581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55651,5.73793,-5.55651,5.73793",
+    "geom:latitude":5.73793,
+    "geom:longitude":-5.55651,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Douboulilie",
+    "gn:country_code":"CI",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289677,
+    "gn:latitude":5.73793,
+    "gn:longitude":-5.55651,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Douboulili\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289677
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9729fba73bbd2ad89bed05b818ea4e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1242612581,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1242612581,
+    "wof:lastmodified":1537012552,
+    "wof:name":"Douboulilie",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55651,
+    5.73793,
+    -5.55651,
+    5.73793
+],
+  "geometry": {"coordinates":[-5.55651,5.73793],"type":"Point"}
+}

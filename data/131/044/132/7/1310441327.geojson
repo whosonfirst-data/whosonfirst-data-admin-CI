@@ -1,0 +1,71 @@
+{
+  "id": 1310441327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2153,8.70401,-7.2153,8.70401",
+    "geom:latitude":8.70401,
+    "geom:longitude":-7.2153,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Limbouriko",
+    "gn:country_code":"CI",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285199,
+    "gn:latitude":8.70401,
+    "gn:longitude":-7.2153,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Limbouriko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangabadougou",
+        "Limbouriko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285199
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d62efe0951b6b50696acfc483f73cccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1310441327,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1310441327,
+    "wof:lastmodified":1537590973,
+    "wof:name":"Limbouriko",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2153,
+    8.70401,
+    -7.2153,
+    8.70401
+],
+  "geometry": {"coordinates":[-7.2153,8.70401],"type":"Point"}
+}

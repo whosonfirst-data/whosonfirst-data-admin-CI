@@ -1,0 +1,73 @@
+{
+  "id": 1293620411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.63062,10.43669,-5.63062,10.43669",
+    "geom:latitude":10.43669,
+    "geom:longitude":-5.63062,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Pogo",
+    "gn:country_code":"CI",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282414,
+    "gn:latitude":10.43669,
+    "gn:longitude":-5.63062,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puro",
+        "Poho",
+        "Pouro",
+        "Pogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282414
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"61f5c0e5bc543e037acc86942a753f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1293620411,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293620411,
+    "wof:lastmodified":1537590936,
+    "wof:name":"Pogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.63062,
+    10.43669,
+    -5.63062,
+    10.43669
+],
+  "geometry": {"coordinates":[-5.63062,10.43669],"type":"Point"}
+}

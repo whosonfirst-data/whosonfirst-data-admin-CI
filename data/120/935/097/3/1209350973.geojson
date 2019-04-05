@@ -1,0 +1,65 @@
+{
+  "id": 1209350973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42515,5.613,-5.42515,5.613",
+    "geom:latitude":5.613,
+    "geom:longitude":-5.42515,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Zikriby",
+    "gn:country_code":"CI",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279322,
+    "gn:latitude":5.613,
+    "gn:longitude":-5.42515,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zikriby",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zikribi",
+        "Zikriby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279322
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b295915573911c5306f0f9e641b33370",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209350973
+        }
+    ],
+    "wof:id":1209350973,
+    "wof:lastmodified":1537590891,
+    "wof:name":"Zikriby",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42515,
+    5.613,
+    -5.42515,
+    5.613
+],
+  "geometry": {"coordinates":[-5.42515,5.613],"type":"Point"}
+}

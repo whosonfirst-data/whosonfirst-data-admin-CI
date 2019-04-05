@@ -1,0 +1,72 @@
+{
+  "id": 1210047159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.20916,10.08971,-6.20916,10.08971",
+    "geom:latitude":10.08971,
+    "geom:longitude":-6.20916,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tiorotierie",
+    "gn:country_code":"CI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280409,
+    "gn:latitude":10.08971,
+    "gn:longitude":-6.20916,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tioroti\u00e9rie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tioroti\u00e9ri",
+        "Toroti\u00e9ri",
+        "Tioroti\u00e9rie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280409
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fd328b4a58e561707ecbee6c79dcdd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1210047159,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1210047159,
+    "wof:lastmodified":1537590909,
+    "wof:name":"Tiorotierie",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.20916,
+    10.08971,
+    -6.20916,
+    10.08971
+],
+  "geometry": {"coordinates":[-6.20916,10.08971],"type":"Point"}
+}

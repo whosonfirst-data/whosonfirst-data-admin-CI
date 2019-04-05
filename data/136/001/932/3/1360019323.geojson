@@ -1,0 +1,71 @@
+{
+  "id": 1360019323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98698,5.98392,-3.98698,5.98392",
+    "geom:latitude":5.98392,
+    "geom:longitude":-3.98698,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Boudepe",
+    "gn:country_code":"CI",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290917,
+    "gn:latitude":5.98392,
+    "gn:longitude":-3.98698,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Boud\u00e9p\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boud\u00e9p\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290917,
+        "wk:page":"Boud%C3%A9p%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5740ec8d5d0a75026593946c656f0406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1360019323,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1360019323,
+    "wof:lastmodified":1537591054,
+    "wof:name":"Boudepe",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98698,
+    5.98392,
+    -3.98698,
+    5.98392
+],
+  "geometry": {"coordinates":[-3.98698,5.98392],"type":"Point"}
+}

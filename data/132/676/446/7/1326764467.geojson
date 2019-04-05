@@ -1,0 +1,67 @@
+{
+  "id": 1326764467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11275,6.35253,-7.11275,6.35253",
+    "geom:latitude":6.35253,
+    "geom:longitude":-7.11275,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dassiri",
+    "gn:country_code":"CI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2290380,
+    "gn:latitude":6.35253,
+    "gn:longitude":-7.11275,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dassiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290380
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"accc34d5426b587886ea9b5b12a7f703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1326764467,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1326764467,
+    "wof:lastmodified":1536648962,
+    "wof:name":"Dassiri",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11275,
+    6.35253,
+    -7.11275,
+    6.35253
+],
+  "geometry": {"coordinates":[-7.11275,6.35253],"type":"Point"}
+}

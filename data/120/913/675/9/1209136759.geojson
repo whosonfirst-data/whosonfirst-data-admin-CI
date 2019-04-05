@@ -1,0 +1,61 @@
+{
+  "id": 1209136759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08087,5.27112,-5.08087,5.27112",
+    "geom:latitude":5.27112,
+    "geom:longitude":-5.08087,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Taboue",
+    "gn:country_code":"CI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281115,
+    "gn:latitude":5.27112,
+    "gn:longitude":-5.08087,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tabou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281115
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5816b9d77d45b464fb9e4b884d4025c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209136759
+        }
+    ],
+    "wof:id":1209136759,
+    "wof:lastmodified":1536296635,
+    "wof:name":"Taboue",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08087,
+    5.27112,
+    -5.08087,
+    5.27112
+],
+  "geometry": {"coordinates":[-5.08087,5.27112],"type":"Point"}
+}

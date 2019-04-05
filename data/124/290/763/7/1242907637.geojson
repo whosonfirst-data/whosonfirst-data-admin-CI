@@ -1,0 +1,67 @@
+{
+  "id": 1242907637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4023,5.91688,-4.4023,5.91688",
+    "geom:latitude":5.91688,
+    "geom:longitude":-4.4023,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Assade Pafou",
+    "gn:country_code":"CI",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032516,
+    "gn:latitude":5.91688,
+    "gn:longitude":-4.4023,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Assad\u00e9 Pafou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032516
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"edf7f073c769ce880e2c9af88b1fc79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1242907637,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1242907637,
+    "wof:lastmodified":1537082185,
+    "wof:name":"Assade Pafou",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4023,
+    5.91688,
+    -4.4023,
+    5.91688
+],
+  "geometry": {"coordinates":[-4.4023,5.91688],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260317059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08061,4.66639,-7.08061,4.66639",
+    "geom:latitude":4.66639,
+    "geom:longitude":-7.08061,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Weoulo",
+    "gn:country_code":"CI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279899,
+    "gn:latitude":4.66639,
+    "gn:longitude":-7.08061,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"W\u00e8oulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouabulo",
+        "Ouaoulou",
+        "Ouaoulo",
+        "W\u00e8oulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279899
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"85775808f012141215d2ee970f488860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1260317059,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1260317059,
+    "wof:lastmodified":1537590900,
+    "wof:name":"Weoulo",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08061,
+    4.66639,
+    -7.08061,
+    4.66639
+],
+  "geometry": {"coordinates":[-7.08061,4.66639],"type":"Point"}
+}

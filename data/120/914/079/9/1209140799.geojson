@@ -1,0 +1,61 @@
+{
+  "id": 1209140799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28668,7.49507,-4.28668,7.49507",
+    "geom:latitude":7.49507,
+    "geom:longitude":-4.28668,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Ndiorekro",
+    "gn:country_code":"CI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283844,
+    "gn:latitude":7.49507,
+    "gn:longitude":-4.28668,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ndior\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283844
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1e53bef599a2252f3f08925dbe9866bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209140799
+        }
+    ],
+    "wof:id":1209140799,
+    "wof:lastmodified":1536296511,
+    "wof:name":"Ndiorekro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2866800000000005,
+    7.49507,
+    -4.2866800000000005,
+    7.49507
+],
+  "geometry": {"coordinates":[-4.28668,7.49507],"type":"Point"}
+}

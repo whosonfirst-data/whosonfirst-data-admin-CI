@@ -1,0 +1,67 @@
+{
+  "id": 1327066233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55647,6.44256,-7.55647,6.44256",
+    "geom:latitude":6.44256,
+    "geom:longitude":-7.55647,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Petit Guiglo",
+    "gn:country_code":"CI",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282504,
+    "gn:latitude":6.44256,
+    "gn:longitude":-7.55647,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Petit Guiglo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282504
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c429fa0c36bae46d3794ac13b7b5d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1327066233,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1327066233,
+    "wof:lastmodified":1536711875,
+    "wof:name":"Petit Guiglo",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55647,
+    6.44256,
+    -7.55647,
+    6.44256
+],
+  "geometry": {"coordinates":[-7.55647,6.44256],"type":"Point"}
+}

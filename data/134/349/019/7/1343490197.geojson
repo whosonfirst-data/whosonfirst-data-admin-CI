@@ -1,0 +1,71 @@
+{
+  "id": 1343490197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7695,7.36466,-7.7695,7.36466",
+    "geom:latitude":7.36466,
+    "geom:longitude":-7.7695,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Zonle I",
+    "gn:country_code":"CI",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279247,
+    "gn:latitude":7.36466,
+    "gn:longitude":-7.7695,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zonl\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zonl\u00e9 I",
+        "Zoonl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279247
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4896ba20323c2883531fbcb3acc31860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1343490197,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1343490197,
+    "wof:lastmodified":1537590890,
+    "wof:name":"Zonle I",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7695,
+    7.36466,
+    -7.7695,
+    7.36466
+],
+  "geometry": {"coordinates":[-7.7695,7.36466],"type":"Point"}
+}

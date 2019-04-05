@@ -1,0 +1,67 @@
+{
+  "id": 1293425661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.92611,7.32833,-4.92611,7.32833",
+    "geom:latitude":7.32833,
+    "geom:longitude":-4.92611,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Diemerekro",
+    "gn:country_code":"CI",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290081,
+    "gn:latitude":7.32833,
+    "gn:longitude":-4.92611,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Di\u00e9m\u00e9r\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290081
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bffd97e6198ce5f88529544665479181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1293425661,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1293425661,
+    "wof:lastmodified":1536875245,
+    "wof:name":"Diemerekro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.92611,
+    7.32833,
+    -4.92611,
+    7.32833
+],
+  "geometry": {"coordinates":[-4.92611,7.32833],"type":"Point"}
+}

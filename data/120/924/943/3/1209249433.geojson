@@ -1,0 +1,61 @@
+{
+  "id": 1209249433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67007,8.8977,-6.67007,8.8977",
+    "geom:latitude":8.8977,
+    "geom:longitude":-6.67007,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Setomo",
+    "gn:country_code":"CI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281718,
+    "gn:latitude":8.8977,
+    "gn:longitude":-6.67007,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Setomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281718
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"03675b7fe23dd5023c5d83a45ae919f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249433
+        }
+    ],
+    "wof:id":1209249433,
+    "wof:lastmodified":1536293053,
+    "wof:name":"Setomo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67007,
+    8.8977,
+    -6.67007,
+    8.8977
+],
+  "geometry": {"coordinates":[-6.67007,8.8977],"type":"Point"}
+}

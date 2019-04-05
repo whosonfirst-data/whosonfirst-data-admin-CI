@@ -1,0 +1,61 @@
+{
+  "id": 1209546717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42273,9.37643,-5.42273,9.37643",
+    "geom:latitude":9.37643,
+    "geom:longitude":-5.42273,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nanvikaha",
+    "gn:country_code":"CI",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283943,
+    "gn:latitude":9.37643,
+    "gn:longitude":-5.42273,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nanvikaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283943
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3258a4cf235435769913149222d1a135",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546717
+        }
+    ],
+    "wof:id":1209546717,
+    "wof:lastmodified":1536283821,
+    "wof:name":"Nanvikaha",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4227300000000005,
+    9.37643,
+    -5.4227300000000005,
+    9.37643
+],
+  "geometry": {"coordinates":[-5.42273,9.37643],"type":"Point"}
+}

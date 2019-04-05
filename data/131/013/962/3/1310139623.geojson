@@ -1,0 +1,78 @@
+{
+  "id": 1310139623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.44515,4.80501,-6.44515,4.80501",
+    "geom:latitude":4.80501,
+    "geom:longitude":-6.44515,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Monogaga",
+    "gn:country_code":"CI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284245,
+    "gn:latitude":4.80501,
+    "gn:longitude":-6.44515,
+    "gn:modification_date":"2018-01-26",
+    "gn:name":"Monogaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Half Drewin"
+    ],
+    "name:eng_x_preferred":[
+        "Half Drewin"
+    ],
+    "name:und_x_variant":[
+        "Gagan",
+        "M\u00e9nogaga",
+        "Monogaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284245
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d88ba23c0a1b843d7f4266b38b5a35ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1310139623,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1310139623,
+    "wof:lastmodified":1537590961,
+    "wof:name":"Monogaga",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.44515,
+    4.80501,
+    -6.44515,
+    4.80501
+],
+  "geometry": {"coordinates":[-6.44515,4.80501],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277112985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45582,5.97767,-4.45582,5.97767",
+    "geom:latitude":5.97767,
+    "geom:longitude":-4.45582,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Akissi",
+    "gn:country_code":"CI",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032483,
+    "gn:latitude":5.97767,
+    "gn:longitude":-4.45582,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Akissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032483
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e6d7949697bca8127a3ef04fc600e41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1277112985,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1277112985,
+    "wof:lastmodified":1536724331,
+    "wof:name":"Akissi",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45582,
+    5.97767,
+    -4.45582,
+    5.97767
+],
+  "geometry": {"coordinates":[-4.45582,5.97767],"type":"Point"}
+}

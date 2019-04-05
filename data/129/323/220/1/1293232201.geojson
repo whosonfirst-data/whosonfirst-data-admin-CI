@@ -1,0 +1,71 @@
+{
+  "id": 1293232201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.76684,6.70786,-6.76684,6.70786",
+    "geom:latitude":6.70786,
+    "geom:longitude":-6.76684,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Dedegbeu",
+    "gn:country_code":"CI",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290339,
+    "gn:latitude":6.70786,
+    "gn:longitude":-6.76684,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"D\u00e9d\u00e9gbeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9d\u00e9gbeu",
+        "D\u00e9degb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290339
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fed91b76152a3b3c5b6cc534c72b1106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1293232201,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1293232201,
+    "wof:lastmodified":1537591044,
+    "wof:name":"Dedegbeu",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.76684,
+    6.70786,
+    -6.76684,
+    6.70786
+],
+  "geometry": {"coordinates":[-6.76684,6.70786],"type":"Point"}
+}

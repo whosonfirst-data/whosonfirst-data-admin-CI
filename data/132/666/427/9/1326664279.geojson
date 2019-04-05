@@ -1,0 +1,79 @@
+{
+  "id": 1326664279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52483,4.36413,-7.52483,4.36413",
+    "geom:latitude":4.36413,
+    "geom:longitude":-7.52483,
+    "gn:admin1_code":"76.0",
+    "gn:admin2_code":"11153077.0",
+    "gn:admin3_code":"2281118.0",
+    "gn:asciiname":"Blieron",
+    "gn:country_code":"CI",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291460,
+    "gn:latitude":4.36413,
+    "gn:longitude":-7.52483,
+    "gn:modification_date":"2018-01-31",
+    "gn:name":"Bli\u00e9ron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291460
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2a374ee1dd5b57da9e915f49abf5c284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1326664279,
+            "region_id":85673517
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1326664279,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1326664279,
+    "wof:lastmodified":1536793984,
+    "wof:name":"Blieron",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52483,
+    4.36413,
+    -7.52483,
+    4.36413
+],
+  "geometry": {"coordinates":[-7.52483,4.36413],"type":"Point"}
+}

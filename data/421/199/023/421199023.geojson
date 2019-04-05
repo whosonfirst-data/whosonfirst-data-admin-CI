@@ -1,0 +1,116 @@
+{
+  "id": 421199023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.10095,8.13728,-5.10095,8.13728",
+    "geom:latitude":8.13728,
+    "geom:longitude":-5.10095,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5361\u8482\u5967\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Katiola"
+    ],
+    "name:eng_x_preferred":[
+        "Katiola"
+    ],
+    "name:fre_x_preferred":[
+        "Katiola"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c4\u03b9\u03bf\u03bb\u03ac"
+    ],
+    "name:ita_x_preferred":[
+        "Katiola"
+    ],
+    "name:may_x_preferred":[
+        "Katiola"
+    ],
+    "name:pol_x_preferred":[
+        "Katiola"
+    ],
+    "name:rum_x_preferred":[
+        "Katiola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0438\u043e\u043b\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Katiola"
+    ],
+    "name:unk_x_variant":[
+        "Lafouka"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2287298,
+    "qs:gn_pop":59641,
+    "qs:name":"Katiola",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Vall\u00e9e du Bandama",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":188858,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1343156,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287298,
+        "gp:id":1343156,
+        "qs:id":188858,
+        "wd:id":"Q2409805",
+        "wk:page":"Katiola, Ivory Coast"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009975,
+    "wof:geomhash":"a87bd212a7fc4103e0f9fc599468ea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421199023,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":421199023,
+    "wof:lastmodified":1527716410,
+    "wof:name":"Katiola",
+    "wof:parent_id":85669899,
+    "wof:placetype":"locality",
+    "wof:population":59641,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.10095,
+    8.13728,
+    -5.10095,
+    8.13728
+],
+  "geometry": {"coordinates":[-5.10095,8.13728],"type":"Point"}
+}

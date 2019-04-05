@@ -1,0 +1,67 @@
+{
+  "id": 1360220695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.12492,8.21606,-5.12492,8.21606",
+    "geom:latitude":8.21606,
+    "geom:longitude":-5.12492,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Souroukaha",
+    "gn:country_code":"CI",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281189,
+    "gn:latitude":8.21606,
+    "gn:longitude":-5.12492,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Souroukaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281189
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cbc41c32b823ec7334694116f13bdcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1360220695,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1360220695,
+    "wof:lastmodified":1536749889,
+    "wof:name":"Souroukaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.12492,
+    8.21606,
+    -5.12492,
+    8.21606
+],
+  "geometry": {"coordinates":[-5.12492,8.21606],"type":"Point"}
+}

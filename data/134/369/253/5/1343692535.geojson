@@ -1,0 +1,67 @@
+{
+  "id": 1343692535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0945,6.46746,-7.0945,6.46746",
+    "geom:latitude":6.46746,
+    "geom:longitude":-7.0945,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Koleahinou Kileli",
+    "gn:country_code":"CI",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286641,
+    "gn:latitude":6.46746,
+    "gn:longitude":-7.0945,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kol\u00e9ahinou Kil\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286641
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"929922d8a2b646186fe76154fb1915f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1343692535,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1343692535,
+    "wof:lastmodified":1536909208,
+    "wof:name":"Koleahinou Kileli",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0945,
+    6.46746,
+    -7.0945,
+    6.46746
+],
+  "geometry": {"coordinates":[-7.0945,6.46746],"type":"Point"}
+}

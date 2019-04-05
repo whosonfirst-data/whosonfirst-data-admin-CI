@@ -1,0 +1,71 @@
+{
+  "id": 1225879271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.14304,9.5472,-5.14304,9.5472",
+    "geom:latitude":9.5472,
+    "geom:longitude":-5.14304,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Pehyervogo",
+    "gn:country_code":"CI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282584,
+    "gn:latitude":9.5472,
+    "gn:longitude":-5.14304,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"P\u00e9hy\u00e8rvogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolourouvogo",
+        "P\u00e9hy\u00e8rvogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282584
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"847098c3d6f51752195b39d924864d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1225879271,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1225879271,
+    "wof:lastmodified":1537590939,
+    "wof:name":"Pehyervogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.14304,
+    9.5472,
+    -5.14304,
+    9.5472
+],
+  "geometry": {"coordinates":[-5.14304,9.5472],"type":"Point"}
+}

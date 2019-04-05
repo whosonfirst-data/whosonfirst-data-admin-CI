@@ -1,0 +1,67 @@
+{
+  "id": 1310236307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31,7.68389,-4.31,7.68389",
+    "geom:latitude":7.68389,
+    "geom:longitude":-4.31,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sandoukouma",
+    "gn:country_code":"CI",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282057,
+    "gn:latitude":7.68389,
+    "gn:longitude":-4.31,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Sandoukouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282057
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"824457ebc5a2e19125680be183fbddd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1310236307,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1310236307,
+    "wof:lastmodified":1536807549,
+    "wof:name":"Sandoukouma",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31,
+    7.68389,
+    -4.31,
+    7.68389
+],
+  "geometry": {"coordinates":[-4.31,7.68389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259517021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.14356,7.57853,-5.14356,7.57853",
+    "geom:latitude":7.57853,
+    "geom:longitude":-5.14356,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Bambara Pri Ouamalo",
+    "gn:country_code":"CI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292233,
+    "gn:latitude":7.57853,
+    "gn:longitude":-5.14356,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bambara Pri Ouamalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banbarapri-Ouamalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292233
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a8293740c924061c3c9a4f06d94d9cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1259517021,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1259517021,
+    "wof:lastmodified":1537591070,
+    "wof:name":"Bambara Pri Ouamalo",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.14356,
+    7.57853,
+    -5.14356,
+    7.57853
+],
+  "geometry": {"coordinates":[-5.14356,7.57853],"type":"Point"}
+}

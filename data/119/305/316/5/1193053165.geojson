@@ -1,0 +1,67 @@
+{
+  "id": 1193053165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22402,9.96841,-7.22402,9.96841",
+    "geom:latitude":9.96841,
+    "geom:longitude":-7.22402,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Samakona",
+    "gn:country_code":"CI",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282137,
+    "gn:latitude":9.96841,
+    "gn:longitude":-7.22402,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Samakona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282137
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9b82faa66133cffaffd75e4faf09e1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784987,
+            "locality_id":1193053165,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1193053165,
+    "wof:lastmodified":1536364576,
+    "wof:name":"Samakona",
+    "wof:parent_id":1108784987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22402,
+    9.96841,
+    -7.22402,
+    9.96841
+],
+  "geometry": {"coordinates":[-7.22402,9.96841],"type":"Point"}
+}

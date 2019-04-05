@@ -1,0 +1,67 @@
+{
+  "id": 1209946191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41735,5.51011,-4.41735,5.51011",
+    "geom:latitude":5.51011,
+    "geom:longitude":-4.41735,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Nguamo",
+    "gn:country_code":"CI",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032239,
+    "gn:latitude":5.51011,
+    "gn:longitude":-4.41735,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Nguamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032239
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d1a51d94dfcf83c3d42cb7082469fa04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1209946191,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1209946191,
+    "wof:lastmodified":1536386266,
+    "wof:name":"Nguamo",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41735,
+    5.51011,
+    -4.41735,
+    5.51011
+],
+  "geometry": {"coordinates":[-4.41735,5.51011],"type":"Point"}
+}

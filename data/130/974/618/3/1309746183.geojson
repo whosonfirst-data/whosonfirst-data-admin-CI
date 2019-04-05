@@ -1,0 +1,67 @@
+{
+  "id": 1309746183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43123,8.46147,-7.43123,8.46147",
+    "geom:latitude":8.46147,
+    "geom:longitude":-7.43123,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Konetyadou",
+    "gn:country_code":"CI",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286461,
+    "gn:latitude":8.46147,
+    "gn:longitude":-7.43123,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kon\u00e9tyadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286461
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1c58fc8f41f4b293a0f702e4b838a2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1309746183,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1309746183,
+    "wof:lastmodified":1537016422,
+    "wof:name":"Konetyadou",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43123,
+    8.46147,
+    -7.43123,
+    8.46147
+],
+  "geometry": {"coordinates":[-7.43123,8.46147],"type":"Point"}
+}

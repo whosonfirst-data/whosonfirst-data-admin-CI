@@ -1,0 +1,71 @@
+{
+  "id": 1276587353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.44369,5.38418,-5.44369,5.38418",
+    "geom:latitude":5.38418,
+    "geom:longitude":-5.44369,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Zeriberi",
+    "gn:country_code":"CI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279364,
+    "gn:latitude":5.38418,
+    "gn:longitude":-5.44369,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Z\u00e9rib\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9ribou\u00e9",
+        "Z\u00e9rib\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279364
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"28a88d38fed6bae16334206ad10fe580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1276587353,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276587353,
+    "wof:lastmodified":1537590892,
+    "wof:name":"Zeriberi",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.44369,
+    5.38418,
+    -5.44369,
+    5.38418
+],
+  "geometry": {"coordinates":[-5.44369,5.38418],"type":"Point"}
+}

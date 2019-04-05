@@ -1,0 +1,67 @@
+{
+  "id": 1309740375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75,7.83333,-3.75,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":-3.75,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Manimakouro",
+    "gn:country_code":"CI",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284592,
+    "gn:latitude":7.83333,
+    "gn:longitude":-3.75,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Manimakouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284592
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2240e94ee1e13ea0df62ccd96ff7d4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1309740375,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1309740375,
+    "wof:lastmodified":1537024457,
+    "wof:name":"Manimakouro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75,
+    7.83333,
+    -3.75,
+    7.83333
+],
+  "geometry": {"coordinates":[-3.75,7.83333],"type":"Point"}
+}

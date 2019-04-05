@@ -1,0 +1,61 @@
+{
+  "id": 1209552455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.24612,7.28451,-6.24612,7.28451",
+    "geom:latitude":7.28451,
+    "geom:longitude":-6.24612,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Zangrofla",
+    "gn:country_code":"CI",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279460,
+    "gn:latitude":7.28451,
+    "gn:longitude":-6.24612,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zangrofla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279460
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d34db4fcd779c7f376f920908a070f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209552455
+        }
+    ],
+    "wof:id":1209552455,
+    "wof:lastmodified":1536283650,
+    "wof:name":"Zangrofla",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24612,
+    7.284510000000001,
+    -6.24612,
+    7.284510000000001
+],
+  "geometry": {"coordinates":[-6.24612,7.28451],"type":"Point"}
+}

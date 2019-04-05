@@ -1,0 +1,65 @@
+{
+  "id": 1209345747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14401,9.41731,-7.14401,9.41731",
+    "geom:latitude":9.41731,
+    "geom:longitude":-7.14401,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Segelo-Koro",
+    "gn:country_code":"CI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281878,
+    "gn:latitude":9.41731,
+    "gn:longitude":-7.14401,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9g\u00e9lo-Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9gu\u00e9lo",
+        "S\u00e9g\u00e9lo-Koro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281878
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e2a4e0c51090a7801e02404caa974d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209345747
+        }
+    ],
+    "wof:id":1209345747,
+    "wof:lastmodified":1537590927,
+    "wof:name":"Segelo-Koro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14401,
+    9.41731,
+    -7.14401,
+    9.41731
+],
+  "geometry": {"coordinates":[-7.14401,9.41731],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327364907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58333,7.16667,-7.58333,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":-7.58333,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Serepleu",
+    "gn:country_code":"CI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281744,
+    "gn:latitude":7.16667,
+    "gn:longitude":-7.58333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"S\u00e9r\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281744
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"58260abaea34d9805bf4ba2db561dc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1327364907,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1327364907,
+    "wof:lastmodified":1536778899,
+    "wof:name":"Serepleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58333,
+    7.16667,
+    -7.58333,
+    7.16667
+],
+  "geometry": {"coordinates":[-7.58333,7.16667],"type":"Point"}
+}

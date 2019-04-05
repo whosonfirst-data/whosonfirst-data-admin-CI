@@ -1,0 +1,67 @@
+{
+  "id": 1327462465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38405,8.338,-4.38405,8.338",
+    "geom:latitude":8.338,
+    "geom:longitude":-4.38405,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tindikan-Dioulasso",
+    "gn:country_code":"CI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280605,
+    "gn:latitude":8.338,
+    "gn:longitude":-4.38405,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tindikan-Dioulasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280605
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e1f4a48fb88e6be3c9a70115fb805c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1327462465,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327462465,
+    "wof:lastmodified":1536636290,
+    "wof:name":"Tindikan-Dioulasso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38405,
+    8.338,
+    -4.38405,
+    8.338
+],
+  "geometry": {"coordinates":[-4.38405,8.338],"type":"Point"}
+}

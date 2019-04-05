@@ -1,0 +1,67 @@
+{
+  "id": 1310536001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79395,8.84673,-7.79395,8.84673",
+    "geom:latitude":8.84673,
+    "geom:longitude":-7.79395,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Konzadougou",
+    "gn:country_code":"CI",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286339,
+    "gn:latitude":8.84673,
+    "gn:longitude":-7.79395,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Konzadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286339
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3576a0a582d95f19e50a56e47bf134b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1310536001,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1310536001,
+    "wof:lastmodified":1536871881,
+    "wof:name":"Konzadougou",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79395,
+    8.84673,
+    -7.79395,
+    8.84673
+],
+  "geometry": {"coordinates":[-7.79395,8.84673],"type":"Point"}
+}

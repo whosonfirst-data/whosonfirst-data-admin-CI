@@ -1,0 +1,67 @@
+{
+  "id": 1276152005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.17639,9.44943,-5.17639,9.44943",
+    "geom:latitude":9.44943,
+    "geom:longitude":-5.17639,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kayerguevogo",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287262,
+    "gn:latitude":9.44943,
+    "gn:longitude":-5.17639,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kayergu\u00e9vogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287262
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"07e65e158570fc5a86490ca56e3572a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1276152005,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1276152005,
+    "wof:lastmodified":1537020831,
+    "wof:name":"Kayerguevogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.17639,
+    9.44943,
+    -5.17639,
+    9.44943
+],
+  "geometry": {"coordinates":[-5.17639,9.44943],"type":"Point"}
+}

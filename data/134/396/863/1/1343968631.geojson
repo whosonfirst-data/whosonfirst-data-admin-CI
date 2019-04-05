@@ -1,0 +1,72 @@
+{
+  "id": 1343968631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31774,5.36681,-3.31774,5.36681",
+    "geom:latitude":5.36681,
+    "geom:longitude":-3.31774,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ayenoua",
+    "gn:country_code":"CI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292535,
+    "gn:latitude":5.36681,
+    "gn:longitude":-3.31774,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Ay\u00e9noua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ay\u00e9nouan",
+        "Ay\u00e9noua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292535,
+        "wk:page":"Ay%C3%A9nouan"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"10274c1a35c7c9a654d0a1290002d9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1343968631,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1343968631,
+    "wof:lastmodified":1537591074,
+    "wof:name":"Ayenoua",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31774,
+    5.36681,
+    -3.31774,
+    5.36681
+],
+  "geometry": {"coordinates":[-3.31774,5.36681],"type":"Point"}
+}

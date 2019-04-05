@@ -1,0 +1,61 @@
+{
+  "id": 1209040537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.52829,5.20066,-3.52829,5.20066",
+    "geom:latitude":5.20066,
+    "geom:longitude":-3.52829,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Hebe",
+    "gn:country_code":"CI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031900,
+    "gn:latitude":5.20066,
+    "gn:longitude":-3.52829,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"H\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031900
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9567be1897020eaf81624715181cad6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209040537
+        }
+    ],
+    "wof:id":1209040537,
+    "wof:lastmodified":1536299560,
+    "wof:name":"Hebe",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.52829,
+    5.20066,
+    -3.52829,
+    5.20066
+],
+  "geometry": {"coordinates":[-3.52829,5.20066],"type":"Point"}
+}

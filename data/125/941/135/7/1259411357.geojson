@@ -1,0 +1,71 @@
+{
+  "id": 1259411357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.99682,5.40569,-3.99682,5.40569",
+    "geom:latitude":5.40569,
+    "geom:longitude":-3.99682,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Abobo Te",
+    "gn:country_code":"CI",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293518,
+    "gn:latitude":5.40569,
+    "gn:longitude":-3.99682,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Abobo T\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abobo-Att\u00e9",
+        "Abobo T\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108784991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293518
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8a97957a4948c791ab18e2808e30ce50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784991,
+            "locality_id":1259411357,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1259411357,
+    "wof:lastmodified":1537591090,
+    "wof:name":"Abobo Te",
+    "wof:parent_id":1108784991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.99682,
+    5.40569,
+    -3.99682,
+    5.40569
+],
+  "geometry": {"coordinates":[-3.99682,5.40569],"type":"Point"}
+}

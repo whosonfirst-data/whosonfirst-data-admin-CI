@@ -1,0 +1,67 @@
+{
+  "id": 1276689995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.13774,8.40417,-4.13774,8.40417",
+    "geom:latitude":8.40417,
+    "geom:longitude":-4.13774,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Bidiala-Sobara",
+    "gn:country_code":"CI",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291646,
+    "gn:latitude":8.40417,
+    "gn:longitude":-4.13774,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Bidiala-Sobara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291646
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f3da0d4b11144f70e367624ed3269e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1276689995,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1276689995,
+    "wof:lastmodified":1536797992,
+    "wof:name":"Bidiala-Sobara",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.13774,
+    8.40417,
+    -4.13774,
+    8.40417
+],
+  "geometry": {"coordinates":[-4.13774,8.40417],"type":"Point"}
+}

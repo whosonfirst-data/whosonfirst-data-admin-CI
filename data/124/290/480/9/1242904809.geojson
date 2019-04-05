@@ -1,0 +1,67 @@
+{
+  "id": 1242904809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.92286,8.61549,-3.92286,8.61549",
+    "geom:latitude":8.61549,
+    "geom:longitude":-3.92286,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Toupe",
+    "gn:country_code":"CI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280288,
+    "gn:latitude":8.61549,
+    "gn:longitude":-3.92286,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Toup\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280288
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b9beb84ca19c66c2d040b8264ee126a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1242904809,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1242904809,
+    "wof:lastmodified":1537086283,
+    "wof:name":"Toupe",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.92286,
+    8.61549,
+    -3.92286,
+    8.61549
+],
+  "geometry": {"coordinates":[-3.92286,8.61549],"type":"Point"}
+}

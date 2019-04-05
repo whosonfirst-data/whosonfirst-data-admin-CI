@@ -1,0 +1,61 @@
+{
+  "id": 1209546499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72054,5.70303,-3.72054,5.70303",
+    "geom:latitude":5.70303,
+    "geom:longitude":-3.72054,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Nsa",
+    "gn:country_code":"CI",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033139,
+    "gn:latitude":5.70303,
+    "gn:longitude":-3.72054,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Nsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033139
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"841008795fc1a08767f4f089e9351b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209546499
+        }
+    ],
+    "wof:id":1209546499,
+    "wof:lastmodified":1536283826,
+    "wof:name":"Nsa",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72054,
+    5.70303,
+    -3.72054,
+    5.70303
+],
+  "geometry": {"coordinates":[-3.72054,5.70303],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309842481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54508,5.94751,-6.54508,5.94751",
+    "geom:latitude":5.94751,
+    "geom:longitude":-6.54508,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Yacolidabouo",
+    "gn:country_code":"CI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279821,
+    "gn:latitude":5.94751,
+    "gn:longitude":-6.54508,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yacolidabouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iakuli-Dabouo",
+        "Yacolidabouo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279821,
+        "wk:page":"Yacolidabouo"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"570065c6d2b6905b7bb46926918e2adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1309842481,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1309842481,
+    "wof:lastmodified":1537590899,
+    "wof:name":"Yacolidabouo",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54508,
+    5.94751,
+    -6.54508,
+    5.94751
+],
+  "geometry": {"coordinates":[-6.54508,5.94751],"type":"Point"}
+}

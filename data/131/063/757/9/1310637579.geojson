@@ -1,0 +1,67 @@
+{
+  "id": 1310637579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48458,5.62549,-4.48458,5.62549",
+    "geom:latitude":5.62549,
+    "geom:longitude":-4.48458,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Korou Aba",
+    "gn:country_code":"CI",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031955,
+    "gn:latitude":5.62549,
+    "gn:longitude":-4.48458,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Korou Aba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031955
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f04204c8ca0040c584c4e9d3d7cde2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1310637579,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1310637579,
+    "wof:lastmodified":1536726680,
+    "wof:name":"Korou Aba",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48458,
+    5.62549,
+    -4.48458,
+    5.62549
+],
+  "geometry": {"coordinates":[-4.48458,5.62549],"type":"Point"}
+}

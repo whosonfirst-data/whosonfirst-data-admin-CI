@@ -1,0 +1,67 @@
+{
+  "id": 1293323165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73218,5.54396,-3.73218,5.54396",
+    "geom:latitude":5.54396,
+    "geom:longitude":-3.73218,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Djibi",
+    "gn:country_code":"CI",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033099,
+    "gn:latitude":5.54396,
+    "gn:longitude":-3.73218,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Djibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033099
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e8ba7de63c4921d9e71712a7f7700901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1293323165,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293323165,
+    "wof:lastmodified":1537023027,
+    "wof:name":"Djibi",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73218,
+    5.54396,
+    -3.73218,
+    5.54396
+],
+  "geometry": {"coordinates":[-3.73218,5.54396],"type":"Point"}
+}

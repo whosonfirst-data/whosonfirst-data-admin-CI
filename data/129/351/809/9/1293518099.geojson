@@ -1,0 +1,71 @@
+{
+  "id": 1293518099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.34082,8.22773,-3.34082,8.22773",
+    "geom:latitude":8.22773,
+    "geom:longitude":-3.34082,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Pana",
+    "gn:country_code":"CI",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282681,
+    "gn:latitude":8.22773,
+    "gn:longitude":-3.34082,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan-na",
+        "Pana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282681
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"896cee4ac7c8d234b6adbc09fc47b424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1293518099,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1293518099,
+    "wof:lastmodified":1537590940,
+    "wof:name":"Pana",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.34082,
+    8.22773,
+    -3.34082,
+    8.22773
+],
+  "geometry": {"coordinates":[-3.34082,8.22773],"type":"Point"}
+}

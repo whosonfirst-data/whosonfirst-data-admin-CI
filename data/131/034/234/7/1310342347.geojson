@@ -1,0 +1,70 @@
+{
+  "id": 1310342347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67195,6.73576,-4.67195,6.73576",
+    "geom:latitude":6.73576,
+    "geom:longitude":-4.67195,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Tangoumassou",
+    "gn:country_code":"CI",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280982,
+    "gn:latitude":6.73576,
+    "gn:longitude":-4.67195,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tangoumassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangoumanssou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280982
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aad76d7b4d65d00b1dd4fe2c2e693d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1310342347,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1310342347,
+    "wof:lastmodified":1537590917,
+    "wof:name":"Tangoumassou",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67195,
+    6.73576,
+    -4.67195,
+    6.73576
+],
+  "geometry": {"coordinates":[-4.67195,6.73576],"type":"Point"}
+}

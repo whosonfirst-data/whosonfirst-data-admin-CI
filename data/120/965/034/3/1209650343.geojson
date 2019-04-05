@@ -1,0 +1,65 @@
+{
+  "id": 1209650343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.51708,10.34762,-6.51708,10.34762",
+    "geom:latitude":10.34762,
+    "geom:longitude":-6.51708,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Neguepie",
+    "gn:country_code":"CI",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283783,
+    "gn:latitude":10.34762,
+    "gn:longitude":-6.51708,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"N\u00e9gu\u00e9pi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9gu\u00e9pi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283783,
+        "wk:page":"N%C3%A9gu%C3%A9pi%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"30bb4eb519ec2cf6b229a74cf9ffe306",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209650343
+        }
+    ],
+    "wof:id":1209650343,
+    "wof:lastmodified":1537590954,
+    "wof:name":"Neguepie",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.51708,
+    10.34762,
+    -6.51708,
+    10.34762
+],
+  "geometry": {"coordinates":[-6.51708,10.34762],"type":"Point"}
+}

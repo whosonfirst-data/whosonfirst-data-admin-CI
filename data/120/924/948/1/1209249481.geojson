@@ -1,0 +1,61 @@
+{
+  "id": 1209249481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0019,10.12533,-6.0019,10.12533",
+    "geom:latitude":10.12533,
+    "geom:longitude":-6.0019,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Vanaloro",
+    "gn:country_code":"CI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597244,
+    "gn:latitude":10.12533,
+    "gn:longitude":-6.0019,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Vanaloro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597244
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"85801fff73f6af87dfca29506997911a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249481
+        }
+    ],
+    "wof:id":1209249481,
+    "wof:lastmodified":1536293051,
+    "wof:name":"Vanaloro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0019,
+    10.12533,
+    -6.0019,
+    10.12533
+],
+  "geometry": {"coordinates":[-6.0019,10.12533],"type":"Point"}
+}

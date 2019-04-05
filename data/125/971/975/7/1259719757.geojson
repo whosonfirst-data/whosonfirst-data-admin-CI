@@ -1,0 +1,67 @@
+{
+  "id": 1259719757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.69703,8.03046,-2.69703,8.03046",
+    "geom:latitude":8.03046,
+    "geom:longitude":-2.69703,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Timorossie",
+    "gn:country_code":"CI",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280621,
+    "gn:latitude":8.03046,
+    "gn:longitude":-2.69703,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Timorossi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280621
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0cda61f3c0cb6d2b04e254d0d61027a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1259719757,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1259719757,
+    "wof:lastmodified":1537014050,
+    "wof:name":"Timorossie",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.69703,
+    8.03046,
+    -2.69703,
+    8.03046
+],
+  "geometry": {"coordinates":[-2.69703,8.03046],"type":"Point"}
+}

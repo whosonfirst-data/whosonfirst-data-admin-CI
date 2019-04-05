@@ -1,0 +1,71 @@
+{
+  "id": 1225879211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.32683,6.47855,-6.32683,6.47855",
+    "geom:latitude":6.47855,
+    "geom:longitude":-6.32683,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Niebelahio",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283471,
+    "gn:latitude":6.47855,
+    "gn:longitude":-6.32683,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ni\u00e9b\u00e9lahio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u00e9b\u00e9lahio",
+        "Ni\u00e9b\u00e9layo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283471
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"af086eba823a0233d343139dedc201f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1225879211,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1225879211,
+    "wof:lastmodified":1537590950,
+    "wof:name":"Niebelahio",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.32683,
+    6.47855,
+    -6.32683,
+    6.47855
+],
+  "geometry": {"coordinates":[-6.32683,6.47855],"type":"Point"}
+}

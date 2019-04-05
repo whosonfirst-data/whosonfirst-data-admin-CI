@@ -1,0 +1,65 @@
+{
+  "id": 1209350945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58543,7.74461,-5.58543,7.74461",
+    "geom:latitude":7.74461,
+    "geom:longitude":-5.58543,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Asse Kouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285976,
+    "gn:latitude":7.74461,
+    "gn:longitude":-5.58543,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ass\u00e9 Kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ass\u00e9 Kouassikro",
+        "Kouassimikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285976
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"53e5de363c185111bc1f3e398e0074df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209350945
+        }
+    ],
+    "wof:id":1209350945,
+    "wof:lastmodified":1537590984,
+    "wof:name":"Asse Kouassikro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58543,
+    7.74461,
+    -5.58543,
+    7.74461
+],
+  "geometry": {"coordinates":[-5.58543,7.74461],"type":"Point"}
+}

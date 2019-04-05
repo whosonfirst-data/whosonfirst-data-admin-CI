@@ -1,0 +1,72 @@
+{
+  "id": 1293034915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42194,6.25143,-4.42194,6.25143",
+    "geom:latitude":6.25143,
+    "geom:longitude":-4.42194,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Sechi",
+    "gn:country_code":"CI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281904,
+    "gn:latitude":6.25143,
+    "gn:longitude":-4.42194,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"S\u00e9chi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e9chi",
+        "S\u00e9chi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281904,
+        "wk:page":"C%C3%A9chi"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2a260d0770a4b0506c068da0e517d176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1293034915,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293034915,
+    "wof:lastmodified":1537590928,
+    "wof:name":"Sechi",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42194,
+    6.25143,
+    -4.42194,
+    6.25143
+],
+  "geometry": {"coordinates":[-4.42194,6.25143],"type":"Point"}
+}

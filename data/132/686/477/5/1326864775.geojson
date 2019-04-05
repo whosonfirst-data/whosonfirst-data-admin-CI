@@ -1,0 +1,72 @@
+{
+  "id": 1326864775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63333,4.91667,-6.63333,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":-6.63333,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gaouri",
+    "gn:country_code":"CI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288758,
+    "gn:latitude":4.91667,
+    "gn:longitude":-6.63333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gaouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bl\u00e9oulo Ouy\u00e9",
+        "Gaoury",
+        "Gaouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288758
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a441bedc5df712d9151f887ceb769cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1326864775,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1326864775,
+    "wof:lastmodified":1537591023,
+    "wof:name":"Gaouri",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63333,
+    4.91667,
+    -6.63333,
+    4.91667
+],
+  "geometry": {"coordinates":[-6.63333,4.91667],"type":"Point"}
+}

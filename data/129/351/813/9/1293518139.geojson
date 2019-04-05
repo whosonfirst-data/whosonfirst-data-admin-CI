@@ -1,0 +1,70 @@
+{
+  "id": 1293518139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.55247,5.3904,-3.55247,5.3904",
+    "geom:latitude":5.3904,
+    "geom:longitude":-3.55247,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Ouapi",
+    "gn:country_code":"CI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597099,
+    "gn:latitude":5.3904,
+    "gn:longitude":-3.55247,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ouapi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aoupie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597099
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b9c4c9ad6ba2eb4cc5025427096e5d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1293518139,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1293518139,
+    "wof:lastmodified":1537591093,
+    "wof:name":"Ouapi",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.55247,
+    5.3904,
+    -3.55247,
+    5.3904
+],
+  "geometry": {"coordinates":[-3.55247,5.3904],"type":"Point"}
+}

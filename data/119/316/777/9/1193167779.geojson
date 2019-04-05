@@ -1,0 +1,67 @@
+{
+  "id": 1193167779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4001,6.87023,-4.4001,6.87023",
+    "geom:latitude":6.87023,
+    "geom:longitude":-4.4001,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Assika-Kayabo",
+    "gn:country_code":"CI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292670,
+    "gn:latitude":6.87023,
+    "gn:longitude":-4.4001,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Assika-Kayabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292670
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4c4b5cf3d1a0e12e1d94919eace208f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785007,
+            "locality_id":1193167779,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1193167779,
+    "wof:lastmodified":1536383808,
+    "wof:name":"Assika-Kayabo",
+    "wof:parent_id":1108785007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4001,
+    6.87023,
+    -4.4001,
+    6.87023
+],
+  "geometry": {"coordinates":[-4.4001,6.87023],"type":"Point"}
+}

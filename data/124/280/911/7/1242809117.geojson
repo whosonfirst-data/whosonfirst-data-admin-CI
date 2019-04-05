@@ -1,0 +1,67 @@
+{
+  "id": 1242809117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33563,6.55627,-8.33563,6.55627",
+    "geom:latitude":6.55627,
+    "geom:longitude":-8.33563,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Pantrokin",
+    "gn:country_code":"CI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282660,
+    "gn:latitude":6.55627,
+    "gn:longitude":-8.33563,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Pantrokin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282660
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eb26a12d7d35e27671308e46782813ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785017,
+            "locality_id":1242809117,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1242809117,
+    "wof:lastmodified":1536730639,
+    "wof:name":"Pantrokin",
+    "wof:parent_id":1108785017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33563,
+    6.55627,
+    -8.33563,
+    6.55627
+],
+  "geometry": {"coordinates":[-8.33563,6.55627],"type":"Point"}
+}

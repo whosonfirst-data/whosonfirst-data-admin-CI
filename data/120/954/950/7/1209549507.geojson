@@ -1,0 +1,61 @@
+{
+  "id": 1209549507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37294,7.89015,-6.37294,7.89015",
+    "geom:latitude":7.89015,
+    "geom:longitude":-6.37294,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Digibala",
+    "gn:country_code":"CI",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290025,
+    "gn:latitude":7.89015,
+    "gn:longitude":-6.37294,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Digibala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290025
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aebb0b6a6274dd790d17d10c678b2e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209549507
+        }
+    ],
+    "wof:id":1209549507,
+    "wof:lastmodified":1536283739,
+    "wof:name":"Digibala",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37294,
+    7.89015,
+    -6.37294,
+    7.89015
+],
+  "geometry": {"coordinates":[-6.37294,7.89015],"type":"Point"}
+}

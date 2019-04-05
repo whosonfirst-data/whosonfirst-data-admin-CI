@@ -1,0 +1,75 @@
+{
+  "id": 1293134611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71253,6.12024,-6.71253,6.12024",
+    "geom:latitude":6.12024,
+    "geom:longitude":-6.71253,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Petitgoa I",
+    "gn:country_code":"CI",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282521,
+    "gn:latitude":6.12024,
+    "gn:longitude":-6.71253,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Petitgoa I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitigoa 1",
+        "P\u00e9togoa",
+        "P\u00e9l\u00e9goua",
+        "Petigoa",
+        "Pitigoa Un",
+        "Petitgoa I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282521
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"83da3ed7556465d5733be04623948cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1293134611,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293134611,
+    "wof:lastmodified":1537590937,
+    "wof:name":"Petitgoa I",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71253,
+    6.12024,
+    -6.71253,
+    6.12024
+],
+  "geometry": {"coordinates":[-6.71253,6.12024],"type":"Point"}
+}

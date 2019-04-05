@@ -1,0 +1,70 @@
+{
+  "id": 1209746525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.455,7.46981,-4.455,7.46981",
+    "geom:latitude":7.46981,
+    "geom:longitude":-4.455,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Koffi Yaokro",
+    "gn:country_code":"CI",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286789,
+    "gn:latitude":7.46981,
+    "gn:longitude":-4.455,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Koffi Yaokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kofi Yaokro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286789
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7e0023f5f24812ed6586f9fc226b7ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1209746525,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1209746525,
+    "wof:lastmodified":1537590993,
+    "wof:name":"Koffi Yaokro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.455,
+    7.46981,
+    -4.455,
+    7.46981
+],
+  "geometry": {"coordinates":[-4.455,7.46981],"type":"Point"}
+}

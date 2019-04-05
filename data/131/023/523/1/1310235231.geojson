@@ -1,0 +1,71 @@
+{
+  "id": 1310235231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13309,8.38209,-6.13309,8.38209",
+    "geom:latitude":8.38209,
+    "geom:longitude":-6.13309,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Filasso",
+    "gn:country_code":"CI",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289022,
+    "gn:latitude":8.38209,
+    "gn:longitude":-6.13309,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Filasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Filaso",
+        "Filasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289022
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"95aca680d179f64c8729c2b1214b08ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1310235231,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1310235231,
+    "wof:lastmodified":1537591027,
+    "wof:name":"Filasso",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13309,
+    8.38209,
+    -6.13309,
+    8.38209
+],
+  "geometry": {"coordinates":[-6.13309,8.38209],"type":"Point"}
+}

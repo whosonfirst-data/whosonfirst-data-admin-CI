@@ -1,0 +1,67 @@
+{
+  "id": 1343892359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26783,5.11871,-5.26783,5.11871",
+    "geom:latitude":5.11871,
+    "geom:longitude":-5.26783,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Lakouhiri",
+    "gn:country_code":"CI",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285446,
+    "gn:latitude":5.11871,
+    "gn:longitude":-5.26783,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Lakouhiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loukouiri",
+        "Lakouhiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285446
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c1d8c621468a096e1ce70a27b4b8dcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343892359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343892359,
+    "wof:lastmodified":1537590976,
+    "wof:name":"Lakouhiri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26783,
+    5.11871,
+    -5.26783,
+    5.11871
+],
+  "geometry": {"coordinates":[-5.26783,5.11871],"type":"Point"}
+}

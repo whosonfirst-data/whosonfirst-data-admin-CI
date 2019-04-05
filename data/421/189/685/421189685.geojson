@@ -1,0 +1,74 @@
+{
+  "id": 421189685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.026667,5.336333,-4.026667,5.336333",
+    "geom:latitude":5.336333,
+    "geom:longitude":-4.026667,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Williamsville",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Lagunes",
+    "qs:photos":353,
+    "qs:photos_1k":72,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":353,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1115722,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1346981,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1346981,
+        "qs:id":1115722
+    },
+    "wof:country":"CI",
+    "wof:created":1459009633,
+    "wof:geomhash":"441cf8b789c74bf77ee523331823b53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421189685,
+            "region_id":1108806115
+        }
+    ],
+    "wof:id":421189685,
+    "wof:lastmodified":1527716269,
+    "wof:name":"Williamsville",
+    "wof:parent_id":1108806115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.026667,
+    5.336333,
+    -4.026667,
+    5.336333
+],
+  "geometry": {"coordinates":[-4.026667,5.336333],"type":"Point"}
+}

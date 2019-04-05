@@ -1,0 +1,71 @@
+{
+  "id": 1293329647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.50663,7.55138,-3.50663,7.55138",
+    "geom:latitude":7.55138,
+    "geom:longitude":-3.50663,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Daboukro",
+    "gn:country_code":"CI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290580,
+    "gn:latitude":7.55138,
+    "gn:longitude":-3.50663,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Daboukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daboukrou",
+        "Daboukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290580
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"aa64e3c5f04cdbd3beab340b77ac956d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1293329647,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1293329647,
+    "wof:lastmodified":1537591049,
+    "wof:name":"Daboukro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.50663,
+    7.55138,
+    -3.50663,
+    7.55138
+],
+  "geometry": {"coordinates":[-3.50663,7.55138],"type":"Point"}
+}

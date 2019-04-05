@@ -1,0 +1,71 @@
+{
+  "id": 1343395915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73743,9.40168,-7.73743,9.40168",
+    "geom:latitude":9.40168,
+    "geom:longitude":-7.73743,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Negela",
+    "gn:country_code":"CI",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283788,
+    "gn:latitude":9.40168,
+    "gn:longitude":-7.73743,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"N\u00e9g\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9gu\u00e9la",
+        "N\u00e9g\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283788
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"70b7abb5b619c2fd202cdf32a66a6d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1343395915,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1343395915,
+    "wof:lastmodified":1537590955,
+    "wof:name":"Negela",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73743,
+    9.40168,
+    -7.73743,
+    9.40168
+],
+  "geometry": {"coordinates":[-7.73743,9.40168],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310441667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.39013,10.03138,-5.39013,10.03138",
+    "geom:latitude":10.03138,
+    "geom:longitude":-5.39013,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Pinkaha",
+    "gn:country_code":"CI",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282456,
+    "gn:latitude":10.03138,
+    "gn:longitude":-5.39013,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pinkaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282456
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"beb8ee1841bb03e47d1892630232c0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1310441667,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1310441667,
+    "wof:lastmodified":1537008287,
+    "wof:name":"Pinkaha",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.39013,
+    10.03138,
+    -5.39013,
+    10.03138
+],
+  "geometry": {"coordinates":[-5.39013,10.03138],"type":"Point"}
+}

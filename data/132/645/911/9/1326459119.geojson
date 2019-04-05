@@ -1,0 +1,67 @@
+{
+  "id": 1326459119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64934,8.10156,-5.64934,8.10156",
+    "geom:latitude":8.10156,
+    "geom:longitude":-5.64934,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Baradougou",
+    "gn:country_code":"CI",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292081,
+    "gn:latitude":8.10156,
+    "gn:longitude":-5.64934,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Baradougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292081
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e6e9d18269ac71f2a13c734337ce8a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1326459119,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1326459119,
+    "wof:lastmodified":1537086270,
+    "wof:name":"Baradougou",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64934,
+    8.10156,
+    -5.64934,
+    8.10156
+],
+  "geometry": {"coordinates":[-5.64934,8.10156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276581117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55142,4.8229,-7.55142,4.8229",
+    "geom:latitude":4.8229,
+    "geom:longitude":-7.55142,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Podoue",
+    "gn:country_code":"CI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282418,
+    "gn:latitude":4.8229,
+    "gn:longitude":-7.55142,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Podou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podou\u00e9",
+        "Poday",
+        "Podw\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282418,
+        "wk:page":"Podou%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dd2b8916c80c3dcb5fd090ff970f1248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1276581117,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276581117,
+    "wof:lastmodified":1537590936,
+    "wof:name":"Podoue",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55142,
+    4.8229,
+    -7.55142,
+    4.8229
+],
+  "geometry": {"coordinates":[-7.55142,4.8229],"type":"Point"}
+}

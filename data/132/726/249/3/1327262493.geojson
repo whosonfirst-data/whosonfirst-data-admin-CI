@@ -1,0 +1,67 @@
+{
+  "id": 1327262493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2509,5.63804,-4.2509,5.63804",
+    "geom:latitude":5.63804,
+    "geom:longitude":-4.2509,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Goli Kouassi",
+    "gn:country_code":"CI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032284,
+    "gn:latitude":5.63804,
+    "gn:longitude":-4.2509,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Goli Kouassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032284
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ed173430de54b183fa78102a28efabd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1327262493,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327262493,
+    "wof:lastmodified":1536926960,
+    "wof:name":"Goli Kouassi",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2509,
+    5.63804,
+    -4.2509,
+    5.63804
+],
+  "geometry": {"coordinates":[-4.2509,5.63804],"type":"Point"}
+}

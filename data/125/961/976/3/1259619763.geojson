@@ -1,0 +1,67 @@
+{
+  "id": 1259619763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98704,6.31529,-5.98704,6.31529",
+    "geom:latitude":6.31529,
+    "geom:longitude":-5.98704,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Mama",
+    "gn:country_code":"CI",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284669,
+    "gn:latitude":6.31529,
+    "gn:longitude":-5.98704,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284669
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c29a61d97ecff5548e13b54a6cf58b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1259619763,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1259619763,
+    "wof:lastmodified":1536662385,
+    "wof:name":"Mama",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98704,
+    6.31529,
+    -5.98704,
+    6.31529
+],
+  "geometry": {"coordinates":[-5.98704,6.31529],"type":"Point"}
+}

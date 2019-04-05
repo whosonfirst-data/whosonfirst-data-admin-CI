@@ -1,0 +1,65 @@
+{
+  "id": 1209249757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84779,6.67274,-6.84779,6.67274",
+    "geom:latitude":6.67274,
+    "geom:longitude":-6.84779,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Bassaraguhe",
+    "gn:country_code":"CI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292048,
+    "gn:latitude":6.67274,
+    "gn:longitude":-6.84779,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bassaraguh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basaraguh\u00e9",
+        "Bassaraguh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292048
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bb0fec9240dedd642851a4db7d8416ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209249757
+        }
+    ],
+    "wof:id":1209249757,
+    "wof:lastmodified":1537591068,
+    "wof:name":"Bassaraguhe",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84779,
+    6.67274,
+    -6.84779,
+    6.67274
+],
+  "geometry": {"coordinates":[-6.84779,6.67274],"type":"Point"}
+}

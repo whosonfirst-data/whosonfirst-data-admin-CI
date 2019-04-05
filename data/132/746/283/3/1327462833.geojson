@@ -1,0 +1,71 @@
+{
+  "id": 1327462833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04806,7.41197,-6.04806,7.41197",
+    "geom:latitude":7.41197,
+    "geom:longitude":-6.04806,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Ziduo",
+    "gn:country_code":"CI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279346,
+    "gn:latitude":7.41197,
+    "gn:longitude":-6.04806,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ziduo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziduho",
+        "Ziduo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279346
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4e72e3ec6e531d2d7707d8a59d25fdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1327462833,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1327462833,
+    "wof:lastmodified":1537590891,
+    "wof:name":"Ziduo",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04806,
+    7.41197,
+    -6.04806,
+    7.41197
+],
+  "geometry": {"coordinates":[-6.04806,7.41197],"type":"Point"}
+}

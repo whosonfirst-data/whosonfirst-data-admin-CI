@@ -1,0 +1,61 @@
+{
+  "id": 1209141881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.17935,7.90081,-5.17935,7.90081",
+    "geom:latitude":7.90081,
+    "geom:longitude":-5.17935,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Asse Diaoukro",
+    "gn:country_code":"CI",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292709,
+    "gn:latitude":7.90081,
+    "gn:longitude":-5.17935,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ass\u00e9 Diaoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292709
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dfa03ea41b5e268ea3002669279c7c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209141881
+        }
+    ],
+    "wof:id":1209141881,
+    "wof:lastmodified":1536296477,
+    "wof:name":"Asse Diaoukro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.17935,
+    7.900810000000001,
+    -5.17935,
+    7.900810000000001
+],
+  "geometry": {"coordinates":[-5.17935,7.90081],"type":"Point"}
+}

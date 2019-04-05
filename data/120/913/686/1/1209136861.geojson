@@ -1,0 +1,65 @@
+{
+  "id": 1209136861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.28438,6.8575,-3.28438,6.8575",
+    "geom:latitude":6.8575,
+    "geom:longitude":-3.28438,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Brindoukro",
+    "gn:country_code":"CI",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291584,
+    "gn:latitude":6.8575,
+    "gn:longitude":-3.28438,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Brindoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bindoukro",
+        "Brindoukro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291584
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"562226938e39b054532d3c0745aa71b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209136861
+        }
+    ],
+    "wof:id":1209136861,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Brindoukro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.28438,
+    6.8575,
+    -3.28438,
+    6.8575
+],
+  "geometry": {"coordinates":[-3.28438,6.8575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343894173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50159,9.40777,-6.50159,9.40777",
+    "geom:latitude":9.40777,
+    "geom:longitude":-6.50159,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Ouazomon",
+    "gn:country_code":"CI",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279920,
+    "gn:latitude":9.40777,
+    "gn:longitude":-6.50159,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ouazomon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wazomon",
+        "Ou\u00e9zomon",
+        "Ouansomou",
+        "Ouazomon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279920
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0145cae12dfb656ea49054872583fea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1343894173,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343894173,
+    "wof:lastmodified":1537590901,
+    "wof:name":"Ouazomon",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50159,
+    9.40777,
+    -6.50159,
+    9.40777
+],
+  "geometry": {"coordinates":[-6.50159,9.40777],"type":"Point"}
+}

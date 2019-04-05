@@ -1,0 +1,72 @@
+{
+  "id": 1276366107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05878,8.4909,-6.05878,8.4909",
+    "geom:latitude":8.4909,
+    "geom:longitude":-6.05878,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bikassi",
+    "gn:country_code":"CI",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291603,
+    "gn:latitude":8.4909,
+    "gn:longitude":-6.05878,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bikassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bikasi",
+        "Bikosi",
+        "Bikassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291603
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fcfa8098f1acd5ad134331a32fa2c987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1276366107,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1276366107,
+    "wof:lastmodified":1537591062,
+    "wof:name":"Bikassi",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05878,
+    8.4909,
+    -6.05878,
+    8.4909
+],
+  "geometry": {"coordinates":[-6.05878,8.4909],"type":"Point"}
+}

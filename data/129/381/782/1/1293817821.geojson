@@ -1,0 +1,67 @@
+{
+  "id": 1293817821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.16896,8.04824,-6.16896,8.04824",
+    "geom:latitude":8.04824,
+    "geom:longitude":-6.16896,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Kogolo",
+    "gn:country_code":"CI",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286770,
+    "gn:latitude":8.04824,
+    "gn:longitude":-6.16896,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kogolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286770
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"db96d75c35dc3f47479331ad62902425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1293817821,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1293817821,
+    "wof:lastmodified":1536807677,
+    "wof:name":"Kogolo",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.16896,
+    8.04824,
+    -6.16896,
+    8.04824
+],
+  "geometry": {"coordinates":[-6.16896,8.04824],"type":"Point"}
+}

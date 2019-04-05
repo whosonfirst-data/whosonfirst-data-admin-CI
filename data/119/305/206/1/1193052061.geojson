@@ -1,0 +1,67 @@
+{
+  "id": 1193052061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17069,7.17858,-8.17069,7.17858",
+    "geom:latitude":7.17858,
+    "geom:longitude":-8.17069,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Bouempleu",
+    "gn:country_code":"CI",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7849343,
+    "gn:latitude":7.17858,
+    "gn:longitude":-8.17069,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bouempleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7849343
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d47bff238f51f92aab4715100c295149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1193052061,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1193052061,
+    "wof:lastmodified":1536365386,
+    "wof:name":"Bouempleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17069,
+    7.17858,
+    -8.17069,
+    7.17858
+],
+  "geometry": {"coordinates":[-8.17069,7.17858],"type":"Point"}
+}

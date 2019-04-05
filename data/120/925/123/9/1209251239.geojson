@@ -1,0 +1,61 @@
+{
+  "id": 1209251239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.22417,7.69252,-3.22417,7.69252",
+    "geom:latitude":7.69252,
+    "geom:longitude":-3.22417,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Assafo",
+    "gn:country_code":"CI",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292740,
+    "gn:latitude":7.69252,
+    "gn:longitude":-3.22417,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Assafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292740
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7a27874532bff27d88b5d7ffb1061efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209251239
+        }
+    ],
+    "wof:id":1209251239,
+    "wof:lastmodified":1536292998,
+    "wof:name":"Assafo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.22417,
+    7.69252,
+    -3.22417,
+    7.69252
+],
+  "geometry": {"coordinates":[-3.22417,7.69252],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326963859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89751,5.18059,-2.89751,5.18059",
+    "geom:latitude":5.18059,
+    "geom:longitude":-2.89751,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Nouamou",
+    "gn:country_code":"CI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283248,
+    "gn:latitude":5.18059,
+    "gn:longitude":-2.89751,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nouamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuamu",
+        "Nuamou",
+        "Nuambu",
+        "Nouamou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283248,
+        "wk:page":"Nouamou"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"01b85d32a960d2f76380724bc6b0d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1326963859,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1326963859,
+    "wof:lastmodified":1537590948,
+    "wof:name":"Nouamou",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89751,
+    5.18059,
+    -2.89751,
+    5.18059
+],
+  "geometry": {"coordinates":[-2.89751,5.18059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276696831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77018,6.93036,-7.77018,6.93036",
+    "geom:latitude":6.93036,
+    "geom:longitude":-7.77018,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Tie",
+    "gn:country_code":"CI",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570411,
+    "gn:latitude":6.93036,
+    "gn:longitude":-7.77018,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ti\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9",
+        "Ti\u00e9 Ine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570411
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dfd319555d913496fd2dbf7bea68d6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1276696831,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1276696831,
+    "wof:lastmodified":1537591091,
+    "wof:name":"Tie",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77018,
+    6.93036,
+    -7.77018,
+    6.93036
+],
+  "geometry": {"coordinates":[-7.77018,6.93036],"type":"Point"}
+}

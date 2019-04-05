@@ -1,0 +1,73 @@
+{
+  "id": 1360021665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50237,9.9033,-6.50237,9.9033",
+    "geom:latitude":9.9033,
+    "geom:longitude":-6.50237,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tourvre",
+    "gn:country_code":"CI",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280265,
+    "gn:latitude":9.9033,
+    "gn:longitude":-6.50237,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tourvr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tovr\u00e9",
+        "Touvr\u00e9",
+        "Touv\u00e9l\u00e9",
+        "Tourvr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280265
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"834cb3568c2b52a0c031b81565b94fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785027,
+            "locality_id":1360021665,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1360021665,
+    "wof:lastmodified":1537590907,
+    "wof:name":"Tourvre",
+    "wof:parent_id":1108785027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50237,
+    9.9033,
+    -6.50237,
+    9.9033
+],
+  "geometry": {"coordinates":[-6.50237,9.9033],"type":"Point"}
+}

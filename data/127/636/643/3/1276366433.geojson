@@ -1,0 +1,67 @@
+{
+  "id": 1276366433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78333,7.13333,-7.78333,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-7.78333,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Kyanle",
+    "gn:country_code":"CI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285524,
+    "gn:latitude":7.13333,
+    "gn:longitude":-7.78333,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kyanl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285524
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d8421bb948c0cfcc67b38f2952ea2e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1276366433,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1276366433,
+    "wof:lastmodified":1536734440,
+    "wof:name":"Kyanle",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78333,
+    7.13333,
+    -7.78333,
+    7.13333
+],
+  "geometry": {"coordinates":[-7.78333,7.13333],"type":"Point"}
+}

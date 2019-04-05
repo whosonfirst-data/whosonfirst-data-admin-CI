@@ -1,0 +1,67 @@
+{
+  "id": 1260013391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24794,9.43636,-3.24794,9.43636",
+    "geom:latitude":9.43636,
+    "geom:longitude":-3.24794,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Vilayo",
+    "gn:country_code":"CI",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280031,
+    "gn:latitude":9.43636,
+    "gn:longitude":-3.24794,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vilayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280031
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"26e00066ef75c099a56de6c7066a8313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1260013391,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1260013391,
+    "wof:lastmodified":1537085756,
+    "wof:name":"Vilayo",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24794,
+    9.43636,
+    -3.24794,
+    9.43636
+],
+  "geometry": {"coordinates":[-3.24794,9.43636],"type":"Point"}
+}

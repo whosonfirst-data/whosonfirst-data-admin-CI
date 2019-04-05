@@ -1,0 +1,133 @@
+{
+  "id": 421188159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9951,9.26926,-2.9951,9.26926",
+    "geom:latitude":9.26926,
+    "geom:longitude":-2.9951,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bouna"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Bouna"
+    ],
+    "name:eng_x_preferred":[
+        "Bouna"
+    ],
+    "name:fra_x_preferred":[
+        "Bouna"
+    ],
+    "name:fre_x_preferred":[
+        "Bouna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ca"
+    ],
+    "name:may_x_preferred":[
+        "Bouna"
+    ],
+    "name:msa_x_preferred":[
+        "Bouna"
+    ],
+    "name:pol_x_preferred":[
+        "Bouna"
+    ],
+    "name:ron_x_preferred":[
+        "Bouna"
+    ],
+    "name:rum_x_preferred":[
+        "Bouna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bouna"
+    ],
+    "name:unk_x_variant":[
+        "Buna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0624\u0646\u0627\u060c \u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u7d0d"
+    ],
+    "qs:gn_country":"CI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2290849,
+    "qs:gn_pop":23570,
+    "qs:name":"Bouna",
+    "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
+    "qs:name_adm1":"Zanzan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1089351,
+    "qs:woe_adm0":23424854,
+    "qs:woe_id":1341125,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":9.266667,
+    "wd:longitude":-3.0,
+    "wd:wordcount":254,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290849,
+        "gp:id":1341125,
+        "qs:id":1089351,
+        "wd:id":"Q2922170",
+        "wk:page":"Bouna, Ivory Coast"
+    },
+    "wof:country":"CI",
+    "wof:created":1459009536,
+    "wof:geomhash":"4d9ecdd39ff023a17360c5b4eb24c31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":421188159,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":421188159,
+    "wof:lastmodified":1553816377,
+    "wof:name":"Bouna",
+    "wof:parent_id":85669895,
+    "wof:placetype":"locality",
+    "wof:population":23570,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9951,
+    9.26926,
+    -2.9951,
+    9.26926
+],
+  "geometry": {"coordinates":[-2.9951,9.26926],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210047265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41548,5.50452,-4.41548,5.50452",
+    "geom:latitude":5.50452,
+    "geom:longitude":-4.41548,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Kouan",
+    "gn:country_code":"CI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032241,
+    "gn:latitude":5.50452,
+    "gn:longitude":-4.41548,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Kouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032241
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8c7627f715e4b5ea6723d4c57ff36ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1210047265,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1210047265,
+    "wof:lastmodified":1536377598,
+    "wof:name":"Kouan",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41548,
+    5.50452,
+    -4.41548,
+    5.50452
+],
+  "geometry": {"coordinates":[-4.41548,5.50452],"type":"Point"}
+}

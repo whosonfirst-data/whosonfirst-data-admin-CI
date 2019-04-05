@@ -1,0 +1,67 @@
+{
+  "id": 1343793269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.47463,5.70074,-4.47463,5.70074",
+    "geom:latitude":5.70074,
+    "geom:longitude":-4.47463,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Diby Kottou",
+    "gn:country_code":"CI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032004,
+    "gn:latitude":5.70074,
+    "gn:longitude":-4.47463,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Diby Kottou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032004
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2d90dddd1cd58fe26802311c36e8fe36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1343793269,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1343793269,
+    "wof:lastmodified":1536764023,
+    "wof:name":"Diby Kottou",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.47463,
+    5.70074,
+    -4.47463,
+    5.70074
+],
+  "geometry": {"coordinates":[-4.47463,5.70074],"type":"Point"}
+}

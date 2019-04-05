@@ -1,0 +1,67 @@
+{
+  "id": 1310235359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6424,5.81413,-3.6424,5.81413",
+    "geom:latitude":5.81413,
+    "geom:longitude":-3.6424,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Sonan Elio",
+    "gn:country_code":"CI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033482,
+    "gn:latitude":5.81413,
+    "gn:longitude":-3.6424,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Sonan Elio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033482
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1a4c5c9d4313c2b3746afaa1c8c9d084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1310235359,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1310235359,
+    "wof:lastmodified":1536808926,
+    "wof:name":"Sonan Elio",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6424,
+    5.81413,
+    -3.6424,
+    5.81413
+],
+  "geometry": {"coordinates":[-3.6424,5.81413],"type":"Point"}
+}

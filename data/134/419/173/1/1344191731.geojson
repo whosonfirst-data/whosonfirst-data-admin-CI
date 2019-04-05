@@ -1,0 +1,67 @@
+{
+  "id": 1344191731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71782,7.51609,-7.71782,7.51609",
+    "geom:latitude":7.51609,
+    "geom:longitude":-7.71782,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbene",
+    "gn:country_code":"CI",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288643,
+    "gn:latitude":7.51609,
+    "gn:longitude":-7.71782,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gb\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288643
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e6cf6114beb90b3ca3e0a276f5dd87c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1344191731,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1344191731,
+    "wof:lastmodified":1536686242,
+    "wof:name":"Gbene",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71782,
+    7.51609,
+    -7.71782,
+    7.51609
+],
+  "geometry": {"coordinates":[-7.71782,7.51609],"type":"Point"}
+}

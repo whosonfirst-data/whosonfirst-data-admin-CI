@@ -1,0 +1,71 @@
+{
+  "id": 1243588093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74616,6.80626,-5.74616,6.80626",
+    "geom:latitude":6.80626,
+    "geom:longitude":-5.74616,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Dadieinoufla",
+    "gn:country_code":"CI",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290249,
+    "gn:latitude":6.80626,
+    "gn:longitude":-5.74616,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dadi\u00e9inoufla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadi\u00e9inoufla",
+        "Diad\u00e9inoufla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290249
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5da793716e46036c12837852f1798641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1243588093,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1243588093,
+    "wof:lastmodified":1537591043,
+    "wof:name":"Dadieinoufla",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74616,
+    6.80626,
+    -5.74616,
+    6.80626
+],
+  "geometry": {"coordinates":[-5.74616,6.80626],"type":"Point"}
+}

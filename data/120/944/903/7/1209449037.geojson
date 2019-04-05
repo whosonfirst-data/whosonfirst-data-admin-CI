@@ -1,0 +1,61 @@
+{
+  "id": 1209449037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61667,9.6,-5.61667,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":-5.61667,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Tiorotierivogo",
+    "gn:country_code":"CI",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280553,
+    "gn:latitude":9.6,
+    "gn:longitude":-5.61667,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tioroti\u00e9rivogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280553
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4508dc46b04be5c64ed39030925c48cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209449037
+        }
+    ],
+    "wof:id":1209449037,
+    "wof:lastmodified":1536286728,
+    "wof:name":"Tiorotierivogo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61667,
+    9.6,
+    -5.61667,
+    9.6
+],
+  "geometry": {"coordinates":[-5.61667,9.6],"type":"Point"}
+}

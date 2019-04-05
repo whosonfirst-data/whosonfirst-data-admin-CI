@@ -1,0 +1,61 @@
+{
+  "id": 1209351457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.33333,7.56667,-3.33333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":-3.33333,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Anakikro",
+    "gn:country_code":"CI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292944,
+    "gn:latitude":7.56667,
+    "gn:longitude":-3.33333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Anakikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292944
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0474e49ea1d04e2f10ab0eb9a14eba4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209351457
+        }
+    ],
+    "wof:id":1209351457,
+    "wof:lastmodified":1536289727,
+    "wof:name":"Anakikro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.33333,
+    7.5666699999999985,
+    -3.33333,
+    7.5666699999999985
+],
+  "geometry": {"coordinates":[-3.33333,7.56667],"type":"Point"}
+}

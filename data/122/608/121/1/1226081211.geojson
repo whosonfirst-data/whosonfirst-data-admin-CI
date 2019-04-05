@@ -1,0 +1,71 @@
+{
+  "id": 1226081211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.72837,9.49843,-5.72837,9.49843",
+    "geom:latitude":9.49843,
+    "geom:longitude":-5.72837,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Blawara",
+    "gn:country_code":"CI",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291501,
+    "gn:latitude":9.49843,
+    "gn:longitude":-5.72837,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Blawara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blahouara",
+        "Blawara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291501
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"255119afc9a42b8e2fcabf5bc6462167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1226081211,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1226081211,
+    "wof:lastmodified":1537591060,
+    "wof:name":"Blawara",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.72837,
+    9.49843,
+    -5.72837,
+    9.49843
+],
+  "geometry": {"coordinates":[-5.72837,9.49843],"type":"Point"}
+}

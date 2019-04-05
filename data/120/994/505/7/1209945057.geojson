@@ -1,0 +1,67 @@
+{
+  "id": 1209945057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.10418,5.81671,-4.10418,5.81671",
+    "geom:latitude":5.81671,
+    "geom:longitude":-4.10418,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Youa Djoma",
+    "gn:country_code":"CI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032885,
+    "gn:latitude":5.81671,
+    "gn:longitude":-4.10418,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Youa Djoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032885
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"235a4f67d589506c337b2db0e60a1756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1209945057,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1209945057,
+    "wof:lastmodified":1536386781,
+    "wof:name":"Youa Djoma",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.10418,
+    5.81671,
+    -4.10418,
+    5.81671
+],
+  "geometry": {"coordinates":[-4.10418,5.81671],"type":"Point"}
+}

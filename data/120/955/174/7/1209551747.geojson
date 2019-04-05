@@ -1,0 +1,61 @@
+{
+  "id": 1209551747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.13333,7.36667,-4.13333,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":-4.13333,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Eadiani-Kouadiokro",
+    "gn:country_code":"CI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289438,
+    "gn:latitude":7.36667,
+    "gn:longitude":-4.13333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Eadiani-Kouadiokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289438
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4bd19cffd733424966d66b13a4156a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209551747
+        }
+    ],
+    "wof:id":1209551747,
+    "wof:lastmodified":1536283671,
+    "wof:name":"Eadiani-Kouadiokro",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.13333,
+    7.36667,
+    -4.13333,
+    7.36667
+],
+  "geometry": {"coordinates":[-4.13333,7.36667],"type":"Point"}
+}

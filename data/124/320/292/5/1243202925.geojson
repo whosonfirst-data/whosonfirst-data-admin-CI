@@ -1,0 +1,71 @@
+{
+  "id": 1243202925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5448,8.35282,-4.5448,8.35282",
+    "geom:latitude":8.35282,
+    "geom:longitude":-4.5448,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dielisso",
+    "gn:country_code":"CI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290085,
+    "gn:latitude":8.35282,
+    "gn:longitude":-4.5448,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Di\u00e9lisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9lesso",
+        "Di\u00e9lisso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290085
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1dd7cbd34ef00f9a4cb44f4c2aae9813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1243202925,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1243202925,
+    "wof:lastmodified":1537591040,
+    "wof:name":"Dielisso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5448,
+    8.35282,
+    -4.5448,
+    8.35282
+],
+  "geometry": {"coordinates":[-4.5448,8.35282],"type":"Point"}
+}

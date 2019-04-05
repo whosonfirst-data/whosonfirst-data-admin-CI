@@ -1,0 +1,71 @@
+{
+  "id": 1326959789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05354,5.77128,-5.05354,5.77128",
+    "geom:latitude":5.77128,
+    "geom:longitude":-5.05354,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Guiguidou",
+    "gn:country_code":"CI",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287955,
+    "gn:latitude":5.77128,
+    "gn:longitude":-5.05354,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Guiguidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guigu\u00e9dou",
+        "Guiguidou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287955
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7523f1f93421a77945610cb4249e0f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1326959789,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1326959789,
+    "wof:lastmodified":1537591007,
+    "wof:name":"Guiguidou",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05354,
+    5.77128,
+    -5.05354,
+    5.77128
+],
+  "geometry": {"coordinates":[-5.05354,5.77128],"type":"Point"}
+}

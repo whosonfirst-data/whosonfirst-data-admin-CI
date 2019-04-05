@@ -1,0 +1,70 @@
+{
+  "id": 1293914873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3286,6.06684,-6.3286,6.06684",
+    "geom:latitude":6.06684,
+    "geom:longitude":-6.3286,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Nigbaoa",
+    "gn:country_code":"CI",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283425,
+    "gn:latitude":6.06684,
+    "gn:longitude":-6.3286,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nigbaoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nigbahoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283425
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e3f3c6fe0b17e1df19ad8156993d3e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1293914873,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1293914873,
+    "wof:lastmodified":1537590950,
+    "wof:name":"Nigbaoa",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3286,
+    6.06684,
+    -6.3286,
+    6.06684
+],
+  "geometry": {"coordinates":[-6.3286,6.06684],"type":"Point"}
+}

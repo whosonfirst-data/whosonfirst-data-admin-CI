@@ -1,0 +1,61 @@
+{
+  "id": 1209348381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59272,6.42997,-6.59272,6.42997",
+    "geom:latitude":6.42997,
+    "geom:longitude":-6.59272,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Betigogoua",
+    "gn:country_code":"CI",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291706,
+    "gn:latitude":6.42997,
+    "gn:longitude":-6.59272,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u00e9tigogoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291706
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c23fb251e612a2f5b8f04cff75cd4d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348381
+        }
+    ],
+    "wof:id":1209348381,
+    "wof:lastmodified":1536289831,
+    "wof:name":"Betigogoua",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59272,
+    6.42997,
+    -6.59272,
+    6.42997
+],
+  "geometry": {"coordinates":[-6.59272,6.42997],"type":"Point"}
+}

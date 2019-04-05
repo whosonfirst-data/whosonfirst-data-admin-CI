@@ -1,0 +1,67 @@
+{
+  "id": 1326766925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1,8.01667,-5.1,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-5.1,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Tyoulekankaha",
+    "gn:country_code":"CI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280077,
+    "gn:latitude":8.01667,
+    "gn:longitude":-5.1,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tyoul\u00e9kankaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280077
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9f04a7c627775d6a5bc58db55a721008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1326766925,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1326766925,
+    "wof:lastmodified":1536645017,
+    "wof:name":"Tyoulekankaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1,
+    8.01667,
+    -5.1,
+    8.01667
+],
+  "geometry": {"coordinates":[-5.1,8.01667],"type":"Point"}
+}

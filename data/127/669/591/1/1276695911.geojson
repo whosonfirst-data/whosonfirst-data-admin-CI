@@ -1,0 +1,72 @@
+{
+  "id": 1276695911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.70814,8.17239,-2.70814,8.17239",
+    "geom:latitude":8.17239,
+    "geom:longitude":-2.70814,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Sorobango",
+    "gn:country_code":"CI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281329,
+    "gn:latitude":8.17239,
+    "gn:longitude":-2.70814,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sorobango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorrhobange",
+        "Sorobango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281329,
+        "wk:page":"Sorobango"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"18202b925d901e999c9bb02daddc7ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1276695911,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1276695911,
+    "wof:lastmodified":1537590921,
+    "wof:name":"Sorobango",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.70814,
+    8.17239,
+    -2.70814,
+    8.17239
+],
+  "geometry": {"coordinates":[-2.70814,8.17239],"type":"Point"}
+}

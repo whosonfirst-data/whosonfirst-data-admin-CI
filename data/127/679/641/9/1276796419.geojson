@@ -1,0 +1,71 @@
+{
+  "id": 1276796419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4,8.46667,-4.4,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-4.4,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kafoudougou",
+    "gn:country_code":"CI",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287671,
+    "gn:latitude":8.46667,
+    "gn:longitude":-4.4,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kafoudougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafudugu",
+        "Kafoudougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287671
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5782e9ae493d516b68a1fd361f44d65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1276796419,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1276796419,
+    "wof:lastmodified":1537591004,
+    "wof:name":"Kafoudougou",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4,
+    8.46667,
+    -4.4,
+    8.46667
+],
+  "geometry": {"coordinates":[-4.4,8.46667],"type":"Point"}
+}

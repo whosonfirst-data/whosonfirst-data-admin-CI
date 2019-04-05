@@ -1,0 +1,71 @@
+{
+  "id": 1343795879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.45916,9.4888,-5.45916,9.4888",
+    "geom:latitude":9.4888,
+    "geom:longitude":-5.45916,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Zimekaha",
+    "gn:country_code":"CI",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279321,
+    "gn:latitude":9.4888,
+    "gn:longitude":-5.45916,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zim\u00e8kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zimakaha",
+        "Zim\u00e8kaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279321
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2896e31d8391b1481febdcab725f60cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1343795879,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343795879,
+    "wof:lastmodified":1537590891,
+    "wof:name":"Zimekaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.45916,
+    9.4888,
+    -5.45916,
+    9.4888
+],
+  "geometry": {"coordinates":[-5.45916,9.4888],"type":"Point"}
+}

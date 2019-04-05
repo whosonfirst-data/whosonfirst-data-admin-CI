@@ -1,0 +1,69 @@
+{
+  "id": 1209646517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19246,4.51734,-7.19246,4.51734",
+    "geom:latitude":4.51734,
+    "geom:longitude":-7.19246,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Kablake Wappou",
+    "gn:country_code":"CI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287736,
+    "gn:latitude":4.51734,
+    "gn:longitude":-7.19246,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kablak\u00e9 Wappou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wappu",
+        "Ouappou",
+        "Wapou",
+        "Kablak\u00e9",
+        "Kablak\u00e9 Ouappou",
+        "Kablak\u00e9 Wappou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287736
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1ebf22a5d19f3311645c0812994d82e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209646517
+        }
+    ],
+    "wof:id":1209646517,
+    "wof:lastmodified":1537591004,
+    "wof:name":"Kablake Wappou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19246,
+    4.51734,
+    -7.19246,
+    4.51734
+],
+  "geometry": {"coordinates":[-7.19246,4.51734],"type":"Point"}
+}

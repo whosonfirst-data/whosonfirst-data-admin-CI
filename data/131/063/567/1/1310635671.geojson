@@ -1,0 +1,71 @@
+{
+  "id": 1310635671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66308,6.70982,-6.66308,6.70982",
+    "geom:latitude":6.70982,
+    "geom:longitude":-6.66308,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Noumousseria I",
+    "gn:country_code":"CI",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283222,
+    "gn:latitude":6.70982,
+    "gn:longitude":-6.66308,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Noumouss\u00e9ria I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noumouss\u00e9ria I",
+        "Noumous\u00e9ria I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283222
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d7fb56c21fb63b4b73fe88843f2fb43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1310635671,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1310635671,
+    "wof:lastmodified":1537590948,
+    "wof:name":"Noumousseria I",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66308,
+    6.70982,
+    -6.66308,
+    6.70982
+],
+  "geometry": {"coordinates":[-6.66308,6.70982],"type":"Point"}
+}

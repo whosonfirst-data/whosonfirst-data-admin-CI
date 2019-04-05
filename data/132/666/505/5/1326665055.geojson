@@ -1,0 +1,67 @@
+{
+  "id": 1326665055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.69642,9.4888,-5.69642,9.4888",
+    "geom:latitude":9.4888,
+    "geom:longitude":-5.69642,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nanyenengekaha",
+    "gn:country_code":"CI",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283940,
+    "gn:latitude":9.4888,
+    "gn:longitude":-5.69642,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nany\u00e8neng\u00e8kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283940
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"70f325c5179839fe058a8a487579d06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1326665055,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1326665055,
+    "wof:lastmodified":1536792854,
+    "wof:name":"Nanyenengekaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.69642,
+    9.4888,
+    -5.69642,
+    9.4888
+],
+  "geometry": {"coordinates":[-5.69642,9.4888],"type":"Point"}
+}

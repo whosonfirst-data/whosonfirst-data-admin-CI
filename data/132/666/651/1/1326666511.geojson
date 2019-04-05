@@ -1,0 +1,73 @@
+{
+  "id": 1326666511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74593,7.14984,-7.74593,7.14984",
+    "geom:latitude":7.14984,
+    "geom:longitude":-7.74593,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Podiagouine",
+    "gn:country_code":"CI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282422,
+    "gn:latitude":7.14984,
+    "gn:longitude":-7.74593,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Podiagouin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padiagouin\u00e9",
+        "Pod\u00e9agouine",
+        "Podiagouin\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282422,
+        "wk:page":"Podiagouin%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8b4e11fc7771af83a27a79f59ee64037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1326666511,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1326666511,
+    "wof:lastmodified":1537590936,
+    "wof:name":"Podiagouine",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74593,
+    7.14984,
+    -7.74593,
+    7.14984
+],
+  "geometry": {"coordinates":[-7.74593,7.14984],"type":"Point"}
+}

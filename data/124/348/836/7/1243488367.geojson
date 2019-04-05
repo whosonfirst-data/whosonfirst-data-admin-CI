@@ -1,0 +1,71 @@
+{
+  "id": 1243488367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03333,9.75,-5.03333,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-5.03333,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Bepkanvogo",
+    "gn:country_code":"CI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291775,
+    "gn:latitude":9.75,
+    "gn:longitude":-5.03333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"B\u00e9pkanvogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9pkanwogo",
+        "B\u00e9pkanvogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291775
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"352a57ab8ae60fe1d9a5cd32ab74d458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785035,
+            "locality_id":1243488367,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1243488367,
+    "wof:lastmodified":1537591064,
+    "wof:name":"Bepkanvogo",
+    "wof:parent_id":1108785035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03333,
+    9.75,
+    -5.03333,
+    9.75
+],
+  "geometry": {"coordinates":[-5.03333,9.75],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209448811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35,7.33333,-7.35,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":-7.35,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Kaho",
+    "gn:country_code":"CI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287647,
+    "gn:latitude":7.33333,
+    "gn:longitude":-7.35,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287647
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"88c4c840d1252f73b3f82baa7067e60b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209448811
+        }
+    ],
+    "wof:id":1209448811,
+    "wof:lastmodified":1536286734,
+    "wof:name":"Kaho",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35,
+    7.33333,
+    -7.35,
+    7.33333
+],
+  "geometry": {"coordinates":[-7.35,7.33333],"type":"Point"}
+}

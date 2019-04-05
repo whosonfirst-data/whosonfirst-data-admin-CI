@@ -1,0 +1,67 @@
+{
+  "id": 1309939589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.68406,5.80863,-3.68406,5.80863",
+    "geom:latitude":5.80863,
+    "geom:longitude":-3.68406,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yapokoi",
+    "gn:country_code":"CI",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032036,
+    "gn:latitude":5.80863,
+    "gn:longitude":-3.68406,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Yapokoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032036
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b948a8d224840cde7579d725b3d58954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1309939589,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1309939589,
+    "wof:lastmodified":1536738322,
+    "wof:name":"Yapokoi",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.68406,
+    5.80863,
+    -3.68406,
+    5.80863
+],
+  "geometry": {"coordinates":[-3.68406,5.80863],"type":"Point"}
+}

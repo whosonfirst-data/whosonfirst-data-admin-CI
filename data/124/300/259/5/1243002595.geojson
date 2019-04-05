@@ -1,0 +1,70 @@
+{
+  "id": 1243002595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72274,6.37499,-6.72274,6.37499",
+    "geom:latitude":6.37499,
+    "geom:longitude":-6.72274,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Guguha",
+    "gn:country_code":"CI",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288204,
+    "gn:latitude":6.37499,
+    "gn:longitude":-6.72274,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Guguha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gougouya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288204
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d872a5e1902c2730e178cd15ba294959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1243002595,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1243002595,
+    "wof:lastmodified":1537591011,
+    "wof:name":"Guguha",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72274,
+    6.37499,
+    -6.72274,
+    6.37499
+],
+  "geometry": {"coordinates":[-6.72274,6.37499],"type":"Point"}
+}

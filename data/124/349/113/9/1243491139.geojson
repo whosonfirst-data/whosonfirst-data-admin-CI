@@ -1,0 +1,71 @@
+{
+  "id": 1243491139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.518,10.35755,-7.518,10.35755",
+    "geom:latitude":10.35755,
+    "geom:longitude":-7.518,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Kimbirila",
+    "gn:country_code":"CI",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287112,
+    "gn:latitude":10.35755,
+    "gn:longitude":-7.518,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kimbirila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinbirila",
+        "Kimbirila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287112
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eab45673b82328362515b80fb320dcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784987,
+            "locality_id":1243491139,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1243491139,
+    "wof:lastmodified":1537590995,
+    "wof:name":"Kimbirila",
+    "wof:parent_id":1108784987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.518,
+    10.35755,
+    -7.518,
+    10.35755
+],
+  "geometry": {"coordinates":[-7.518,10.35755],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243399933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63549,7.54123,-7.63549,7.54123",
+    "geom:latitude":7.54123,
+    "geom:longitude":-7.63549,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Douadepleu",
+    "gn:country_code":"CI",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850529,
+    "gn:latitude":7.54123,
+    "gn:longitude":-7.63549,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Douad\u00e9pleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850529
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"104d008cb0946d6243cd1d7d9014ecb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1243399933,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1243399933,
+    "wof:lastmodified":1536871547,
+    "wof:name":"Douadepleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63549,
+    7.54123,
+    -7.63549,
+    7.54123
+],
+  "geometry": {"coordinates":[-7.63549,7.54123],"type":"Point"}
+}

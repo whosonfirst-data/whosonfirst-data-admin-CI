@@ -1,0 +1,71 @@
+{
+  "id": 1260011003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.24903,8.70912,-6.24903,8.70912",
+    "geom:latitude":8.70912,
+    "geom:longitude":-6.24903,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Nodioni",
+    "gn:country_code":"CI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283309,
+    "gn:latitude":8.70912,
+    "gn:longitude":-6.24903,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nodioni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nodyoni",
+        "Nodioni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283309
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c213c0529df56eeeed4625db1ba91faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1260011003,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1260011003,
+    "wof:lastmodified":1537590949,
+    "wof:name":"Nodioni",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24903,
+    8.70912,
+    -6.24903,
+    8.70912
+],
+  "geometry": {"coordinates":[-6.24903,8.70912],"type":"Point"}
+}

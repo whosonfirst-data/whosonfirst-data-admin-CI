@@ -1,0 +1,67 @@
+{
+  "id": 1225978567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.55579,9.70488,-3.55579,9.70488",
+    "geom:latitude":9.70488,
+    "geom:longitude":-3.55579,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Feki",
+    "gn:country_code":"CI",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289084,
+    "gn:latitude":9.70488,
+    "gn:longitude":-3.55579,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"F\u00e9ki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289084
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e5f142482c733c297a6adb505caa142c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1225978567,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1225978567,
+    "wof:lastmodified":1536821110,
+    "wof:name":"Feki",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.55579,
+    9.70488,
+    -3.55579,
+    9.70488
+],
+  "geometry": {"coordinates":[-3.55579,9.70488],"type":"Point"}
+}

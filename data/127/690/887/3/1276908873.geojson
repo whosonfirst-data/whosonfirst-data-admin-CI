@@ -1,0 +1,71 @@
+{
+  "id": 1276908873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0204,9.93636,-6.0204,9.93636",
+    "geom:latitude":9.93636,
+    "geom:longitude":-6.0204,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kasseligue",
+    "gn:country_code":"CI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287348,
+    "gn:latitude":9.93636,
+    "gn:longitude":-6.0204,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kass\u00e9ligu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kass\u00e9l\u00e9k\u00e9",
+        "Kass\u00e9ligu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287348
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"467aca21153f796f972c686f0117b3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1276908873,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1276908873,
+    "wof:lastmodified":1537590999,
+    "wof:name":"Kasseligue",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0204,
+    9.93636,
+    -6.0204,
+    9.93636
+],
+  "geometry": {"coordinates":[-6.0204,9.93636],"type":"Point"}
+}

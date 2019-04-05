@@ -1,0 +1,67 @@
+{
+  "id": 1243485109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79537,9.26471,-6.79537,9.26471",
+    "geom:latitude":9.26471,
+    "geom:longitude":-6.79537,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Sekodougou",
+    "gn:country_code":"CI",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281837,
+    "gn:latitude":9.26471,
+    "gn:longitude":-6.79537,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"S\u00e9kodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281837
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"11bbeff6fe7673a9b13e3c0eed064f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1243485109,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1243485109,
+    "wof:lastmodified":1536749748,
+    "wof:name":"Sekodougou",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79537,
+    9.26471,
+    -6.79537,
+    9.26471
+],
+  "geometry": {"coordinates":[-6.79537,9.26471],"type":"Point"}
+}

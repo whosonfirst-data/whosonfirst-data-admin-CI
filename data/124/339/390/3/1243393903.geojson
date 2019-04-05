@@ -1,0 +1,67 @@
+{
+  "id": 1243393903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09722,7.30083,-4.09722,7.30083",
+    "geom:latitude":7.30083,
+    "geom:longitude":-4.09722,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Priko",
+    "gn:country_code":"CI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282277,
+    "gn:latitude":7.30083,
+    "gn:longitude":-4.09722,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Priko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282277
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8b17d46ee9ca1e18a314db25029e1911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1243393903,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1243393903,
+    "wof:lastmodified":1536880728,
+    "wof:name":"Priko",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09722,
+    7.30083,
+    -4.09722,
+    7.30083
+],
+  "geometry": {"coordinates":[-4.09722,7.30083],"type":"Point"}
+}

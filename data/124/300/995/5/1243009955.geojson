@@ -1,0 +1,67 @@
+{
+  "id": 1243009955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39931,5.69691,-4.39931,5.69691",
+    "geom:latitude":5.69691,
+    "geom:longitude":-4.39931,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Mboka Nguessan",
+    "gn:country_code":"CI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032219,
+    "gn:latitude":5.69691,
+    "gn:longitude":-4.39931,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Mboka Nguessan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032219
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"320ced5c6b27d72c3b9a7314c958d6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1243009955,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1243009955,
+    "wof:lastmodified":1536938536,
+    "wof:name":"Mboka Nguessan",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39931,
+    5.69691,
+    -4.39931,
+    5.69691
+],
+  "geometry": {"coordinates":[-4.39931,5.69691],"type":"Point"}
+}

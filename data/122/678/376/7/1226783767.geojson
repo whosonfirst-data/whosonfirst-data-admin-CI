@@ -1,0 +1,67 @@
+{
+  "id": 1226783767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.88333,7.8,-2.88333,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":-2.88333,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tantyaokro",
+    "gn:country_code":"CI",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280953,
+    "gn:latitude":7.8,
+    "gn:longitude":-2.88333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tantyaokro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280953
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1a56904df111ec245e685e6107962cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1226783767,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226783767,
+    "wof:lastmodified":1536660822,
+    "wof:name":"Tantyaokro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.88333,
+    7.8,
+    -2.88333,
+    7.8
+],
+  "geometry": {"coordinates":[-2.88333,7.8],"type":"Point"}
+}

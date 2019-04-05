@@ -1,0 +1,71 @@
+{
+  "id": 1344093643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95222,7.83556,-6.95222,7.83556",
+    "geom:latitude":7.83556,
+    "geom:longitude":-6.95222,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Tyebaso",
+    "gn:country_code":"CI",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280179,
+    "gn:latitude":7.83556,
+    "gn:longitude":-6.95222,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ty\u00e9baso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9basso",
+        "Ty\u00e9baso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280179
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"df10f71ac2d8c2b69d25e7950f29c21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1344093643,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1344093643,
+    "wof:lastmodified":1537590906,
+    "wof:name":"Tyebaso",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95222,
+    7.83556,
+    -6.95222,
+    7.83556
+],
+  "geometry": {"coordinates":[-6.95222,7.83556],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209749603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35241,5.41866,-4.35241,5.41866",
+    "geom:latitude":5.41866,
+    "geom:longitude":-4.35241,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Orgaff",
+    "gn:country_code":"CI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282954,
+    "gn:latitude":5.41866,
+    "gn:longitude":-4.35241,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Orgaff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orgaf",
+        "Orgaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282954
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"605f82540b3d7e046af26839a7ddad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1209749603,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1209749603,
+    "wof:lastmodified":1537590943,
+    "wof:name":"Orgaff",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35241,
+    5.41866,
+    -4.35241,
+    5.41866
+],
+  "geometry": {"coordinates":[-4.35241,5.41866],"type":"Point"}
+}

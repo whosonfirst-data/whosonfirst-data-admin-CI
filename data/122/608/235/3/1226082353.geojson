@@ -1,0 +1,67 @@
+{
+  "id": 1226082353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2483,6.69917,-8.2483,6.69917",
+    "geom:latitude":6.69917,
+    "geom:longitude":-8.2483,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Keatouo",
+    "gn:country_code":"CI",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8536589,
+    "gn:latitude":6.69917,
+    "gn:longitude":-8.2483,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"K\u00e9atouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8536589
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e1e3945d521a32b43c0f7d1df79b975d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1226082353,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1226082353,
+    "wof:lastmodified":1536672233,
+    "wof:name":"Keatouo",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2483,
+    6.69917,
+    -8.2483,
+    6.69917
+],
+  "geometry": {"coordinates":[-8.2483,6.69917],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209551611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.10824,5.62144,-5.10824,5.62144",
+    "geom:latitude":5.62144,
+    "geom:longitude":-5.10824,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Anoumabou",
+    "gn:country_code":"CI",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292863,
+    "gn:latitude":5.62144,
+    "gn:longitude":-5.10824,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Anoumabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292863
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"de2b03dfee8e96b7400e2819af193a0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209551611
+        }
+    ],
+    "wof:id":1209551611,
+    "wof:lastmodified":1536283676,
+    "wof:name":"Anoumabou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.10824,
+    5.62144,
+    -5.10824,
+    5.62144
+],
+  "geometry": {"coordinates":[-5.10824,5.62144],"type":"Point"}
+}

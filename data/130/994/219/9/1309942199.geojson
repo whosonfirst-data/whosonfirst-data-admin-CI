@@ -1,0 +1,74 @@
+{
+  "id": 1309942199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15868,8.28921,-5.15868,8.28921",
+    "geom:latitude":8.28921,
+    "geom:longitude":-5.15868,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Darakokaha",
+    "gn:country_code":"CI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290396,
+    "gn:latitude":8.28921,
+    "gn:longitude":-5.15868,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Darakokaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darakolondougeu",
+        "Darakolonaougou",
+        "Darakolondougou",
+        "Darakolondugu",
+        "Darakokaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290396
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7ca9d9ea9a616dee8a09acf16acecb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1309942199,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1309942199,
+    "wof:lastmodified":1537591045,
+    "wof:name":"Darakokaha",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15868,
+    8.28921,
+    -5.15868,
+    8.28921
+],
+  "geometry": {"coordinates":[-5.15868,8.28921],"type":"Point"}
+}

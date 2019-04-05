@@ -1,0 +1,71 @@
+{
+  "id": 1193171567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0322,9.70474,-6.0322,9.70474",
+    "geom:latitude":9.70474,
+    "geom:longitude":-6.0322,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Sakoumadougou",
+    "gn:country_code":"CI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282161,
+    "gn:latitude":9.70474,
+    "gn:longitude":-6.0322,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sakoumadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakouma",
+        "Sakoumadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282161
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3f312440f12abff8f98334138f95a79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1193171567,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1193171567,
+    "wof:lastmodified":1537590931,
+    "wof:name":"Sakoumadougou",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0322,
+    9.70474,
+    -6.0322,
+    9.70474
+],
+  "geometry": {"coordinates":[-6.0322,9.70474],"type":"Point"}
+}

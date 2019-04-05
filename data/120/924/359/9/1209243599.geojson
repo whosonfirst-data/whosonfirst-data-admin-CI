@@ -1,0 +1,66 @@
+{
+  "id": 1209243599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.66308,5.5004,-3.66308,5.5004",
+    "geom:latitude":5.5004,
+    "geom:longitude":-3.66308,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Alepe",
+    "gn:country_code":"CI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2293045,
+    "gn:latitude":5.5004,
+    "gn:longitude":-3.66308,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Al\u00e9p\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Little Alepe",
+        "Al\u00e9p\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293045,
+        "wk:page":"Al%C3%A9p%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3550b9022efb85b7dd39d7b6bd5bd790",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209243599
+        }
+    ],
+    "wof:id":1209243599,
+    "wof:lastmodified":1537591082,
+    "wof:name":"Alepe",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.66308,
+    5.5004,
+    -3.66308,
+    5.5004
+],
+  "geometry": {"coordinates":[-3.66308,5.5004],"type":"Point"}
+}

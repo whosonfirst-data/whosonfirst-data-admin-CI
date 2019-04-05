@@ -1,0 +1,71 @@
+{
+  "id": 1327067029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.299,8.27305,-4.299,8.27305",
+    "geom:latitude":8.27305,
+    "geom:longitude":-4.299,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Gberekoro-Noumousso",
+    "gn:country_code":"CI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288632,
+    "gn:latitude":8.27305,
+    "gn:longitude":-4.299,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gb\u00e9r\u00e9koro-Noumousso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9r\u00e9koro-Noumousso",
+        "Gb\u00e9r\u00e9koro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288632
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"92b769318bb3213283f54a4bbdbb8f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1327067029,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327067029,
+    "wof:lastmodified":1537591020,
+    "wof:name":"Gberekoro-Noumousso",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.299,
+    8.27305,
+    -4.299,
+    8.27305
+],
+  "geometry": {"coordinates":[-4.299,8.27305],"type":"Point"}
+}

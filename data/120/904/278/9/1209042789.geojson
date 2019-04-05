@@ -1,0 +1,65 @@
+{
+  "id": 1209042789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75687,6.78906,-3.75687,6.78906",
+    "geom:latitude":6.78906,
+    "geom:longitude":-3.75687,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Assemanou",
+    "gn:country_code":"CI",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292702,
+    "gn:latitude":6.78906,
+    "gn:longitude":-3.75687,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Ass\u00e9manou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ass\u00e9maouno",
+        "Ass\u00e9manou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292702
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eeba6bb1a2d7de3da3b45d49f4d5309e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209042789
+        }
+    ],
+    "wof:id":1209042789,
+    "wof:lastmodified":1537591077,
+    "wof:name":"Assemanou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75687,
+    6.78906,
+    -3.75687,
+    6.78906
+],
+  "geometry": {"coordinates":[-3.75687,6.78906],"type":"Point"}
+}

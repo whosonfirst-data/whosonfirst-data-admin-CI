@@ -1,0 +1,71 @@
+{
+  "id": 1276586057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94,8.51306,-6.94,8.51306",
+    "geom:latitude":8.51306,
+    "geom:longitude":-6.94,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Gbemazo",
+    "gn:country_code":"CI",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288646,
+    "gn:latitude":8.51306,
+    "gn:longitude":-6.94,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gb\u00e9mazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9manzo",
+        "Gb\u00e9mazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288646
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5048b72d412dafa666d21cebddeb4e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1276586057,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1276586057,
+    "wof:lastmodified":1537591020,
+    "wof:name":"Gbemazo",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94,
+    8.51306,
+    -6.94,
+    8.51306
+],
+  "geometry": {"coordinates":[-6.94,8.51306],"type":"Point"}
+}

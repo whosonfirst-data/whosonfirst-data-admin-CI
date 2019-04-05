@@ -1,0 +1,67 @@
+{
+  "id": 1209951325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28033,5.90139,-4.28033,5.90139",
+    "geom:latitude":5.90139,
+    "geom:longitude":-4.28033,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Koffi Ngorau",
+    "gn:country_code":"CI",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032735,
+    "gn:latitude":5.90139,
+    "gn:longitude":-4.28033,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Koffi Ngorau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032735
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bddd7ccb8090192f688b56bc4dbe5cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1209951325,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1209951325,
+    "wof:lastmodified":1536383298,
+    "wof:name":"Koffi Ngorau",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28033,
+    5.90139,
+    -4.28033,
+    5.90139
+],
+  "geometry": {"coordinates":[-4.28033,5.90139],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327364859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.82541,7.64026,-4.82541,7.64026",
+    "geom:latitude":7.64026,
+    "geom:longitude":-4.82541,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Brobo",
+    "gn:country_code":"CI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288310,
+    "gn:latitude":7.64026,
+    "gn:longitude":-4.82541,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouadio Priko",
+        "Kouadio Prikro",
+        "Gorobo",
+        "Brobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288310,
+        "wk:page":"Brobo"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b13c22663d5ac48986b92748a33d0553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785039,
+            "locality_id":1327364859,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327364859,
+    "wof:lastmodified":1537591014,
+    "wof:name":"Brobo",
+    "wof:parent_id":1108785039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.82541,
+    7.64026,
+    -4.82541,
+    7.64026
+],
+  "geometry": {"coordinates":[-4.82541,7.64026],"type":"Point"}
+}

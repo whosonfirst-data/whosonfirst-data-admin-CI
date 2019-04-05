@@ -1,0 +1,67 @@
+{
+  "id": 1226786343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.20056,8.54139,-6.20056,8.54139",
+    "geom:latitude":8.54139,
+    "geom:longitude":-6.20056,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bielou-carrefour",
+    "gn:country_code":"CI",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597401,
+    "gn:latitude":8.54139,
+    "gn:longitude":-6.20056,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bielou-carrefour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597401
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b073d3049578bc1df116b85247fa5bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785045,
+            "locality_id":1226786343,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1226786343,
+    "wof:lastmodified":1536657084,
+    "wof:name":"Bielou-carrefour",
+    "wof:parent_id":1108785045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.20056,
+    8.54139,
+    -6.20056,
+    8.54139
+],
+  "geometry": {"coordinates":[-6.20056,8.54139],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209041629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9087,7.78067,-4.9087,7.78067",
+    "geom:latitude":7.78067,
+    "geom:longitude":-4.9087,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dioungonou",
+    "gn:country_code":"CI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289930,
+    "gn:latitude":7.78067,
+    "gn:longitude":-4.9087,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dioungonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diongonou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289930
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"233e23bab9bad6fe786e35c5ecd3dd40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209041629
+        }
+    ],
+    "wof:id":1209041629,
+    "wof:lastmodified":1537591038,
+    "wof:name":"Dioungonou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9087,
+    7.78067,
+    -4.9087,
+    7.78067
+],
+  "geometry": {"coordinates":[-4.9087,7.78067],"type":"Point"}
+}

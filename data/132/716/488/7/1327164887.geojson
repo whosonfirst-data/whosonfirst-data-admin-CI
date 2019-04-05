@@ -1,0 +1,70 @@
+{
+  "id": 1327164887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87179,7.09887,-4.87179,7.09887",
+    "geom:latitude":7.09887,
+    "geom:longitude":-4.87179,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Attien Kouassikro",
+    "gn:country_code":"CI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292597,
+    "gn:latitude":7.09887,
+    "gn:longitude":-4.87179,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Attien Kouassikro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atien-Kouassikro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292597
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"72ddff8ea842b385369727a9bc71be7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1327164887,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1327164887,
+    "wof:lastmodified":1537591076,
+    "wof:name":"Attien Kouassikro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87179,
+    7.09887,
+    -4.87179,
+    7.09887
+],
+  "geometry": {"coordinates":[-4.87179,7.09887],"type":"Point"}
+}

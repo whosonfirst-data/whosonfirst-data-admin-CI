@@ -1,0 +1,72 @@
+{
+  "id": 1277112625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77365,9.89944,-5.77365,9.89944",
+    "geom:latitude":9.89944,
+    "geom:longitude":-5.77365,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kangbe",
+    "gn:country_code":"CI",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287496,
+    "gn:latitude":9.89944,
+    "gn:longitude":-5.77365,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kangb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongw\u00e9",
+        "Kongou\u00e9",
+        "Kangb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287496
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7efb7c77f6e735c546be04bf34edc6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1277112625,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1277112625,
+    "wof:lastmodified":1537591001,
+    "wof:name":"Kangbe",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77365,
+    9.89944,
+    -5.77365,
+    9.89944
+],
+  "geometry": {"coordinates":[-5.77365,9.89944],"type":"Point"}
+}

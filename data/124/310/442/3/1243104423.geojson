@@ -1,0 +1,67 @@
+{
+  "id": 1243104423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.77947,5.26349,-3.77947,5.26349",
+    "geom:latitude":5.26349,
+    "geom:longitude":-3.77947,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Seydou Kamara",
+    "gn:country_code":"CI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031799,
+    "gn:latitude":5.26349,
+    "gn:longitude":-3.77947,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Seydou Kamara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031799
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f9a9043b701f6e70d32a095b14708c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1243104423,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1243104423,
+    "wof:lastmodified":1536801415,
+    "wof:name":"Seydou Kamara",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.77947,
+    5.26349,
+    -3.77947,
+    5.26349
+],
+  "geometry": {"coordinates":[-3.77947,5.26349],"type":"Point"}
+}

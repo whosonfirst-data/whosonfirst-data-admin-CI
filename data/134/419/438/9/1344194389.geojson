@@ -1,0 +1,71 @@
+{
+  "id": 1344194389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56126,9.22816,-5.56126,9.22816",
+    "geom:latitude":9.22816,
+    "geom:longitude":-5.56126,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Pegekaha",
+    "gn:country_code":"CI",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282593,
+    "gn:latitude":9.22816,
+    "gn:longitude":-5.56126,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"P\u00e9g\u00e8kaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9h\u00e9kaha",
+        "P\u00e9g\u00e8kaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282593
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"20755c41ab00d3519550cff787f7f965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1344194389,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1344194389,
+    "wof:lastmodified":1537590939,
+    "wof:name":"Pegekaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56126,
+    9.22816,
+    -5.56126,
+    9.22816
+],
+  "geometry": {"coordinates":[-5.56126,9.22816],"type":"Point"}
+}

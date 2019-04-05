@@ -1,0 +1,72 @@
+{
+  "id": 1327462799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40842,6.84368,-7.40842,6.84368",
+    "geom:latitude":6.84368,
+    "geom:longitude":-7.40842,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Diahouin",
+    "gn:country_code":"CI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290243,
+    "gn:latitude":6.84368,
+    "gn:longitude":-7.40842,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Diahouin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diahouen",
+        "Diahouin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290243,
+        "wk:page":"Diahouin"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e4ada2cf2c6e6797f276a0ec3cfb0fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1327462799,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1327462799,
+    "wof:lastmodified":1537591042,
+    "wof:name":"Diahouin",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40842,
+    6.84368,
+    -7.40842,
+    6.84368
+],
+  "geometry": {"coordinates":[-7.40842,6.84368],"type":"Point"}
+}

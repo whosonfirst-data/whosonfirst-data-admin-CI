@@ -1,0 +1,67 @@
+{
+  "id": 1242714435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.70508,7.7487,-7.70508,7.7487",
+    "geom:latitude":7.7487,
+    "geom:longitude":-7.70508,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Yegole",
+    "gn:country_code":"CI",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279652,
+    "gn:latitude":7.7487,
+    "gn:longitude":-7.70508,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Y\u00e9gol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279652
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b1cfd10054ddcd1332f46ae21a0052ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1242714435,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1242714435,
+    "wof:lastmodified":1536865277,
+    "wof:name":"Yegole",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70508,
+    7.7487,
+    -7.70508,
+    7.7487
+],
+  "geometry": {"coordinates":[-7.70508,7.7487],"type":"Point"}
+}

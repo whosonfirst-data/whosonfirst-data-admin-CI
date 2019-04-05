@@ -1,0 +1,67 @@
+{
+  "id": 1310236439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77825,6.99139,-7.77825,6.99139",
+    "geom:latitude":6.99139,
+    "geom:longitude":-7.77825,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Diedrou",
+    "gn:country_code":"CI",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290101,
+    "gn:latitude":6.99139,
+    "gn:longitude":-7.77825,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Di\u00e9drou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669915,
+        1108785019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290101
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f7af6dc8a07e432640dbc8374d73193d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":1310236439,
+            "region_id":85669915
+        }
+    ],
+    "wof:id":1310236439,
+    "wof:lastmodified":1536807342,
+    "wof:name":"Diedrou",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77825,
+    6.99139,
+    -7.77825,
+    6.99139
+],
+  "geometry": {"coordinates":[-7.77825,6.99139],"type":"Point"}
+}

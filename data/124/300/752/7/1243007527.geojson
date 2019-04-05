@@ -1,0 +1,71 @@
+{
+  "id": 1243007527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84529,8.16674,-6.84529,8.16674",
+    "geom:latitude":8.16674,
+    "geom:longitude":-6.84529,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Bwana",
+    "gn:country_code":"CI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290644,
+    "gn:latitude":8.16674,
+    "gn:longitude":-6.84529,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouana",
+        "Bwana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669871,
+        1108785047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290644
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bc5ec684709cb936bc2e8389c8d877b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785047,
+            "locality_id":1243007527,
+            "region_id":85669871
+        }
+    ],
+    "wof:id":1243007527,
+    "wof:lastmodified":1537591050,
+    "wof:name":"Bwana",
+    "wof:parent_id":1108785047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84529,
+    8.16674,
+    -6.84529,
+    8.16674
+],
+  "geometry": {"coordinates":[-6.84529,8.16674],"type":"Point"}
+}

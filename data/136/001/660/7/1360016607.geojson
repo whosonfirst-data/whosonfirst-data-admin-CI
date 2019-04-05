@@ -1,0 +1,67 @@
+{
+  "id": 1360016607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20532,8.65749,-3.20532,8.65749",
+    "geom:latitude":8.65749,
+    "geom:longitude":-3.20532,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Seve",
+    "gn:country_code":"CI",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281712,
+    "gn:latitude":8.65749,
+    "gn:longitude":-3.20532,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9v\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281712
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"36ca1d737ded95d660b2d06ddfd39d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1360016607,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1360016607,
+    "wof:lastmodified":1537042735,
+    "wof:name":"Seve",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20532,
+    8.65749,
+    -3.20532,
+    8.65749
+],
+  "geometry": {"coordinates":[-3.20532,8.65749],"type":"Point"}
+}

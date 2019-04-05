@@ -1,0 +1,71 @@
+{
+  "id": 1209749593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85282,5.88125,-5.85282,5.88125",
+    "geom:latitude":5.88125,
+    "geom:longitude":-5.85282,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Betrouhoin",
+    "gn:country_code":"CI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291700,
+    "gn:latitude":5.88125,
+    "gn:longitude":-5.85282,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u00e9trouhoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9trohoin",
+        "B\u00e9trouhoin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291700
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0188411c3b56c28e2aceb6c49046cb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1209749593,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1209749593,
+    "wof:lastmodified":1537591063,
+    "wof:name":"Betrouhoin",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85282,
+    5.88125,
+    -5.85282,
+    5.88125
+],
+  "geometry": {"coordinates":[-5.85282,5.88125],"type":"Point"}
+}

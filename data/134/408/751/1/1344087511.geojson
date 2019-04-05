@@ -1,0 +1,67 @@
+{
+  "id": 1344087511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38898,5.84643,-4.38898,5.84643",
+    "geom:latitude":5.84643,
+    "geom:longitude":-4.38898,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Gbaffou",
+    "gn:country_code":"CI",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032565,
+    "gn:latitude":5.84643,
+    "gn:longitude":-4.38898,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Gbaffou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032565
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fd61cfcad24e8c9da1fdb1479ada3911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1344087511,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1344087511,
+    "wof:lastmodified":1536835634,
+    "wof:name":"Gbaffou",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38898,
+    5.84643,
+    -4.38898,
+    5.84643
+],
+  "geometry": {"coordinates":[-4.38898,5.84643],"type":"Point"}
+}

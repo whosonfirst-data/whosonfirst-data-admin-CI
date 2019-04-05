@@ -1,0 +1,71 @@
+{
+  "id": 1226273089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72103,9.90678,-3.72103,9.90678",
+    "geom:latitude":9.90678,
+    "geom:longitude":-3.72103,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Andan",
+    "gn:country_code":"CI",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292934,
+    "gn:latitude":9.90678,
+    "gn:longitude":-3.72103,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Andan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Endan",
+        "Andan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292934
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6c6168930f15d7c64abcf17bca4a7de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1226273089,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226273089,
+    "wof:lastmodified":1537591081,
+    "wof:name":"Andan",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72103,
+    9.90678,
+    -3.72103,
+    9.90678
+],
+  "geometry": {"coordinates":[-3.72103,9.90678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277105529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28128,6.97556,-8.28128,6.97556",
+    "geom:latitude":6.97556,
+    "geom:longitude":-8.28128,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Deinneu",
+    "gn:country_code":"CI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289956,
+    "gn:latitude":6.97556,
+    "gn:longitude":-8.28128,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u00e9inneu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9inneu",
+        "Dinneu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289956
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f918c670dbf7a9cc7bded3deceed4e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1277105529,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1277105529,
+    "wof:lastmodified":1537591038,
+    "wof:name":"Deinneu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28128,
+    6.97556,
+    -8.28128,
+    6.97556
+],
+  "geometry": {"coordinates":[-8.28128,6.97556],"type":"Point"}
+}

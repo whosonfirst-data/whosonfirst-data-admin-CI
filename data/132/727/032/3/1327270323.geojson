@@ -1,0 +1,71 @@
+{
+  "id": 1327270323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.23384,7.58746,-3.23384,7.58746",
+    "geom:latitude":7.58746,
+    "geom:longitude":-3.23384,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Koto-Ganda",
+    "gn:country_code":"CI",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286218,
+    "gn:latitude":7.58746,
+    "gn:longitude":-3.23384,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Koto-Ganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koto-Gouanda",
+        "Koto-Ganda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286218
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"66e6aaeb4f478ecc3b1500da69fbf1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1327270323,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327270323,
+    "wof:lastmodified":1537590987,
+    "wof:name":"Koto-Ganda",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.23384,
+    7.58746,
+    -3.23384,
+    7.58746
+],
+  "geometry": {"coordinates":[-3.23384,7.58746],"type":"Point"}
+}

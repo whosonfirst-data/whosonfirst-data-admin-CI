@@ -1,0 +1,73 @@
+{
+  "id": 1210050871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35781,6.47197,-4.35781,6.47197",
+    "geom:latitude":6.47197,
+    "geom:longitude":-4.35781,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"M'Batto",
+    "gn:country_code":"CI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2284477,
+    "gn:latitude":6.47197,
+    "gn:longitude":-4.35781,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"M\u2019Batto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mboto",
+        "Mbato",
+        "M\u2019Batto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284477,
+        "wk:page":"M%27Batto"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1ad4511528cbf4d7e198ad48a44beb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785005,
+            "locality_id":1210050871,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1210050871,
+    "wof:lastmodified":1537590965,
+    "wof:name":"M'Batto",
+    "wof:parent_id":1108785005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35781,
+    6.47197,
+    -4.35781,
+    6.47197
+],
+  "geometry": {"coordinates":[-4.35781,6.47197],"type":"Point"}
+}

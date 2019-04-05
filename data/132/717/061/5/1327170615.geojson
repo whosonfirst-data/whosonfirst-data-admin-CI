@@ -1,0 +1,70 @@
+{
+  "id": 1327170615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0157,7.33223,-5.0157,7.33223",
+    "geom:latitude":7.33223,
+    "geom:longitude":-5.0157,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Assankro",
+    "gn:country_code":"CI",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292691,
+    "gn:latitude":7.33223,
+    "gn:longitude":-5.0157,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Assankro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assenkro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292691
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"eeb7067caadb63c88a0fd4230b58c4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1327170615,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1327170615,
+    "wof:lastmodified":1537591077,
+    "wof:name":"Assankro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0157,
+    7.33223,
+    -5.0157,
+    7.33223
+],
+  "geometry": {"coordinates":[-5.0157,7.33223],"type":"Point"}
+}

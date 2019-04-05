@@ -1,0 +1,72 @@
+{
+  "id": 1243098773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.13823,5.79773,-3.13823,5.79773",
+    "geom:latitude":5.79773,
+    "geom:longitude":-3.13823,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Yaou",
+    "gn:country_code":"CI",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279710,
+    "gn:latitude":5.79773,
+    "gn:longitude":-3.13823,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yau",
+        "Yaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279710,
+        "wk:page":"Yaou%2C_Ivory_Coast"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"817eacff96eab15a10a410e2a17e9aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1243098773,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1243098773,
+    "wof:lastmodified":1537590898,
+    "wof:name":"Yaou",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.13823,
+    5.79773,
+    -3.13823,
+    5.79773
+],
+  "geometry": {"coordinates":[-3.13823,5.79773],"type":"Point"}
+}

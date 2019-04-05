@@ -1,0 +1,67 @@
+{
+  "id": 1293525887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85996,9.36846,-5.85996,9.36846",
+    "geom:latitude":9.36846,
+    "geom:longitude":-5.85996,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Letcho",
+    "gn:country_code":"CI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285243,
+    "gn:latitude":9.36846,
+    "gn:longitude":-5.85996,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"L\u00e8tcho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285243
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"76812136b0cdd03dbacc96a467abcfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1293525887,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293525887,
+    "wof:lastmodified":1536731904,
+    "wof:name":"Letcho",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85996,
+    9.36846,
+    -5.85996,
+    9.36846
+],
+  "geometry": {"coordinates":[-5.85996,9.36846],"type":"Point"}
+}

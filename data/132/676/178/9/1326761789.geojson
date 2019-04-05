@@ -1,0 +1,72 @@
+{
+  "id": 1326761789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09292,9.04309,-6.09292,9.04309",
+    "geom:latitude":9.04309,
+    "geom:longitude":-6.09292,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Kolodougou",
+    "gn:country_code":"CI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286609,
+    "gn:latitude":9.04309,
+    "gn:longitude":-6.09292,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kolodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koloka",
+        "Kolo-Kaha",
+        "Kolodougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286609
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"145ed5f3fd8b448b64762cfe79f4d4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1326761789,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1326761789,
+    "wof:lastmodified":1537590992,
+    "wof:name":"Kolodougou",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09292,
+    9.04309,
+    -6.09292,
+    9.04309
+],
+  "geometry": {"coordinates":[-6.09292,9.04309],"type":"Point"}
+}

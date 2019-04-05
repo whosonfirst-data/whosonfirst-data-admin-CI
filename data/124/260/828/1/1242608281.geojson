@@ -1,0 +1,67 @@
+{
+  "id": 1242608281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.85068,7.06443,-4.85068,7.06443",
+    "geom:latitude":7.06443,
+    "geom:longitude":-4.85068,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kouassi Nguessankro",
+    "gn:country_code":"CI",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285973,
+    "gn:latitude":7.06443,
+    "gn:longitude":-4.85068,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kouassi Nguessankro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285973
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bce689333bf643539a6471fc51493ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1242608281,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1242608281,
+    "wof:lastmodified":1537018735,
+    "wof:name":"Kouassi Nguessankro",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.85068,
+    7.06443,
+    -4.85068,
+    7.06443
+],
+  "geometry": {"coordinates":[-4.85068,7.06443],"type":"Point"}
+}

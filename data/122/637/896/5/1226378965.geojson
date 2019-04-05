@@ -1,0 +1,67 @@
+{
+  "id": 1226378965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39159,5.50952,-4.39159,5.50952",
+    "geom:latitude":5.50952,
+    "geom:longitude":-4.39159,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Agnigba Memei",
+    "gn:country_code":"CI",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032245,
+    "gn:latitude":5.50952,
+    "gn:longitude":-4.39159,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Agnigba Memei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669909,
+        1108785011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032245
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"c9bbbfe9fbc9f40b20eef8460c68a804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785011,
+            "locality_id":1226378965,
+            "region_id":85669909
+        }
+    ],
+    "wof:id":1226378965,
+    "wof:lastmodified":1536741397,
+    "wof:name":"Agnigba Memei",
+    "wof:parent_id":1108785011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39159,
+    5.50952,
+    -4.39159,
+    5.50952
+],
+  "geometry": {"coordinates":[-4.39159,5.50952],"type":"Point"}
+}

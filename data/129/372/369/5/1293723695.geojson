@@ -1,0 +1,67 @@
+{
+  "id": 1293723695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64849,6.11391,-3.64849,6.11391",
+    "geom:latitude":6.11391,
+    "geom:longitude":-3.64849,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Kong",
+    "gn:country_code":"CI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286459,
+    "gn:latitude":6.11391,
+    "gn:longitude":-3.64849,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286459
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"863a0f4752d54a10b7dc405f61676262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1293723695,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293723695,
+    "wof:lastmodified":1536944416,
+    "wof:name":"Kong",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64849,
+    6.11391,
+    -3.64849,
+    6.11391
+],
+  "geometry": {"coordinates":[-3.64849,6.11391],"type":"Point"}
+}

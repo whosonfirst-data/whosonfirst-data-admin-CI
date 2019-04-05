@@ -1,0 +1,61 @@
+{
+  "id": 1209445905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3891,7.77948,-5.3891,7.77948",
+    "geom:latitude":7.77948,
+    "geom:longitude":-5.3891,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Zengouanou",
+    "gn:country_code":"CI",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279384,
+    "gn:latitude":7.77948,
+    "gn:longitude":-5.3891,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Z\u00e9ngouanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279384
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5147f3bba381e544d3d9222bce99c2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209445905
+        }
+    ],
+    "wof:id":1209445905,
+    "wof:lastmodified":1536286820,
+    "wof:name":"Zengouanou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3891,
+    7.77948,
+    -5.3891,
+    7.77948
+],
+  "geometry": {"coordinates":[-5.3891,7.77948],"type":"Point"}
+}

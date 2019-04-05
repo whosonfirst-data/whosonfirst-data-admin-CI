@@ -1,0 +1,67 @@
+{
+  "id": 1276266155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.04886,5.81987,-4.04886,5.81987",
+    "geom:latitude":5.81987,
+    "geom:longitude":-4.04886,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Boua Okou",
+    "gn:country_code":"CI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032899,
+    "gn:latitude":5.81987,
+    "gn:longitude":-4.04886,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Boua Okou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032899
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"786722986d88fadec7f9ca34bddd1576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1276266155,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1276266155,
+    "wof:lastmodified":1536867355,
+    "wof:name":"Boua Okou",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.04886,
+    5.81987,
+    -4.04886,
+    5.81987
+],
+  "geometry": {"coordinates":[-4.04886,5.81987],"type":"Point"}
+}

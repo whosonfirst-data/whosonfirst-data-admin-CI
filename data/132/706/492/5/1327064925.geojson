@@ -1,0 +1,67 @@
+{
+  "id": 1327064925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39382,5.84023,-4.39382,5.84023",
+    "geom:latitude":5.84023,
+    "geom:longitude":-4.39382,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Adobi",
+    "gn:country_code":"CI",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032564,
+    "gn:latitude":5.84023,
+    "gn:longitude":-4.39382,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Adobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032564
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"116fb9a5965bb001a375c6f72309c182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1327064925,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327064925,
+    "wof:lastmodified":1536713842,
+    "wof:name":"Adobi",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39382,
+    5.84023,
+    -4.39382,
+    5.84023
+],
+  "geometry": {"coordinates":[-4.39382,5.84023],"type":"Point"}
+}

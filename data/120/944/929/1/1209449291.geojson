@@ -1,0 +1,65 @@
+{
+  "id": 1209449291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4711,6.30105,-3.4711,6.30105",
+    "geom:latitude":6.30105,
+    "geom:longitude":-3.4711,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"M'basso agni",
+    "gn:country_code":"CI",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284480,
+    "gn:latitude":6.30105,
+    "gn:longitude":-3.4711,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"M\u2019basso agni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbasso",
+        "M\u2019basso agni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284480
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"3511d718038fa9a3d64331a8797c951a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209449291
+        }
+    ],
+    "wof:id":1209449291,
+    "wof:lastmodified":1537590965,
+    "wof:name":"M'basso agni",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4711,
+    6.30105,
+    -3.4711,
+    6.30105
+],
+  "geometry": {"coordinates":[-3.4711,6.30105],"type":"Point"}
+}

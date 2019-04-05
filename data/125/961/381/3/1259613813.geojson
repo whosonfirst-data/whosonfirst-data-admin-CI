@@ -1,0 +1,67 @@
+{
+  "id": 1259613813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58366,8.1068,-7.58366,8.1068",
+    "geom:latitude":8.1068,
+    "geom:longitude":-7.58366,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Yoma-Bingo",
+    "gn:country_code":"CI",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279589,
+    "gn:latitude":8.1068,
+    "gn:longitude":-7.58366,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yoma-Bingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279589
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4f97bc1a6a1c0e0e22837390b4b90fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1259613813,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1259613813,
+    "wof:lastmodified":1536671191,
+    "wof:name":"Yoma-Bingo",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58366,
+    8.1068,
+    -7.58366,
+    8.1068
+],
+  "geometry": {"coordinates":[-7.58366,8.1068],"type":"Point"}
+}

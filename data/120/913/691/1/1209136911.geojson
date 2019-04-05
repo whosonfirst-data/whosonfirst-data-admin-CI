@@ -1,0 +1,61 @@
+{
+  "id": 1209136911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48291,10.3986,-7.48291,10.3986",
+    "geom:latitude":10.3986,
+    "geom:longitude":-7.48291,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Tiefinzo",
+    "gn:country_code":"CI",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280735,
+    "gn:latitude":10.3986,
+    "gn:longitude":-7.48291,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tiefinzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280735
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5a44c04fc76345c17c1ec7530877d870",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209136911
+        }
+    ],
+    "wof:id":1209136911,
+    "wof:lastmodified":1536296631,
+    "wof:name":"Tiefinzo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48291,
+    10.3986,
+    -7.48291,
+    10.3986
+],
+  "geometry": {"coordinates":[-7.48291,10.3986],"type":"Point"}
+}

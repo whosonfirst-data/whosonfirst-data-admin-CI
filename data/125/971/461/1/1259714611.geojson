@@ -1,0 +1,67 @@
+{
+  "id": 1259714611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.33603,5.88611,-4.33603,5.88611",
+    "geom:latitude":5.88611,
+    "geom:longitude":-4.33603,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Otta",
+    "gn:country_code":"CI",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032578,
+    "gn:latitude":5.88611,
+    "gn:longitude":-4.33603,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Otta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032578
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"320a6b0d9d086073d19ed100408226d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1259714611,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1259714611,
+    "wof:lastmodified":1537021390,
+    "wof:name":"Otta",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.33603,
+    5.88611,
+    -4.33603,
+    5.88611
+],
+  "geometry": {"coordinates":[-4.33603,5.88611],"type":"Point"}
+}

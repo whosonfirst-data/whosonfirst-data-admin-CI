@@ -1,0 +1,71 @@
+{
+  "id": 1242614141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01508,9.85491,-6.01508,9.85491",
+    "geom:latitude":9.85491,
+    "geom:longitude":-6.01508,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Sero",
+    "gn:country_code":"CI",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281728,
+    "gn:latitude":9.85491,
+    "gn:longitude":-6.01508,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"S\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9h\u00e9roho",
+        "S\u00e9ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281728
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"836cc280b0fe0088e1a77982ff36db2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1242614141,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1242614141,
+    "wof:lastmodified":1537590925,
+    "wof:name":"Sero",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01508,
+    9.85491,
+    -6.01508,
+    9.85491
+],
+  "geometry": {"coordinates":[-6.01508,9.85491],"type":"Point"}
+}

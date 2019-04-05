@@ -1,0 +1,72 @@
+{
+  "id": 1242608227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57855,9.12078,-5.57855,9.12078",
+    "geom:latitude":9.12078,
+    "geom:longitude":-5.57855,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Kokwo",
+    "gn:country_code":"CI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286649,
+    "gn:latitude":9.12078,
+    "gn:longitude":-5.57855,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kokwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9koua",
+        "Koko",
+        "Kokwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286649
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4ca613f59bf74fc999ce17430c3359e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1242608227,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1242608227,
+    "wof:lastmodified":1537590992,
+    "wof:name":"Kokwo",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57855,
+    9.12078,
+    -5.57855,
+    9.12078
+],
+  "geometry": {"coordinates":[-5.57855,9.12078],"type":"Point"}
+}

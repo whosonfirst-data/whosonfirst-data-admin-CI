@@ -1,0 +1,68 @@
+{
+  "id": 1242811469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73071,9.66447,-7.73071,9.66447",
+    "geom:latitude":9.66447,
+    "geom:longitude":-7.73071,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Samango",
+    "gn:country_code":"CI",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282130,
+    "gn:latitude":9.66447,
+    "gn:longitude":-7.73071,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Samango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282130,
+        "wk:page":"Samango%2C_Ivory_Coast"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"04ae3b1505789781529c8c9f05e8802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784989,
+            "locality_id":1242811469,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1242811469,
+    "wof:lastmodified":1537489398,
+    "wof:name":"Samango",
+    "wof:parent_id":1108784989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73071,
+    9.66447,
+    -7.73071,
+    9.66447
+],
+  "geometry": {"coordinates":[-7.73071,9.66447],"type":"Point"}
+}

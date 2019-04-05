@@ -1,0 +1,61 @@
+{
+  "id": 1209651537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73711,5.65916,-3.73711,5.65916",
+    "geom:latitude":5.65916,
+    "geom:longitude":-3.73711,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Nguessan",
+    "gn:country_code":"CI",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033122,
+    "gn:latitude":5.65916,
+    "gn:longitude":-3.73711,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Nguessan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033122
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"892ab0a148c24fd58372867029f27bd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209651537
+        }
+    ],
+    "wof:id":1209651537,
+    "wof:lastmodified":1536280564,
+    "wof:name":"Nguessan",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73711,
+    5.65916,
+    -3.73711,
+    5.65916
+],
+  "geometry": {"coordinates":[-3.73711,5.65916],"type":"Point"}
+}

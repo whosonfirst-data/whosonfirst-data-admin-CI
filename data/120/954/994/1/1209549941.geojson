@@ -1,0 +1,65 @@
+{
+  "id": 1209549941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55137,9.62879,-5.55137,9.62879",
+    "geom:latitude":9.62879,
+    "geom:longitude":-5.55137,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Kouwovogo",
+    "gn:country_code":"CI",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285696,
+    "gn:latitude":9.62879,
+    "gn:longitude":-5.55137,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kouwovogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouwavogo",
+        "Kouwovogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285696
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e0e6032bd5ddcff33f51956a64db1e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209549941
+        }
+    ],
+    "wof:id":1209549941,
+    "wof:lastmodified":1537590980,
+    "wof:name":"Kouwovogo",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55137,
+    9.62879,
+    -5.55137,
+    9.62879
+],
+  "geometry": {"coordinates":[-5.55137,9.62879],"type":"Point"}
+}

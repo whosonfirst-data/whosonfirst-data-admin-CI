@@ -1,0 +1,67 @@
+{
+  "id": 1327066441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35068,8.35307,-4.35068,8.35307",
+    "geom:latitude":8.35307,
+    "geom:longitude":-4.35068,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Sandiougoula",
+    "gn:country_code":"CI",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282063,
+    "gn:latitude":8.35307,
+    "gn:longitude":-4.35068,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Sandiougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282063
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ee5bbe548e3920d2257d9477b729e9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1327066441,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1327066441,
+    "wof:lastmodified":1536711550,
+    "wof:name":"Sandiougoula",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35068,
+    8.35307,
+    -4.35068,
+    8.35307
+],
+  "geometry": {"coordinates":[-4.35068,8.35307],"type":"Point"}
+}

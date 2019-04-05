@@ -1,0 +1,71 @@
+{
+  "id": 1293329299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57317,9.30764,-5.57317,9.30764",
+    "geom:latitude":9.30764,
+    "geom:longitude":-5.57317,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Famorodougou",
+    "gn:country_code":"CI",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289260,
+    "gn:latitude":9.30764,
+    "gn:longitude":-5.57317,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Famorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanmorodougou",
+        "Famorodougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289260
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"818ae26e2316ccb21a5fd4b8cef20c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1293329299,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1293329299,
+    "wof:lastmodified":1537591028,
+    "wof:name":"Famorodougou",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57317,
+    9.30764,
+    -5.57317,
+    9.30764
+],
+  "geometry": {"coordinates":[-5.57317,9.30764],"type":"Point"}
+}

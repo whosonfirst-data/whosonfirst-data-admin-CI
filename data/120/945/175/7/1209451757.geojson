@@ -1,0 +1,65 @@
+{
+  "id": 1209451757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39519,4.612,-7.39519,4.612",
+    "geom:latitude":4.612,
+    "geom:longitude":-7.39519,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Tatou",
+    "gn:country_code":"CI",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280908,
+    "gn:latitude":4.612,
+    "gn:longitude":-7.39519,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tatu",
+        "Tatou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280908
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9c4b7d42168bf8f38d2bc4784d319eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209451757
+        }
+    ],
+    "wof:id":1209451757,
+    "wof:lastmodified":1537590916,
+    "wof:name":"Tatou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39519,
+    4.612,
+    -7.39519,
+    4.612
+],
+  "geometry": {"coordinates":[-7.39519,4.612],"type":"Point"}
+}

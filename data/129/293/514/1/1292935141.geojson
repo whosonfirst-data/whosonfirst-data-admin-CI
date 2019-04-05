@@ -1,0 +1,67 @@
+{
+  "id": 1292935141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.85546,5.55322,-3.85546,5.55322",
+    "geom:latitude":5.55322,
+    "geom:longitude":-3.85546,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yabokoua",
+    "gn:country_code":"CI",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033056,
+    "gn:latitude":5.55322,
+    "gn:longitude":-3.85546,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Yabokoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033056
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ec776b46589df7193ade91649015aa89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1292935141,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1292935141,
+    "wof:lastmodified":1537083307,
+    "wof:name":"Yabokoua",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.85546,
+    5.55322,
+    -3.85546,
+    5.55322
+],
+  "geometry": {"coordinates":[-3.85546,5.55322],"type":"Point"}
+}

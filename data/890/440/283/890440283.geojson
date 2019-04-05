@@ -1,0 +1,85 @@
+{
+  "id": 890440283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.15709,5.6052,-3.15709,5.6052",
+    "geom:latitude":5.6052,
+    "geom:longitude":-3.15709,
+    "gn:country":"CI",
+    "gn:fcode":"PPLA2",
+    "gn:pop":12315,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "name:rum_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Ayam\u00e9"
+    ],
+    "qs:name":"Ayam\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292542,
+        "gp:id":1340250,
+        "qs:id":278362,
+        "wd:id":"Q2874862",
+        "wk:page":"Ayam\u00e9"
+    },
+    "wof:country":"CI",
+    "wof:created":1469052269,
+    "wof:geomhash":"ee7b7c1240ac3538107a693eb8577ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":890440283,
+            "region_id":1108806113
+        }
+    ],
+    "wof:id":890440283,
+    "wof:lastmodified":1527727107,
+    "wof:name":"Ayam\u00e9",
+    "wof:parent_id":1108806113,
+    "wof:placetype":"locality",
+    "wof:population":12315,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.15709,
+    5.6052,
+    -3.15709,
+    5.6052
+],
+  "geometry": {"coordinates":[-3.15709,5.6052],"type":"Point"}
+}

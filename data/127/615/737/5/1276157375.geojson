@@ -1,0 +1,67 @@
+{
+  "id": 1276157375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60406,6.26949,-6.60406,6.26949",
+    "geom:latitude":6.26949,
+    "geom:longitude":-6.60406,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Oupeoua",
+    "gn:country_code":"CI",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282801,
+    "gn:latitude":6.26949,
+    "gn:longitude":-6.60406,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Oup\u00e9oua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282801
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bd5db9089f22eeccaa978b9ada6b39fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":1276157375,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276157375,
+    "wof:lastmodified":1537013870,
+    "wof:name":"Oupeoua",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60406,
+    6.26949,
+    -6.60406,
+    6.26949
+],
+  "geometry": {"coordinates":[-6.60406,6.26949],"type":"Point"}
+}

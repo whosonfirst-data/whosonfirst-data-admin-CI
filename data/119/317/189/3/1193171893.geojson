@@ -1,0 +1,71 @@
+{
+  "id": 1193171893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2511,6.84888,-8.2511,6.84888",
+    "geom:latitude":6.84888,
+    "geom:longitude":-8.2511,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Glanleu",
+    "gn:country_code":"CI",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288519,
+    "gn:latitude":6.84888,
+    "gn:longitude":-8.2511,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Glanleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glangleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288519,
+        "wk:page":"Glangleu"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"cb3b19caa534be83adaad69a83e26caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1193171893,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1193171893,
+    "wof:lastmodified":1537591017,
+    "wof:name":"Glanleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2511,
+    6.84888,
+    -8.2511,
+    6.84888
+],
+  "geometry": {"coordinates":[-8.2511,6.84888],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292935033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.33929,7.84487,-3.33929,7.84487",
+    "geom:latitude":7.84487,
+    "geom:longitude":-3.33929,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Adoukro",
+    "gn:country_code":"CI",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2293355,
+    "gn:latitude":7.84487,
+    "gn:longitude":-3.33929,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Adoukro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293355
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a34860fcbf6dbb323c23d0392c0758b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1292935033,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1292935033,
+    "wof:lastmodified":1537083489,
+    "wof:name":"Adoukro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.33929,
+    7.84487,
+    -3.33929,
+    7.84487
+],
+  "geometry": {"coordinates":[-3.33929,7.84487],"type":"Point"}
+}

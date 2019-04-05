@@ -1,0 +1,67 @@
+{
+  "id": 1327365057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.46166,5.59698,-4.46166,5.59698",
+    "geom:latitude":5.59698,
+    "geom:longitude":-4.46166,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Aka Ndja",
+    "gn:country_code":"CI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031953,
+    "gn:latitude":5.59698,
+    "gn:longitude":-4.46166,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Aka Ndja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031953
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"d51a89b864328336e55da17db559748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":1327365057,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1327365057,
+    "wof:lastmodified":1536778662,
+    "wof:name":"Aka Ndja",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.46166,
+    5.59698,
+    -4.46166,
+    5.59698
+],
+  "geometry": {"coordinates":[-4.46166,5.59698],"type":"Point"}
+}

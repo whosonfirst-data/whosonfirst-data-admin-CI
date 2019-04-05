@@ -1,0 +1,67 @@
+{
+  "id": 1243394465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98278,7.23111,-3.98278,7.23111",
+    "geom:latitude":7.23111,
+    "geom:longitude":-3.98278,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Diakro",
+    "gn:country_code":"CI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290228,
+    "gn:latitude":7.23111,
+    "gn:longitude":-3.98278,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Diakro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290228
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5f210fa5832ff58549869a5e290dd917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1243394465,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1243394465,
+    "wof:lastmodified":1536879870,
+    "wof:name":"Diakro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98278,
+    7.23111,
+    -3.98278,
+    7.23111
+],
+  "geometry": {"coordinates":[-3.98278,7.23111],"type":"Point"}
+}

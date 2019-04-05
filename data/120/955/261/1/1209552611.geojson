@@ -1,0 +1,66 @@
+{
+  "id": 1209552611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47916,6.95973,-7.47916,6.95973",
+    "geom:latitude":6.95973,
+    "geom:longitude":-7.47916,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Beoue",
+    "gn:country_code":"CI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291784,
+    "gn:latitude":6.95973,
+    "gn:longitude":-7.47916,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00e9ou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9ou\u00e9",
+        "B\u00e9ov\u00e9",
+        "B\u00e9ou\u00e9 zagna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291784
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a766aaa74830bf9eee79979b7da508a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209552611
+        }
+    ],
+    "wof:id":1209552611,
+    "wof:lastmodified":1537591064,
+    "wof:name":"Beoue",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47916,
+    6.95973,
+    -7.47916,
+    6.95973
+],
+  "geometry": {"coordinates":[-7.47916,6.95973],"type":"Point"}
+}

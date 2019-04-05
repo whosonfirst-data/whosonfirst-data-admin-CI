@@ -1,0 +1,72 @@
+{
+  "id": 1226278979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.26055,8.25211,-3.26055,8.25211",
+    "geom:latitude":8.25211,
+    "geom:longitude":-3.26055,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Panayo",
+    "gn:country_code":"CI",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282678,
+    "gn:latitude":8.25211,
+    "gn:longitude":-3.26055,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Panayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pannayo",
+        "Pennayo",
+        "Panayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282678
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2e42fc33e57467176281890a668b4b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1226278979,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1226278979,
+    "wof:lastmodified":1537590940,
+    "wof:name":"Panayo",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.26055,
+    8.25211,
+    -3.26055,
+    8.25211
+],
+  "geometry": {"coordinates":[-3.26055,8.25211],"type":"Point"}
+}

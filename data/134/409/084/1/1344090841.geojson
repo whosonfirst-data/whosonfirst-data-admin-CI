@@ -1,0 +1,71 @@
+{
+  "id": 1344090841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65968,6.68384,-6.65968,6.68384",
+    "geom:latitude":6.68384,
+    "geom:longitude":-6.65968,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Noumousseria III",
+    "gn:country_code":"CI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283220,
+    "gn:latitude":6.68384,
+    "gn:longitude":-6.65968,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Noumouss\u00e9ria III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noumouss\u00e9ria III",
+        "Noumous\u00e9ria III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669883,
+        1108785023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283220
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"249b2811a6616ac5d25ca436fc5cd11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785023,
+            "locality_id":1344090841,
+            "region_id":85669883
+        }
+    ],
+    "wof:id":1344090841,
+    "wof:lastmodified":1537590948,
+    "wof:name":"Noumousseria III",
+    "wof:parent_id":1108785023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65968,
+    6.68384,
+    -6.65968,
+    6.68384
+],
+  "geometry": {"coordinates":[-6.65968,6.68384],"type":"Point"}
+}

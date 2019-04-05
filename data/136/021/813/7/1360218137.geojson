@@ -1,0 +1,68 @@
+{
+  "id": 1360218137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.81667,9.3,-5.81667,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-5.81667,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Kalaha",
+    "gn:country_code":"CI",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287610,
+    "gn:latitude":9.3,
+    "gn:longitude":-5.81667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kalaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287610,
+        "wk:page":"Kalaha%2C_Ivory_Coast"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"0b45d886592c87c267c968d1571042e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1360218137,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1360218137,
+    "wof:lastmodified":1537489429,
+    "wof:name":"Kalaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.81667,
+    9.3,
+    -5.81667,
+    9.3
+],
+  "geometry": {"coordinates":[-5.81667,9.3],"type":"Point"}
+}

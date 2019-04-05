@@ -1,0 +1,67 @@
+{
+  "id": 1242812039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65155,5.59722,-3.65155,5.59722",
+    "geom:latitude":5.59722,
+    "geom:longitude":-3.65155,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Kanga",
+    "gn:country_code":"CI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033165,
+    "gn:latitude":5.59722,
+    "gn:longitude":-3.65155,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Kanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033165
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"409931412e42e5342d4b455659f958e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1242812039,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1242812039,
+    "wof:lastmodified":1536726473,
+    "wof:name":"Kanga",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65155,
+    5.59722,
+    -3.65155,
+    5.59722
+],
+  "geometry": {"coordinates":[-3.65155,5.59722],"type":"Point"}
+}

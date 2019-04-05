@@ -1,0 +1,67 @@
+{
+  "id": 1209746401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.91142,6.63369,-5.91142,6.63369",
+    "geom:latitude":6.63369,
+    "geom:longitude":-5.91142,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Koblata",
+    "gn:country_code":"CI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286949,
+    "gn:latitude":6.63369,
+    "gn:longitude":-5.91142,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Koblata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286949
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4bc2a897540906cb2b8be26293ba24fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1209746401,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1209746401,
+    "wof:lastmodified":1536394784,
+    "wof:name":"Koblata",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.91142,
+    6.63369,
+    -5.91142,
+    6.63369
+],
+  "geometry": {"coordinates":[-5.91142,6.63369],"type":"Point"}
+}

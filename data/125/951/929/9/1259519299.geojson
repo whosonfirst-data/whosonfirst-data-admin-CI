@@ -1,0 +1,70 @@
+{
+  "id": 1259519299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.83361,7.24045,-4.83361,7.24045",
+    "geom:latitude":7.24045,
+    "geom:longitude":-4.83361,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"K Ngobo",
+    "gn:country_code":"CI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286446,
+    "gn:latitude":7.24045,
+    "gn:longitude":-4.83361,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"K Ngobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286446
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"35cde27d2a1eb16b8a9fd96d8aabb479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1259519299,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1259519299,
+    "wof:lastmodified":1537590989,
+    "wof:name":"K Ngobo",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.83361,
+    7.24045,
+    -4.83361,
+    7.24045
+],
+  "geometry": {"coordinates":[-4.83361,7.24045],"type":"Point"}
+}

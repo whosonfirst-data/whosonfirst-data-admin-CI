@@ -1,0 +1,65 @@
+{
+  "id": 1209043595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.69261,7.97082,-5.69261,7.97082",
+    "geom:latitude":7.97082,
+    "geom:longitude":-5.69261,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kande Kan",
+    "gn:country_code":"CI",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2287516,
+    "gn:latitude":7.97082,
+    "gn:longitude":-5.69261,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Kand\u00e9 Kan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kand\u00e9 Kan",
+        "Kand\u00e9kan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287516
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4fda781d14221274f8ce428780cc729f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209043595
+        }
+    ],
+    "wof:id":1209043595,
+    "wof:lastmodified":1537591002,
+    "wof:name":"Kande Kan",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.69261,
+    7.97082,
+    -5.69261,
+    7.97082
+],
+  "geometry": {"coordinates":[-5.69261,7.97082],"type":"Point"}
+}

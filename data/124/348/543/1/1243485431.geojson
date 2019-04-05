@@ -1,0 +1,73 @@
+{
+  "id": 1243485431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07778,9.615,-6.07778,9.615",
+    "geom:latitude":9.615,
+    "geom:longitude":-6.07778,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Niofoin",
+    "gn:country_code":"CI",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283379,
+    "gn:latitude":9.615,
+    "gn:longitude":-6.07778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Niofoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niofouin",
+        "Nyofou\u00e8n",
+        "Niofoin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283379,
+        "wk:page":"Niofoin"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9f2a7e5220b12a286d771e93d3e3fd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1243485431,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1243485431,
+    "wof:lastmodified":1537590949,
+    "wof:name":"Niofoin",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07778,
+    9.615,
+    -6.07778,
+    9.615
+],
+  "geometry": {"coordinates":[-6.07778,9.615],"type":"Point"}
+}

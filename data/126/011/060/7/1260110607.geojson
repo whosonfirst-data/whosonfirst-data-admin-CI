@@ -1,0 +1,71 @@
+{
+  "id": 1260110607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.68838,8.45702,-4.68838,8.45702",
+    "geom:latitude":8.45702,
+    "geom:longitude":-4.68838,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Niemene",
+    "gn:country_code":"CI",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283451,
+    "gn:latitude":8.45702,
+    "gn:longitude":-4.68838,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ni\u00e9m\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u00e9m\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899,
+        1108785041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283451,
+        "wk:page":"Ni%C3%A9m%C3%A9n%C3%A9"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"8e31460ac782effa1392f51bfdb9ced4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785041,
+            "locality_id":1260110607,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":1260110607,
+    "wof:lastmodified":1537590950,
+    "wof:name":"Niemene",
+    "wof:parent_id":1108785041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.68838,
+    8.45702,
+    -4.68838,
+    8.45702
+],
+  "geometry": {"coordinates":[-4.68838,8.45702],"type":"Point"}
+}

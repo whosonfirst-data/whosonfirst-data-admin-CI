@@ -1,0 +1,70 @@
+{
+  "id": 1343697459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68817,6.36075,-5.68817,6.36075",
+    "geom:latitude":6.36075,
+    "geom:longitude":-5.68817,
+    "gn:admin1_code":"95.0",
+    "gn:asciiname":"Booda",
+    "gn:country_code":"CI",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2291148,
+    "gn:latitude":6.36075,
+    "gn:longitude":-5.68817,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Booda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669879,
+        1108784995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2291148
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"63c8e14c4139ee74d1d15275ca495bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":1343697459,
+            "region_id":85669879
+        }
+    ],
+    "wof:id":1343697459,
+    "wof:lastmodified":1537591056,
+    "wof:name":"Booda",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68817,
+    6.36075,
+    -5.68817,
+    6.36075
+],
+  "geometry": {"coordinates":[-5.68817,6.36075],"type":"Point"}
+}

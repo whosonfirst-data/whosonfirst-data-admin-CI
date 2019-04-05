@@ -1,0 +1,72 @@
+{
+  "id": 1209849519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91722,10.11944,-6.91722,10.11944",
+    "geom:latitude":10.11944,
+    "geom:longitude":-6.91722,
+    "gn:admin1_code":"77",
+    "gn:asciiname":"Ouayere",
+    "gn:country_code":"CI",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279993,
+    "gn:latitude":10.11944,
+    "gn:longitude":-6.91722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ouay\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wahir\u00e9",
+        "Ouahir\u00e9",
+        "Ouay\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669859,
+        1108784987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279993
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b238559354bc8049770f4c7b8ec21526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784987,
+            "locality_id":1209849519,
+            "region_id":85669859
+        }
+    ],
+    "wof:id":1209849519,
+    "wof:lastmodified":1537590902,
+    "wof:name":"Ouayere",
+    "wof:parent_id":1108784987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91722,
+    10.11944,
+    -6.91722,
+    10.11944
+],
+  "geometry": {"coordinates":[-6.91722,10.11944],"type":"Point"}
+}

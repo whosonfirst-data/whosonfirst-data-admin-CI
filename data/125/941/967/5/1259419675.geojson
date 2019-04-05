@@ -1,0 +1,67 @@
+{
+  "id": 1259419675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21398,9.89063,-3.21398,9.89063",
+    "geom:latitude":9.89063,
+    "geom:longitude":-3.21398,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Logouana",
+    "gn:country_code":"CI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285089,
+    "gn:latitude":9.89063,
+    "gn:longitude":-3.21398,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Logouana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285089
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"62e52249f69fd34b39c508e108888b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1259419675,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1259419675,
+    "wof:lastmodified":1536950571,
+    "wof:name":"Logouana",
+    "wof:parent_id":1108785049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21398,
+    9.89063,
+    -3.21398,
+    9.89063
+],
+  "geometry": {"coordinates":[-3.21398,9.89063],"type":"Point"}
+}

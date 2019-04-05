@@ -1,0 +1,61 @@
+{
+  "id": 1209248461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78333,8.21667,-5.78333,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":-5.78333,
+    "gn:admin1_code":"97.0",
+    "gn:asciiname":"Doutyena",
+    "gn:country_code":"CI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289593,
+    "gn:latitude":8.21667,
+    "gn:longitude":-5.78333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Douty\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289593
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"31c9cc40e9251cb3c77ad4991f0339c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209248461
+        }
+    ],
+    "wof:id":1209248461,
+    "wof:lastmodified":1536293082,
+    "wof:name":"Doutyena",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78333,
+    8.21667,
+    -5.78333,
+    8.21667
+],
+  "geometry": {"coordinates":[-5.78333,8.21667],"type":"Point"}
+}

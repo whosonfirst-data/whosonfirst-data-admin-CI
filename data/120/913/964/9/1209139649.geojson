@@ -1,0 +1,61 @@
+{
+  "id": 1209139649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.68248,5.18902,-3.68248,5.18902",
+    "geom:latitude":5.18902,
+    "geom:longitude":-3.68248,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Mondoukou",
+    "gn:country_code":"CI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031862,
+    "gn:latitude":5.18902,
+    "gn:longitude":-3.68248,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Mondoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031862
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"ddf6f560024f10c7b0ef191f4af433bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209139649
+        }
+    ],
+    "wof:id":1209139649,
+    "wof:lastmodified":1536296546,
+    "wof:name":"Mondoukou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.68248,
+    5.189019999999998,
+    -3.68248,
+    5.189019999999998
+],
+  "geometry": {"coordinates":[-3.68248,5.18902],"type":"Point"}
+}

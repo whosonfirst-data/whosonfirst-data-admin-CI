@@ -1,0 +1,65 @@
+{
+  "id": 1209446515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.134,7.15374,-8.134,7.15374",
+    "geom:latitude":7.15374,
+    "geom:longitude":-8.134,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Loleu",
+    "gn:country_code":"CI",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284983,
+    "gn:latitude":7.15374,
+    "gn:longitude":-8.134,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Loleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ioleu",
+        "Loleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284983
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"80d4d9442e1fec5c3848d0b42fd6cd51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209446515
+        }
+    ],
+    "wof:id":1209446515,
+    "wof:lastmodified":1537590971,
+    "wof:name":"Loleu",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.134,
+    7.15374,
+    -8.134,
+    7.15374
+],
+  "geometry": {"coordinates":[-8.134,7.15374],"type":"Point"}
+}

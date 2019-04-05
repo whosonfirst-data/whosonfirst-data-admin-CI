@@ -1,0 +1,67 @@
+{
+  "id": 1343893047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36535,9.54369,-5.36535,9.54369",
+    "geom:latitude":9.54369,
+    "geom:longitude":-5.36535,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Nangounakaha",
+    "gn:country_code":"CI",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2283969,
+    "gn:latitude":9.54369,
+    "gn:longitude":-5.36535,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nangounakaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669855,
+        1108785029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2283969
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"e831a0b9ac1db83afe25055315a0baa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785029,
+            "locality_id":1343893047,
+            "region_id":85669855
+        }
+    ],
+    "wof:id":1343893047,
+    "wof:lastmodified":1536617320,
+    "wof:name":"Nangounakaha",
+    "wof:parent_id":1108785029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36535,
+    9.54369,
+    -5.36535,
+    9.54369
+],
+  "geometry": {"coordinates":[-5.36535,9.54369],"type":"Point"}
+}

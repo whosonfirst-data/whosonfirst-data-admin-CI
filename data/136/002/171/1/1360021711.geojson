@@ -1,0 +1,67 @@
+{
+  "id": 1360021711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96509,7.52368,-5.96509,7.52368",
+    "geom:latitude":7.52368,
+    "geom:longitude":-5.96509,
+    "gn:admin1_code":"96",
+    "gn:asciiname":"Kouyafla",
+    "gn:country_code":"CI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2285694,
+    "gn:latitude":7.52368,
+    "gn:longitude":-5.96509,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kouyafla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2285694
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1ab867447ee8db2b889268106c4fb17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1360021711,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1360021711,
+    "wof:lastmodified":1537035451,
+    "wof:name":"Kouyafla",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96509,
+    7.52368,
+    -5.96509,
+    7.52368
+],
+  "geometry": {"coordinates":[-5.96509,7.52368],"type":"Point"}
+}

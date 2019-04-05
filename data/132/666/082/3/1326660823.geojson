@@ -1,0 +1,67 @@
+{
+  "id": 1326660823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71342,8.98984,-7.71342,8.98984",
+    "geom:latitude":8.98984,
+    "geom:longitude":-7.71342,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Tounzi",
+    "gn:country_code":"CI",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280294,
+    "gn:latitude":8.98984,
+    "gn:longitude":-7.71342,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tounzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280294
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"fa5447015cf33e4aa909e6b2c9255220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1326660823,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1326660823,
+    "wof:lastmodified":1536798830,
+    "wof:name":"Tounzi",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71342,
+    8.98984,
+    -7.71342,
+    8.98984
+],
+  "geometry": {"coordinates":[-7.71342,8.98984],"type":"Point"}
+}

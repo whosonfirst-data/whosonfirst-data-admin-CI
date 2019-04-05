@@ -1,0 +1,67 @@
+{
+  "id": 1326664263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57333,5.14222,-5.57333,5.14222",
+    "geom:latitude":5.14222,
+    "geom:longitude":-5.57333,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Poporouko",
+    "gn:country_code":"CI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2282348,
+    "gn:latitude":5.14222,
+    "gn:longitude":-5.57333,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Poporouko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        1108784977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2282348
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"175d76eef8957e7737eae6dde4de3086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784977,
+            "locality_id":1326664263,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1326664263,
+    "wof:lastmodified":1536794006,
+    "wof:name":"Poporouko",
+    "wof:parent_id":1108784977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57333,
+    5.14222,
+    -5.57333,
+    5.14222
+],
+  "geometry": {"coordinates":[-5.57333,5.14222],"type":"Point"}
+}

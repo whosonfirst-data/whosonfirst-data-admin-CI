@@ -1,0 +1,67 @@
+{
+  "id": 1225880455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38924,6.70613,-8.38924,6.70613",
+    "geom:latitude":6.70613,
+    "geom:longitude":-8.38924,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Gbampleu",
+    "gn:country_code":"CI",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288692,
+    "gn:latitude":6.70613,
+    "gn:longitude":-8.38924,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gbampleu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288692
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"9dc84531bb27dcdb6ae4d152e38d177a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1225880455,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1225880455,
+    "wof:lastmodified":1536963438,
+    "wof:name":"Gbampleu",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38924,
+    6.70613,
+    -8.38924,
+    6.70613
+],
+  "geometry": {"coordinates":[-8.38924,6.70613],"type":"Point"}
+}

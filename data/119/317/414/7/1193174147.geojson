@@ -1,0 +1,67 @@
+{
+  "id": 1193174147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93032,5.74529,-5.93032,5.74529",
+    "geom:latitude":5.74529,
+    "geom:longitude":-5.93032,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Sokotohue",
+    "gn:country_code":"CI",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281449,
+    "gn:latitude":5.74529,
+    "gn:longitude":-5.93032,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sokotohu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281449
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7c89c61b8ce8deef8b526c061906e2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1193174147,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1193174147,
+    "wof:lastmodified":1536377132,
+    "wof:name":"Sokotohue",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93032,
+    5.74529,
+    -5.93032,
+    5.74529
+],
+  "geometry": {"coordinates":[-5.93032,5.74529],"type":"Point"}
+}

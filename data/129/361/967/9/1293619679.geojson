@@ -1,0 +1,67 @@
+{
+  "id": 1293619679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23575,4.49318,-7.23575,4.49318",
+    "geom:latitude":4.49318,
+    "geom:longitude":-7.23575,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Gnagipo",
+    "gn:country_code":"CI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2288491,
+    "gn:latitude":4.49318,
+    "gn:longitude":-7.23575,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Gnagipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2288491
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"2d9f7bf5f76661a1b33368441982e1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1293619679,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1293619679,
+    "wof:lastmodified":1537090558,
+    "wof:name":"Gnagipo",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23575,
+    4.49318,
+    -7.23575,
+    4.49318
+],
+  "geometry": {"coordinates":[-7.23575,4.49318],"type":"Point"}
+}

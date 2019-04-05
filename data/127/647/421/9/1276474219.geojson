@@ -1,0 +1,77 @@
+{
+  "id": 1276474219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96497,4.61568,-6.96497,4.61568",
+    "geom:latitude":4.61568,
+    "geom:longitude":-6.96497,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dogbale",
+    "gn:country_code":"CI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2289804,
+    "gn:latitude":4.61568,
+    "gn:longitude":-6.96497,
+    "gn:modification_date":"2018-01-26",
+    "gn:name":"Dogbal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rocktown Berebi"
+    ],
+    "name:und_x_variant":[
+        "Oulidi\u00e9",
+        "Doubal\u00e9",
+        "Roc B\u00e9r\u00e9by",
+        "Rocktown B\u00e9r\u00e9by",
+        "Dogbal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2289804
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"b8637fc36bc8036b4337b6e489389475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1276474219,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1276474219,
+    "wof:lastmodified":1537591037,
+    "wof:name":"Dogbale",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96497,
+    4.61568,
+    -6.96497,
+    4.61568
+],
+  "geometry": {"coordinates":[-6.96497,4.61568],"type":"Point"}
+}

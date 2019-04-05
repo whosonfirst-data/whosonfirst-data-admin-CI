@@ -1,0 +1,67 @@
+{
+  "id": 1277110441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.64091,5.22886,-3.64091,5.22886",
+    "geom:latitude":5.22886,
+    "geom:longitude":-3.64091,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Inponou",
+    "gn:country_code":"CI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031890,
+    "gn:latitude":5.22886,
+    "gn:longitude":-3.64091,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Inponou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031890
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"070f05109e8afaf6aa4b6403bb020527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1277110441,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1277110441,
+    "wof:lastmodified":1536728114,
+    "wof:name":"Inponou",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.64091,
+    5.22886,
+    -3.64091,
+    5.22886
+],
+  "geometry": {"coordinates":[-3.64091,5.22886],"type":"Point"}
+}

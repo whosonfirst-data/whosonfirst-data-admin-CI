@@ -1,0 +1,67 @@
+{
+  "id": 1243298243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08454,8.09665,-3.08454,8.09665",
+    "geom:latitude":8.09665,
+    "geom:longitude":-3.08454,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Amouatene",
+    "gn:country_code":"CI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292950,
+    "gn:latitude":8.09665,
+    "gn:longitude":-3.08454,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Amouat\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292950
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f1adec3f1c2ae3c22b0bf32740343a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1243298243,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1243298243,
+    "wof:lastmodified":1537018351,
+    "wof:name":"Amouatene",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08454,
+    8.09665,
+    -3.08454,
+    8.09665
+],
+  "geometry": {"coordinates":[-3.08454,8.09665],"type":"Point"}
+}

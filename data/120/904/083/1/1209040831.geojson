@@ -1,0 +1,61 @@
+{
+  "id": 1209040831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.17591,9.69395,-3.17591,9.69395",
+    "geom:latitude":9.69395,
+    "geom:longitude":-3.17591,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Naguilou",
+    "gn:country_code":"CI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284070,
+    "gn:latitude":9.69395,
+    "gn:longitude":-3.17591,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Naguilou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284070
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"698887ae61c9f936a6910e44fa2a6101",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209040831
+        }
+    ],
+    "wof:id":1209040831,
+    "wof:lastmodified":1536299551,
+    "wof:name":"Naguilou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.17591,
+    9.69395,
+    -3.17591,
+    9.69395
+],
+  "geometry": {"coordinates":[-3.17591,9.69395],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360315891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68597,6.09977,-5.68597,6.09977",
+    "geom:latitude":6.09977,
+    "geom:longitude":-5.68597,
+    "gn:admin1_code":"95",
+    "gn:asciiname":"Makoberi",
+    "gn:country_code":"CI",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2284692,
+    "gn:latitude":6.09977,
+    "gn:longitude":-5.68597,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Makob\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669885,
+        1108784999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2284692
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"72a9ff6bce70a1ba921d234a2c0348c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":1360315891,
+            "region_id":85669885
+        }
+    ],
+    "wof:id":1360315891,
+    "wof:lastmodified":1536610120,
+    "wof:name":"Makoberi",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68597,
+    6.09977,
+    -5.68597,
+    6.09977
+],
+  "geometry": {"coordinates":[-5.68597,6.09977],"type":"Point"}
+}

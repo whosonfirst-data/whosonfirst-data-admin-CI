@@ -1,0 +1,67 @@
+{
+  "id": 1343991993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.82048,6.43004,-4.82048,6.43004",
+    "geom:latitude":6.43004,
+    "geom:longitude":-4.82048,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Didable",
+    "gn:country_code":"CI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290128,
+    "gn:latitude":6.43004,
+    "gn:longitude":-4.82048,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Didabl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669923,
+        1108785001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290128
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"10408f718d21470a212eb177dc009140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785001,
+            "locality_id":1343991993,
+            "region_id":85669923
+        }
+    ],
+    "wof:id":1343991993,
+    "wof:lastmodified":1536974032,
+    "wof:name":"Didable",
+    "wof:parent_id":1108785001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.82048,
+    6.43004,
+    -4.82048,
+    6.43004
+],
+  "geometry": {"coordinates":[-4.82048,6.43004],"type":"Point"}
+}

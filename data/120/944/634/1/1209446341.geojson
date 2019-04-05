@@ -1,0 +1,61 @@
+{
+  "id": 1209446341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00622,9.52479,-3.00622,9.52479",
+    "geom:latitude":9.52479,
+    "geom:longitude":-3.00622,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Somati",
+    "gn:country_code":"CI",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281399,
+    "gn:latitude":9.52479,
+    "gn:longitude":-3.00622,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Somati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281399
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"bcb14effe690261165d2d684c16f265b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209446341
+        }
+    ],
+    "wof:id":1209446341,
+    "wof:lastmodified":1536286807,
+    "wof:name":"Somati",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.00622,
+    9.52479,
+    -3.00622,
+    9.52479
+],
+  "geometry": {"coordinates":[-3.00622,9.52479],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310136773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.42242,9.91919,-3.42242,9.91919",
+    "geom:latitude":9.91919,
+    "geom:longitude":-3.42242,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Kodienou",
+    "gn:country_code":"CI",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286901,
+    "gn:latitude":9.91919,
+    "gn:longitude":-3.42242,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kodi\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286901
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"25eef7f473986c14d0f6a53494f66641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1310136773,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1310136773,
+    "wof:lastmodified":1536951679,
+    "wof:name":"Kodienou",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.42242,
+    9.91919,
+    -3.42242,
+    9.91919
+],
+  "geometry": {"coordinates":[-3.42242,9.91919],"type":"Point"}
+}

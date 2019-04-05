@@ -1,0 +1,67 @@
+{
+  "id": 1276479455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.06292,7.42645,-4.06292,7.42645",
+    "geom:latitude":7.42645,
+    "geom:longitude":-4.06292,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Komiekro",
+    "gn:country_code":"CI",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2286553,
+    "gn:latitude":7.42645,
+    "gn:longitude":-4.06292,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Komi\u00e9kro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669907,
+        1108785003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2286553
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"50952ad49ccaffb24f8b189f14ea0a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785003,
+            "locality_id":1276479455,
+            "region_id":85669907
+        }
+    ],
+    "wof:id":1276479455,
+    "wof:lastmodified":1537077068,
+    "wof:name":"Komiekro",
+    "wof:parent_id":1108785003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.06292,
+    7.42645,
+    -4.06292,
+    7.42645
+],
+  "geometry": {"coordinates":[-4.06292,7.42645],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209348075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88699,7.75806,-4.88699,7.75806",
+    "geom:latitude":7.75806,
+    "geom:longitude":-4.88699,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Assengoukpri",
+    "gn:country_code":"CI",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292692,
+    "gn:latitude":7.75806,
+    "gn:longitude":-4.88699,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Assengoukpri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assengou-Pri",
+        "Ass\u00e9ngoukor",
+        "Ass\u00e9ngou-Kan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292692
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"589eb6763addc51a67ee7978aa6a43c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209348075
+        }
+    ],
+    "wof:id":1209348075,
+    "wof:lastmodified":1537591077,
+    "wof:name":"Assengoukpri",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88699,
+    7.75806,
+    -4.88699,
+    7.75806
+],
+  "geometry": {"coordinates":[-4.88699,7.75806],"type":"Point"}
+}

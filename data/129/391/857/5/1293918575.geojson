@@ -1,0 +1,67 @@
+{
+  "id": 1293918575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.62676,5.48186,-3.62676,5.48186",
+    "geom:latitude":5.48186,
+    "geom:longitude":-3.62676,
+    "gn:admin1_code":"94.0",
+    "gn:asciiname":"Koumansin",
+    "gn:country_code":"CI",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031841,
+    "gn:latitude":5.48186,
+    "gn:longitude":-3.62676,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Koumansin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669903,
+        1108785013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031841
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1f3a7495c48a854fb802b2137e3bd1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785013,
+            "locality_id":1293918575,
+            "region_id":85669903
+        }
+    ],
+    "wof:id":1293918575,
+    "wof:lastmodified":1536662757,
+    "wof:name":"Koumansin",
+    "wof:parent_id":1108785013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.62676,
+    5.48186,
+    -3.62676,
+    5.48186
+],
+  "geometry": {"coordinates":[-3.62676,5.48186],"type":"Point"}
+}

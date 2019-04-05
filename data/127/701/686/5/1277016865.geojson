@@ -1,0 +1,71 @@
+{
+  "id": 1277016865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3901,4.39593,-7.3901,4.39593",
+    "geom:latitude":4.39593,
+    "geom:longitude":-7.3901,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Baouloke",
+    "gn:country_code":"CI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2292092,
+    "gn:latitude":4.39593,
+    "gn:longitude":-7.3901,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Baoulok\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baoulo",
+        "Baoulok\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2292092
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7438f64536658b99d3d6184164635990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1277016865,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1277016865,
+    "wof:lastmodified":1537591069,
+    "wof:name":"Baouloke",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3901,
+    4.39593,
+    -7.3901,
+    4.39593
+],
+  "geometry": {"coordinates":[-7.3901,4.39593],"type":"Point"}
+}

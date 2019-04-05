@@ -1,0 +1,61 @@
+{
+  "id": 1209040745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26652,5.9218,-4.26652,5.9218",
+    "geom:latitude":5.9218,
+    "geom:longitude":-4.26652,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Farana",
+    "gn:country_code":"CI",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8032772,
+    "gn:latitude":5.9218,
+    "gn:longitude":-4.26652,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Farana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8032772
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"1fc36454f0f1ce7d5c04bb8ca58cbed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209040745
+        }
+    ],
+    "wof:id":1209040745,
+    "wof:lastmodified":1536299554,
+    "wof:name":"Farana",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26652,
+    5.9218,
+    -4.26652,
+    5.9218
+],
+  "geometry": {"coordinates":[-4.26652,5.9218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209142789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.65889,5.31906,-4.65889,5.31906",
+    "geom:latitude":5.31906,
+    "geom:longitude":-4.65889,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Cosrou",
+    "gn:country_code":"CI",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290620,
+    "gn:latitude":5.31906,
+    "gn:longitude":-4.65889,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Cosrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosrou",
+        "Cosru",
+        "Cosrou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290620,
+        "wk:page":"Cosrou"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"dfa788615ff05374869f6ade78975e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632449,
+            "locality_id":1209142789
+        }
+    ],
+    "wof:id":1209142789,
+    "wof:lastmodified":1537591049,
+    "wof:name":"Cosrou",
+    "wof:parent_id":85632449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.65889,
+    5.31906,
+    -4.65889,
+    5.31906
+],
+  "geometry": {"coordinates":[-4.65889,5.31906],"type":"Point"}
+}

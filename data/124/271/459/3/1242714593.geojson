@@ -1,0 +1,67 @@
+{
+  "id": 1242714593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43561,7.55709,-7.43561,7.55709",
+    "geom:latitude":7.55709,
+    "geom:longitude":-7.43561,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Diane",
+    "gn:country_code":"CI",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290202,
+    "gn:latitude":7.55709,
+    "gn:longitude":-7.43561,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Dian\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669867,
+        1108785021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290202
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"4be437367ccb6ff82ed3e11a62463b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785021,
+            "locality_id":1242714593,
+            "region_id":85669867
+        }
+    ],
+    "wof:id":1242714593,
+    "wof:lastmodified":1536865046,
+    "wof:name":"Diane",
+    "wof:parent_id":1108785021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43561,
+    7.55709,
+    -7.43561,
+    7.55709
+],
+  "geometry": {"coordinates":[-7.43561,7.55709],"type":"Point"}
+}

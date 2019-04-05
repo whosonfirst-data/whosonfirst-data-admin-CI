@@ -1,0 +1,67 @@
+{
+  "id": 1259813975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74245,6.97717,-5.74245,6.97717",
+    "geom:latitude":6.97717,
+    "geom:longitude":-5.74245,
+    "gn:admin1_code":"96.0",
+    "gn:asciiname":"Deita",
+    "gn:country_code":"CI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2290320,
+    "gn:latitude":6.97717,
+    "gn:longitude":-5.74245,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Deita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669877,
+        1108785025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2290320
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"795364ec71a24102c810301e2416f92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":1259813975,
+            "region_id":85669877
+        }
+    ],
+    "wof:id":1259813975,
+    "wof:lastmodified":1536878679,
+    "wof:name":"Deita",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74245,
+    6.97717,
+    -5.74245,
+    6.97717
+],
+  "geometry": {"coordinates":[-5.74245,6.97717],"type":"Point"}
+}

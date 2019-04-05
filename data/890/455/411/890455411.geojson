@@ -1,0 +1,88 @@
+{
+  "id": 890455411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.17146,6.23869,-6.17146,6.23869",
+    "geom:latitude":6.23869,
+    "geom:longitude":-6.17146,
+    "gn:country":"CI",
+    "gn:fcode":"PPL",
+    "gn:pop":13186,
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:eng_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:fre_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:may_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:rum_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:swe_x_preferred":[
+        "Guib\u00e9roua"
+    ],
+    "name:unk_x_variant":[
+        "Guiberou"
+    ],
+    "qs:name":"Guib\u00e9roua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        1108806103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2287970,
+        "gp:id":1342764,
+        "qs:id":1034706,
+        "wd:id":"Q3119338",
+        "wk:page":"Guib\u00e9roua"
+    },
+    "wof:country":"CI",
+    "wof:created":1469052946,
+    "wof:geomhash":"5658592214fc237eb5f39479482160ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "locality_id":890455411,
+            "region_id":1108806103
+        }
+    ],
+    "wof:id":890455411,
+    "wof:lastmodified":1527735397,
+    "wof:name":"Guib\u00e9roua",
+    "wof:parent_id":1108806103,
+    "wof:placetype":"locality",
+    "wof:population":13186,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.17146,
+    6.23869,
+    -6.17146,
+    6.23869
+],
+  "geometry": {"coordinates":[-6.17146,6.23869],"type":"Point"}
+}

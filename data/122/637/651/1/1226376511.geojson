@@ -1,0 +1,72 @@
+{
+  "id": 1226376511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20843,6.10929,-3.20843,6.10929",
+    "geom:latitude":6.10929,
+    "geom:longitude":-3.20843,
+    "gn:admin1_code":"94",
+    "gn:asciiname":"Songan",
+    "gn:country_code":"CI",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2281374,
+    "gn:latitude":6.10929,
+    "gn:longitude":-3.20843,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Songan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangan",
+        "Songan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669927,
+        1108784985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2281374,
+        "wk:page":"Songan"
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"62b6f16f2e1ba2f2951312f1c2d92c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":1226376511,
+            "region_id":85669927
+        }
+    ],
+    "wof:id":1226376511,
+    "wof:lastmodified":1537590921,
+    "wof:name":"Songan",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20843,
+    6.10929,
+    -3.20843,
+    6.10929
+],
+  "geometry": {"coordinates":[-3.20843,6.10929],"type":"Point"}
+}

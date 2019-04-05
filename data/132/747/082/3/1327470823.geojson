@@ -1,0 +1,67 @@
+{
+  "id": 1327470823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75,7.8,-3.75,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":-3.75,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Tidianekouro",
+    "gn:country_code":"CI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2280750,
+    "gn:latitude":7.8,
+    "gn:longitude":-3.75,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Tidian\u00e9kouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Abidjan",
+    "iso:country":"CI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669895,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2280750
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"5ea5f3b1186b571f64a05540994cc518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":1327470823,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1327470823,
+    "wof:lastmodified":1536623192,
+    "wof:name":"Tidianekouro",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75,
+    7.8,
+    -3.75,
+    7.8
+],
+  "geometry": {"coordinates":[-3.75,7.8],"type":"Point"}
+}
