@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711409,
-    "geom:area_square_m":8729372935.08807,
+    "geom:area_square_m":8729372935.088001,
     "geom:bbox":"-6.44084924495,6.5002149925,-5.4001387777,7.75716557947",
     "geom:latitude":7.086047,
     "geom:longitude":-5.892828,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Marahoue Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.844325,
     "lbl:longitude":-5.849462,
     "meso:admin1name":"Sassandra-Marahoue",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":1108785025,
-    "wof:lastmodified":1553816511,
+    "wof:lastmodified":1555037227,
     "wof:name":"Marahoue",
     "wof:parent_id":85669877,
     "wof:placetype":"county",

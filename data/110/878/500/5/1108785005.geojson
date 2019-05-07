@@ -10,6 +10,12 @@
     "geom:latitude":6.6033,
     "geom:longitude":-4.238428,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Moronou Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.611981,
     "lbl:longitude":-4.27433,
     "meso:admin1name":"Lacs",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785005,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718778,
     "wof:name":"Moronou",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

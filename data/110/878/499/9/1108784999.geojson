@@ -10,6 +10,12 @@
     "geom:latitude":5.757319,
     "geom:longitude":-5.403991,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Loh-Djibou Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.814273,
     "lbl:longitude":-5.339149,
     "meso:admin1name":"Goh-Djiboua",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784999,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718777,
     "wof:name":"Loh-Djibou",
     "wof:parent_id":85669885,
     "wof:placetype":"county",

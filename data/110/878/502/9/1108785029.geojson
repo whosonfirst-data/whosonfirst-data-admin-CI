@@ -10,6 +10,12 @@
     "geom:latitude":9.415211,
     "geom:longitude":-5.832391,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Poro Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":9.362288,
     "lbl:longitude":-5.782341,
     "meso:admin1name":"Savanes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785029,
-    "wof:lastmodified":1536615785,
+    "wof:lastmodified":1553718779,
     "wof:name":"Poro",
     "wof:parent_id":85669855,
     "wof:placetype":"county",

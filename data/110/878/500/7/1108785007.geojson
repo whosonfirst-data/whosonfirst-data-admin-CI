@@ -10,6 +10,12 @@
     "geom:latitude":6.97355,
     "geom:longitude":-4.560559,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "N'Zi Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.995989,
     "lbl:longitude":-4.553513,
     "meso:admin1name":"Lacs",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785007,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718778,
     "wof:name":"N'Zi",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

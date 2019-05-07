@@ -10,6 +10,12 @@
     "geom:latitude":9.423148,
     "geom:longitude":-7.379509,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Kabadougou Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":9.320434,
     "lbl:longitude":-7.390124,
     "meso:admin1name":"Denguele",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784989,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718778,
     "wof:name":"Kabadougou",
     "wof:parent_id":85669859,
     "wof:placetype":"county",

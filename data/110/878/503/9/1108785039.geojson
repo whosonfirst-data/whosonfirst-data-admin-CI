@@ -10,6 +10,12 @@
     "geom:latitude":7.703385,
     "geom:longitude":-5.216101,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Gbeke Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":7.670607,
     "lbl:longitude":-5.331543,
     "meso:admin1name":"Valle Du Bandama",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785039,
-    "wof:lastmodified":1536615786,
+    "wof:lastmodified":1553718778,
     "wof:name":"Gbeke",
     "wof:parent_id":85669899,
     "wof:placetype":"county",

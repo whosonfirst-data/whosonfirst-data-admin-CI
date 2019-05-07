@@ -10,6 +10,12 @@
     "geom:latitude":7.46432,
     "geom:longitude":-4.060115,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Iffou Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":7.487914,
     "lbl:longitude":-4.051426,
     "meso:admin1name":"Lacs",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785003,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718777,
     "wof:name":"Iffou",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

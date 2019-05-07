@@ -10,6 +10,12 @@
     "geom:latitude":7.992085,
     "geom:longitude":-3.210541,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Gontougo Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":7.923575,
     "lbl:longitude":-3.222265,
     "meso:admin1name":"Zanzan",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785053,
-    "wof:lastmodified":1536615786,
+    "wof:lastmodified":1553718780,
     "wof:name":"Gontougo",
     "wof:parent_id":85669895,
     "wof:placetype":"county",

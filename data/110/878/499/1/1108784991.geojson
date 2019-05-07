@@ -10,6 +10,12 @@
     "geom:latitude":5.41496,
     "geom:longitude":-4.075835,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Abidjan Autonomous District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous district"
+    ],
     "lbl:latitude":5.405684,
     "lbl:longitude":-4.105465,
     "meso:admin1name":"District Autonome D'Abidjan",
@@ -28,7 +34,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Abidjan"
+        "District A"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -65,8 +71,8 @@
         }
     ],
     "wof:id":1108784991,
-    "wof:lastmodified":1536615784,
-    "wof:name":"District A",
+    "wof:lastmodified":1554764539,
+    "wof:name":"Abidjan",
     "wof:parent_id":85669909,
     "wof:placetype":"county",
     "wof:placetype_local":"autonomous district",

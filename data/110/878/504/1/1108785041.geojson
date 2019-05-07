@@ -10,6 +10,12 @@
     "geom:latitude":8.520167,
     "geom:longitude":-4.838495,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Hambol Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":8.451525,
     "lbl:longitude":-4.913865,
     "meso:admin1name":"Valle Du Bandama",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785041,
-    "wof:lastmodified":1536615786,
+    "wof:lastmodified":1553718779,
     "wof:name":"Hambol",
     "wof:parent_id":85669899,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.474026,
     "geom:longitude":-7.82156,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Tonkpi Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":7.477025,
     "lbl:longitude":-7.832032,
     "meso:admin1name":"Montagnes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785021,
-    "wof:lastmodified":1536615785,
+    "wof:lastmodified":1553718779,
     "wof:name":"Tonkpi",
     "wof:parent_id":85669867,
     "wof:placetype":"county",

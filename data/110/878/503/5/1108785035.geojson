@@ -10,6 +10,12 @@
     "geom:latitude":9.505243,
     "geom:longitude":-4.820166,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Tchologo Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":9.309338,
     "lbl:longitude":-4.582701,
     "meso:admin1name":"Savanes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785035,
-    "wof:lastmodified":1536615786,
+    "wof:lastmodified":1553718779,
     "wof:name":"Tchologo",
     "wof:parent_id":85669855,
     "wof:placetype":"county",

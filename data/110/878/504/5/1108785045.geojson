@@ -10,6 +10,12 @@
     "geom:latitude":8.365465,
     "geom:longitude":-6.040461,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Bere Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":8.304746,
     "lbl:longitude":-5.993623,
     "meso:admin1name":"Woroba",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785045,
-    "wof:lastmodified":1536615786,
+    "wof:lastmodified":1553718779,
     "wof:name":"Bere",
     "wof:parent_id":85669871,
     "wof:placetype":"county",

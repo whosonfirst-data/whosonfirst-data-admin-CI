@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.564268,
-    "geom:area_square_m":6936218655.328782,
+    "geom:area_square_m":6936218655.328777,
     "geom:bbox":"-6.41636140197,5.65384746453,-5.20281675043,6.6499972303",
     "geom:latitude":6.216081,
     "geom:longitude":-5.8782,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Goh Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.118228,
     "lbl:longitude":-6.039163,
     "meso:admin1name":"Goh-Djiboua",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":1108784995,
-    "wof:lastmodified":1553816510,
+    "wof:lastmodified":1555037227,
     "wof:name":"Goh",
     "wof:parent_id":85669879,
     "wof:placetype":"county",

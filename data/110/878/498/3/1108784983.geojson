@@ -10,6 +10,12 @@
     "geom:latitude":6.715146,
     "geom:longitude":-3.425562,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Indenie-Dj Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.813112,
     "lbl:longitude":-3.490873,
     "meso:admin1name":"Comoe",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784983,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718777,
     "wof:name":"Indenie-Dj",
     "wof:parent_id":85669921,
     "wof:placetype":"county",

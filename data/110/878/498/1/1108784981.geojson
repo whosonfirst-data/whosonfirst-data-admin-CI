@@ -10,6 +10,12 @@
     "geom:latitude":5.853076,
     "geom:longitude":-6.669269,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Nawa Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.880278,
     "lbl:longitude":-6.711807,
     "meso:admin1name":"Bas-Sassandra",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784981,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718776,
     "wof:name":"Nawa",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

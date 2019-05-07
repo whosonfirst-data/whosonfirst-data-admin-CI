@@ -10,6 +10,12 @@
     "geom:latitude":5.489755,
     "geom:longitude":-3.17842,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Sud-Comoe Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.425943,
     "lbl:longitude":-3.162202,
     "meso:admin1name":"Comoe",
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":1108784985,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718777,
     "wof:name":"Sud-Comoe",
     "wof:parent_id":85669927,
     "wof:placetype":"county",

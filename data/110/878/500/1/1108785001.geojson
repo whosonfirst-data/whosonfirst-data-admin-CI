@@ -10,6 +10,12 @@
     "geom:latitude":6.917593,
     "geom:longitude":-5.034337,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Belier Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":7.187049,
     "lbl:longitude":-4.972794,
     "meso:admin1name":"Lacs",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785001,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718778,
     "wof:name":"Belier",
     "wof:parent_id":85669923,
     "wof:placetype":"county",

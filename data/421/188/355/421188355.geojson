@@ -10,6 +10,12 @@
     "geom:latitude":5.01231,
     "geom:longitude":-7.043448,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.031092,
     "lbl:longitude":-7.053362,
     "meso:admin1name":"Bas-Sassandra",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421188355,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1553717465,
     "wof:name":"San Pedro",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

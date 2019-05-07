@@ -10,6 +10,12 @@
     "geom:latitude":5.268581,
     "geom:longitude":-5.972031,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Gbokle Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.301456,
     "lbl:longitude":-5.776904,
     "meso:admin1name":"Bas-Sassandra",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784977,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718777,
     "wof:name":"Gbokle",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

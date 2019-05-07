@@ -10,6 +10,12 @@
     "geom:latitude":6.335305,
     "geom:longitude":-7.686781,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Cavally Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.368484,
     "lbl:longitude":-7.612113,
     "meso:admin1name":"Montagnes",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108785017,
-    "wof:lastmodified":1536615785,
+    "wof:lastmodified":1553718781,
     "wof:name":"Cavally",
     "wof:parent_id":85669915,
     "wof:placetype":"county",

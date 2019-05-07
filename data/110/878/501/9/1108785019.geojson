@@ -10,6 +10,12 @@
     "geom:latitude":7.018517,
     "geom:longitude":-7.31642,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Guemon Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":6.875134,
     "lbl:longitude":-7.324132,
     "meso:admin1name":"Montagnes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785019,
-    "wof:lastmodified":1536615785,
+    "wof:lastmodified":1553718778,
     "wof:name":"Guemon",
     "wof:parent_id":85669915,
     "wof:placetype":"county",

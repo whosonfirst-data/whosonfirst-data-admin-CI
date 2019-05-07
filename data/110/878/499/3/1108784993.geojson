@@ -10,6 +10,12 @@
     "geom:latitude":6.855955,
     "geom:longitude":-5.268561,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Yamoussoukro Autonomous District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous district"
+    ],
     "lbl:latitude":6.869348,
     "lbl:longitude":-5.288044,
     "meso:admin1name":"District Autonome De Yamoussoukro",
@@ -29,6 +35,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Yamoussoukro"
+    ],
+    "name:eng_x_preferred":[
+        "District A"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -65,8 +74,8 @@
         }
     ],
     "wof:id":1108784993,
-    "wof:lastmodified":1536615784,
-    "wof:name":"District A",
+    "wof:lastmodified":1553718777,
+    "wof:name":"Yamoussoukro",
     "wof:parent_id":85669923,
     "wof:placetype":"county",
     "wof:placetype_local":"autonomous district",

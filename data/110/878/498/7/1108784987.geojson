@@ -10,6 +10,12 @@
     "geom:latitude":10.100669,
     "geom:longitude":-7.407092,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Folon Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":10.030539,
     "lbl:longitude":-7.39494,
     "meso:admin1name":"Denguele",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108784987,
-    "wof:lastmodified":1536615783,
+    "wof:lastmodified":1553718777,
     "wof:name":"Folon",
     "wof:parent_id":85669859,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.359735,
     "geom:longitude":-4.77595,
     "iso:country":"CI",
+    "label:eng_x_preferred_longname":[
+        "Grands Pon Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
     "lbl:latitude":5.361851,
     "lbl:longitude":-4.775789,
     "meso:admin1name":"Lagunes",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108785011,
-    "wof:lastmodified":1536615784,
+    "wof:lastmodified":1553718778,
     "wof:name":"Grands Pon",
     "wof:parent_id":85669909,
     "wof:placetype":"county",
