@@ -14,29 +14,23 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u90a6\u675c\u5eab"
-    ],
     "name:dan_x_preferred":[
         "Bondoukou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bondoukou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bd\u03c4\u03bf\u03c5\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Bondoukou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bondoukou"
     ],
     "name:frr_x_preferred":[
         "Bondoukou"
-    ],
-    "name:ger_x_preferred":[
-        "Bondoukou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03bd\u03c4\u03bf\u03c5\u03ba\u03bf\u03cd"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e0\u05d3\u05d5\u05e7\u05d5"
@@ -53,7 +47,10 @@
     "name:lit_x_preferred":[
         "Bonduku"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bondoukou"
+    ],
+    "name:nld_x_preferred":[
         "Bondoukou"
     ],
     "name:nob_x_preferred":[
@@ -62,7 +59,7 @@
     "name:pol_x_preferred":[
         "Bondoukou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bondoukou"
     ],
     "name:rus_x_preferred":[
@@ -221,7 +218,7 @@
         }
     ],
     "wof:id":421200005,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561749325,
     "wof:name":"Bondoukou",
     "wof:parent_id":85669895,
     "wof:placetype":"locality",

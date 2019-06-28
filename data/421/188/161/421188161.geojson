@@ -17,25 +17,13 @@
     "name:ceb_x_preferred":[
         "Guiglo"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u683c\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Guiglo"
-    ],
-    "name:dut_x_preferred":[
         "Guiglo"
     ],
     "name:eng_x_preferred":[
         "Guiglo"
     ],
     "name:fra_x_preferred":[
-        "Guiglo"
-    ],
-    "name:fre_x_preferred":[
-        "Guiglo"
-    ],
-    "name:ger_x_preferred":[
         "Guiglo"
     ],
     "name:hrv_x_preferred":[
@@ -46,9 +34,6 @@
     ],
     "name:lit_x_preferred":[
         "Giglas"
-    ],
-    "name:may_x_preferred":[
-        "Guiglo"
     ],
     "name:msa_x_preferred":[
         "Guiglo"
@@ -63,9 +48,6 @@
         "Guiglo"
     ],
     "name:ron_x_preferred":[
-        "Guiglo"
-    ],
-    "name:rum_x_preferred":[
         "Guiglo"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +205,7 @@
         }
     ],
     "wof:id":421188161,
-    "wof:lastmodified":1527716274,
+    "wof:lastmodified":1561749324,
     "wof:name":"Guiglo",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

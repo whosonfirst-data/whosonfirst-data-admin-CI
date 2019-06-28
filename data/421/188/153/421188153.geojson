@@ -17,10 +17,7 @@
     "name:ceb_x_preferred":[
         "Dabou"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u5e03"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dabou"
     ],
     "name:eng_x_preferred":[
@@ -29,13 +26,7 @@
     "name:fra_x_preferred":[
         "Dabou"
     ],
-    "name:fre_x_preferred":[
-        "Dabou"
-    ],
     "name:frr_x_preferred":[
-        "Dabou"
-    ],
-    "name:ger_x_preferred":[
         "Dabou"
     ],
     "name:ita_x_preferred":[
@@ -46,9 +37,6 @@
     ],
     "name:lit_x_preferred":[
         "Dabu"
-    ],
-    "name:may_x_preferred":[
-        "Dabou"
     ],
     "name:msa_x_preferred":[
         "Dabou"
@@ -66,9 +54,6 @@
         "Dabou"
     ],
     "name:ron_x_preferred":[
-        "Dabou"
-    ],
-    "name:rum_x_preferred":[
         "Dabou"
     ],
     "name:rus_x_preferred":[
@@ -232,7 +217,7 @@
         }
     ],
     "wof:id":421188153,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1561749324,
     "wof:name":"Dabou",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

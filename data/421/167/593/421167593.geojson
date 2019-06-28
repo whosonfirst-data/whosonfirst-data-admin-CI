@@ -16,28 +16,19 @@
     "name:ceb_x_preferred":[
         "Botro"
     ],
-    "name:dut_x_preferred":[
-        "Botro"
-    ],
     "name:eng_x_preferred":[
         "Botro"
     ],
     "name:fra_x_preferred":[
         "Botro"
     ],
-    "name:fre_x_preferred":[
-        "Botro"
-    ],
-    "name:may_x_preferred":[
-        "Botro"
-    ],
     "name:msa_x_preferred":[
         "Botro"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Botro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Botro"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +80,7 @@
         }
     ],
     "wof:id":421167593,
-    "wof:lastmodified":1527716152,
+    "wof:lastmodified":1561749323,
     "wof:name":"Botro",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

@@ -23,19 +23,10 @@
     "name:ceb_x_preferred":[
         "Bouafl\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u74e6\u592b\u840a"
-    ],
-    "name:dut_x_preferred":[
-        "Bouafl\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Bouafl\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Bouafl\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "Bouafl\u00e9"
     ],
     "name:heb_x_preferred":[
@@ -52,9 +43,6 @@
     ],
     "name:lit_x_preferred":[
         "Buafl\u0117"
-    ],
-    "name:may_x_preferred":[
-        "Bouafl\u00e9"
     ],
     "name:msa_x_preferred":[
         "Bouafl\u00e9"
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Bouafl\u00e9"
     ],
-    "name:rum_x_preferred":[
-        "Bouafl\u00e9"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0430\u0444\u043b\u0435"
     ],
@@ -88,6 +73,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0624\u0627\u0641\u0644\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u74e6\u592b\u840a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ivory Coast",
@@ -229,7 +217,7 @@
         }
     ],
     "wof:id":421188155,
-    "wof:lastmodified":1527716289,
+    "wof:lastmodified":1561749324,
     "wof:name":"Bouafl\u00e9",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u723e\u51f1\u585e\u675c\u53e4"
-    ],
     "name:deu_x_preferred":[
-        "Ferkess\u00e9dougou"
-    ],
-    "name:dut_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
     "name:eng_x_preferred":[
@@ -35,31 +29,22 @@
     "name:fra_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
-    "name:fre_x_preferred":[
-        "Ferkess\u00e9dougou"
-    ],
-    "name:ger_x_preferred":[
-        "Ferkess\u00e9dougou"
-    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a7\u30eb\u30b1\u30bb\u30c9\u30a5\u30b0"
     ],
     "name:lit_x_preferred":[
         "Ferkesedugu"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
     "name:pol_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
     "name:ron_x_preferred":[
-        "Ferkess\u00e9dougou"
-    ],
-    "name:rum_x_preferred":[
         "Ferkess\u00e9dougou"
     ],
     "name:rus_x_preferred":[
@@ -73,6 +58,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u06a9\u06cc\u0633\u06cc\u062f\u0624\u06af\u0624"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u723e\u51f1\u585e\u675c\u53e4"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ivory Coast",
@@ -215,7 +203,7 @@
         }
     ],
     "wof:id":421204243,
-    "wof:lastmodified":1527716179,
+    "wof:lastmodified":1561749324,
     "wof:name":"Ferkess\u00e9dougou",
     "wof:parent_id":85669855,
     "wof:placetype":"locality",

@@ -20,13 +20,10 @@
     "name:cat_x_preferred":[
         "Grand-Bassam"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5df4\u85a9\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Grand Bassam"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grand-Bassam"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +32,7 @@
     "name:fin_x_preferred":[
         "Grand-Bassam"
     ],
-    "name:fre_x_preferred":[
-        "Grand-Bassam"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10dc-\u10d1\u10d0\u10e1\u10d0\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand-Bassam"
     ],
     "name:heb_x_preferred":[
@@ -59,6 +50,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30fb\u30d0\u30c3\u30b5\u30e0"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc-\u10d1\u10d0\u10e1\u10d0\u10db\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0430\u043d-\u0411\u0430\u0441\u0430\u043c"
     ],
@@ -68,11 +62,14 @@
     "name:lit_x_preferred":[
         "Gran Basamas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grand-Bassam"
     ],
     "name:nep_x_preferred":[
         "\u0917\u094d\u0930\u092f\u093e\u0923\u094d\u0921-\u092c\u0938\u094d\u0938\u092e"
+    ],
+    "name:nld_x_preferred":[
+        "Grand-Bassam"
     ],
     "name:nob_x_preferred":[
         "Grand Bassam"
@@ -83,7 +80,7 @@
     "name:por_x_preferred":[
         "Grand-Bassam"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Grand Bassam"
     ],
     "name:rus_x_preferred":[
@@ -103,6 +100,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10e0\u10d0\u10dc-\u10d1\u10d0\u10e1\u10d0\u10db\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5df4\u85a9\u59c6"
     ],
     "qs:name":"Grand-Bassam",
     "qs:name_adm0":"C\u00f4te d\u00b4Ivoire",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":890440851,
-    "wof:lastmodified":1527727104,
+    "wof:lastmodified":1561749326,
     "wof:name":"Grand-Bassam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Daloa"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u6d1b\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Daloa"
     ],
     "name:deu_x_preferred":[
         "Daloa"
     ],
-    "name:dut_x_preferred":[
-        "Daloa"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bb\u03bf\u03ac"
     ],
     "name:eng_x_preferred":[
         "Daloa"
@@ -52,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Daloa"
-    ],
-    "name:fre_x_preferred":[
-        "Daloa"
-    ],
-    "name:ger_x_preferred":[
-        "Daloa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bb\u03bf\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ab2\u0acb\u0a86"
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u0921\u093e\u0932\u094b\u0902\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daloa"
     ],
     "name:nau_x_preferred":[
@@ -123,9 +111,6 @@
         "Daloa"
     ],
     "name:ron_x_preferred":[
-        "Daloa"
-    ],
-    "name:rum_x_preferred":[
         "Daloa"
     ],
     "name:rus_x_preferred":[
@@ -305,7 +290,7 @@
         }
     ],
     "wof:id":421175891,
-    "wof:lastmodified":1527716344,
+    "wof:lastmodified":1561749324,
     "wof:name":"Daloa",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

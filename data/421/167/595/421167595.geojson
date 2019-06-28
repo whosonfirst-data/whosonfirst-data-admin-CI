@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Agnibil\u00e9krou"
     ],
-    "name:dut_x_preferred":[
-        "Agnibil\u00e9krou"
-    ],
     "name:eng_x_preferred":[
         "Agnibil\u00e9krou"
     ],
@@ -28,28 +25,19 @@
     "name:fra_x_preferred":[
         "Agnibil\u00e9krou"
     ],
-    "name:fre_x_preferred":[
-        "Agnibil\u00e9krou"
-    ],
     "name:hun_x_preferred":[
-        "Agnibil\u00e9krou"
-    ],
-    "name:may_x_preferred":[
         "Agnibil\u00e9krou"
     ],
     "name:msa_x_preferred":[
         "Agnibil\u00e9krou"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u0646\u06cc\u0628\u06cc\u0644\u06a9\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Agnibil\u00e9krou"
     ],
     "name:pol_x_preferred":[
         "Agnibil\u00e9krou"
     ],
     "name:ron_x_preferred":[
-        "Agnibil\u00e9krou"
-    ],
-    "name:rum_x_preferred":[
         "Agnibil\u00e9krou"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +98,7 @@
         }
     ],
     "wof:id":421167595,
-    "wof:lastmodified":1527716153,
+    "wof:lastmodified":1561749323,
     "wof:name":"Agnibil\u00e9krou",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

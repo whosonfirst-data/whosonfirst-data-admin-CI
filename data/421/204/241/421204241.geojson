@@ -23,17 +23,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09b9\u09cb\u0997\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u970d\u6208"
-    ],
     "name:dan_x_preferred":[
         "Korhogo"
     ],
     "name:deu_x_preferred":[
         "Korhogo"
     ],
-    "name:dut_x_preferred":[
-        "Korhogo"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03bf\u03b3\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
         "Korhogo"
@@ -47,17 +44,8 @@
     "name:fra_x_preferred":[
         "Korhogo"
     ],
-    "name:fre_x_preferred":[
-        "Korhogo"
-    ],
     "name:frr_x_preferred":[
         "Korhogo"
-    ],
-    "name:ger_x_preferred":[
-        "Korhogo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03bf\u03b3\u03ba\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0ab9\u0acb\u0a97\u0acb"
@@ -92,10 +80,13 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u0939\u094b\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Korhogo"
     ],
     "name:nau_x_preferred":[
+        "Korhogo"
+    ],
+    "name:nld_x_preferred":[
         "Korhogo"
     ],
     "name:nob_x_preferred":[
@@ -107,7 +98,7 @@
     "name:por_x_preferred":[
         "Korhogo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Korhogo"
     ],
     "name:rus_x_preferred":[
@@ -289,7 +280,7 @@
         }
     ],
     "wof:id":421204241,
-    "wof:lastmodified":1527716184,
+    "wof:lastmodified":1561749324,
     "wof:name":"Korhogo",
     "wof:parent_id":85669855,
     "wof:placetype":"locality",

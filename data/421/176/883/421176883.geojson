@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Tiassal\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Tiassal\u00e9 Department"
     ],
-    "name:fre_x_preferred":[
-        "Tiassal\u00e9"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tiassal\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421176883,
-    "wof:lastmodified":1527726475,
+    "wof:lastmodified":1561749325,
     "wof:name":"Tiassal\u00e9",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

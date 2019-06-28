@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Man"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u93ae"
-    ],
     "name:dan_x_preferred":[
         "Man"
     ],
     "name:deu_x_preferred":[
         "Man"
     ],
-    "name:dut_x_preferred":[
-        "Man"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Man"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Man"
-    ],
-    "name:fre_x_preferred":[
-        "Man"
-    ],
-    "name:ger_x_preferred":[
-        "Man"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa8"
@@ -95,9 +83,6 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0928"
     ],
-    "name:may_x_preferred":[
-        "Man"
-    ],
     "name:msa_x_preferred":[
         "Man"
     ],
@@ -117,9 +102,6 @@
         "Man"
     ],
     "name:ron_x_preferred":[
-        "Man"
-    ],
-    "name:rum_x_preferred":[
         "Man"
     ],
     "name:rus_x_preferred":[
@@ -296,7 +278,7 @@
         }
     ],
     "wof:id":421189377,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1561749324,
     "wof:name":"Man",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

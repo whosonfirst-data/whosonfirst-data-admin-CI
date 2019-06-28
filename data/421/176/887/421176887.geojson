@@ -17,11 +17,8 @@
     "name:ceb_x_preferred":[
         "Touba"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u5df4"
-    ],
-    "name:dut_x_preferred":[
-        "Touba"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bc\u03c0\u03ac"
     ],
     "name:eng_x_preferred":[
         "Touba"
@@ -31,12 +28,6 @@
     ],
     "name:fra_x_preferred":[
         "Touba"
-    ],
-    "name:fre_x_preferred":[
-        "Touba"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03bc\u03c0\u03ac"
     ],
     "name:hrv_x_preferred":[
         "Touba"
@@ -57,9 +48,6 @@
         "Touba"
     ],
     "name:ron_x_preferred":[
-        "Touba"
-    ],
-    "name:rum_x_preferred":[
         "Touba"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":421176887,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561749325,
     "wof:name":"Touba",
     "wof:parent_id":1108806109,
     "wof:placetype":"locality",

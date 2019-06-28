@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Danan\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u7d0d\u5167"
-    ],
     "name:deu_x_preferred":[
         "Danan\u00e9"
     ],
@@ -28,16 +25,7 @@
     "name:fra_x_preferred":[
         "Danan\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Danan\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Danan\u00e9"
-    ],
     "name:ita_x_preferred":[
-        "Danan\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Danan\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -47,9 +35,6 @@
         "Danan\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Danan\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Danan\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +98,7 @@
         }
     ],
     "wof:id":421185601,
-    "wof:lastmodified":1527726511,
+    "wof:lastmodified":1561749326,
     "wof:name":"Danan\u00e9",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

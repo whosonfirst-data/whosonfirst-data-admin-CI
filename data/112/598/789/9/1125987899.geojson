@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Arrah"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arrah"
     ],
     "name:swe_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1125987899,
-    "wof:lastmodified":1553816680,
+    "wof:lastmodified":1561749326,
     "wof:name":"Arrah",
     "wof:parent_id":1108785005,
     "wof:placetype":"locality",

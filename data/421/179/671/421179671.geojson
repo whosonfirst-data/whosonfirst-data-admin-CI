@@ -19,34 +19,25 @@
     "name:ceb_x_preferred":[
         "Bongouanou"
     ],
-    "name:dut_x_preferred":[
-        "Bongouanou"
-    ],
     "name:eng_x_preferred":[
         "Bongouanou"
     ],
     "name:fra_x_preferred":[
         "Bongouanou"
     ],
-    "name:fre_x_preferred":[
-        "Bongouanou"
-    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30f3\u30b0\u30a2\u30cc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bongouanou"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Bongouanou"
     ],
     "name:por_x_preferred":[
         "Bongouanou"
     ],
     "name:ron_x_preferred":[
-        "Bongouanou"
-    ],
-    "name:rum_x_preferred":[
         "Bongouanou"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421179671,
-    "wof:lastmodified":1513928574,
+    "wof:lastmodified":1561749325,
     "wof:name":"Bongouanou",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

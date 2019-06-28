@@ -36,9 +36,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0627\u0641\u064a\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Bafing"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0411\u0430\u0444\u0456\u043d\u0433"
     ],
@@ -54,17 +51,17 @@
     "name:cat_x_preferred":[
         "Bafing"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u82ac\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bafing"
     ],
     "name:dan_x_preferred":[
         "Bafing Region"
     ],
-    "name:dut_x_preferred":[
-        "Bafing"
+    "name:deu_x_preferred":[
+        "Region Bafing"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03c0\u03b1\u03c6\u03af\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bafing"
@@ -72,20 +69,17 @@
     "name:epo_x_preferred":[
         "Bafing"
     ],
+    "name:eus_x_preferred":[
+        "Bafing"
+    ],
     "name:fin_x_preferred":[
         "Bafing"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Regi\u00f3n Bafing"
-    ],
-    "name:ger_x_preferred":[
-        "Region Bafing"
     ],
     "name:glg_x_preferred":[
         "Bafing"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03c0\u03b1\u03c6\u03af\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aab\u0abf\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,8 +114,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u092b\u093f\u0902\u0917 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bafing Region"
+    ],
+    "name:nld_x_preferred":[
+        "Bafing"
     ],
     "name:nob_x_preferred":[
         "Bafing"
@@ -132,7 +129,7 @@
     "name:por_x_preferred":[
         "Bafing"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Bafing"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +168,9 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Bafing"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u82ac\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":1108785043,
-    "wof:lastmodified":1555037226,
+    "wof:lastmodified":1561749312,
     "wof:name":"Bafing",
     "wof:parent_id":85669863,
     "wof:placetype":"county",

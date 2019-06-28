@@ -16,28 +16,19 @@
     "name:ceb_x_preferred":[
         "Bangolo"
     ],
-    "name:dut_x_preferred":[
-        "Bangolo"
-    ],
     "name:eng_x_preferred":[
         "Bangolo"
     ],
     "name:fra_x_preferred":[
         "Bangolo"
     ],
-    "name:fre_x_preferred":[
-        "Bangolo"
-    ],
-    "name:may_x_preferred":[
-        "Bangolo"
-    ],
     "name:msa_x_preferred":[
         "Bangolo"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Bangolo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bangolo"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +83,7 @@
         }
     ],
     "wof:id":421168123,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561749323,
     "wof:name":"Bangolo",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

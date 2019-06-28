@@ -16,7 +16,7 @@
     "name:ceb_x_preferred":[
         "Daoukro"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Daoukro"
     ],
     "name:eng_x_preferred":[
@@ -25,25 +25,16 @@
     "name:fra_x_preferred":[
         "Daoukro"
     ],
-    "name:fre_x_preferred":[
-        "Daoukro"
-    ],
-    "name:ger_x_preferred":[
-        "Daoukro"
-    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30aa\u30af\u30ed"
-    ],
-    "name:may_x_preferred":[
-        "Daoukro"
     ],
     "name:msa_x_preferred":[
         "Daoukro"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Daoukro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Daoukro"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +92,7 @@
         }
     ],
     "wof:id":421188169,
-    "wof:lastmodified":1527716276,
+    "wof:lastmodified":1561749324,
     "wof:name":"Daoukro",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",
