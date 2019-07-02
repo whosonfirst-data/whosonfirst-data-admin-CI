@@ -17,16 +17,16 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0443\u043c\u043e\u0434\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Toumodi"
+    ],
     "name:eng_x_preferred":[
         "Toumodi-Sakassou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Toumodi-Sakassou"
     ],
-    "name:ger_x_preferred":[
-        "Toumodi"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Toumodi-Sakassou"
     ],
     "name:swe_x_preferred":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421167581,
-    "wof:lastmodified":1513928600,
+    "wof:lastmodified":1561749323,
     "wof:name":"Toumodi",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

@@ -22,13 +22,13 @@
     "name:est_x_preferred":[
         "Zu\u00e9noula"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zu\u00e9noula"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zu\u00e9noula"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zu\u00e9noula"
     ],
     "name:swa_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421182037,
-    "wof:lastmodified":1527726436,
+    "wof:lastmodified":1561749325,
     "wof:name":"Zuenoula",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

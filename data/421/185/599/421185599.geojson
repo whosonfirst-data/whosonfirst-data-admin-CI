@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Affery"
     ],
-    "name:dut_x_preferred":[
-        "Aff\u00e9ry"
-    ],
     "name:eng_x_preferred":[
         "Aff\u00e9ry"
     ],
     "name:fra_x_preferred":[
         "Aff\u00e9ry"
     ],
-    "name:fre_x_preferred":[
-        "Aff\u00e9ry"
-    ],
-    "name:may_x_preferred":[
-        "Aff\u00e9ry"
-    ],
     "name:msa_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:nld_x_preferred":[
         "Aff\u00e9ry"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":421185599,
-    "wof:lastmodified":1527726507,
+    "wof:lastmodified":1561749326,
     "wof:name":"Affery",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

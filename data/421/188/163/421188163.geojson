@@ -20,28 +20,16 @@
     "name:ceb_x_preferred":[
         "Dimbokro"
     ],
-    "name:chi_x_preferred":[
-        "\u4e01\u535a\u514b\u7f57"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dimbokro"
     ],
     "name:deu_x_preferred":[
-        "Dimbokro"
-    ],
-    "name:dut_x_preferred":[
         "Dimbokro"
     ],
     "name:eng_x_preferred":[
         "Dimbokro"
     ],
     "name:fra_x_preferred":[
-        "Dimbokro"
-    ],
-    "name:fre_x_preferred":[
-        "Dimbokro"
-    ],
-    "name:ger_x_preferred":[
         "Dimbokro"
     ],
     "name:heb_x_preferred":[
@@ -59,9 +47,6 @@
     "name:lit_x_preferred":[
         "Dimbokras"
     ],
-    "name:may_x_preferred":[
-        "Dimbokro"
-    ],
     "name:msa_x_preferred":[
         "Dimbokro"
     ],
@@ -77,13 +62,10 @@
     "name:ron_x_preferred":[
         "Dimbokro"
     ],
-    "name:rum_x_preferred":[
-        "Dimbokro"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043c\u0431\u043e\u043a\u0440\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dimbokro"
     ],
     "name:spa_x_preferred":[
@@ -233,7 +215,7 @@
         }
     ],
     "wof:id":421188163,
-    "wof:lastmodified":1527716289,
+    "wof:lastmodified":1561749324,
     "wof:name":"Dimbokro",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

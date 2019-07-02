@@ -16,10 +16,10 @@
     "name:eng_x_preferred":[
         "Issia"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Issia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Issia"
     ],
     "name:swe_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":421167589,
-    "wof:lastmodified":1527716157,
+    "wof:lastmodified":1561749323,
     "wof:name":"Issia",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

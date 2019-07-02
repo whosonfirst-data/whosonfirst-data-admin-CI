@@ -25,25 +25,16 @@
     "name:ceb_x_preferred":[
         "Bingerville"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u71b1\u7dad\u723e"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Bingerville"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bingerville"
     ],
     "name:eng_x_preferred":[
         "Bingerville"
     ],
     "name:fra_x_preferred":[
-        "Bingerville"
-    ],
-    "name:fre_x_preferred":[
-        "Bingerville"
-    ],
-    "name:ger_x_preferred":[
         "Bingerville"
     ],
     "name:heb_x_preferred":[
@@ -61,9 +52,6 @@
     "name:lit_x_preferred":[
         "Bingervilis"
     ],
-    "name:may_x_preferred":[
-        "Bingerville"
-    ],
     "name:msa_x_preferred":[
         "Bingerville"
     ],
@@ -76,9 +64,6 @@
     "name:ron_x_preferred":[
         "Bingerville"
     ],
-    "name:rum_x_preferred":[
-        "Bingerville"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u043d\u0436\u0435\u0440\u0432\u0438\u043b\u044c"
     ],
@@ -87,9 +72,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043d\u0436\u0435\u0440\u0432\u0456\u043b\u044c"
-    ],
-    "name:wel_x_preferred":[
-        "Bingerville"
     ],
     "name:zho_x_preferred":[
         "\u73ed\u71b1\u7dad\u723e"
@@ -145,7 +127,7 @@
         }
     ],
     "wof:id":421170409,
-    "wof:lastmodified":1534379255,
+    "wof:lastmodified":1561749325,
     "wof:name":"Bingerville",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

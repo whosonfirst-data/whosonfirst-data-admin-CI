@@ -22,16 +22,13 @@
     "name:bre_x_preferred":[
         "San-P\u00e9dro"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "San-P\u00e9dro"
     ],
     "name:dan_x_preferred":[
         "San P\u00e9dro"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San-P\u00e9dro"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +37,10 @@
     "name:epo_x_preferred":[
         "San P\u00e9dro"
     ],
-    "name:fre_x_preferred":[
-        "San-P\u00e9dro"
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u067e\u062f\u0631\u0648\u060c \u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San-P\u00e9dro"
     ],
     "name:hrv_x_preferred":[
@@ -64,25 +61,22 @@
     "name:lit_x_preferred":[
         "San Pedras"
     ],
-    "name:may_x_preferred":[
-        "San P\u00e9dro"
-    ],
     "name:msa_x_preferred":[
         "San P\u00e9dro"
     ],
     "name:nau_x_preferred":[
         "San P\u00e9dro"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "San-P\u00e9dro"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u067e\u062f\u0631\u0648\u060c \u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
+    "name:nob_x_preferred":[
+        "San-P\u00e9dro"
     ],
     "name:pol_x_preferred":[
         "San P\u00e9dro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "San P\u00e9dro"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +214,7 @@
         }
     ],
     "wof:id":890439947,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561749326,
     "wof:name":"San-P\u00e9dro",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",
