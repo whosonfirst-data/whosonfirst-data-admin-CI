@@ -31,6 +31,9 @@
     "name:ron_x_preferred":[
         "Zu\u00e9noula"
     ],
+    "name:spa_x_preferred":[
+        "Zu\u00e9noula"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Zu\u00e9noula"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Z\u00e9noula"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u57c3\u52aa\u62c9\u7701"
     ],
     "qs:gn_country":"CI",
     "qs:gn_fcode":"PPL",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421182037,
-    "wof:lastmodified":1561749325,
+    "wof:lastmodified":1563572680,
     "wof:name":"Zuenoula",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

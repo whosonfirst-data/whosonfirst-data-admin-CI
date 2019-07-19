@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Bouafl\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Bouafl\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b1\u03c6\u03bb\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Bouafl\u00e9"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0430\u0444\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Bouafl\u00e9"
     ],
     "name:swe_x_preferred":[
         "Bouafl\u00e9"
@@ -217,7 +226,7 @@
         }
     ],
     "wof:id":421188155,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572672,
     "wof:name":"Bouafl\u00e9",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

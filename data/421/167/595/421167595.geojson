@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Agnibil\u00e9krou"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b9\u03bc\u03c0\u03b9\u03bb\u03b5\u03ba\u03c1\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Agnibil\u00e9krou"
     ],
@@ -26,6 +29,9 @@
         "Agnibil\u00e9krou"
     ],
     "name:hun_x_preferred":[
+        "Agnibil\u00e9krou"
+    ],
+    "name:ita_x_preferred":[
         "Agnibil\u00e9krou"
     ],
     "name:msa_x_preferred":[
@@ -43,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u044c\u0438\u0431\u0438\u043b\u0435\u043a\u0440\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Agnibil\u00e9krou"
+    ],
     "name:swe_x_preferred":[
         "Elfenbenskusten#Geografi"
+    ],
+    "name:swe_x_variant":[
+        "Agnibil\u00e9krou"
     ],
     "name:unk_x_variant":[
         "Anibelekru"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421167595,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572661,
     "wof:name":"Agnibil\u00e9krou",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

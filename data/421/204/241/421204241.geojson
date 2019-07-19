@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09b9\u09cb\u0997\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Korhogo"
+    ],
     "name:dan_x_preferred":[
         "Korhogo"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Korhogo"
+    ],
+    "name:eng_x_variant":[
+        "Tieningbou\u00e9"
     ],
     "name:epo_x_preferred":[
         "Korhogo"
@@ -67,6 +73,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb0\u0cca\u0c97\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10dd\u10d2\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub85c\uace0"
@@ -280,7 +289,7 @@
         }
     ],
     "wof:id":421204241,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572666,
     "wof:name":"Korhogo",
     "wof:parent_id":85669855,
     "wof:placetype":"locality",

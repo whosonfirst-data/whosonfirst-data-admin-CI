@@ -51,6 +51,9 @@
     "name:cat_x_preferred":[
         "Bafing"
     ],
+    "name:ceb_x_preferred":[
+        "Bafing"
+    ],
     "name:ces_x_preferred":[
         "Bafing"
     ],
@@ -66,6 +69,9 @@
     "name:eng_x_preferred":[
         "Bafing"
     ],
+    "name:eng_x_variant":[
+        "Bafing Region"
+    ],
     "name:epo_x_preferred":[
         "Bafing"
     ],
@@ -77,6 +83,9 @@
     ],
     "name:fra_x_preferred":[
         "Regi\u00f3n Bafing"
+    ],
+    "name:fra_x_variant":[
+        "Bafing"
     ],
     "name:glg_x_preferred":[
         "Bafing"
@@ -207,7 +216,7 @@
         }
     ],
     "wof:id":1108785043,
-    "wof:lastmodified":1561749312,
+    "wof:lastmodified":1563572414,
     "wof:name":"Bafing",
     "wof:parent_id":85669863,
     "wof:placetype":"county",

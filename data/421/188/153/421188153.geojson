@@ -20,6 +20,9 @@
     "name:deu_x_preferred":[
         "Dabou"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bc\u03c0\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Dabou"
     ],
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421188153,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572671,
     "wof:name":"Dabou",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

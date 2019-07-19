@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Bangolo"
     ],
+    "name:ita_x_preferred":[
+        "Bangolo"
+    ],
     "name:msa_x_preferred":[
         "Bangolo"
     ],
@@ -29,6 +32,9 @@
         "Bangolo"
     ],
     "name:ron_x_preferred":[
+        "Bangolo"
+    ],
+    "name:spa_x_preferred":[
         "Bangolo"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421168123,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572659,
     "wof:name":"Bangolo",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

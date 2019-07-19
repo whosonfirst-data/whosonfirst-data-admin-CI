@@ -26,20 +26,38 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0627\u0644\u064a \u062f\u0648 \u0628\u0627\u0646\u062f\u0645\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0412\u0430\u043b\u0435-\u0434\u0437\u044e-\u0411\u0430\u043d\u0434\u0430\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b2\u09bf \u09a6\u09cb \u09ac\u09be\u09a8\u09cd\u09a6\u09be\u09ae\u09be \u099c\u09c7\u09b2\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0435 \u0434\u044e \u0411\u0430\u043d\u0434\u0430\u043c\u0430"
     ],
+    "name:dan_x_preferred":[
+        "Vall\u00e9e du Bandama District"
+    ],
     "name:deu_x_preferred":[
         "Vall\u00e9e du Bandama"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03ad \u03bd\u03c4\u03bf\u03c5 \u039c\u03c0\u03b1\u03bd\u03c4\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vall\u00e9e du Bandama"
     ],
+    "name:eng_x_variant":[
+        "Vall\u00e9e du Bandama District"
+    ],
     "name:eus_x_preferred":[
         "Vallee du Bandama"
+    ],
+    "name:fin_x_preferred":[
+        "Vall\u00e9e du Bandaman kaupunginosa"
     ],
     "name:fra_x_colloquial":[
         "Vallee du Bandama"
@@ -47,17 +65,62 @@
     "name:fra_x_preferred":[
         "Vall\u00e9e du Bandama"
     ],
+    "name:frr_x_preferred":[
+        "Vall\u00e9e du Bandama"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac5\u0ab2\u0ac0 \u0aa1\u0ac1 \u0aac\u0aa8\u0acd\u0aa1\u0abe\u0aae\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0948\u0932\u0940 \u0921\u0942 \u092c\u0948\u0902\u0921\u093e\u092e\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Vall\u00e9e du Bandama"
+    ],
     "name:ita_x_preferred":[
         "Regione della Valle del Bandama"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30c0\u30de\u6e13\u8c37\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30f3\u30c0\u30de\u6e13\u8c37\u5730\u65b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cb2\u0ccd\u0cb2\u0cc0 \u0ca1\u0cc1 \u0cac\u0cbe\u0c82\u0ca1\u0cae\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d4-\u10d3\u10e3-\u10d1\u10d0\u10dc\u10d3\u10d0\u10db\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubc1c\ub808\ub4a4\ubc29\ub2e4\ub9c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc1c\ub808\ub4a4\ubc29\ub2e4\ub9c8 \uc9c0\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Bandamas ielejas distrikts"
+    ],
     "name:lit_x_preferred":[
         "Bandamos Sl\u0117nis"
+    ],
+    "name:lit_x_variant":[
+        "Vale du Bandamos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0932\u094d\u0932\u0940 \u0921\u093f \u092c\u0945\u0928\u094d\u0921\u092e\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Vallee du Bandama District"
+    ],
+    "name:nld_x_preferred":[
+        "Vall\u00e9e du Bandama"
+    ],
+    "name:nob_x_preferred":[
+        "Vallee du Dandama distrikt"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Vall\u00e9e du Bandama"
     ],
     "name:ron_x_preferred":[
         "Regiunea Vall\u00e9e du Bandama"
@@ -65,14 +128,47 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0435-\u0434\u044e-\u0411\u0430\u043d\u0434\u0430\u043c\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd0\u0dbd\u0dda \u0da9\u0dd4 \u0db6\u0db1\u0dca\u0da9\u0db8\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Vall\u00e9e du Bandama"
+    ],
     "name:swa_x_preferred":[
         "Mkoa wa Vall\u00e9e du Bandama"
+    ],
+    "name:swa_x_variant":[
+        "Jimbo la Vall\u00e9e du Bandama"
+    ],
+    "name:swe_x_preferred":[
+        "Vallee du Dandama"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c32\u0c4d\u0c32\u0c40 \u0c21\u0c41 \u0c2c\u0c02\u0c26\u0c3e\u0c2e\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e31\u0e25\u0e25\u0e35 \u0e14\u0e39 \u0e1a\u0e32\u0e19\u0e14\u0e32\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Vall\u00e9e du Bandama District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0412\u0430\u043b\u043b\u0435-\u0434\u044e-\u0411\u0430\u043d\u0434\u0430\u043c\u0430"
     ],
     "name:unk_x_variant":[
         "Vall\u00e9e du Bandama"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0644\u06cc\u06cc \u062f\u0648 \u0628\u0627\u0646\u062f\u0627\u0645\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Vall\u00e9e du Bandama"
+    ],
     "name:zho_x_preferred":[
         "\u90a6\u8fbe\u9a6c\u6cb3\u8c37\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u90a6\u9054\u99ac\u6cb3\u8c37\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CIV",
@@ -197,7 +293,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550352,
+    "wof:lastmodified":1563571757,
     "wof:name":"Valle Du Bandama",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

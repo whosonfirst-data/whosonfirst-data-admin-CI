@@ -16,10 +16,16 @@
     "name:ceb_x_preferred":[
         "Affery"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03b5\u03c1\u03af"
+    ],
     "name:eng_x_preferred":[
         "Aff\u00e9ry"
     ],
     "name:fra_x_preferred":[
+        "Aff\u00e9ry"
+    ],
+    "name:ita_x_preferred":[
         "Aff\u00e9ry"
     ],
     "name:msa_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421185599,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572682,
     "wof:name":"Affery",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

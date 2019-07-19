@@ -13,7 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c6\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Sinfra"
+    ],
     "name:msa_x_preferred":[
+        "Sinfra"
+    ],
+    "name:spa_x_preferred":[
         "Sinfra"
     ],
     "qs:gn_country":"CI",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":421168119,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1563572656,
     "wof:name":"Sinfra",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

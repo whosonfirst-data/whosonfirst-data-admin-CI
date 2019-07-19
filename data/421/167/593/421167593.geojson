@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Botro"
     ],
+    "name:ita_x_preferred":[
+        "Botro"
+    ],
     "name:msa_x_preferred":[
         "Botro"
     ],
@@ -29,6 +32,9 @@
         "Botro"
     ],
     "name:ron_x_preferred":[
+        "Botro"
+    ],
+    "name:spa_x_preferred":[
         "Botro"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421167593,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572660,
     "wof:name":"Botro",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

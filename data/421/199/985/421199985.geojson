@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Abidjan"
     ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1262\u1303\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0628\u064a\u062f\u062c\u0627\u0646"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0431\u0456\u0434\u0436\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0431\u0456\u0434\u0436\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09bf\u099c\u09be\u09a8"
@@ -101,6 +107,9 @@
     "name:fra_x_preferred":[
         "Abidjan"
     ],
+    "name:frr_x_preferred":[
+        "Abidjan"
+    ],
     "name:fry_x_preferred":[
         "Abidjan"
     ],
@@ -116,11 +125,20 @@
     "name:glv_x_preferred":[
         "Abidjan"
     ],
+    "name:grn_x_preferred":[
+        "Ambij\u00e3"
+    ],
     "name:gsw_x_preferred":[
         "Abidjan"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0abf\u0aa6\u0acd\u0a9c\u0abe\u0aa8"
+    ],
+    "name:hat_x_preferred":[
+        "Abidjan"
+    ],
+    "name:hau_x_preferred":[
+        "Abidjan"
     ],
     "name:hbs_x_preferred":[
         "Abidjan"
@@ -133,6 +151,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0906\u092c\u093f\u0921\u091c\u093e\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0906\u092c\u093f\u0926\u091c\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Abidjan"
@@ -175,6 +196,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0431\u0438\u0434\u0436\u0430\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Ab\u0269\u0269ja\u014b"
     ],
     "name:kir_x_preferred":[
         "\u0410\u0431\u0438\u0434\u0436\u0430\u043d \u0448\u0430\u0430\u0440\u044b"
@@ -257,6 +281,9 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a2c\u0a40\u0a1c\u0a3e\u0a28"
     ],
+    "name:pap_x_preferred":[
+        "Abidjan"
+    ],
     "name:pms_x_preferred":[
         "Abidjan"
     ],
@@ -323,6 +350,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bbf\u0b9c\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u0431\u0438\u0497\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2c\u0c3f\u0c26\u0c4d \u0c1c\u0c3e\u0c28\u0c4d"
     ],
@@ -337,6 +367,9 @@
     ],
     "name:tuk_x_preferred":[
         "Abijan"
+    ],
+    "name:tuk_x_variant":[
+        "Abidjan"
     ],
     "name:tur_x_preferred":[
         "Abidjan"
@@ -365,6 +398,9 @@
     "name:war_x_preferred":[
         "Abidjan"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u6bd4\u8ba9"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d1\u10d8\u10ef\u10d0\u10dc\u10d8"
     ],
@@ -376,6 +412,9 @@
     ],
     "name:yue_x_preferred":[
         "\u963f\u5fc5\u4ec1"
+    ],
+    "name:yue_x_variant":[
+        "\u963f\u5fc5\u5c1a"
     ],
     "name:zho_min_nan_x_preferred":[
         "Abidjan"
@@ -527,7 +566,7 @@
         }
     ],
     "wof:id":421199985,
-    "wof:lastmodified":1561749325,
+    "wof:lastmodified":1563572677,
     "wof:name":"Abidjan",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

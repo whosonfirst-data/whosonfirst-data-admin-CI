@@ -25,14 +25,116 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0641\u0627\u0646\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ac\u09be\u09a8\u09c7\u09b8 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Savanes District"
+    ],
+    "name:deu_x_preferred":[
+        "Savanes"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b2\u03ac\u03bd\u03b5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Savanes"
+    ],
+    "name:eng_x_variant":[
+        "Savanes District"
+    ],
+    "name:fin_x_preferred":[
+        "Savanesin kaupunginosa"
     ],
     "name:fra_x_preferred":[
         "Savanes"
     ],
+    "name:frr_x_preferred":[
+        "Savanes"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0ab5\u0ac7\u0aa8\u0acd\u0ab8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0935\u093e\u0928\u0947\u0938 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Savanes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f4\u30a1\u30cc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cb5\u0ca8\u0cc6\u0cb8\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d4\u10d1\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ubc18 \uc9c0\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Savannas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Savaneso apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0935\u0947\u0928 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Savanes District"
+    ],
+    "name:nld_x_preferred":[
+        "Savanes"
+    ],
+    "name:nob_x_preferred":[
+        "Savanes distrikt"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Savanes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dc0\u0db1\u0dd9\u0dc3\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Savanes"
+    ],
+    "name:swe_x_preferred":[
+        "Savanes"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb5\u0ba9\u0bc7\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c35\u0c3e\u0c28\u0c46\u0c38\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e27\u0e32\u0e40\u0e19\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Savanes District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "R\u00e9gion des Savanes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0648\u0627\u0646\u06cc\u0633 \u0688\u0633\u0679\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Savanes"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u74e6\u5167\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CIV",
@@ -155,7 +257,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550342,
+    "wof:lastmodified":1563571758,
     "wof:name":"Savanes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

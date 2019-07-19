@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u0648\u060c \u0633\u0627\u062d\u0644 \u0627\u0644\u0639\u0627\u062c"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0641\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044b\u0432\u043e"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03af\u03b2\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b9\u03b2\u03cc"
     ],
     "name:eng_x_preferred":[
         "Divo"
@@ -113,6 +119,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0bb5\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbf\u0bb5\u0bcb "
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c35\u0c4b"
     ],
@@ -130,6 +139,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0648\u060c \u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u06cc\u0648\u0648"
     ],
     "name:vie_x_preferred":[
         "Divo"
@@ -277,7 +289,7 @@
         }
     ],
     "wof:id":421167585,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572663,
     "wof:name":"Divo",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",
