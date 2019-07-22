@@ -22,13 +22,25 @@
     "name:fra_x_preferred":[
         "Dabakala"
     ],
+    "name:ita_x_preferred":[
+        "Dabakala"
+    ],
     "name:msa_x_preferred":[
         "Dabakala"
     ],
     "name:nld_x_preferred":[
         "Dabakala"
     ],
+    "name:por_x_preferred":[
+        "Dabakala"
+    ],
     "name:ron_x_preferred":[
+        "Dabakala"
+    ],
+    "name:spa_x_preferred":[
+        "Dabakala"
+    ],
+    "name:swe_x_preferred":[
         "Dabakala"
     ],
     "name:unk_x_variant":[
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":421168121,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572656,
     "wof:name":"Dabakala",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

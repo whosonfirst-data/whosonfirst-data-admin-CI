@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Man"
     ],
+    "name:frr_x_preferred":[
+        "Man"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa8"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043d"
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":421189377,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572667,
     "wof:name":"Man",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

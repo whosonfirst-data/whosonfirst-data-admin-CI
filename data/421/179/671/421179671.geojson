@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Bongouanou"
     ],
+    "name:ita_x_preferred":[
+        "Bongouanou"
+    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30f3\u30b0\u30a2\u30cc"
     ],
@@ -40,11 +43,17 @@
     "name:ron_x_preferred":[
         "Bongouanou"
     ],
+    "name:spa_x_preferred":[
+        "Bongouanou"
+    ],
     "name:swe_x_preferred":[
         "Bongouanou"
     ],
     "name:unk_x_variant":[
         "Bonguanu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0646\u06af\u0624\u0627\u0646\u0624"
     ],
     "qs:gn_country":"CI",
     "qs:gn_fcode":"PPL",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421179671,
-    "wof:lastmodified":1561749325,
+    "wof:lastmodified":1563572679,
     "wof:name":"Bongouanou",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

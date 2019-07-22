@@ -18,8 +18,14 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bonoua"
+    ],
     "name:deu_x_preferred":[
         "Bonoua"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bd\u03bf\u03c5\u03ac"
     ],
     "name:eng_x_preferred":[
         "Bonoua"
@@ -27,10 +33,16 @@
     "name:fra_x_preferred":[
         "Bonoua"
     ],
+    "name:ita_x_preferred":[
+        "Bonoua"
+    ],
     "name:msa_x_preferred":[
         "Bonoua"
     ],
     "name:nld_x_preferred":[
+        "Bonoua"
+    ],
+    "name:pol_x_preferred":[
         "Bonoua"
     ],
     "name:ron_x_preferred":[
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":890434607,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572686,
     "wof:name":"Bonoua",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

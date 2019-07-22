@@ -32,17 +32,29 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043d\u0437\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zanzan"
+    ],
     "name:eng_x_preferred":[
         "Zanzan"
     ],
+    "name:eng_x_variant":[
+        "Zanzan District"
+    ],
     "name:fra_x_preferred":[
         "Zanzan"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Zanzan"
     ],
     "name:ita_x_preferred":[
         "Regione di Zanzan"
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30f3\u30b6\u30f3\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10dc\u10d6\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc7a5\uc794 \uc8fc"
@@ -59,11 +71,23 @@
     "name:swa_x_preferred":[
         "Mkoa wa Zanzan"
     ],
+    "name:swe_x_preferred":[
+        "Zanzan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u0437\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "R\u00e9gion du Zanzan"
     ],
     "name:zho_x_preferred":[
         "\u8d5e\u8d5e\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u8d0a\u8d0a\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Ugu Emhlophe"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CIV",
@@ -187,7 +211,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550325,
+    "wof:lastmodified":1563571755,
     "wof:name":"Zanzan",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

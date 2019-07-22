@@ -25,10 +25,22 @@
     "name:fra_x_preferred":[
         "Tengr\u00e9la"
     ],
+    "name:ita_x_preferred":[
+        "Tingr\u00e9la"
+    ],
     "name:nld_x_preferred":[
         "Tengr\u00e9la"
     ],
+    "name:pol_x_preferred":[
+        "Tengr\u00e9la"
+    ],
+    "name:por_x_preferred":[
+        "Tengrela"
+    ],
     "name:ron_x_preferred":[
+        "Tengr\u00e9la"
+    ],
+    "name:spa_x_preferred":[
         "Tengr\u00e9la"
     ],
     "name:unk_x_variant":[
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1125869169,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572686,
     "wof:name":"Tengrela",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

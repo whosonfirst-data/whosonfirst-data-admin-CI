@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "S\u00e9gu\u00e9la"
+    ],
     "name:deu_x_preferred":[
         "S\u00e9gu\u00e9la"
     ],
@@ -59,7 +62,13 @@
     "name:rus_x_variant":[
         "\u0421\u0435\u0433\u0435\u043b\u0435"
     ],
+    "name:spa_x_preferred":[
+        "S\u00e9gu\u00e9la"
+    ],
     "name:swa_x_preferred":[
+        "S\u00e9gu\u00e9la"
+    ],
+    "name:swe_x_preferred":[
         "S\u00e9gu\u00e9la"
     ],
     "name:ukr_x_preferred":[
@@ -210,7 +219,7 @@
         }
     ],
     "wof:id":421169029,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572664,
     "wof:name":"S\u00e9gu\u00e9la",
     "wof:parent_id":1108806109,
     "wof:placetype":"locality",

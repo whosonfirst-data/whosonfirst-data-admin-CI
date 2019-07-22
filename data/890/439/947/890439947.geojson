@@ -22,6 +22,9 @@
     "name:bre_x_preferred":[
         "San-P\u00e9dro"
     ],
+    "name:ceb_x_preferred":[
+        "San-P\u00e9dro"
+    ],
     "name:ces_x_preferred":[
         "San-P\u00e9dro"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:deu_x_preferred":[
         "San-P\u00e9dro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd-\u03a0\u03b5\u03bd\u03c4\u03c1\u03cc"
     ],
     "name:eng_x_preferred":[
         "San P\u00e9dro"
@@ -40,8 +46,20 @@
     "name:fas_x_preferred":[
         "\u0633\u0646-\u067e\u062f\u0631\u0648\u060c \u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0646-\u067e\u062f\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "San-P\u00e9dro"
+    ],
     "name:fra_x_preferred":[
         "San-P\u00e9dro"
+    ],
+    "name:frr_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05d3\u05e8\u05d5"
     ],
     "name:hrv_x_preferred":[
         "San P\u00e9dro"
@@ -54,6 +72,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\uff1d\u30da\u30c9\u30ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10de\u10d4\u10d3\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ud398\ub4dc\ub85c"
@@ -87,6 +108,9 @@
     ],
     "name:swe_x_preferred":[
         "San-P\u00e9dro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646-\u067e\u06cc\u062f\u0631\u0648"
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85"
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":890439947,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572684,
     "wof:name":"San-P\u00e9dro",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",

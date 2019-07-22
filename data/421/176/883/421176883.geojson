@@ -25,11 +25,17 @@
     "name:msa_x_preferred":[
         "Tiassal\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Tiassal\u00e9"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Tiassal\u00e9"
     ],
     "name:swe_x_preferred":[
         "D\u00e9partement de Tiassal\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u4e9e\u85a9\u840a\u7701"
     ],
     "qs:gn_country":"CI",
     "qs:gn_fcode":"PPL",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421176883,
-    "wof:lastmodified":1561749325,
+    "wof:lastmodified":1563572681,
     "wof:name":"Tiassal\u00e9",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

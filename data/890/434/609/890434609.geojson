@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u0628\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0628\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09be\u09ac\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Abobo"
     ],
     "name:dan_x_preferred":[
         "Abobo"
@@ -29,6 +35,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03cc\u03bc\u03c0\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03bf\u03bc\u03c0\u03cc"
     ],
     "name:eng_x_preferred":[
         "Abobo"
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":890434609,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572686,
     "wof:name":"Abobo",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

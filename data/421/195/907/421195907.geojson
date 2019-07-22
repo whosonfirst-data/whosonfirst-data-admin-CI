@@ -25,6 +25,9 @@
     "name:deu_x_preferred":[
         "D\u00e9partement d\u2019Adzop\u00e9"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03b6\u03bf\u03c0\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Adzop\u00e9"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421195907,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572659,
     "wof:name":"Adzop\u00e9",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

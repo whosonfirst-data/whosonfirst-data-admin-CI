@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0644\u0648\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043b\u043e\u0430"
     ],
@@ -44,11 +47,20 @@
     "name:epo_x_preferred":[
         "Daloa"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0644\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Daloa"
     ],
     "name:fra_x_preferred":[
         "Daloa"
+    ],
+    "name:frr_x_preferred":[
+        "Daloa"
+    ],
+    "name:grn_x_preferred":[
+        "Ndaloa"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ab2\u0acb\u0a86"
@@ -62,6 +74,9 @@
     "name:hrv_x_preferred":[
         "Daloa"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u056c\u0578\u0561"
+    ],
     "name:ind_x_preferred":[
         "Daloa"
     ],
@@ -73,6 +88,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca6\u0cb2\u0ccb\u0cb5\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10da\u10dd\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0430\u043b\u043e\u0430"
@@ -290,7 +308,7 @@
         }
     ],
     "wof:id":421175891,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572674,
     "wof:name":"Daloa",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

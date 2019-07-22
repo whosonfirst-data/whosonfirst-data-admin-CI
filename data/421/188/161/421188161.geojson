@@ -29,11 +29,17 @@
     "name:hrv_x_preferred":[
         "Guiglo"
     ],
+    "name:ita_x_preferred":[
+        "Guiglo"
+    ],
     "name:jpn_x_preferred":[
         "\u30ae\u30fc\u30ea\u30e7"
     ],
     "name:lit_x_preferred":[
         "Giglas"
+    ],
+    "name:lit_x_variant":[
+        "Giljas"
     ],
     "name:msa_x_preferred":[
         "Guiglo"
@@ -52,6 +58,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u0433\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Guiglo"
     ],
     "name:swe_x_preferred":[
         "Guiglo"
@@ -205,7 +214,7 @@
         }
     ],
     "wof:id":421188161,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572669,
     "wof:name":"Guiglo",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

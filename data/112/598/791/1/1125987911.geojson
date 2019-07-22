@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u064a\u0627\u0645\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u044c\u044f\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a8\u09be\u0987\u09ae\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Anyama"
     ],
     "name:dan_x_preferred":[
         "Anyama"
@@ -33,6 +39,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03b3\u03b9\u03ac\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03b9\u03b1\u03bc\u03ac"
     ],
     "name:eng_x_preferred":[
         "Anyama"
@@ -105,6 +114,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u044c\u044f\u043c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u044c\u044f\u043c\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0db1\u0dca\u0dba\u0dcf\u0db8\u0dcf"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":1125987911,
-    "wof:lastmodified":1561749326,
+    "wof:lastmodified":1563572687,
     "wof:name":"Anyama",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

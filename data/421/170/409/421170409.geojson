@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Bingerville"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03b6\u03b5\u03c1\u03b2\u03af\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Bingerville"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421170409,
-    "wof:lastmodified":1561749325,
+    "wof:lastmodified":1563572678,
     "wof:name":"Bingerville",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

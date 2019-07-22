@@ -16,10 +16,16 @@
     "name:ceb_x_preferred":[
         "Biankouma"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03b1\u03bd\u03ba\u03bf\u03c5\u03bc\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Biankouma"
     ],
     "name:fra_x_preferred":[
+        "Biankouma"
+    ],
+    "name:ita_x_preferred":[
         "Biankouma"
     ],
     "name:msa_x_preferred":[
@@ -29,6 +35,12 @@
         "Biankouma"
     ],
     "name:ron_x_preferred":[
+        "Biankouma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044c\u044f\u043d\u043a\u043e\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
         "Biankouma"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":421194215,
-    "wof:lastmodified":1561749323,
+    "wof:lastmodified":1563572660,
     "wof:name":"Biankouma",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

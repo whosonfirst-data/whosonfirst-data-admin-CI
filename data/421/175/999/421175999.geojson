@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Soubr\u00e9"
     ],
+    "name:cym_x_preferred":[
+        "Soubr\u00e9"
+    ],
     "name:dan_x_preferred":[
         "Soubr\u00e9"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421175999,
-    "wof:lastmodified":1561749324,
+    "wof:lastmodified":1563572673,
     "wof:name":"Soubr\u00e9",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",
