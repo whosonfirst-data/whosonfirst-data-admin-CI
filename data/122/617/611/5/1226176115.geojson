@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sa\u00efoua"
+    ],
+    "name:ita_x_preferred":[
+        "Sa\u00efoua"
+    ],
+    "name:msa_x_preferred":[
+        "Sa\u00efoua"
+    ],
     "name:und_x_variant":[
         "Saouia",
         "Se\u00ef\u00e9oua",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226176115,
-    "wof:lastmodified":1537590929,
+    "wof:lastmodified":1564105926,
     "wof:name":"Saioua",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

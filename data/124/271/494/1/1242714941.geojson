@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nofou"
+    ],
+    "name:ita_x_preferred":[
+        "Nofou"
+    ],
+    "name:msa_x_preferred":[
+        "Nofou"
+    ],
     "name:und_x_variant":[
         "Nofou"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242714941,
-    "wof:lastmodified":1537590949,
+    "wof:lastmodified":1564105749,
     "wof:name":"Noufou",
     "wof:parent_id":1108785007,
     "wof:placetype":"locality",

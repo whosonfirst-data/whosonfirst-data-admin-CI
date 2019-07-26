@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nambingu\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Nambingu\u00e9"
+    ],
     "name:und_x_variant":[
         "Nianp\u00e9r\u00e9qu\u00e9",
         "Nampingue",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343490263,
-    "wof:lastmodified":1537590959,
+    "wof:lastmodified":1564104520,
     "wof:name":"Nambingue",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

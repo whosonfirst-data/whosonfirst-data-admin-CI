@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouadiokro"
+    ],
+    "name:msa_x_preferred":[
+        "Kouadiokro"
+    ],
     "name:und_x_variant":[
         "Kouadioukro"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310341439,
-    "wof:lastmodified":1537590986,
+    "wof:lastmodified":1564105446,
     "wof:name":"Kouadiokro",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahino"
+    ],
+    "name:msa_x_preferred":[
+        "Mahino"
+    ],
+    "name:ron_x_preferred":[
+        "Mahino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276473135,
-    "wof:lastmodified":1537489414,
+    "wof:lastmodified":1564104898,
     "wof:name":"Mahino",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

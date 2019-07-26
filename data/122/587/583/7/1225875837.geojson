@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Worofla"
+    ],
+    "name:ita_x_preferred":[
+        "Worofla"
+    ],
+    "name:msa_x_preferred":[
+        "Worofla"
+    ],
     "name:und_x_variant":[
         "Ouorofia",
         "Ouorofla",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1225875837,
-    "wof:lastmodified":1537590899,
+    "wof:lastmodified":1564106013,
     "wof:name":"Worofla",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

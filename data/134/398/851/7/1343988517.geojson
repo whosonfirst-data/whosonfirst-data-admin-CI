@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ganaoni"
+    ],
+    "name:ita_x_preferred":[
+        "Ganaoni"
+    ],
+    "name:msa_x_preferred":[
+        "Ganaoni"
+    ],
+    "name:ron_x_preferred":[
+        "Ganaoni"
+    ],
     "name:und_x_variant":[
         "Nganoni",
         "Nganaoni",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343988517,
-    "wof:lastmodified":1537590954,
+    "wof:lastmodified":1564104431,
     "wof:name":"Ganaoni",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

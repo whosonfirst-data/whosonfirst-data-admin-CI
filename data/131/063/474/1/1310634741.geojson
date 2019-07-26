@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sandala"
+    ],
+    "name:msa_x_preferred":[
+        "Sandala,Ivory Coast"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310634741,
-    "wof:lastmodified":1537489397,
+    "wof:lastmodified":1564105399,
     "wof:name":"Sandala",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

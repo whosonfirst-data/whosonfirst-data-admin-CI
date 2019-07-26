@@ -27,11 +27,38 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Basa"
+    ],
+    "name:ces_x_preferred":[
+        "Basa"
+    ],
+    "name:deu_x_preferred":[
+        "Basa"
+    ],
     "name:eng_x_preferred":[
         "Yeh"
     ],
     "name:eng_x_variant":[
         "Grand Berebi"
+    ],
+    "name:fra_x_preferred":[
+        "Basa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1\u05d4"
+    ],
+    "name:lmo_x_preferred":[
+        "Basa"
+    ],
+    "name:slk_x_preferred":[
+        "Basa"
+    ],
+    "name:swe_x_preferred":[
+        "Basa"
+    ],
+    "name:tgl_x_preferred":[
+        "Basa"
     ],
     "name:und_x_variant":[
         "Bossa",
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1327463067,
-    "wof:lastmodified":1537591068,
+    "wof:lastmodified":1564104320,
     "wof:name":"Basa",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

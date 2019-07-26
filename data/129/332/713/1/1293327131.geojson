@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tabagne"
+    ],
+    "name:ita_x_preferred":[
+        "Tabagne"
+    ],
+    "name:msa_x_preferred":[
+        "Tabagne"
+    ],
     "name:und_x_variant":[
         "Tabagui",
         "Tabanye",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293327131,
-    "wof:lastmodified":1537590918,
+    "wof:lastmodified":1564104738,
     "wof:name":"Tabagne",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

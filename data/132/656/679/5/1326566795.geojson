@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9ma"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9ma",
         "Ti\u00e9na"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326566795,
-    "wof:lastmodified":1537590913,
+    "wof:lastmodified":1564104286,
     "wof:name":"Tiema",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

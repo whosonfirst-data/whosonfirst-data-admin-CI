@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Napi\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Napi\u00e9ol\u00e9dougou"
+    ],
+    "name:msa_x_preferred":[
+        "Napi\u00e9"
+    ],
     "name:und_x_variant":[
         "Gbomb\u00e9l\u00e9-Kaha",
         "Gbanl\u00e9l\u00e9",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226079399,
-    "wof:lastmodified":1537590957,
+    "wof:lastmodified":1564106093,
     "wof:name":"Napie",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

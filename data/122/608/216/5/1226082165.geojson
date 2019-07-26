@@ -25,6 +25,51 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mene"
+    ],
+    "name:deu_x_preferred":[
+        "Mondbarsche"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ae\u03bd\u03b7"
+    ],
+    "name:eus_x_preferred":[
+        "Mene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0645\u200c\u0645\u0627\u0647\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Kirvesahven"
+    ],
+    "name:fra_x_preferred":[
+        "Mene"
+    ],
+    "name:ita_x_preferred":[
+        "Mene"
+    ],
+    "name:lat_x_preferred":[
+        "Mene"
+    ],
+    "name:lit_x_preferred":[
+        "M\u0117nuliniai e\u0161eriai"
+    ],
+    "name:pol_x_preferred":[
+        "Mene"
+    ],
+    "name:spa_x_preferred":[
+        "Mene"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0ba9\u0bc8\u0b9f\u0bc0"
+    ],
+    "name:vie_x_preferred":[
+        "Mene"
+    ],
+    "name:zho_x_preferred":[
+        "\u773c\u955c\u9c7c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1226082165,
-    "wof:lastmodified":1536672520,
+    "wof:lastmodified":1564106086,
     "wof:name":"Mene",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

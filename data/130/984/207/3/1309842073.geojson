@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Toupah"
+    ],
+    "name:ita_x_preferred":[
+        "Toupah"
+    ],
+    "name:msa_x_preferred":[
+        "Toupah"
+    ],
     "name:und_x_variant":[
         "Toupa",
         "Tupa",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309842073,
-    "wof:lastmodified":1537590908,
+    "wof:lastmodified":1564105563,
     "wof:name":"Toupah",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

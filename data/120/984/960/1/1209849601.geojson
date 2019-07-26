@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9cou\u00e9fin"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9cou\u00e9fin"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9cou\u00e9fin"
+    ],
     "name:und_x_variant":[
         "B\u00e9kou\u00e9fin",
         "Bekuefin",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209849601,
-    "wof:lastmodified":1537591065,
+    "wof:lastmodified":1564105035,
     "wof:name":"Becouefin",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

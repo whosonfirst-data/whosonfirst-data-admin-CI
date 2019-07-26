@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bogu\u00e9dia"
+    ],
+    "name:ita_x_preferred":[
+        "Bogu\u00e9dia"
+    ],
+    "name:msa_x_preferred":[
+        "Bogu\u00e9dia"
+    ],
     "name:und_x_variant":[
         "Bogu\u00e9dia"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343893893,
-    "wof:lastmodified":1537591057,
+    "wof:lastmodified":1564104608,
     "wof:name":"Boguedia",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

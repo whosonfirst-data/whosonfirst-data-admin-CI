@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nouamou"
+    ],
+    "name:ita_x_preferred":[
+        "Nouamou"
+    ],
+    "name:msa_x_preferred":[
+        "Nouamou"
+    ],
+    "name:ron_x_preferred":[
+        "Nouamou"
+    ],
     "name:und_x_variant":[
         "Nuamu",
         "Nuamou",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326963859,
-    "wof:lastmodified":1537590948,
+    "wof:lastmodified":1564104377,
     "wof:name":"Nouamou",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

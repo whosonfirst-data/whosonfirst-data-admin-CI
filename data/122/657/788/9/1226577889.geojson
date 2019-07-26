@@ -25,6 +25,30 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Anon"
+    ],
+    "name:deu_x_preferred":[
+        "Anon"
+    ],
+    "name:fra_x_preferred":[
+        "Anon"
+    ],
+    "name:ita_x_preferred":[
+        "Anon"
+    ],
+    "name:nld_x_preferred":[
+        "Anon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "An\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Anon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226577889,
-    "wof:lastmodified":1536953440,
+    "wof:lastmodified":1564105991,
     "wof:name":"Anon",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

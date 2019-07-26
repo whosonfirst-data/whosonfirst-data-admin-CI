@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ay\u00e9nouan"
+    ],
+    "name:msa_x_preferred":[
+        "Ay\u00e9nouan"
+    ],
+    "name:ron_x_preferred":[
+        "Ay\u00e9nouan"
+    ],
     "name:und_x_variant":[
         "Ay\u00e9nouan",
         "Ay\u00e9noua"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343968631,
-    "wof:lastmodified":1537591074,
+    "wof:lastmodified":1564104429,
     "wof:name":"Ayenoua",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

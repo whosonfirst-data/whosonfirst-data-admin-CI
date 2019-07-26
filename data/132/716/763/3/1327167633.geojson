@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9c\u00e9di-Brignan"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9c\u00e9di-Brignan"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9c\u00e9di Brignan"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e9c\u00e9di-Brignan"
+    ],
     "name:und_x_variant":[
         "B\u00e9ss\u00e9di-Brignan",
         "B\u00e9c\u00e9di-Mbrignan",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1327167633,
-    "wof:lastmodified":1537591066,
+    "wof:lastmodified":1564104404,
     "wof:name":"Becedi-Brignan",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

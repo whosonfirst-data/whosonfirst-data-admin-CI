@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Iroporia"
+    ],
+    "name:msa_x_preferred":[
+        "Iroporia"
+    ],
     "name:und_x_variant":[
         "Iroparia",
         "Iroporia",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209345299,
-    "wof:lastmodified":1537591005,
+    "wof:lastmodified":1564105150,
     "wof:name":"Iroporea",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Siriho"
+    ],
+    "name:msa_x_preferred":[
+        "Siriho"
+    ],
     "name:und_x_variant":[
         "Sitono",
         "Siriho",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226074765,
-    "wof:lastmodified":1537590924,
+    "wof:lastmodified":1564106094,
     "wof:name":"Sirihio",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

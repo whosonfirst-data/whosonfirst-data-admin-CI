@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gomon"
+    ],
+    "name:msa_x_preferred":[
+        "Gomon"
+    ],
     "name:und_x_variant":[
         "Gouma",
         "Gomon"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293620505,
-    "wof:lastmodified":1537591014,
+    "wof:lastmodified":1564104636,
     "wof:name":"Gomon",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

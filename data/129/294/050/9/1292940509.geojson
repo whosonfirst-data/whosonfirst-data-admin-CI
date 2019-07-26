@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pambasso-Di\u00e9dou"
+    ],
+    "name:msa_x_preferred":[
+        "Pambasso-Di\u00e9dou"
+    ],
     "name:und_x_variant":[
         "Panbasso",
         "Pambasso"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1292940509,
-    "wof:lastmodified":1537590940,
+    "wof:lastmodified":1564104658,
     "wof:name":"Pambasso",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

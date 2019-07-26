@@ -25,10 +25,22 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laoudi-Ba"
+    ],
+    "name:ita_x_preferred":[
+        "Laoudi-Ba"
+    ],
+    "name:msa_x_preferred":[
+        "Laoudi-Ba"
+    ],
     "name:und_x_variant":[
         "Laoudi-Ba",
         "Laoudi",
         "Lzoudi-Ba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u0688\u06cc-\u0628\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276479353,
-    "wof:lastmodified":1537590975,
+    "wof:lastmodified":1564104899,
     "wof:name":"Laoudi",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

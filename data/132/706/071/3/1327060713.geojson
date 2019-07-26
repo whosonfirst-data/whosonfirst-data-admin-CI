@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandakagni Tomora"
+    ],
+    "name:ita_x_preferred":[
+        "Bandakagni-Tomora"
+    ],
+    "name:msa_x_preferred":[
+        "Bandakagni Tomora"
+    ],
     "name:und_x_variant":[
         "Bandakanyi-Tomoura"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327060713,
-    "wof:lastmodified":1537591070,
+    "wof:lastmodified":1564104213,
     "wof:name":"Bandakagni-Tomora",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

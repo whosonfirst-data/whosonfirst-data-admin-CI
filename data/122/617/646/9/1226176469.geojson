@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bodi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226176469,
-    "wof:lastmodified":1537032034,
+    "wof:lastmodified":1564105935,
     "wof:name":"Bodi",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

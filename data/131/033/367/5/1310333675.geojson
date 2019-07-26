@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dianra-Village"
+    ],
+    "name:ita_x_preferred":[
+        "Dianra-Village"
+    ],
+    "name:msa_x_preferred":[
+        "Dianra-Village"
+    ],
     "name:und_x_variant":[
         "Dianana",
         "Dianha",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310333675,
-    "wof:lastmodified":1537591042,
+    "wof:lastmodified":1564105461,
     "wof:name":"Dianra-Village",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

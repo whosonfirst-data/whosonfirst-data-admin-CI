@@ -33,6 +33,9 @@
     "mps:longitude":-4.553513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "N'zi"
+    ],
     "name:eng_x_preferred":[
         "N'zi"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108785007,
-    "wof:lastmodified":1553718778,
+    "wof:lastmodified":1564105329,
     "wof:name":"N'Zi",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

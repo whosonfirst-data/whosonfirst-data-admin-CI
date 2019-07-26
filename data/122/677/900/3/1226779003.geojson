@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kadioha"
+    ],
+    "name:msa_x_preferred":[
+        "Kadioha"
+    ],
     "name:und_x_variant":[
         "Kadyoha"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226779003,
-    "wof:lastmodified":1537591004,
+    "wof:lastmodified":1564106062,
     "wof:name":"Kadioha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

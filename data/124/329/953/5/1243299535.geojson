@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maf\u00e9r\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Maf\u00e9r\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Maf\u00e9r\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Maf\u00e9r\u00e9"
+    ],
     "name:und_x_variant":[
         "Maf\u00e9r\u00e9"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243299535,
-    "wof:lastmodified":1537590969,
+    "wof:lastmodified":1564105782,
     "wof:name":"Mafere",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

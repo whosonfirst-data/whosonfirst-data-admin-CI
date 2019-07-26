@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sepe"
+    ],
+    "name:ita_x_preferred":[
+        "Sepe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043f\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Sepe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293620515,
-    "wof:lastmodified":1537089288,
+    "wof:lastmodified":1564104637,
     "wof:name":"Sepe",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

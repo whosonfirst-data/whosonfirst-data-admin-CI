@@ -25,11 +25,38 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:fra_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:ita_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:msa_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:ron_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:spa_x_preferred":[
+        "Jacqueville"
+    ],
+    "name:swe_x_preferred":[
+        "Jacqueville"
+    ],
     "name:und_x_variant":[
         "Jaqueville",
         "Jackville",
         "Half Jack",
         "Jacqueville"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0642\u0648\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u514b\u7dad\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1327367773,
-    "wof:lastmodified":1537591005,
+    "wof:lastmodified":1564104242,
     "wof:name":"Jacqueville",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

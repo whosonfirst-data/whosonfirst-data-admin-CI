@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guiemb\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Guiemb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Guiemb\u00e9"
+    ],
     "name:und_x_variant":[
         "Guienb\u00e9",
         "Guiemb\u00e9",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209142283,
-    "wof:lastmodified":1537590906,
+    "wof:lastmodified":1564105083,
     "wof:name":"Guiembe",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

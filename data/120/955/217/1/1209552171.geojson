@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tankess\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Tankess\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tankess\u00e9"
+    ],
     "name:und_x_variant":[
         "Tankassi",
         "Tank\u00e9si",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209552171,
-    "wof:lastmodified":1537590916,
+    "wof:lastmodified":1564105023,
     "wof:name":"Tankessi",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

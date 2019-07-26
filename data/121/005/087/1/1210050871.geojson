@@ -25,10 +25,28 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u2019batto"
+    ],
+    "name:ita_x_preferred":[
+        "M'Batto"
+    ],
+    "name:msa_x_preferred":[
+        "M\u2019batto"
+    ],
+    "name:ron_x_preferred":[
+        "M\u2019batto"
+    ],
+    "name:spa_x_preferred":[
+        "M'Batto"
+    ],
     "name:und_x_variant":[
         "Mboto",
         "Mbato",
         "M\u2019Batto"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0628\u0627\u0679\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1210050871,
-    "wof:lastmodified":1537590965,
+    "wof:lastmodified":1564105200,
     "wof:name":"M'Batto",
     "wof:parent_id":1108785005,
     "wof:placetype":"locality",

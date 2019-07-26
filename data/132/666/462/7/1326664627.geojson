@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sonan"
+    ],
+    "name:swe_x_preferred":[
+        "Sonan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326664627,
-    "wof:lastmodified":1536793484,
+    "wof:lastmodified":1564104298,
     "wof:name":"Sonan",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Subiakro"
+    ],
+    "name:msa_x_preferred":[
+        "Subiakro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260114243,
-    "wof:lastmodified":1537489392,
+    "wof:lastmodified":1564105272,
     "wof:name":"Subiakro",
     "wof:parent_id":1108784993,
     "wof:placetype":"locality",

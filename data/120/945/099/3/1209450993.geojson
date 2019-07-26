@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kokolopozo"
+    ],
+    "name:msa_x_preferred":[
+        "Kokolopozo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209450993,
-    "wof:lastmodified":1537489425,
+    "wof:lastmodified":1564105170,
     "wof:name":"Kokolopozo",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

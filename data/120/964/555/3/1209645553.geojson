@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Oress-Krobou"
+    ],
+    "name:ita_x_preferred":[
+        "Oress-Krobou"
+    ],
+    "name:msa_x_preferred":[
+        "Oress-Krobou"
+    ],
+    "name:ron_x_preferred":[
+        "Oress-Krobou"
+    ],
     "name:und_x_variant":[
         "Oress Krobous",
         "Or\u00e8s-Krobou"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209645553,
-    "wof:lastmodified":1537590943,
+    "wof:lastmodified":1564105016,
     "wof:name":"Oress-Krobou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

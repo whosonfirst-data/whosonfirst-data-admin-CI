@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9ibla"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00e9ibla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310339185,
-    "wof:lastmodified":1537489426,
+    "wof:lastmodified":1564105464,
     "wof:name":"Keibla",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

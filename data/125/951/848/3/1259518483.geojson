@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9tro-Bassam"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00e9tro-Bassam"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00e9tro-Bassam"
+    ],
     "name:und_x_variant":[
         "K\u00e9tro-Bassam",
         "K\u00e9tro"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259518483,
-    "wof:lastmodified":1537590996,
+    "wof:lastmodified":1564105893,
     "wof:name":"Ketro",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

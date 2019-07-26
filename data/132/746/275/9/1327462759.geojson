@@ -25,8 +25,26 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gnidia"
+    ],
+    "name:por_x_preferred":[
+        "Gnidia"
+    ],
+    "name:spa_x_preferred":[
+        "Gnidia"
+    ],
+    "name:swe_x_preferred":[
+        "Gnidia"
+    ],
     "name:und_x_variant":[
         "Gnida",
+        "Gnidia"
+    ],
+    "name:vie_x_preferred":[
+        "Gnidia"
+    ],
+    "name:war_x_preferred":[
         "Gnidia"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327462759,
-    "wof:lastmodified":1537591016,
+    "wof:lastmodified":1564104323,
     "wof:name":"Gnidia",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00e9itifla"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e9itifla"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e9itifla"
+    ],
     "name:und_x_variant":[
         "S\u00e9tifla",
         "S\u00e9itifla"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326965021,
-    "wof:lastmodified":1537590927,
+    "wof:lastmodified":1564104372,
     "wof:name":"Seitifla",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

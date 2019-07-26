@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manzanouan"
+    ],
+    "name:msa_x_preferred":[
+        "Manzanouan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226179123,
-    "wof:lastmodified":1537028299,
+    "wof:lastmodified":1564105930,
     "wof:name":"Manzanouan",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

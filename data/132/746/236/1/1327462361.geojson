@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Foungbesso"
+    ],
+    "name:ita_x_preferred":[
+        "Foungbesso"
+    ],
+    "name:msa_x_preferred":[
+        "Foungbesso"
+    ],
     "name:und_x_variant":[
         "Foungesso",
         "Foungou\u00e9sso",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327462361,
-    "wof:lastmodified":1537591025,
+    "wof:lastmodified":1564104334,
     "wof:name":"Foungouesso",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

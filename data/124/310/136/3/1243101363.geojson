@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouibly"
+    ],
+    "name:ita_x_preferred":[
+        "Kouibly"
+    ],
+    "name:msa_x_preferred":[
+        "Kouibly"
+    ],
+    "name:spa_x_preferred":[
+        "Kouibly"
+    ],
     "name:und_x_variant":[
         "Kouibli",
         "Kouibly"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243101363,
-    "wof:lastmodified":1537590983,
+    "wof:lastmodified":1564105800,
     "wof:name":"Kouibly",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

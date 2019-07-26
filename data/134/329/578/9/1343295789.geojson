@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koumassi"
+    ],
+    "name:deu_x_preferred":[
+        "Koumassi"
+    ],
+    "name:fra_x_preferred":[
+        "Koumassi"
+    ],
+    "name:msa_x_preferred":[
+        "Koumassi"
+    ],
+    "name:swe_x_preferred":[
+        "Koumassi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343295789,
-    "wof:lastmodified":1537489420,
+    "wof:lastmodified":1564104593,
     "wof:name":"Koumassi",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

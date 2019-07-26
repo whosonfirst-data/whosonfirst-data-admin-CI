@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gou\u00e9kan"
+    ],
+    "name:ita_x_preferred":[
+        "Gou\u00e9kan"
+    ],
+    "name:msa_x_preferred":[
+        "Gou\u00e9kan"
+    ],
     "name:und_x_variant":[
         "Gou\u00e9kon",
         "Gou\u00e9kan"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310635417,
-    "wof:lastmodified":1537591013,
+    "wof:lastmodified":1564105402,
     "wof:name":"Gouekan",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

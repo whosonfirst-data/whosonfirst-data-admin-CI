@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nassian"
+    ],
+    "name:ita_x_preferred":[
+        "Nassian"
+    ],
+    "name:msa_x_preferred":[
+        "Nassian"
+    ],
+    "name:spa_x_preferred":[
+        "Nassian"
+    ],
     "name:und_x_variant":[
         "Nasian",
         "Nasiam",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193167929,
-    "wof:lastmodified":1537590956,
+    "wof:lastmodified":1564105227,
     "wof:name":"Nassian",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

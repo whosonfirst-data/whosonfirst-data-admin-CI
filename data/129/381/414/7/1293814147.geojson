@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diarabana"
+    ],
+    "name:msa_x_preferred":[
+        "Diarabana"
+    ],
     "name:und_x_variant":[
         "Dyarabara",
         "Diaralaba",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293814147,
-    "wof:lastmodified":1537591033,
+    "wof:lastmodified":1564104775,
     "wof:name":"Diarabana",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

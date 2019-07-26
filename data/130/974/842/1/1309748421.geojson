@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kossandji"
+    ],
+    "name:msa_x_preferred":[
+        "Kossandji"
+    ],
     "name:und_x_variant":[
         "Kossadji",
         "Kossandi",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309748421,
-    "wof:lastmodified":1537590987,
+    "wof:lastmodified":1564105586,
     "wof:name":"Kossandji",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sahuy\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sahuy\u00e9"
+    ],
     "name:und_x_variant":[
         "Sahuy\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293237499,
-    "wof:lastmodified":1537591091,
+    "wof:lastmodified":1564104675,
     "wof:name":"Sahuye",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

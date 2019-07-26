@@ -25,6 +25,54 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u062c\u0627\u0645\u0627 \u062f\u0627\u064a\u0627\u0645\u0648\u0646\u062f\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Adama Diomande"
+    ],
+    "name:fra_x_preferred":[
+        "Adama Diomande"
+    ],
+    "name:glg_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Adama Diomande"
+    ],
+    "name:ind_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c0\u30de\u30fb\u30c7\u30a3\u30aa\u30de\u30f3\u30c7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub2e4\ub9c8 \ub514\uc624\ub9dd\ub370"
+    ],
+    "name:nld_x_preferred":[
+        "Adama Diomande"
+    ],
+    "name:nor_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043e\u043c\u0430\u043d\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Adama Diomand\u00e9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u0430 \u0414\u0456\u043e\u043c\u0430\u043d\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1310239461,
-    "wof:lastmodified":1536803160,
+    "wof:lastmodified":1564105344,
     "wof:name":"Adama Diomande",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

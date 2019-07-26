@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "N'Ganon"
+    ],
+    "name:ita_x_preferred":[
+        "N'Ganon"
+    ],
+    "name:msa_x_preferred":[
+        "N\u2019Ganon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1360316311,
-    "wof:lastmodified":1537489407,
+    "wof:lastmodified":1564105487,
     "wof:name":"Nganon",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Oupoyo"
+    ],
+    "name:ita_x_preferred":[
+        "Oupoyo"
+    ],
+    "name:msa_x_preferred":[
+        "Oupoyo"
+    ],
+    "name:ron_x_preferred":[
+        "Oupoyo"
+    ],
     "name:und_x_variant":[
         "Oupoy",
         "Oupoyo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310040373,
-    "wof:lastmodified":1537590941,
+    "wof:lastmodified":1564105437,
     "wof:name":"Oupoyo",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouto"
+    ],
+    "name:ita_x_preferred":[
+        "Kouto"
+    ],
+    "name:msa_x_preferred":[
+        "Kouto"
+    ],
+    "name:ron_x_preferred":[
+        "Kouto"
+    ],
+    "name:spa_x_preferred":[
+        "Kouto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243206219,
-    "wof:lastmodified":1537489419,
+    "wof:lastmodified":1564105769,
     "wof:name":"Kouto",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

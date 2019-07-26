@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonon"
+    ],
+    "name:ita_x_preferred":[
+        "Bonon"
+    ],
+    "name:msa_x_preferred":[
+        "Bonon"
+    ],
+    "name:pol_x_preferred":[
+        "Bonon"
+    ],
+    "name:ron_x_preferred":[
+        "Bonon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276365827,
-    "wof:lastmodified":1537489470,
+    "wof:lastmodified":1564104973,
     "wof:name":"Bonon",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

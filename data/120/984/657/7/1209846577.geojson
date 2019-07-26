@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Di\u00e9ouzon"
+    ],
+    "name:ita_x_preferred":[
+        "Di\u00e9ouzon"
+    ],
+    "name:msa_x_preferred":[
+        "Di\u00e9ouzon"
+    ],
+    "name:ron_x_preferred":[
+        "Di\u00e9ouzon"
+    ],
     "name:und_x_variant":[
         "Dy\u00e9ouzon",
         "Di\u00e9ouzon"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209846577,
-    "wof:lastmodified":1537591032,
+    "wof:lastmodified":1564105034,
     "wof:name":"Dieouzon",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

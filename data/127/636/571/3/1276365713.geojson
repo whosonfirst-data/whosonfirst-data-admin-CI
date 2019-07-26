@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Papi"
+    ],
+    "name:fra_x_preferred":[
+        "Papi"
+    ],
+    "name:ita_x_preferred":[
+        "Papi"
+    ],
+    "name:nrm_x_preferred":[
+        "Papi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276365713,
-    "wof:lastmodified":1536735369,
+    "wof:lastmodified":1564104974,
     "wof:name":"Papi",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

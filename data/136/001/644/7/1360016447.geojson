@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fengolo"
+    ],
+    "name:ita_x_preferred":[
+        "Fengolo"
+    ],
+    "name:msa_x_preferred":[
+        "Fengolo"
+    ],
+    "name:spa_x_preferred":[
+        "Fengolo"
+    ],
     "name:und_x_variant":[
         "Feuglo",
         "Fengolo"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1360016447,
-    "wof:lastmodified":1537591027,
+    "wof:lastmodified":1564105491,
     "wof:name":"Fengolo",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

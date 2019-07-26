@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "F\u00e9r\u00e9mandougou"
+    ],
+    "name:msa_x_preferred":[
+        "F\u00e9r\u00e9mandougou"
+    ],
     "name:und_x_variant":[
         "F\u00e9r\u00e9-Magandougou",
         "Feremahandougou",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276480717,
-    "wof:lastmodified":1537591027,
+    "wof:lastmodified":1564104932,
     "wof:name":"Feremandougou",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lelepa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293625705,
-    "wof:lastmodified":1537081684,
+    "wof:lastmodified":1564104639,
     "wof:name":"Lelepa",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

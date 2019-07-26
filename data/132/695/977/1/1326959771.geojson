@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dogbo"
+    ],
+    "name:ita_x_preferred":[
+        "Dogbo"
+    ],
+    "name:msa_x_preferred":[
+        "Dogbo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326959771,
-    "wof:lastmodified":1536863882,
+    "wof:lastmodified":1564104313,
     "wof:name":"Dogbo",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

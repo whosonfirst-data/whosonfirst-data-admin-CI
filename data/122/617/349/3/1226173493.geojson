@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zoukougbeu"
+    ],
+    "name:ita_x_preferred":[
+        "Zoukougbeu"
+    ],
+    "name:msa_x_preferred":[
+        "Zoukougbeu"
+    ],
+    "name:spa_x_preferred":[
+        "Zoukougbeu"
+    ],
     "name:und_x_variant":[
         "Zoukougbe",
         "Zoukougbeu"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226173493,
-    "wof:lastmodified":1537590889,
+    "wof:lastmodified":1564105931,
     "wof:name":"Zoukougbeu",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

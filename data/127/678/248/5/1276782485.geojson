@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Etu\u00e9bou\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Etu\u00e9bou\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Etu\u00e9bou\u00e9"
+    ],
     "name:und_x_variant":[
         "Etu\u00e9bou\u00e9",
         "Etiobou\u00e9",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276782485,
-    "wof:lastmodified":1537591029,
+    "wof:lastmodified":1564104906,
     "wof:name":"Etueboue",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

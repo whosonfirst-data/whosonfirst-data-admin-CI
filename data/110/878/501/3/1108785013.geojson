@@ -36,6 +36,15 @@
     "name:eng_x_preferred":[
         "La M\u00e9 (Massan)"
     ],
+    "name:hun_x_preferred":[
+        "Me"
+    ],
+    "name:ind_x_preferred":[
+        "Me"
+    ],
+    "name:vie_x_preferred":[
+        "Me"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108785013,
-    "wof:lastmodified":1553718778,
+    "wof:lastmodified":1564105329,
     "wof:name":"Me",
     "wof:parent_id":85669903,
     "wof:placetype":"county",

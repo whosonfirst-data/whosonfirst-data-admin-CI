@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tinhou"
+    ],
+    "name:ita_x_preferred":[
+        "Tinhou"
+    ],
+    "name:msa_x_preferred":[
+        "Tinhou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1309940251,
-    "wof:lastmodified":1537489389,
+    "wof:lastmodified":1564105576,
     "wof:name":"Tinhou",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Roa"
+    ],
+    "name:fra_x_preferred":[
+        "Roa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d0\u05d4"
+    ],
+    "name:por_x_preferred":[
+        "Roa"
+    ],
+    "name:spa_x_preferred":[
+        "Roa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Roa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1309937295,
-    "wof:lastmodified":1536741496,
+    "wof:lastmodified":1564105574,
     "wof:name":"Roa",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

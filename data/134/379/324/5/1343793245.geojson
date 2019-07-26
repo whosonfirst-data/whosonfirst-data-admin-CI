@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Booko"
+    ],
+    "name:ita_x_preferred":[
+        "Booko"
+    ],
+    "name:msa_x_preferred":[
+        "Booko"
+    ],
+    "name:ron_x_preferred":[
+        "Booko"
+    ],
     "name:und_x_variant":[
         "Booko",
         "Boko",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343793245,
-    "wof:lastmodified":1537591053,
+    "wof:lastmodified":1564104492,
     "wof:name":"Bouko",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

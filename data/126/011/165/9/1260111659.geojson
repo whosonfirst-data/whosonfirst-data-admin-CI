@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Atti\u00e9koi"
+    ],
+    "name:msa_x_preferred":[
+        "Atti\u00e9koi"
+    ],
+    "name:ron_x_preferred":[
+        "Atti\u00e9koi"
+    ],
     "name:und_x_variant":[
         "Ati\u00e9koua",
         "Ati\u00e9koi",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260111659,
-    "wof:lastmodified":1537591076,
+    "wof:lastmodified":1564105279,
     "wof:name":"Attiekoi",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

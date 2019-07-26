@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zikisso"
+    ],
+    "name:ita_x_preferred":[
+        "Zikisso"
+    ],
+    "name:msa_x_preferred":[
+        "Zikisso"
+    ],
+    "name:ron_x_preferred":[
+        "Zikisso"
+    ],
     "name:und_x_variant":[
         "Zikiso",
         "Zikisso"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226473723,
-    "wof:lastmodified":1537590891,
+    "wof:lastmodified":1564106050,
     "wof:name":"Zikisso",
     "wof:parent_id":1108784999,
     "wof:placetype":"locality",

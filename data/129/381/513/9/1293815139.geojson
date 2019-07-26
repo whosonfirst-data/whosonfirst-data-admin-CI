@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u0443\u0440\u0430\u043b\u0430"
+    ],
+    "name:ita_x_preferred":[
+        "Sokourala"
+    ],
+    "name:msa_x_preferred":[
+        "Sokourala"
+    ],
+    "name:spa_x_preferred":[
+        "Sokourala"
+    ],
     "name:und_x_variant":[
         "Sokouralla I",
         "Sokouralla",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293815139,
-    "wof:lastmodified":1537590922,
+    "wof:lastmodified":1564104785,
     "wof:name":"Sokourala",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

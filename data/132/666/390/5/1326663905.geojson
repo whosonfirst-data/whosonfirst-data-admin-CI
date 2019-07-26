@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kotobi"
+    ],
+    "name:ita_x_preferred":[
+        "Kotobi"
+    ],
+    "name:msa_x_preferred":[
+        "Kotobi"
+    ],
     "name:und_x_variant":[
         "Kotobi Akpaoussou",
         "Kotobi"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326663905,
-    "wof:lastmodified":1537590987,
+    "wof:lastmodified":1564104292,
     "wof:name":"Kotobi",
     "wof:parent_id":1108785005,
     "wof:placetype":"locality",

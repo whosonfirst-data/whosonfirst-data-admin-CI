@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalou"
+    ],
+    "name:deu_x_preferred":[
+        "Dalou"
+    ],
+    "name:fra_x_preferred":[
+        "Dalou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293237541,
-    "wof:lastmodified":1536650142,
+    "wof:lastmodified":1564104669,
     "wof:name":"Dalou",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

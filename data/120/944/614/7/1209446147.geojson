@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yaga"
+    ],
+    "name:fra_x_preferred":[
+        "Yaga"
+    ],
+    "name:swe_x_preferred":[
+        "Yaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +43,7 @@
         "gn:id":2279802
     },
     "wof:country":"CI",
-    "wof:geomhash":"dd69a4fd548f6c0f8830973e6d5179c1",
+    "wof:geomhash":"31a097b8d0c30267aba64511dcabe5d8",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209446147,
-    "wof:lastmodified":1536286812,
+    "wof:lastmodified":1564105179,
     "wof:name":"Yaga",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.4451400000000003,
-    8.544989999999999,
-    -3.4451400000000003,
-    8.544989999999999
+    -3.44514,
+    8.54499,
+    -3.44514,
+    8.54499
 ],
   "geometry": {"coordinates":[-3.44514,8.54499],"type":"Point"}
 }

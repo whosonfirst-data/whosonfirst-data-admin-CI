@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dassoungboho"
+    ],
+    "name:ita_x_preferred":[
+        "Dassoungboho"
+    ],
+    "name:msa_x_preferred":[
+        "Dassoungboho"
+    ],
     "name:und_x_variant":[
         "Dassimmbogo",
         "Dasingboho",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310635847,
-    "wof:lastmodified":1537591045,
+    "wof:lastmodified":1564105402,
     "wof:name":"Dassoungboho",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

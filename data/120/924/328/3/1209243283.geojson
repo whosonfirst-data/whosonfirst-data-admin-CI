@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouassi Kouassikro"
+    ],
+    "name:ita_x_preferred":[
+        "Kouassi-Kouassikro"
+    ],
+    "name:msa_x_preferred":[
+        "Kouassi Kouassikro"
+    ],
+    "name:ron_x_preferred":[
+        "Kouassi Kouassikro"
+    ],
+    "name:spa_x_preferred":[
+        "Kouassi-Kouassikro"
+    ],
     "name:und_x_variant":[
         "Koissi-Koissikro"
     ],
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209243283,
-    "wof:lastmodified":1537590993,
+    "wof:lastmodified":1564105055,
     "wof:name":"Kouassi-Kouassikro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

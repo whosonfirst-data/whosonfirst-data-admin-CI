@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kossihouen"
+    ],
+    "name:msa_x_preferred":[
+        "Kossihouen"
+    ],
     "name:und_x_variant":[
         "Kossibouen"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309936427,
-    "wof:lastmodified":1537591096,
+    "wof:lastmodified":1564105568,
     "wof:name":"Kossihouen",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

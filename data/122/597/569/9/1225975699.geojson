@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Boroko"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225975699,
-    "wof:lastmodified":1536825221,
+    "wof:lastmodified":1564106014,
     "wof:name":"Boroko",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

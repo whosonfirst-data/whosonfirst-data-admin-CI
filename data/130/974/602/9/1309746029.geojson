@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zonneu"
+    ],
+    "name:ita_x_preferred":[
+        "Zonneu"
+    ],
+    "name:msa_x_preferred":[
+        "Zonneu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1309746029,
-    "wof:lastmodified":1537489380,
+    "wof:lastmodified":1564105589,
     "wof:name":"Zonneu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

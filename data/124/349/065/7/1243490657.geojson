@@ -25,6 +25,30 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Diby"
+    ],
+    "name:est_x_preferred":[
+        "Diby"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0562\u056b"
+    ],
+    "name:pol_x_preferred":[
+        "Diby"
+    ],
+    "name:spa_x_preferred":[
+        "Diby"
+    ],
+    "name:swe_x_preferred":[
+        "Diby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0431\u044e"
+    ],
+    "name:vol_x_preferred":[
+        "Diby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243490657,
-    "wof:lastmodified":1536741501,
+    "wof:lastmodified":1564105706,
     "wof:name":"Diby",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

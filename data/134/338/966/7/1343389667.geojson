@@ -29,6 +29,9 @@
         "Balogui",
         "Balogi"
     ],
+    "name:vie_x_preferred":[
+        "Balogi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343389667,
-    "wof:lastmodified":1537591071,
+    "wof:lastmodified":1564104428,
     "wof:name":"Balogi",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

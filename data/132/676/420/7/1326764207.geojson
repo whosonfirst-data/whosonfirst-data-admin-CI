@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kamalo"
+    ],
+    "name:ita_x_preferred":[
+        "Kamalo"
+    ],
+    "name:msa_x_preferred":[
+        "Kamalo"
+    ],
     "name:und_x_variant":[
         "Kamaro",
         "Kamalo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326764207,
-    "wof:lastmodified":1537591002,
+    "wof:lastmodified":1564104353,
     "wof:name":"Kamalo",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

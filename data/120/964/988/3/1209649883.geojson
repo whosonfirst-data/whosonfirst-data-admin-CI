@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nafana"
+    ],
+    "name:ita_x_preferred":[
+        "Nafana"
+    ],
+    "name:msa_x_preferred":[
+        "Nafana"
+    ],
     "name:und_x_variant":[
         "Natana",
         "Nafana"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209649883,
-    "wof:lastmodified":1537590960,
+    "wof:lastmodified":1564105020,
     "wof:name":"Nafana",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

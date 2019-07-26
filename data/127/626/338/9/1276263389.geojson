@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bin-Houy\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bin-Houy\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Bin-Houy\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Bin-Houy\u00e9"
+    ],
     "name:und_x_variant":[
         "Bin-Houy\u00e9",
         "Binhouy\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276263389,
-    "wof:lastmodified":1537591061,
+    "wof:lastmodified":1564104823,
     "wof:name":"Bin-Houye",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

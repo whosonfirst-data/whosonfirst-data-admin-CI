@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Perou"
+    ],
     "name:und_x_variant":[
         "Piddy",
         "P\u00e9rou"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260218615,
-    "wof:lastmodified":1537590938,
+    "wof:lastmodified":1564105292,
     "wof:name":"Perou",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

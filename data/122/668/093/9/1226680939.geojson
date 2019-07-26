@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dap\u00e9oua"
+    ],
+    "name:ita_x_preferred":[
+        "Dap\u00e9oua"
+    ],
+    "name:msa_x_preferred":[
+        "Dap\u00e9oua"
+    ],
     "name:und_x_variant":[
         "Dap\u00e9houa",
         "Dap\u00e9oua"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226680939,
-    "wof:lastmodified":1537591046,
+    "wof:lastmodified":1564105978,
     "wof:name":"Dapeoua",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

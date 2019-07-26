@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Faala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276266043,
-    "wof:lastmodified":1536867520,
+    "wof:lastmodified":1564104829,
     "wof:name":"Faala",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

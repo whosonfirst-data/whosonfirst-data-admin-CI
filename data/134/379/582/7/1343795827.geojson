@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sononzo"
+    ],
+    "name:msa_x_preferred":[
+        "Sononzo"
+    ],
     "name:und_x_variant":[
         "Sononosso",
         "Sonozo",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343795827,
-    "wof:lastmodified":1537590921,
+    "wof:lastmodified":1564104503,
     "wof:name":"Sononzo",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

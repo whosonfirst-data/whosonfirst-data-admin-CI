@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0647\u0648\u0643\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ahouakro"
+    ],
+    "name:msa_x_preferred":[
+        "Ahouakro"
+    ],
+    "name:swe_x_preferred":[
+        "Ahouakro"
+    ],
     "name:und_x_variant":[
         "Aouakro"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343490833,
-    "wof:lastmodified":1537591079,
+    "wof:lastmodified":1564104511,
     "wof:name":"Ahouakro",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Brou Akpaoussou"
+    ],
+    "name:msa_x_preferred":[
+        "Brou Akpaoussou"
+    ],
+    "name:ron_x_preferred":[
+        "Brou Akpaoussou"
+    ],
     "name:und_x_variant":[
         "Brou Akpaoussou",
         "Bourou Akpouassou",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293819951,
-    "wof:lastmodified":1537591051,
+    "wof:lastmodified":1564104780,
     "wof:name":"Brou akpaousso",
     "wof:parent_id":1108785005,
     "wof:placetype":"locality",

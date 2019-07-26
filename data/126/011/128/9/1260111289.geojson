@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tangoa"
+    ],
     "name:und_x_variant":[
         "Tangola",
         "Tangoa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260111289,
-    "wof:lastmodified":1537590917,
+    "wof:lastmodified":1564105278,
     "wof:name":"Tangoa",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

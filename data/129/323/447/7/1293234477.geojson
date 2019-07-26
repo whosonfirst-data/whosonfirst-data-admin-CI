@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kpou\u00e8bo"
+    ],
+    "name:ita_x_preferred":[
+        "Kpou\u00e8bo"
+    ],
+    "name:msa_x_preferred":[
+        "Kpou\u00e8bo"
+    ],
     "name:und_x_variant":[
         "Kpou\u00e9bo"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293234477,
-    "wof:lastmodified":1537590979,
+    "wof:lastmodified":1564104671,
     "wof:name":"Kpouebo",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

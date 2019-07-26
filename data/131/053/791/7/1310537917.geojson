@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grihiri"
+    ],
+    "name:ita_x_preferred":[
+        "Grihiri"
+    ],
+    "name:msa_x_preferred":[
+        "Grihiri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310537917,
-    "wof:lastmodified":1537489432,
+    "wof:lastmodified":1564105374,
     "wof:name":"Grihiri",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

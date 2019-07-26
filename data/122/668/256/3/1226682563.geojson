@@ -25,6 +25,30 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0636 \u0643\u0648\u0646\u0632\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Konzo"
+    ],
+    "name:fra_x_preferred":[
+        "Konzo"
+    ],
+    "name:ita_x_preferred":[
+        "Konzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30be"
+    ],
+    "name:pol_x_preferred":[
+        "Konzo"
+    ],
+    "name:spa_x_preferred":[
+        "Konzo"
+    ],
+    "name:swe_x_preferred":[
+        "Konzo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226682563,
-    "wof:lastmodified":1536806215,
+    "wof:lastmodified":1564105970,
     "wof:name":"Konzo",
     "wof:parent_id":1108785039,
     "wof:placetype":"locality",

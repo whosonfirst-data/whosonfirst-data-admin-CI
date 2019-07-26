@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e9o"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e9o"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00e9o"
+    ],
     "name:und_x_variant":[
         "M\u00e9o"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293326799,
-    "wof:lastmodified":1537590964,
+    "wof:lastmodified":1564104744,
     "wof:name":"Meo",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

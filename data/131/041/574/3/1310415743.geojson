@@ -26,6 +26,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kossou"
+    ],
+    "name:msa_x_preferred":[
+        "Kossou"
+    ],
     "name:und_x_variant":[
         "Konabonou",
         "Kossou"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310415743,
-    "wof:lastmodified":1537590987,
+    "wof:lastmodified":1564105350,
     "wof:name":"Kossou",
     "wof:parent_id":1108784993,
     "wof:placetype":"locality",

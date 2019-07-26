@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Folon"
     ],
+    "name:fra_x_preferred":[
+        "Folon"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108784987,
-    "wof:lastmodified":1553718777,
+    "wof:lastmodified":1564105327,
     "wof:name":"Folon",
     "wof:parent_id":85669859,
     "wof:placetype":"county",

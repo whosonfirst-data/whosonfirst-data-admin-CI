@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nafoun"
+    ],
+    "name:ita_x_preferred":[
+        "Nafoun"
+    ],
+    "name:msa_x_preferred":[
+        "Nafoun"
+    ],
     "name:und_x_variant":[
         "Nafon",
         "Nafoun"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1277113469,
-    "wof:lastmodified":1537590960,
+    "wof:lastmodified":1564104986,
     "wof:name":"Nafoun",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cocody"
+    ],
+    "name:deu_x_preferred":[
+        "Cocody"
+    ],
+    "name:fra_x_preferred":[
+        "Cocody"
+    ],
+    "name:msa_x_preferred":[
+        "Cocody"
+    ],
+    "name:oci_x_preferred":[
+        "Coc\u00f2di"
+    ],
+    "name:ron_x_preferred":[
+        "Cocody"
+    ],
+    "name:swe_x_preferred":[
+        "Cocody"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1276374637,
-    "wof:lastmodified":1537489449,
+    "wof:lastmodified":1564104952,
     "wof:name":"Cocody",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

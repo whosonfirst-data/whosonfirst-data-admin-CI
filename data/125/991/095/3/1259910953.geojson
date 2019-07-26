@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mope"
+    ],
+    "name:pol_x_preferred":[
+        "Mope"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259910953,
-    "wof:lastmodified":1536739522,
+    "wof:lastmodified":1564105822,
     "wof:name":"Mope",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

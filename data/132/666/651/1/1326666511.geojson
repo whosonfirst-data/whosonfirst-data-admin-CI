@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Podiagouine"
+    ],
+    "name:ita_x_preferred":[
+        "Podiagouin\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Podiagouin\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Podiagouine"
+    ],
     "name:und_x_variant":[
         "Padiagouin\u00e9",
         "Pod\u00e9agouine",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326666511,
-    "wof:lastmodified":1537590936,
+    "wof:lastmodified":1564104296,
     "wof:name":"Podiagouine",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

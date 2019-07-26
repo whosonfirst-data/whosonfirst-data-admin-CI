@@ -25,6 +25,27 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wah"
+    ],
+    "name:fra_x_preferred":[
+        "Wah"
+    ],
+    "name:ind_x_preferred":[
+        "Wah"
+    ],
+    "name:ita_x_preferred":[
+        "Wah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u06c1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Wah"
+    ],
     "name:und_x_variant":[
         "Grand Ivory Town",
         "Aguagon",
@@ -33,6 +54,9 @@
         "Afugu",
         "Abr\u00e9by",
         "Wah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1276910905,
-    "wof:lastmodified":1537591089,
+    "wof:lastmodified":1564104963,
     "wof:name":"Wah",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

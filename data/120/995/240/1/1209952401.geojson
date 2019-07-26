@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dam\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Dam\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Dam\u00e9"
+    ],
     "name:und_x_variant":[
         "Dam\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209952401,
-    "wof:lastmodified":1537591047,
+    "wof:lastmodified":1564105100,
     "wof:name":"Dame",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

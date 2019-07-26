@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sirasso"
+    ],
+    "name:ita_x_preferred":[
+        "Sirasso"
+    ],
+    "name:msa_x_preferred":[
+        "Sirasso"
+    ],
+    "name:ron_x_preferred":[
+        "Sirasso"
+    ],
     "name:und_x_variant":[
         "Soloka",
         "Sirhasso",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243208425,
-    "wof:lastmodified":1537590924,
+    "wof:lastmodified":1564105769,
     "wof:name":"Sirasso",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

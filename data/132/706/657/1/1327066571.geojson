@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "N'douci"
+    ],
+    "name:ita_x_preferred":[
+        "N'Douci"
+    ],
+    "name:msa_x_preferred":[
+        "N\u2019douci"
+    ],
     "name:und_x_variant":[
         "Touzi",
         "Ntuzi",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327066571,
-    "wof:lastmodified":1537590955,
+    "wof:lastmodified":1564104217,
     "wof:name":"Ndouci",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

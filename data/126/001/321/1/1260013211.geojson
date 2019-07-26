@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kolia"
+    ],
+    "name:ita_x_preferred":[
+        "Kolia"
+    ],
+    "name:msa_x_preferred":[
+        "Kolia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260013211,
-    "wof:lastmodified":1537086025,
+    "wof:lastmodified":1564105268,
     "wof:name":"Kolia",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Babakro"
+    ],
+    "name:msa_x_preferred":[
+        "Babakro"
+    ],
+    "name:ron_x_preferred":[
+        "Babakro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1344093077,
-    "wof:lastmodified":1537489460,
+    "wof:lastmodified":1564104469,
     "wof:name":"Babakro",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

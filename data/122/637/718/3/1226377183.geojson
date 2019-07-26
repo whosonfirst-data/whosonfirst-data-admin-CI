@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouadiobl\u00e9kro"
+    ],
+    "name:ita_x_preferred":[
+        "Kouadiobl\u00e9kro"
+    ],
+    "name:msa_x_preferred":[
+        "Kouadiobl\u00e9kro"
+    ],
     "name:und_x_variant":[
         "Kouadiobl\u00e9kro",
         "Koidioblekro"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226377183,
-    "wof:lastmodified":1537590986,
+    "wof:lastmodified":1564106084,
     "wof:name":"Koidioblekro",
     "wof:parent_id":1108785007,
     "wof:placetype":"locality",

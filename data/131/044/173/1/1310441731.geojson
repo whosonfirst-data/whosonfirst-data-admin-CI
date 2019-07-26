@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Didi\u00e9vi"
+    ],
+    "name:msa_x_preferred":[
+        "Didi\u00e9vi"
+    ],
+    "name:ron_x_preferred":[
+        "Didi\u00e9vi"
+    ],
+    "name:spa_x_preferred":[
+        "Didi\u00e9vi"
+    ],
+    "name:swe_x_preferred":[
+        "Didi\u00e9vi"
+    ],
     "name:und_x_variant":[
         "Didi\u00e9vi"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310441731,
-    "wof:lastmodified":1537591041,
+    "wof:lastmodified":1564105406,
     "wof:name":"Didievi",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

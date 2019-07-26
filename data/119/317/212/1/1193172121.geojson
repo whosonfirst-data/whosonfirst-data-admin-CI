@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Attoutou"
+    ],
+    "name:ita_x_preferred":[
+        "Attoutou"
+    ],
+    "name:msa_x_preferred":[
+        "Attoutou"
+    ],
     "name:und_x_variant":[
         "Attoutou-Amarou",
         "Attoutou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1193172121,
-    "wof:lastmodified":1537591075,
+    "wof:lastmodified":1564105238,
     "wof:name":"Attoutou",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

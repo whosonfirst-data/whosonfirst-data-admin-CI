@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tonla"
+    ],
+    "name:ita_x_preferred":[
+        "Tonla"
+    ],
+    "name:msa_x_preferred":[
+        "Tonla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1360219133,
-    "wof:lastmodified":1537489388,
+    "wof:lastmodified":1564105522,
     "wof:name":"Tonla",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

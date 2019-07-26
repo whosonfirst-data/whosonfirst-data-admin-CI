@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ann\u00e9p\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Ann\u00e9p\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Ann\u00e9p\u00e9"
+    ],
     "name:und_x_variant":[
         "Ann\u00e9p\u00e9",
         "Anap\u00e9",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276159387,
-    "wof:lastmodified":1537591081,
+    "wof:lastmodified":1564104907,
     "wof:name":"Annepe",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

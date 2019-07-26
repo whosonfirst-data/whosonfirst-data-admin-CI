@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9dio"
+    ],
+    "name:ita_x_preferred":[
+        "Tch\u00e8dio"
+    ],
+    "name:msa_x_preferred":[
+        "Ti\u00e9dio"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9dio"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1277018995,
-    "wof:lastmodified":1537590914,
+    "wof:lastmodified":1564104818,
     "wof:name":"Tiedio",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Yapo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259514323,
-    "wof:lastmodified":1536813913,
+    "wof:lastmodified":1564105897,
     "wof:name":"Yapo",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",
