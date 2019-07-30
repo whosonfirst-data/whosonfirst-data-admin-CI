@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngala"
+    ],
+    "name:ita_x_preferred":[
+        "Ngala"
+    ],
+    "name:spa_x_preferred":[
+        "Ngala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242614463,
-    "wof:lastmodified":1537009783,
+    "wof:lastmodified":1564105671,
     "wof:name":"Ngala",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

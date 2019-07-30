@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagohouo"
+    ],
+    "name:ita_x_preferred":[
+        "Bagohouo"
+    ],
+    "name:msa_x_preferred":[
+        "Bagohouo"
+    ],
+    "name:ron_x_preferred":[
+        "Bagohouo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209552443,
-    "wof:lastmodified":1537489459,
+    "wof:lastmodified":1564105023,
     "wof:name":"Bagohouo",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

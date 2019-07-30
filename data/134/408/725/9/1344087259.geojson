@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oua"
+    ],
+    "name:glg_x_preferred":[
+        "Illote Oua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a6\u30a2\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Oua"
+    ],
+    "name:por_x_preferred":[
+        "Oua"
+    ],
     "name:und_x_variant":[
         "Qua",
         "Oua"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1344087259,
-    "wof:lastmodified":1537590943,
+    "wof:lastmodified":1564104464,
     "wof:name":"Oua",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

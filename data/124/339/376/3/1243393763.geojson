@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koun-Fao"
+    ],
+    "name:ita_x_preferred":[
+        "Koun-Fao"
+    ],
+    "name:msa_x_preferred":[
+        "Koun-Fao"
+    ],
+    "name:spa_x_preferred":[
+        "Koun-Fao"
+    ],
     "name:und_x_variant":[
         "Akun",
         "Koun",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243393763,
-    "wof:lastmodified":1537590982,
+    "wof:lastmodified":1564105639,
     "wof:name":"Koun-Fao",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

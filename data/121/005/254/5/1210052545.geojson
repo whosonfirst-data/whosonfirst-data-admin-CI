@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kani"
+    ],
+    "name:ita_x_preferred":[
+        "Kani"
+    ],
+    "name:msa_x_preferred":[
+        "Kani"
+    ],
+    "name:spa_x_preferred":[
+        "Kani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1210052545,
-    "wof:lastmodified":1537489428,
+    "wof:lastmodified":1564105202,
     "wof:name":"Kani",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

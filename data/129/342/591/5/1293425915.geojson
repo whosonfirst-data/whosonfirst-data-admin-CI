@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ouaninou"
+    ],
+    "name:ita_x_preferred":[
+        "Ouaninou"
+    ],
+    "name:msa_x_preferred":[
+        "Ouaninou"
+    ],
+    "name:ron_x_preferred":[
+        "Ouaninou"
+    ],
+    "name:spa_x_preferred":[
+        "Ouaninou"
+    ],
     "name:und_x_variant":[
         "Waninou"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293425915,
-    "wof:lastmodified":1537590902,
+    "wof:lastmodified":1564104765,
     "wof:name":"Ouaninou",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

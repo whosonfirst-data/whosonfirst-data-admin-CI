@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bouboury"
+    ],
+    "name:msa_x_preferred":[
+        "Bouboury"
+    ],
+    "name:ron_x_preferred":[
+        "Bouboury"
+    ],
     "name:und_x_variant":[
         "Grand Bouboury",
         "Grand Boubouri",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343796883,
-    "wof:lastmodified":1537591010,
+    "wof:lastmodified":1564104484,
     "wof:name":"Bouboury",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

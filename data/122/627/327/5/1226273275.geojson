@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sikensi"
+    ],
+    "name:ita_x_preferred":[
+        "Sikensi"
+    ],
+    "name:msa_x_preferred":[
+        "Sikensi"
+    ],
+    "name:ron_x_preferred":[
+        "Sikensi"
+    ],
+    "name:spa_x_preferred":[
+        "Sikensi"
+    ],
     "name:und_x_variant":[
         "Sitensi",
         "Sikinssi",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226273275,
-    "wof:lastmodified":1537590924,
+    "wof:lastmodified":1564105955,
     "wof:name":"Sikensi",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

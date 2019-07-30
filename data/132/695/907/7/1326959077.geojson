@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9troya"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00e9troya"
+    ],
     "name:und_x_variant":[
         "D\u00e9troya"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326959077,
-    "wof:lastmodified":1537591043,
+    "wof:lastmodified":1564104310,
     "wof:name":"Detroya",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

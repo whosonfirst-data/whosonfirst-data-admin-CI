@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Azagui\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Azagui\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Azagui\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Azagui\u00e9"
+    ],
     "name:und_x_variant":[
         "Azagui\u00e9"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343296741,
-    "wof:lastmodified":1537591074,
+    "wof:lastmodified":1564104579,
     "wof:name":"Azaguie",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

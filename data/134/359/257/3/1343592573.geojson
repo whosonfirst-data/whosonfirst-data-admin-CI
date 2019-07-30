@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pacobo"
+    ],
+    "name:fra_x_preferred":[
+        "Pacobo"
+    ],
+    "name:ita_x_preferred":[
+        "Pacobo"
+    ],
+    "name:msa_x_preferred":[
+        "Pacobo"
+    ],
     "name:und_x_variant":[
         "Pakobo"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343592573,
-    "wof:lastmodified":1537590940,
+    "wof:lastmodified":1564104529,
     "wof:name":"Pacobo",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

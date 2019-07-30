@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Katiali"
+    ],
+    "name:ita_x_preferred":[
+        "Katiali"
+    ],
+    "name:msa_x_preferred":[
+        "Katiali"
+    ],
     "name:und_x_variant":[
         "Katyali",
         "Katiali"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327060951,
-    "wof:lastmodified":1537590998,
+    "wof:lastmodified":1564104226,
     "wof:name":"Katiali",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

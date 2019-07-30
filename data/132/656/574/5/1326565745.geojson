@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sipilou"
+    ],
+    "name:ita_x_preferred":[
+        "Sipilou"
+    ],
+    "name:msa_x_preferred":[
+        "Sipilou"
+    ],
+    "name:spa_x_preferred":[
+        "Sipilou"
+    ],
     "name:und_x_variant":[
         "Siguita",
         "Siquita",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326565745,
-    "wof:lastmodified":1537590924,
+    "wof:lastmodified":1564104283,
     "wof:name":"Sipilou",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

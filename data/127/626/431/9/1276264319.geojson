@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nidrou"
+    ],
+    "name:ita_x_preferred":[
+        "Nidrou"
+    ],
+    "name:msa_x_preferred":[
+        "Nidrou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276264319,
-    "wof:lastmodified":1537489406,
+    "wof:lastmodified":1564104830,
     "wof:name":"Nidrou",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dioulati\u00e9dougou"
+    ],
+    "name:ita_x_preferred":[
+        "Dioulati\u00e8dougou"
+    ],
+    "name:msa_x_preferred":[
+        "Dioulati\u00e8dougou"
+    ],
+    "name:ron_x_preferred":[
+        "Dioulati\u00e9dougou"
+    ],
     "name:und_x_variant":[
         "Dioulati\u00e9dougou"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226278833,
-    "wof:lastmodified":1537591038,
+    "wof:lastmodified":1564105952,
     "wof:name":"Dioulatiedougou",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

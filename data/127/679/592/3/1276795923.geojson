@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dania"
+    ],
+    "name:ita_x_preferred":[
+        "Dania"
+    ],
+    "name:lat_x_preferred":[
+        "Dania"
+    ],
+    "name:msa_x_preferred":[
+        "Dania"
+    ],
     "name:und_x_variant":[
         "Damafla",
         "Daniafla",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276795923,
-    "wof:lastmodified":1537591046,
+    "wof:lastmodified":1564104924,
     "wof:name":"Dania",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dananon"
+    ],
+    "name:ita_x_preferred":[
+        "Dananon"
+    ],
+    "name:msa_x_preferred":[
+        "Dananon"
+    ],
     "name:und_x_variant":[
         "Donanon",
         "Danano",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259513821,
-    "wof:lastmodified":1537591047,
+    "wof:lastmodified":1564105889,
     "wof:name":"Dananon",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

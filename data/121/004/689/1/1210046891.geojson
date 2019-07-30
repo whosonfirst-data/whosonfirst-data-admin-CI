@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Za\u00efbo"
+    ],
+    "name:ita_x_preferred":[
+        "Za\u00efbo"
+    ],
+    "name:msa_x_preferred":[
+        "Za\u00efbo"
+    ],
     "name:und_x_variant":[
         "Za\u00efbo",
         "Zahibo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1210046891,
-    "wof:lastmodified":1537590894,
+    "wof:lastmodified":1564105189,
     "wof:name":"Zaibo",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

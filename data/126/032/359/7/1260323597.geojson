@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zoukpangbeu"
+    ],
+    "name:msa_x_preferred":[
+        "Zoukpangbeu"
+    ],
     "name:und_x_variant":[
         "Zoupangbe",
         "Zoupougb\u00e9",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260323597,
-    "wof:lastmodified":1537590889,
+    "wof:lastmodified":1564105307,
     "wof:name":"Zoupangbeu",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

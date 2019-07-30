@@ -26,6 +26,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0443\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Zoula"
+    ],
     "name:und_x_variant":[
         "Zola",
         "Zoola",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243378409,
-    "wof:lastmodified":1537590889,
+    "wof:lastmodified":1564105630,
     "wof:name":"Zoula",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

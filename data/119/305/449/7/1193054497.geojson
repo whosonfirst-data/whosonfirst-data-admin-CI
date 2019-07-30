@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djibrosso"
+    ],
+    "name:ita_x_preferred":[
+        "Djibrosso"
+    ],
+    "name:msa_x_preferred":[
+        "Djibrosso"
+    ],
     "name:und_x_variant":[
         "Guiborosso",
         "Giboroso",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1193054497,
-    "wof:lastmodified":1537591017,
+    "wof:lastmodified":1564105211,
     "wof:name":"Djibrosso",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

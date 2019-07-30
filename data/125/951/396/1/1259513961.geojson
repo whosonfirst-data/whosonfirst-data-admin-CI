@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouassi-Dat\u00e8kro"
+    ],
+    "name:ita_x_preferred":[
+        "Kouassi-Dat\u00e9kro"
+    ],
+    "name:msa_x_preferred":[
+        "Kouassi-Dat\u00e8kro"
+    ],
+    "name:ron_x_preferred":[
+        "Kouassi-Dat\u00e8kro"
+    ],
     "name:und_x_variant":[
         "Kouassi-Dat\u00e9kro"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259513961,
-    "wof:lastmodified":1537590984,
+    "wof:lastmodified":1564105883,
     "wof:name":"Kouassi-Datekro",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

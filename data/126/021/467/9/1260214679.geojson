@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bayota"
+    ],
+    "name:ita_x_preferred":[
+        "Bayota"
+    ],
+    "name:msa_x_preferred":[
+        "Bayota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260214679,
-    "wof:lastmodified":1537489457,
+    "wof:lastmodified":1564105299,
     "wof:name":"Bayota",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

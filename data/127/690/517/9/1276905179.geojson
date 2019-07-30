@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nafana"
+    ],
+    "name:fra_x_preferred":[
+        "Nafana"
+    ],
+    "name:ita_x_preferred":[
+        "Nafana"
+    ],
+    "name:msa_x_preferred":[
+        "Nafana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276905179,
-    "wof:lastmodified":1537489409,
+    "wof:lastmodified":1564104944,
     "wof:name":"Nafana",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

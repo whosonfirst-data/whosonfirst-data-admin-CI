@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Adia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1360022171,
-    "wof:lastmodified":1537034779,
+    "wof:lastmodified":1564105537,
     "wof:name":"Adia",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

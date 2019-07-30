@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tawara"
+    ],
+    "name:msa_x_preferred":[
+        "Tawara"
+    ],
     "name:und_x_variant":[
         "Tavouarha",
         "Taouara",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243009459,
-    "wof:lastmodified":1537590916,
+    "wof:lastmodified":1564105619,
     "wof:name":"Tawara",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

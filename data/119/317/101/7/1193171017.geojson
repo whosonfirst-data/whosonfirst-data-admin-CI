@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouakro"
+    ],
+    "name:ita_x_preferred":[
+        "Kouakro"
+    ],
+    "name:msa_x_preferred":[
+        "Kouakro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1193171017,
-    "wof:lastmodified":1537489421,
+    "wof:lastmodified":1564105238,
     "wof:name":"Kouakro",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

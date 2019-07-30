@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lauzoua"
+    ],
+    "name:ita_x_preferred":[
+        "Lauzoua"
+    ],
+    "name:msa_x_preferred":[
+        "Lauzoua"
+    ],
     "name:und_x_variant":[
         "Lozoua",
         "Lauzoua"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243102117,
-    "wof:lastmodified":1537590975,
+    "wof:lastmodified":1564105796,
     "wof:name":"Lauzoua",
     "wof:parent_id":1108784999,
     "wof:placetype":"locality",

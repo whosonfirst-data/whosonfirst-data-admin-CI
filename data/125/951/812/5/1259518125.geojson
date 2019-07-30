@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Memni"
+    ],
+    "name:msa_x_preferred":[
+        "Memni"
+    ],
     "name:und_x_variant":[
         "M\u2019emm",
         "Memni"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259518125,
-    "wof:lastmodified":1537590964,
+    "wof:lastmodified":1564105894,
     "wof:name":"Memni",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

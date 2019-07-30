@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Logoual\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Logoual\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Logoual\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Logoual\u00e9"
+    ],
     "name:und_x_variant":[
         "Logwale",
         "Logoual\u00e9"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209449319,
-    "wof:lastmodified":1537590972,
+    "wof:lastmodified":1564105173,
     "wof:name":"Logouale",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

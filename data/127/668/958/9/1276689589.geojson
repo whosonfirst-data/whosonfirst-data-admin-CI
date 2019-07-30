@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tap\u00e9guia"
+    ],
+    "name:ita_x_preferred":[
+        "Tap\u00e9guia"
+    ],
+    "name:msa_x_preferred":[
+        "Tap\u00e9guia"
+    ],
     "name:und_x_variant":[
         "B\u00e9tia",
         "Tapgua",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276689589,
-    "wof:lastmodified":1537590916,
+    "wof:lastmodified":1564104890,
     "wof:name":"Tapeguia",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

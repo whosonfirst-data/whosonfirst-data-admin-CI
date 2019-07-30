@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koy\u00e9kro"
+    ],
+    "name:msa_x_preferred":[
+        "Koy\u00e9kro"
+    ],
     "name:und_x_variant":[
         "Kay\u00e9kro",
         "Koy\u00e9kro"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1277016821,
-    "wof:lastmodified":1537590980,
+    "wof:lastmodified":1564104814,
     "wof:name":"Koyekro",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Varal\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Varal\u00e9"
+    ],
     "name:und_x_variant":[
         "Viral\u00e9"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243006805,
-    "wof:lastmodified":1537590903,
+    "wof:lastmodified":1564105606,
     "wof:name":"Varale",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

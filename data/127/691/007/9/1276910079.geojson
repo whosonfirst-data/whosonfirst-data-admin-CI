@@ -25,6 +25,24 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mossi"
+    ],
+    "name:ceb_x_preferred":[
+        "Mossi"
+    ],
+    "name:deu_x_preferred":[
+        "Mossi"
+    ],
+    "name:fra_x_preferred":[
+        "Mossi"
+    ],
+    "name:nld_x_preferred":[
+        "Mossi"
+    ],
+    "name:swe_x_preferred":[
+        "Mossi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276910079,
-    "wof:lastmodified":1536999976,
+    "wof:lastmodified":1564104962,
     "wof:name":"Mossi",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

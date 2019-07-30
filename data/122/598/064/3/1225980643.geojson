@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kanzra"
+    ],
+    "name:ita_x_preferred":[
+        "Kanzra"
+    ],
+    "name:msa_x_preferred":[
+        "Kanzra"
+    ],
     "name:und_x_variant":[
         "Kranzra",
         "Kanzra"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225980643,
-    "wof:lastmodified":1537591000,
+    "wof:lastmodified":1564106029,
     "wof:name":"Kanzra",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

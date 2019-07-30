@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gu\u00e9nimanzo"
+    ],
+    "name:msa_x_preferred":[
+        "Gu\u00e9nimanzo"
+    ],
     "name:und_x_variant":[
         "Gu\u00e9n\u00e9manzo",
         "Gu\u00e9nimanzo",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343389793,
-    "wof:lastmodified":1537591020,
+    "wof:lastmodified":1564104427,
     "wof:name":"Gbenimanso",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

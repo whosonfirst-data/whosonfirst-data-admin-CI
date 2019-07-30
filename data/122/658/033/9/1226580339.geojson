@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kr\u00e9gb\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kr\u00e9gb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Kr\u00e9gb\u00e9"
+    ],
     "name:und_x_variant":[
         "K\u00e9regb\u00e9",
         "Kregb\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226580339,
-    "wof:lastmodified":1537590979,
+    "wof:lastmodified":1564105961,
     "wof:name":"Kregbe",
     "wof:parent_id":1108785005,
     "wof:placetype":"locality",

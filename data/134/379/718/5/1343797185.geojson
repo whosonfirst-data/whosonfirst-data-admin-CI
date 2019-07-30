@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kakpi"
+    ],
+    "name:ita_x_preferred":[
+        "Kakpin"
+    ],
+    "name:msa_x_preferred":[
+        "Kakpi"
+    ],
     "name:und_x_variant":[
         "Kapine",
         "Kakpin"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343797185,
-    "wof:lastmodified":1537591003,
+    "wof:lastmodified":1564104505,
     "wof:name":"Kakpin",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ti\u00e9bissou"
+    ],
+    "name:ita_x_preferred":[
+        "Ti\u00e9bissou"
+    ],
+    "name:spa_x_preferred":[
+        "Ti\u00e9bissou"
+    ],
     "name:und_x_variant":[
         "Tiebissu",
         "Ti\u00e9bissou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293137475,
-    "wof:lastmodified":1537590914,
+    "wof:lastmodified":1564104704,
     "wof:name":"Tiebissou",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

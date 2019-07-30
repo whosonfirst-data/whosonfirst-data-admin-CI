@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guiamapleu"
+    ],
+    "name:msa_x_preferred":[
+        "Guiamapleu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343490531,
-    "wof:lastmodified":1537489431,
+    "wof:lastmodified":1564104512,
     "wof:name":"Guiamapleu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

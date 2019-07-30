@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9bi"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00e9bi"
+    ],
     "name:und_x_variant":[
         "Koho",
         "K\u00e9bi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327468259,
-    "wof:lastmodified":1537590997,
+    "wof:lastmodified":1564104334,
     "wof:name":"Kebi",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

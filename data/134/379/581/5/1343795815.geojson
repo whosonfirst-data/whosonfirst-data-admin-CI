@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Diaso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343795815,
-    "wof:lastmodified":1536760199,
+    "wof:lastmodified":1564104492,
     "wof:name":"Diaso",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

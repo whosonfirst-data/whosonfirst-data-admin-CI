@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loho"
+    ],
+    "name:swe_x_preferred":[
+        "Loho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326861017,
-    "wof:lastmodified":1537006628,
+    "wof:lastmodified":1564104259,
     "wof:name":"Loho",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

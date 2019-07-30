@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lovigui\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Lovigui\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Lovigui\u00e9"
+    ],
     "name:und_x_variant":[
         "Lowigu\u00e9",
         "Lovigui\u00e9",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293918585,
-    "wof:lastmodified":1537590970,
+    "wof:lastmodified":1564104618,
     "wof:name":"Loviguie I",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

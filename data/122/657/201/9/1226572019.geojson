@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gaot\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Gaot\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Gaot\u00e9"
+    ],
     "name:und_x_variant":[
         "Gaot\u00e8"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226572019,
-    "wof:lastmodified":1537591023,
+    "wof:lastmodified":1564105990,
     "wof:name":"Gaote",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

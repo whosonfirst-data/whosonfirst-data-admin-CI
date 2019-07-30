@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sin\u00e9matiali"
+    ],
+    "name:ita_x_preferred":[
+        "Sin\u00e9matiali"
+    ],
+    "name:msa_x_preferred":[
+        "Sin\u00e9matiali"
+    ],
+    "name:por_x_preferred":[
+        "Sinematiali"
+    ],
+    "name:spa_x_preferred":[
+        "Sin\u00e9matiali"
+    ],
     "name:und_x_variant":[
         "Sin\u00e9matiali"
     ],
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209551443,
-    "wof:lastmodified":1537590924,
+    "wof:lastmodified":1564105025,
     "wof:name":"Sinematiali",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

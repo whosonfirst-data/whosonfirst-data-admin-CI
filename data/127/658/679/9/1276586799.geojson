@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niell\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Niell\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Niell\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Niel\u00e9"
+    ],
     "name:und_x_variant":[
         "Ni\u00e9l\u00e9",
         "Niell\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276586799,
-    "wof:lastmodified":1537590950,
+    "wof:lastmodified":1564104883,
     "wof:name":"Nielle",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

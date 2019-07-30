@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goli"
+    ],
+    "name:deu_x_preferred":[
+        "Goli"
+    ],
+    "name:swe_x_preferred":[
+        "Goli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293420593,
-    "wof:lastmodified":1536882945,
+    "wof:lastmodified":1564104769,
     "wof:name":"Goli",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

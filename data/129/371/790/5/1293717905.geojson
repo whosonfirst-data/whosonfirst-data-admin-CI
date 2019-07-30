@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Bidari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293717905,
-    "wof:lastmodified":1536952525,
+    "wof:lastmodified":1564104688,
     "wof:name":"Bidari",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

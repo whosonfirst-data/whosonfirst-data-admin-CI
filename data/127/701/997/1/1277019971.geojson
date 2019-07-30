@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Larabia"
+    ],
+    "name:msa_x_preferred":[
+        "Larabia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0631\u0627\u0628\u06cc\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1277019971,
-    "wof:lastmodified":1536852108,
+    "wof:lastmodified":1564104803,
     "wof:name":"Larabia",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

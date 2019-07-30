@@ -25,6 +25,60 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0627\u0646\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Tyana"
+    ],
+    "name:deu_x_preferred":[
+        "Tyana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cd\u03b1\u03bd\u03b1"
+    ],
+    "name:fin_x_preferred":[
+        "Tyana"
+    ],
+    "name:fra_x_preferred":[
+        "Tyane"
+    ],
+    "name:glg_x_preferred":[
+        "Tyana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05e0\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Tijana"
+    ],
+    "name:ind_x_preferred":[
+        "Tyana"
+    ],
+    "name:ita_x_preferred":[
+        "Tyana"
+    ],
+    "name:nld_x_preferred":[
+        "Tyana"
+    ],
+    "name:nor_x_preferred":[
+        "Tyana"
+    ],
+    "name:pol_x_preferred":[
+        "Tyana"
+    ],
+    "name:por_x_preferred":[
+        "Tiana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0430\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Tuvana Krall\u0131\u011f\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1226373657,
-    "wof:lastmodified":1536749312,
+    "wof:lastmodified":1564106068,
     "wof:name":"Tyana",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

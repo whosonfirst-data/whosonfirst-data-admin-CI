@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uace0\ud558\ub9c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327065851,
-    "wof:lastmodified":1536712449,
+    "wof:lastmodified":1564104228,
     "wof:name":"Kohama",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

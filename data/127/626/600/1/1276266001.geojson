@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bless\u00e9gu\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bless\u00e9gu\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Bless\u00e9gu\u00e9"
+    ],
     "name:und_x_variant":[
         "Blessique",
         "Bl\u00e9ssigu\u00e9",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276266001,
-    "wof:lastmodified":1537591060,
+    "wof:lastmodified":1564104837,
     "wof:name":"Blessegue",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

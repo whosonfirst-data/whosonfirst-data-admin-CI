@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gbonn\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Gbonn\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Gbonn\u00e9"
+    ],
     "name:und_x_variant":[
         "Gbon\u00e9",
         "Gbonn\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343390227,
-    "wof:lastmodified":1537591019,
+    "wof:lastmodified":1564104438,
     "wof:name":"Gbonne",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

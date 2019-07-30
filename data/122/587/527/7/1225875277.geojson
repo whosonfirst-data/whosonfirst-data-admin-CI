@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taabo"
+    ],
+    "name:ita_x_preferred":[
+        "Taabo"
+    ],
+    "name:msa_x_preferred":[
+        "Taabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1225875277,
-    "wof:lastmodified":1536970852,
+    "wof:lastmodified":1564106006,
     "wof:name":"Taabo",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

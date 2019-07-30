@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sand\u00e9gu\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Sand\u00e9gu\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sand\u00e9gu\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Sand\u00e9gu\u00e9"
+    ],
     "name:und_x_variant":[
         "Sand\u00e9gu\u00e9"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327470141,
-    "wof:lastmodified":1537590930,
+    "wof:lastmodified":1564104315,
     "wof:name":"Sandegue",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

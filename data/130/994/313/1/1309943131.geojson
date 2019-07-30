@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaniasso"
+    ],
+    "name:ita_x_preferred":[
+        "Kaniasso"
+    ],
+    "name:msa_x_preferred":[
+        "Kaniasso"
+    ],
+    "name:ron_x_preferred":[
+        "Kaniasso"
+    ],
+    "name:spa_x_preferred":[
+        "Kaniasso"
+    ],
     "name:und_x_variant":[
         "Kanyaso"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309943131,
-    "wof:lastmodified":1537591000,
+    "wof:lastmodified":1564105578,
     "wof:name":"Kaniasso",
     "wof:parent_id":1108784987,
     "wof:placetype":"locality",

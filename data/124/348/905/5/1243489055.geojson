@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Komon"
+    ],
     "name:und_x_variant":[
         "Koman",
         "Komon"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243489055,
-    "wof:lastmodified":1537590991,
+    "wof:lastmodified":1564105700,
     "wof:name":"Komon",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

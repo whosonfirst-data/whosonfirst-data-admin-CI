@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sohouo"
+    ],
+    "name:ita_x_preferred":[
+        "Sohouo"
+    ],
+    "name:msa_x_preferred":[
+        "Sohouo"
+    ],
     "name:und_x_variant":[
         "Sohouo",
         "Sowo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327468299,
-    "wof:lastmodified":1537590919,
+    "wof:lastmodified":1564104321,
     "wof:name":"Sowo",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

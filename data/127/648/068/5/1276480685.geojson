@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dikodougou"
+    ],
+    "name:ita_x_preferred":[
+        "Dikodougou"
+    ],
+    "name:msa_x_preferred":[
+        "Dikodougou"
+    ],
+    "name:spa_x_preferred":[
+        "Dikodougou"
+    ],
     "name:und_x_variant":[
         "Dikodugu",
         "Dikodougou"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276480685,
-    "wof:lastmodified":1537591039,
+    "wof:lastmodified":1564104940,
     "wof:name":"Dikodougou",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

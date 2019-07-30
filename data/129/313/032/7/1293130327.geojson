@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293130327,
-    "wof:lastmodified":1536804939,
+    "wof:lastmodified":1564104708,
     "wof:name":"Boua",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

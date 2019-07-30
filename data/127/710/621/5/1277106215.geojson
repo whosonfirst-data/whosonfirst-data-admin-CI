@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Etu\u00e9ssika"
+    ],
+    "name:msa_x_preferred":[
+        "Etuessika"
+    ],
     "name:und_x_variant":[
         "Etu\u00e9ssika",
         "Etuossika"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1277106215,
-    "wof:lastmodified":1537591094,
+    "wof:lastmodified":1564104976,
     "wof:name":"Etuessika",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

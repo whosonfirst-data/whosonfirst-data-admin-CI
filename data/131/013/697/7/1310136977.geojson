@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koumbala"
+    ],
+    "name:ita_x_preferred":[
+        "Koumbala"
+    ],
+    "name:msa_x_preferred":[
+        "Koumbala"
+    ],
+    "name:por_x_preferred":[
+        "Cumbala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1310136977,
-    "wof:lastmodified":1537489420,
+    "wof:lastmodified":1564105359,
     "wof:name":"Koumbala",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

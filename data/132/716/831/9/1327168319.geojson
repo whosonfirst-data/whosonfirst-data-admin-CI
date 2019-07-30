@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yapleu"
+    ],
+    "name:ita_x_preferred":[
+        "Yapleu"
+    ],
+    "name:msa_x_preferred":[
+        "Yapleu"
+    ],
+    "name:ron_x_preferred":[
+        "Yapleu"
+    ],
     "name:und_x_variant":[
         "Iapleu",
         "Yapleu"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327168319,
-    "wof:lastmodified":1537590897,
+    "wof:lastmodified":1564104417,
     "wof:name":"Yapleu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

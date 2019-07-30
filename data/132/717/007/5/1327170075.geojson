@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0627\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Addah"
+    ],
+    "name:msa_x_preferred":[
+        "Addah"
+    ],
+    "name:ron_x_preferred":[
+        "Addah"
+    ],
+    "name:swe_x_preferred":[
+        "Addah"
+    ],
     "name:und_x_variant":[
         "Adda",
         "Addah"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327170075,
-    "wof:lastmodified":1537591088,
+    "wof:lastmodified":1564104400,
     "wof:name":"Addah",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

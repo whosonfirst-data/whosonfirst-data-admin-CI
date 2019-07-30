@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taabo"
+    ],
+    "name:ita_x_preferred":[
+        "Taabo"
+    ],
+    "name:msa_x_preferred":[
+        "Taabo"
+    ],
     "name:und_x_variant":[
         "Taabo"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276795877,
-    "wof:lastmodified":1537590918,
+    "wof:lastmodified":1564104927,
     "wof:name":"Tabo",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Goum\u00e9r\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Goum\u00e9r\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Goum\u00e9r\u00e9"
+    ],
     "name:und_x_variant":[
         "Gomb\u00e9l\u00e9",
         "Goum\u00e9r\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293726005,
-    "wof:lastmodified":1537591011,
+    "wof:lastmodified":1564104796,
     "wof:name":"Goumere",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

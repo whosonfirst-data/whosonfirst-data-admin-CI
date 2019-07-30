@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalaha"
+    ],
+    "name:msa_x_preferred":[
+        "Kalaha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1360218137,
-    "wof:lastmodified":1537489429,
+    "wof:lastmodified":1564105524,
     "wof:name":"Kalaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

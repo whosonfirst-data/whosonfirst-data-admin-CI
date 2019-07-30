@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tiobly"
+    ],
+    "name:ita_x_preferred":[
+        "Tiobly"
+    ],
+    "name:msa_x_preferred":[
+        "Tiobly"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9bli"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1360220683,
-    "wof:lastmodified":1537590914,
+    "wof:lastmodified":1564105477,
     "wof:name":"Tiobly",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

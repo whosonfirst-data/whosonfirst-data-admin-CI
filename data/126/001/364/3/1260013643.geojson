@@ -25,11 +25,23 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tiagba"
+    ],
+    "name:msa_x_preferred":[
+        "Tiagba"
+    ],
+    "name:ron_x_preferred":[
+        "Tiagba"
+    ],
     "name:und_x_variant":[
         "Tiegba",
         "Tiagb\u00e9",
         "Thiakba",
         "Tiagba"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u4e9e\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1260013643,
-    "wof:lastmodified":1537590914,
+    "wof:lastmodified":1564105254,
     "wof:name":"Tiagba",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

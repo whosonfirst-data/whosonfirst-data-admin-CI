@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lopou"
+    ],
+    "name:ita_x_preferred":[
+        "Lopou"
+    ],
+    "name:msa_x_preferred":[
+        "Lopou"
+    ],
     "name:und_x_variant":[
         "Lopu",
         "Lopou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242608717,
-    "wof:lastmodified":1537590971,
+    "wof:lastmodified":1564105688,
     "wof:name":"Lopou",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",

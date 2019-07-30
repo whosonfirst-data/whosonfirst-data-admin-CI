@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ouangolodougou"
+    ],
+    "name:ita_x_preferred":[
+        "Ouangolodougou"
+    ],
+    "name:msa_x_preferred":[
+        "Ouangolodougou"
+    ],
+    "name:pol_x_preferred":[
+        "Ouangolodougou"
+    ],
     "name:und_x_variant":[
         "Wangolodugu",
         "Wangolodougou",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326964405,
-    "wof:lastmodified":1537590942,
+    "wof:lastmodified":1564104373,
     "wof:name":"Ouangolodougou",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

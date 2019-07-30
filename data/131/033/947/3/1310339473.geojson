@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9ningbou\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Ti\u00e9ningbou\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Ti\u00e9ningbou\u00e9"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9nigb\u00e9",
         "Ti\u00e9ningbu\u00e9",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310339473,
-    "wof:lastmodified":1537590913,
+    "wof:lastmodified":1564105460,
     "wof:name":"Tieningboue",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

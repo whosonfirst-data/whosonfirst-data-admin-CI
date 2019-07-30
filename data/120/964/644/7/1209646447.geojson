@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Badikaha"
+    ],
+    "name:ita_x_preferred":[
+        "Badikaha"
+    ],
+    "name:msa_x_preferred":[
+        "Badikaha"
+    ],
     "name:und_x_variant":[
         "Gbadi-Kaha",
         "Bad-Kaha",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209646447,
-    "wof:lastmodified":1537591073,
+    "wof:lastmodified":1564105012,
     "wof:name":"Badikaha",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

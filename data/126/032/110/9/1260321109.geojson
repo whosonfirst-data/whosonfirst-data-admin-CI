@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Medio Systems"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260321109,
-    "wof:lastmodified":1536661474,
+    "wof:lastmodified":1564105306,
     "wof:name":"Medio",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

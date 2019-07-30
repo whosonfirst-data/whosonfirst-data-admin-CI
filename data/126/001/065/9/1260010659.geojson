@@ -25,10 +25,22 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fadiadougou"
+    ],
+    "name:ita_x_preferred":[
+        "Fadiadougou"
+    ],
+    "name:msa_x_preferred":[
+        "Fadiadougou"
+    ],
     "name:und_x_variant":[
         "F\u00e9r\u00e9k\u00e9dougou",
         "Fadyadougou",
         "Fadiadougou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0688\u06cc\u0627\u0688\u0648\u06af\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1260010659,
-    "wof:lastmodified":1537591029,
+    "wof:lastmodified":1564105256,
     "wof:name":"Fadiadougou",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

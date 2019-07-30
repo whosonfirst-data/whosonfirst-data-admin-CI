@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "C\u00e9chi"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e9chi"
+    ],
+    "name:msa_x_preferred":[
+        "C\u00e9chi"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00e9chi"
+    ],
     "name:und_x_variant":[
         "C\u00e9chi",
         "S\u00e9chi"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293034915,
-    "wof:lastmodified":1537590928,
+    "wof:lastmodified":1564104720,
     "wof:name":"Sechi",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

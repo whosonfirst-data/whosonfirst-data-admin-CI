@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Raviart"
+    ],
+    "name:ita_x_preferred":[
+        "Raviart"
+    ],
+    "name:msa_x_preferred":[
+        "Raviart"
+    ],
+    "name:ron_x_preferred":[
+        "Raviart"
+    ],
     "name:und_x_variant":[
         "Raviar",
         "Raviart"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1260016513,
-    "wof:lastmodified":1537590933,
+    "wof:lastmodified":1564105257,
     "wof:name":"Raviart",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morokro"
+    ],
+    "name:ita_x_preferred":[
+        "Morokro"
+    ],
+    "name:msa_x_preferred":[
+        "Morokro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310036153,
-    "wof:lastmodified":1537489410,
+    "wof:lastmodified":1564105429,
     "wof:name":"Morokro",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

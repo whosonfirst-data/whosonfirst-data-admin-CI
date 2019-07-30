@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sebbe"
+    ],
     "name:und_x_variant":[
         "S\u00e9gu\u00e9b\u00e9",
         "S\u00e9b\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243488471,
-    "wof:lastmodified":1537590928,
+    "wof:lastmodified":1564105702,
     "wof:name":"Sebe",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

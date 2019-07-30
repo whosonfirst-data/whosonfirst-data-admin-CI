@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaine"
+    ],
+    "name:fra_x_preferred":[
+        "Kaine"
+    ],
+    "name:spa_x_preferred":[
+        "Kaine"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327165503,
-    "wof:lastmodified":1537063454,
+    "wof:lastmodified":1564104406,
     "wof:name":"Kaine",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

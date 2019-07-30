@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ebilassokro"
+    ],
+    "name:ita_x_preferred":[
+        "Ebilassokro"
+    ],
+    "name:msa_x_preferred":[
+        "Ebilassokro"
+    ],
     "name:und_x_variant":[
         "Ebilass\u00e9krou",
         "Ebilassokro"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242811675,
-    "wof:lastmodified":1537591031,
+    "wof:lastmodified":1564105656,
     "wof:name":"Ebilassokro",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

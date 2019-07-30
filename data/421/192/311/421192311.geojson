@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Tabou"
     ],
+    "name:deu_x_preferred":[
+        "Tabou"
+    ],
     "name:fra_x_preferred":[
         "Tabou"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421192311,
-    "wof:lastmodified":1527716116,
+    "wof:lastmodified":1564105600,
     "wof:name":"Tabou",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diangokro"
+    ],
+    "name:ita_x_preferred":[
+        "Diangokro"
+    ],
+    "name:msa_x_preferred":[
+        "Diangokro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243488779,
-    "wof:lastmodified":1537489446,
+    "wof:lastmodified":1564105701,
     "wof:name":"Diangokro",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

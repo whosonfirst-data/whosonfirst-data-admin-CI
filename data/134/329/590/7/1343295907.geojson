@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Satama-Sokoro"
+    ],
+    "name:ita_x_preferred":[
+        "Satama-Sokoro"
+    ],
+    "name:msa_x_preferred":[
+        "Satama-Sokoro"
+    ],
     "name:und_x_variant":[
         "Satama Sokoura",
         "Satama Soukoura",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343295907,
-    "wof:lastmodified":1537590929,
+    "wof:lastmodified":1564104586,
     "wof:name":"Satama-Sokoro",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

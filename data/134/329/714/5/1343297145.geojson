@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gu\u00e9yo"
+    ],
+    "name:ita_x_preferred":[
+        "Gu\u00e9yo"
+    ],
+    "name:msa_x_preferred":[
+        "Gu\u00e9yo"
+    ],
+    "name:spa_x_preferred":[
+        "Gu\u00e9yo"
+    ],
     "name:und_x_variant":[
         "Gu\u00e9hio",
         "Gu\u00e9yo",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343297145,
-    "wof:lastmodified":1537591008,
+    "wof:lastmodified":1564104584,
     "wof:name":"Gueyo",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

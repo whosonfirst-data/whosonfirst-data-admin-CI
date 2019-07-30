@@ -25,8 +25,50 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d6\u30ec"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0443\u0431\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0431\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Soubr\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Soubr\u00e9"
+    ],
     "name:und_x_variant":[
         "Soubr\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0624\u0628\u0631\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5e03\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1310238737,
-    "wof:lastmodified":1537591092,
+    "wof:lastmodified":1564105340,
     "wof:name":"Soubre",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

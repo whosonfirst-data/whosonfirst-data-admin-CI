@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kofa"
+    ],
+    "name:deu_x_preferred":[
+        "Kofa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242812711,
-    "wof:lastmodified":1536725443,
+    "wof:lastmodified":1564105663,
     "wof:name":"Kofa",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

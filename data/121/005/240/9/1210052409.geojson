@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u06af\u0648\u0627\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Allangouassou"
+    ],
+    "name:msa_x_preferred":[
+        "Allangouassou"
+    ],
     "name:und_x_variant":[
         "Alanguasu",
         "Alangouassou",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1210052409,
-    "wof:lastmodified":1537591083,
+    "wof:lastmodified":1564105201,
     "wof:name":"Allangouassou",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

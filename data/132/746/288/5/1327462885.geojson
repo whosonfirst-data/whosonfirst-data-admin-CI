@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Okrouyo"
+    ],
+    "name:ita_x_preferred":[
+        "Okrouyo"
+    ],
+    "name:msa_x_preferred":[
+        "Okrouyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1327462885,
-    "wof:lastmodified":1537489403,
+    "wof:lastmodified":1564104323,
     "wof:name":"Okrouyo",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

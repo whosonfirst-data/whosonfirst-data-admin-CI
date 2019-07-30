@@ -25,6 +25,27 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:fra_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:ita_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:msa_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:ron_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:spa_x_preferred":[
+        "Samatiguila"
+    ],
+    "name:swe_x_preferred":[
+        "Samatiguila"
+    ],
     "name:und_x_variant":[
         "Samatigila",
         "Samatiguila"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293725357,
-    "wof:lastmodified":1537590931,
+    "wof:lastmodified":1564104788,
     "wof:name":"Samatiguila",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

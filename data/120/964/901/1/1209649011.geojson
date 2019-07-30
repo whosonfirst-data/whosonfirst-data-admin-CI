@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dahiri"
+    ],
+    "name:ita_x_preferred":[
+        "Dahiri"
+    ],
+    "name:msa_x_preferred":[
+        "Dahiri"
+    ],
     "name:und_x_variant":[
         "Dairi",
         "Dahiri"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209649011,
-    "wof:lastmodified":1537591048,
+    "wof:lastmodified":1564105010,
     "wof:name":"Dahiri",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

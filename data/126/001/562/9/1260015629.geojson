@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moule"
+    ],
+    "name:deu_x_preferred":[
+        "Moule"
+    ],
+    "name:fra_x_preferred":[
+        "Moule"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30fc\u30eb"
+    ],
+    "name:swe_x_preferred":[
+        "Moule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260015629,
-    "wof:lastmodified":1537082485,
+    "wof:lastmodified":1564105262,
     "wof:name":"Moule",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

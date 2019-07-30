@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dassioko"
+    ],
+    "name:msa_x_preferred":[
+        "Dassioko"
+    ],
     "name:und_x_variant":[
         "Dassi\u00e9ko",
         "Dasi\u00e9ko",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259419247,
-    "wof:lastmodified":1537591045,
+    "wof:lastmodified":1564105837,
     "wof:name":"Dassioko",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

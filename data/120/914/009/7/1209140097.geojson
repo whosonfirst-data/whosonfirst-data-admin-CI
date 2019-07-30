@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kanakono"
+    ],
+    "name:ita_x_preferred":[
+        "Kanakono"
+    ],
+    "name:msa_x_preferred":[
+        "Kanakono"
+    ],
+    "name:ron_x_preferred":[
+        "Kanakono"
+    ],
     "name:und_x_variant":[
         "Kanakoro",
         "Kanakono"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209140097,
-    "wof:lastmodified":1537591002,
+    "wof:lastmodified":1564105084,
     "wof:name":"Kanakono",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

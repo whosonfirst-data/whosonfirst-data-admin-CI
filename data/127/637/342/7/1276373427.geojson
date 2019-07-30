@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bakoubly"
+    ],
+    "name:ita_x_preferred":[
+        "Bakoubli"
+    ],
+    "name:msa_x_preferred":[
+        "Bakoubli"
+    ],
     "name:und_x_variant":[
         "Baoubli",
         "Baboubli",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276373427,
-    "wof:lastmodified":1537591072,
+    "wof:lastmodified":1564104959,
     "wof:name":"Bakoubli",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

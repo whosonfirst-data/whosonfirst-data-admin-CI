@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Abdoulaye"
+    ],
+    "name:fra_x_preferred":[
+        "Abdoulaye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209546625,
-    "wof:lastmodified":1536283824,
+    "wof:lastmodified":1564105000,
     "wof:name":"Abdoulaye",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

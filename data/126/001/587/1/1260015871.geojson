@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambalouma"
+    ],
+    "name:msa_x_preferred":[
+        "Bambalouma"
+    ],
+    "name:ron_x_preferred":[
+        "Bambalouma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260015871,
-    "wof:lastmodified":1537489458,
+    "wof:lastmodified":1564105260,
     "wof:name":"Bambalouma",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

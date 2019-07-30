@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sorobango"
+    ],
+    "name:ita_x_preferred":[
+        "Sorobango"
+    ],
+    "name:msa_x_preferred":[
+        "Sorobango"
+    ],
     "name:und_x_variant":[
         "Sorrhobange",
         "Sorobango"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276695911,
-    "wof:lastmodified":1537590921,
+    "wof:lastmodified":1564104864,
     "wof:name":"Sorobango",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

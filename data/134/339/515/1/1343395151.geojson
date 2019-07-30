@@ -25,6 +25,21 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bazaga"
+    ],
+    "name:ita_x_preferred":[
+        "Bazaga"
+    ],
+    "name:msa_x_preferred":[
+        "Bazaga"
+    ],
+    "name:ron_x_preferred":[
+        "Bazaga"
+    ],
+    "name:spa_x_preferred":[
+        "Bazaga"
+    ],
     "name:und_x_variant":[
         "Bazago",
         "Bazaga"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1343395151,
-    "wof:lastmodified":1537591067,
+    "wof:lastmodified":1564104450,
     "wof:name":"Bazaga",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

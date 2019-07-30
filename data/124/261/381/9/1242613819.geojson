@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zou"
+    ],
+    "name:ita_x_preferred":[
+        "Zou"
+    ],
+    "name:msa_x_preferred":[
+        "Zou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242613819,
-    "wof:lastmodified":1537489380,
+    "wof:lastmodified":1564105683,
     "wof:name":"Zou",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

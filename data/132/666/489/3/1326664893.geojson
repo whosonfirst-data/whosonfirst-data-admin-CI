@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soukourougban"
+    ],
+    "name:msa_x_preferred":[
+        "Soukourougban"
+    ],
     "name:und_x_variant":[
         "Sukurugban",
         "Soukourougben",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326664893,
-    "wof:lastmodified":1537590919,
+    "wof:lastmodified":1564104305,
     "wof:name":"Soukourougban",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

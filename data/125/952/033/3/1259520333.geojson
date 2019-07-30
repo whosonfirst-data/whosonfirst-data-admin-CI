@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dibok\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Dibok\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Dibok\u00e9"
+    ],
     "name:und_x_variant":[
         "Diboh\u00e9",
         "Dibok\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259520333,
-    "wof:lastmodified":1537591041,
+    "wof:lastmodified":1564105831,
     "wof:name":"Diboke",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

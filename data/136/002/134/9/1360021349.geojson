@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Broma"
+    ],
+    "name:msa_x_preferred":[
+        "Broma"
+    ],
+    "name:ron_x_preferred":[
+        "Broma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1360021349,
-    "wof:lastmodified":1537489450,
+    "wof:lastmodified":1564105536,
     "wof:name":"Broma",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

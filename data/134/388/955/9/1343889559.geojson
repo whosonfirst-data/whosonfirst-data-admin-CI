@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sangouin\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Sangouin\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sangouin\u00e9"
+    ],
     "name:und_x_variant":[
         "Sangon\u00e9",
         "Sangouin\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343889559,
-    "wof:lastmodified":1537590930,
+    "wof:lastmodified":1564104609,
     "wof:name":"Sangouine",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

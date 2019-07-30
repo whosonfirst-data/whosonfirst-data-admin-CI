@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bouko"
+    ],
+    "name:ita_x_preferred":[
+        "Bouko"
+    ],
+    "name:msa_x_preferred":[
+        "Bouko"
+    ],
+    "name:ron_x_preferred":[
+        "Bouko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293327547,
-    "wof:lastmodified":1537016926,
+    "wof:lastmodified":1564104733,
     "wof:name":"Bouko",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

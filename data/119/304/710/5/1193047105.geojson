@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baonfla"
+    ],
+    "name:msa_x_preferred":[
+        "Bannonfla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193047105,
-    "wof:lastmodified":1537489457,
+    "wof:lastmodified":1564105210,
     "wof:name":"Baonfla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

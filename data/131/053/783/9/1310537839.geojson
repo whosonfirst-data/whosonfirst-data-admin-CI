@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diourouzon"
+    ],
+    "name:msa_x_preferred":[
+        "Diourouzon"
+    ],
     "name:und_x_variant":[
         "Dieouzon"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310537839,
-    "wof:lastmodified":1537591038,
+    "wof:lastmodified":1564105379,
     "wof:name":"Diourouzon",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ousmane Diallo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310142885,
-    "wof:lastmodified":1536943069,
+    "wof:lastmodified":1564105361,
     "wof:name":"Ousmane Diallo",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

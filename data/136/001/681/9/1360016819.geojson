@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngoloblasso"
+    ],
+    "name:ita_x_preferred":[
+        "N'Goloblasso"
+    ],
+    "name:msa_x_preferred":[
+        "N\u2019Goloblasso"
+    ],
     "name:und_x_variant":[
         "Ngoloblaso",
         "Ngoloblasso"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360016819,
-    "wof:lastmodified":1537590953,
+    "wof:lastmodified":1564105491,
     "wof:name":"Ngoloblasso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

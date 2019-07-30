@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bougousso"
+    ],
+    "name:ita_x_preferred":[
+        "Bougousso"
+    ],
+    "name:msa_x_preferred":[
+        "Bougousso"
+    ],
+    "name:ron_x_preferred":[
+        "Bougousso"
+    ],
     "name:und_x_variant":[
         "Bongousso",
         "Bougousso",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326564407,
-    "wof:lastmodified":1537591053,
+    "wof:lastmodified":1564104276,
     "wof:name":"Bougousso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

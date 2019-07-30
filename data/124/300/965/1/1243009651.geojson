@@ -25,6 +25,33 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Treichville"
+    ],
+    "name:deu_x_preferred":[
+        "Treichville"
+    ],
+    "name:fra_x_preferred":[
+        "Treichville"
+    ],
+    "name:ita_x_preferred":[
+        "Treichville"
+    ],
+    "name:msa_x_preferred":[
+        "Treichville"
+    ],
+    "name:oci_x_preferred":[
+        "Treichvila"
+    ],
+    "name:pol_x_preferred":[
+        "Treichville"
+    ],
+    "name:ron_x_preferred":[
+        "Treichville"
+    ],
+    "name:swe_x_preferred":[
+        "Treichville"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1243009651,
-    "wof:lastmodified":1537489387,
+    "wof:lastmodified":1564105604,
     "wof:name":"Treichville",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

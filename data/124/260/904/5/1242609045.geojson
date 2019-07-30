@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Dieta"
+    ],
+    "name:ita_x_preferred":[
+        "Dieta"
+    ],
+    "name:por_x_preferred":[
+        "Dieta"
+    ],
+    "name:spa_x_preferred":[
+        "Dieta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242609045,
-    "wof:lastmodified":1537017673,
+    "wof:lastmodified":1564105686,
     "wof:name":"Dieta",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

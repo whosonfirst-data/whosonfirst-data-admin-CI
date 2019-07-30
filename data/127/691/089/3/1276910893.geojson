@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9gbessou"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9gbessou"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9gbessou"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e9gbessou"
+    ],
     "name:und_x_variant":[
         "Bingbessou",
         "Bengbessou",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276910893,
-    "wof:lastmodified":1537591066,
+    "wof:lastmodified":1564104965,
     "wof:name":"Begbessou",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

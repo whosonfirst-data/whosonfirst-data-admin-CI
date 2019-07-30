@@ -25,6 +25,18 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rubino"
+    ],
+    "name:fra_x_preferred":[
+        "Rubino"
+    ],
+    "name:ita_x_preferred":[
+        "Rubino"
+    ],
+    "name:msa_x_preferred":[
+        "Rubino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209945121,
-    "wof:lastmodified":1537489398,
+    "wof:lastmodified":1564105141,
     "wof:name":"Rubino",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

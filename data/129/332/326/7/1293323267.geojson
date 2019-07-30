@@ -25,6 +25,30 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kalabo"
+    ],
+    "name:ita_x_preferred":[
+        "Kalabo"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0431\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Kalabo"
+    ],
+    "name:por_x_preferred":[
+        "Kalabo"
+    ],
+    "name:ron_x_preferred":[
+        "Kalabo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0431\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u535a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293323267,
-    "wof:lastmodified":1537022891,
+    "wof:lastmodified":1564104748,
     "wof:name":"Kalabo",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

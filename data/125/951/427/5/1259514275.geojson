@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pleuro"
+    ],
+    "name:msa_x_preferred":[
+        "Pleuro"
+    ],
     "name:und_x_variant":[
         "Plelo",
         "Pleuro"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259514275,
-    "wof:lastmodified":1537590936,
+    "wof:lastmodified":1564105894,
     "wof:name":"Pleuro",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

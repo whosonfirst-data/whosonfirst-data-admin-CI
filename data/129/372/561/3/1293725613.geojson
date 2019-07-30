@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Affi\u00e9nou"
+    ],
+    "name:msa_x_preferred":[
+        "Affi\u00e9nou"
+    ],
     "name:und_x_variant":[
         "Afi\u00e9nou",
         "Affi\u00e9nou"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293725613,
-    "wof:lastmodified":1537591087,
+    "wof:lastmodified":1564104788,
     "wof:name":"Affienou",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

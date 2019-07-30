@@ -31,6 +31,18 @@
     "name:fra_x_preferred":[
         "Grand B\u00e9r\u00e9by"
     ],
+    "name:fra_x_variant":[
+        "Grand-B\u00e9r\u00e9by"
+    ],
+    "name:ita_x_preferred":[
+        "Grand-B\u00e9r\u00e9by"
+    ],
+    "name:msa_x_preferred":[
+        "Grand-B\u00e9r\u00e9by"
+    ],
+    "name:ron_x_preferred":[
+        "Grand-B\u00e9r\u00e9by"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193155555,
-    "wof:lastmodified":1537591097,
+    "wof:lastmodified":1564105205,
     "wof:name":"Grand Bereby",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ziogouin\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Ziogouin\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Ziogouin\u00e9"
+    ],
     "name:und_x_variant":[
         "Zyogouin\u00e9",
         "Ziogouin\u00e9",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293917153,
-    "wof:lastmodified":1537590889,
+    "wof:lastmodified":1564104619,
     "wof:name":"Zyogouine",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dignago"
+    ],
+    "name:ita_x_preferred":[
+        "Dignago"
+    ],
+    "name:msa_x_preferred":[
+        "Dignago"
+    ],
     "name:und_x_variant":[
         "Dinyago",
         "Dignago"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293920007,
-    "wof:lastmodified":1537591038,
+    "wof:lastmodified":1564104715,
     "wof:name":"Dignago",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

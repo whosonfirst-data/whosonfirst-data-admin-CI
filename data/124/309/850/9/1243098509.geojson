@@ -25,6 +25,12 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Biakal\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Biakal\u00e9"
+    ],
     "name:und_x_variant":[
         "Bi\u00e9k\u00e9l\u00e9",
         "Biak\u00e9leu",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243098509,
-    "wof:lastmodified":1537591063,
+    "wof:lastmodified":1564105622,
     "wof:name":"Biakale",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

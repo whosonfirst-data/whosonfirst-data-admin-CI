@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kotoka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310139939,
-    "wof:lastmodified":1536947227,
+    "wof:lastmodified":1564105356,
     "wof:name":"Kotoka",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

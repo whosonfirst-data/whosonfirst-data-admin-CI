@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yaoss\u00e9dougou"
+    ],
+    "name:ita_x_preferred":[
+        "Yaoss\u00e9dougou"
+    ],
+    "name:msa_x_preferred":[
+        "Yaoss\u00e9dougou"
+    ],
     "name:und_x_variant":[
         "Yaos\u00e9dougou",
         "Yaoss\u00e9dougou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310439171,
-    "wof:lastmodified":1537590898,
+    "wof:lastmodified":1564105423,
     "wof:name":"Yaossedougou",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

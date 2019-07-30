@@ -25,6 +25,9 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gouessesso"
+    ],
     "name:und_x_variant":[
         "Goues\u00e9so"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293718055,
-    "wof:lastmodified":1537591012,
+    "wof:lastmodified":1564104691,
     "wof:name":"Gouessesso",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bi\u00e9by"
+    ],
+    "name:ita_x_preferred":[
+        "Bi\u00e9by"
+    ],
+    "name:msa_x_preferred":[
+        "Bi\u00e9by"
+    ],
     "name:und_x_variant":[
         "Bi\u00e9bi",
         "Bi\u00e9by"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276586403,
-    "wof:lastmodified":1537591062,
+    "wof:lastmodified":1564104882,
     "wof:name":"Bieby",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",
