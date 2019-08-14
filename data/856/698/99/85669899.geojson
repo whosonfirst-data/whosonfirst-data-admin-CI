@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VB"
+    ],
     "lbl:latitude":8.329991,
     "lbl:longitude":-4.802445,
     "mps:latitude":8.307625,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85669899,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563571757,
+    "wof:lastmodified":1565662539,
     "wof:name":"Valle Du Bandama",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

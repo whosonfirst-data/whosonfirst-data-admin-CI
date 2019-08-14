@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":7.001623,
     "lbl:longitude":-4.370716,
     "mz:hierarchy_label":1,
@@ -71,7 +74,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553551426,
+    "wof:lastmodified":1565662588,
     "wof:name":"Lacs",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CM"
+    ],
     "lbl:latitude":5.431249,
     "lbl:longitude":-3.163475,
     "mz:hierarchy_label":1,
@@ -107,7 +110,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553551427,
+    "wof:lastmodified":1565662589,
     "wof:name":"Comoe",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

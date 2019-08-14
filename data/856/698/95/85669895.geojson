@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZA"
+    ],
     "lbl:latitude":8.450239,
     "lbl:longitude":-3.2382,
     "mps:latitude":8.401838,
@@ -202,16 +205,13 @@
         }
     ],
     "wof:id":85669895,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563571755,
+    "wof:lastmodified":1565662538,
     "wof:name":"Zanzan",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

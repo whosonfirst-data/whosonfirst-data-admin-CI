@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DE"
+    ],
     "lbl:latitude":9.628813,
     "lbl:longitude":-7.376228,
     "mps:latitude":9.638037,
@@ -228,16 +231,13 @@
         }
     ],
     "wof:id":85669859,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563571756,
+    "wof:lastmodified":1565662538,
     "wof:name":"Denguele",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

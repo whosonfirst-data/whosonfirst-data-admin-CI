@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":9.64059,
     "lbl:longitude":-5.844938,
     "mps:latitude":9.784022,
@@ -248,16 +251,13 @@
         }
     ],
     "wof:id":85669855,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563571758,
+    "wof:lastmodified":1565662539,
     "wof:name":"Savanes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

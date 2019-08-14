@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":5.305632,
     "lbl:longitude":-6.661854,
     "mps:latitude":5.309842,
@@ -239,16 +242,13 @@
         }
     ],
     "wof:id":85669889,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563571757,
+    "wof:lastmodified":1565662538,
     "wof:name":"Bas-Sassandra",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
