@@ -11,8 +11,11 @@
     "geom:longitude":-5.9506,
     "gn:country":"CI",
     "gn:fcode":"PPLA",
-    "gn:pop":123184,
+    "gn:population":123184,
     "iso:country":"CI",
+    "lbl:bbox":"-5.9706,6.11193,-5.9306,6.15193",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0430\u043d\u044c\u043e\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gragnoa"
     ],
     "name:urd_x_preferred":[
@@ -254,7 +257,7 @@
     "wof:concordances":{
         "gn:id":2288829,
         "gp:id":90874496,
-        "qs:id":1034695,
+        "qs_pg:id":1034695,
         "wd:id":"Q18592055",
         "wk:page":"Gagnoa"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":890444257,
-    "wof:lastmodified":1563572685,
+    "wof:lastmodified":1566643571,
     "wof:name":"Gagnoa",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",

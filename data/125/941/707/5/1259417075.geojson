@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.95333,7.71333,-3.91333,7.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pere"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1259417075,
-    "wof:lastmodified":1564105834,
+    "wof:lastmodified":1566643739,
     "wof:name":"Pere",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

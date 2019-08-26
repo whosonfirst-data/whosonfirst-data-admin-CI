@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.73732,8.06621,-7.69732,8.10621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u0443\u0440\u0430\u043b\u0430"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343296277,
-    "wof:lastmodified":1564104579,
+    "wof:lastmodified":1566642828,
     "wof:name":"Sokourala",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

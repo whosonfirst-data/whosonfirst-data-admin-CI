@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.03258,7.97632,-3.99258,8.01632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morokro"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360221119,
-    "wof:lastmodified":1564105475,
+    "wof:lastmodified":1566643471,
     "wof:name":"Morokro",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

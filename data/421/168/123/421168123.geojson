@@ -10,8 +10,12 @@
     "geom:latitude":7.01232,
     "geom:longitude":-7.4864,
     "iso:country":"CI",
+    "lbl:bbox":"-7.5064,6.99232,-7.4664,7.03232",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bangolo"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Bangolo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagna"
     ],
     "qs:gn_country":"CI",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2292179,
         "gp:id":1487159,
-        "qs:id":1034728,
+        "qs_pg:id":1034728,
         "wd:id":"Q2882487",
         "wk:page":"Bangolo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421168123,
-    "wof:lastmodified":1563572659,
+    "wof:lastmodified":1566643561,
     "wof:name":"Bangolo",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.76493,7.93344,-7.72493,7.97344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boutiso"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243399449,
-    "wof:lastmodified":1537591052,
+    "wof:lastmodified":1566643602,
     "wof:name":"Boutisso",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.46809,4.35328,-7.42809,4.39328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193174065,
-    "wof:lastmodified":1536377215,
+    "wof:lastmodified":1566643300,
     "wof:name":"Wepo",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

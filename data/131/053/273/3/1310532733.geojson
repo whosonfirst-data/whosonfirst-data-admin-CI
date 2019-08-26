@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.32877,5.81072,-6.28877,5.85072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Guim\u00e9yo"
     ],
     "name:msa_x_preferred":[
-        "Guim\u00e9yo"
-    ],
-    "name:und_x_variant":[
         "Guim\u00e9yo"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310532733,
-    "wof:lastmodified":1564105375,
+    "wof:lastmodified":1566643403,
     "wof:name":"Guimeyo",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

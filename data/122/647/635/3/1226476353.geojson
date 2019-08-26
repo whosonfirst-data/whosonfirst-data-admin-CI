@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.68845,5.48749,-3.64845,5.52749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226476353,
-    "wof:lastmodified":1537094811,
+    "wof:lastmodified":1566643889,
     "wof:name":"Tchoi",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

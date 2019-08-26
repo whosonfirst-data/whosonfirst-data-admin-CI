@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.995989,
     "lbl:longitude":-4.553513,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1name":"Lacs",
     "meso:admin2name":"N'Zi",
     "meso:dissme":"LacsN'Zi",
@@ -33,6 +35,7 @@
     "mps:longitude":-4.553513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "N'zi"
     ],
@@ -40,9 +43,9 @@
         "N'zi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-05-15",
     "statoids:capital":"Dimbokro",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108785007,
-    "wof:lastmodified":1564105329,
+    "wof:lastmodified":1566643368,
     "wof:name":"N'Zi",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

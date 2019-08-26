@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-2.94478,5.39118,-2.90478,5.43118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Affi\u00e9nou"
     ],
@@ -32,8 +36,7 @@
         "Affi\u00e9nou"
     ],
     "name:und_x_variant":[
-        "Afi\u00e9nou",
-        "Affi\u00e9nou"
+        "Afi\u00e9nou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293725613,
-    "wof:lastmodified":1564104788,
+    "wof:lastmodified":1566642993,
     "wof:name":"Affienou",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

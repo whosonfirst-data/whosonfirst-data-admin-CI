@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.50874,6.08222,-7.46874,6.12222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":7848501
     },
     "wof:country":"CI",
-    "wof:geomhash":"2eb785d69fc2fb520a899295e8d54d60",
+    "wof:geomhash":"9a0eac1e6339271826596ecf14edd913",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209040883,
-    "wof:lastmodified":1536299550,
+    "wof:lastmodified":1566643229,
     "wof:name":"Gouelegui Beoue",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.488739999999999,
+    -7.48874,
     6.10222,
-    -7.488739999999999,
+    -7.48874,
     6.10222
 ],
   "geometry": {"coordinates":[-7.48874,6.10222],"type":"Point"}

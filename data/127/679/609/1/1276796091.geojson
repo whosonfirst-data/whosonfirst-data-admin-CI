@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.61499,7.45373,-7.57499,7.49373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276796091,
-    "wof:lastmodified":1536656006,
+    "wof:lastmodified":1566643096,
     "wof:name":"Magodepleu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"CI",
     "lbl:latitude":5.30966,
     "lbl:longitude":-4.01266,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -380,9 +382,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0456\u0434\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Abijan"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0628\u062f\u062c\u0627\u0646"
     ],
@@ -550,7 +549,7 @@
     "wof:concordances":{
         "gn:id":2293538,
         "gp:id":1339615,
-        "qs:id":569122,
+        "qs_pg:id":569122,
         "wd:id":"Q1515",
         "wk:page":"Abidjan"
     },
@@ -566,7 +565,7 @@
         }
     ],
     "wof:id":421199985,
-    "wof:lastmodified":1563572677,
+    "wof:lastmodified":1566643567,
     "wof:name":"Abidjan",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

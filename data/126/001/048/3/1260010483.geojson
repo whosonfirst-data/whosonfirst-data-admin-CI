@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.82923,5.97326,-3.78923,6.01326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Assikoi"
     ],
@@ -35,7 +39,6 @@
         "Assikoi"
     ],
     "name:und_x_variant":[
-        "Assikoi",
         "Assikoua"
     ],
     "src:geom":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260010483,
-    "wof:lastmodified":1564105254,
+    "wof:lastmodified":1566643319,
     "wof:name":"Assikoa",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

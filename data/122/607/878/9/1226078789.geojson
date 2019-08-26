@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.76875,5.27386,-3.72875,5.31386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Elokat\u00e9",
         "Eloka-T\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226078789,
-    "wof:lastmodified":1537591030,
+    "wof:lastmodified":1566643936,
     "wof:name":"Elokate",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

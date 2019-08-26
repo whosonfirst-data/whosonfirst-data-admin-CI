@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.26177,7.68268,-3.22177,7.72268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2290007
     },
     "wof:country":"CI",
-    "wof:geomhash":"5f5d32f83a8ca34e5c77d941b9763f0a",
+    "wof:geomhash":"3529ed25a6766c3084954cc60c274d43",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209551945,
-    "wof:lastmodified":1536283666,
+    "wof:lastmodified":1566643159,
     "wof:name":"Diibango",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.2417700000000003,
+    -3.24177,
     7.70268,
-    -3.2417700000000003,
+    -3.24177,
     7.70268
 ],
   "geometry": {"coordinates":[-3.24177,7.70268],"type":"Point"}

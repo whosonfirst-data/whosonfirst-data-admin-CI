@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.64059,
     "lbl:longitude":-5.844938,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.784022,
     "mps:longitude":-5.677546,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0421\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion des Savanes"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"40,210",
     "statoids:area_mi":"15,525",
     "statoids:as_of_date":"2014-05-15",
@@ -237,7 +238,7 @@
         "gp:id":55967002,
         "hasc:id":"CI.SV",
         "iso:id":"CI-SV",
-        "qs:id":919939,
+        "qs_pg:id":919939,
         "wd:id":"Q21002161",
         "wk:page":"Savanes District"
     },
@@ -257,11 +258,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662539,
+    "wof:lastmodified":1566642860,
     "wof:name":"Savanes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1607497,
     "wof:population_rank":12,

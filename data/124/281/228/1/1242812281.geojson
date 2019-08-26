@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.21851,9.26897,-5.17851,9.30897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nafolo-Kaha",
         "Kouroukouna"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242812281,
-    "wof:lastmodified":1537590981,
+    "wof:lastmodified":1566643610,
     "wof:name":"Kouroukouna",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

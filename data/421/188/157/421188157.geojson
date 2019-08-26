@@ -10,8 +10,12 @@
     "geom:latitude":9.52167,
     "geom:longitude":-6.48694,
     "iso:country":"CI",
+    "lbl:bbox":"-6.50694,9.50167,-6.46694,9.54167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Boundiali"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Boundiali"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boundiouli"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":2290836,
         "gp:id":1341134,
-        "qs:id":1089350,
+        "qs_pg:id":1089350,
         "wd:id":"Q2922207",
         "wk:page":"Boundiali"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421188157,
-    "wof:lastmodified":1563572668,
+    "wof:lastmodified":1566643565,
     "wof:name":"Boundiali",
     "wof:parent_id":85669855,
     "wof:placetype":"locality",

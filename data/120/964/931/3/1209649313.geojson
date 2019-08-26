@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.52023,7.93261,-4.48023,7.97261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2291012
     },
     "wof:country":"CI",
-    "wof:geomhash":"e79d14b022af568fddb7cc2f2b26f7d0",
+    "wof:geomhash":"cc86b8386c988175ebfe36f139ddb2a2",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209649313,
-    "wof:lastmodified":1536280631,
+    "wof:lastmodified":1566643150,
     "wof:name":"Boroyaradougou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -4.50023,
-    7.952610000000001,
+    7.95261,
     -4.50023,
-    7.952610000000001
+    7.95261
 ],
   "geometry": {"coordinates":[-4.50023,7.95261],"type":"Point"}
 }

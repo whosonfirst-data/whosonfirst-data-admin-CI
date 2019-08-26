@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.55873,9.5505,-7.51873,9.5905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Logonasso",
         "Logonaso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276263515,
-    "wof:lastmodified":1537590972,
+    "wof:lastmodified":1566643025,
     "wof:name":"Logonaso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

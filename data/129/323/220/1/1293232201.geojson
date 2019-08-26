@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.78684,6.68786,-6.74684,6.72786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u00e9d\u00e9gbeu",
         "D\u00e9degb\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293232201,
-    "wof:lastmodified":1537591044,
+    "wof:lastmodified":1566642904,
     "wof:name":"Dedegbeu",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

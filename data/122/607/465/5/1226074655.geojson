@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.47765,6.02622,-5.43765,6.06622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kazo"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226074655,
-    "wof:lastmodified":1564106097,
+    "wof:lastmodified":1566643933,
     "wof:name":"Kazo",
     "wof:parent_id":1108784999,
     "wof:placetype":"locality",

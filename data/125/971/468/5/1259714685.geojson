@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.83606,6.76305,-6.79606,6.80305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zakogb\u00e9 Sotigb\u00e9",
         "Zagogb\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259714685,
-    "wof:lastmodified":1537590920,
+    "wof:lastmodified":1566643756,
     "wof:name":"Zakogbeu",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

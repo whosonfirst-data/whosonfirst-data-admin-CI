@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.57137,9.60879,-5.53137,9.64879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kouwavogo",
         "Kouwovogo"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209549941,
-    "wof:lastmodified":1537590980,
+    "wof:lastmodified":1566643143,
     "wof:name":"Kouwovogo",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

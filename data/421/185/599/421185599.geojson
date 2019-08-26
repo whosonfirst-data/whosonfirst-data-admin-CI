@@ -10,8 +10,12 @@
     "geom:latitude":6.32035,
     "geom:longitude":-3.95235,
     "iso:country":"CI",
+    "lbl:bbox":"-3.97235,6.30035,-3.93235,6.34035",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Affery"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Affery"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grand Af\u00e9ri"
     ],
     "qs:gn_country":"CI",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2288118,
         "gp:id":56123168,
-        "qs:id":1034709,
+        "qs_pg:id":1034709,
         "wd:id":"Q2826105",
         "wk:page":"Aff\u00e9ry"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421185599,
-    "wof:lastmodified":1563572682,
+    "wof:lastmodified":1566643569,
     "wof:name":"Affery",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

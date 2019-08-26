@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.45434,9.59597,-5.41434,9.63597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276479793,
-    "wof:lastmodified":1537076563,
+    "wof:lastmodified":1566643075,
     "wof:name":"Dotehekaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

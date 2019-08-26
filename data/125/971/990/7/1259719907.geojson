@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.34297,5.21999,-7.30297,5.25999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Petit Guiglo"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259719907,
-    "wof:lastmodified":1564105850,
+    "wof:lastmodified":1566643749,
     "wof:name":"Petit Guiglo",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

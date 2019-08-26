@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.37024,7.30637,-5.33024,7.34637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Assonvou\u00e9",
         "B\u00e9gr\u00e9nou",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209649027,
-    "wof:lastmodified":1537591066,
+    "wof:lastmodified":1566643156,
     "wof:name":"Begrenou Assonvoue",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

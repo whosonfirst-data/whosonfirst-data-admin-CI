@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.11421,6.03573,-4.07421,6.07573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2281862
     },
     "wof:country":"CI",
-    "wof:geomhash":"caf1f6d8e9d1fc8c367594a25ce8134b",
+    "wof:geomhash":"eb6cab01c3a429884360ae022dd4de19",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209142515,
-    "wof:lastmodified":1536296458,
+    "wof:lastmodified":1566643201,
     "wof:name":"Seguie",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -4.09421,
-    6.0557300000000005,
+    6.05573,
     -4.09421,
-    6.0557300000000005
+    6.05573
 ],
   "geometry": {"coordinates":[-4.09421,6.05573],"type":"Point"}
 }

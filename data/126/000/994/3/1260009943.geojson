@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.43956,7.79634,-7.39956,7.83634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gouan\u00e9"
     ],
     "name:msa_x_preferred":[
-        "Gouan\u00e9"
-    ],
-    "name:und_x_variant":[
         "Gouan\u00e9"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1260009943,
-    "wof:lastmodified":1564105245,
+    "wof:lastmodified":1566643311,
     "wof:name":"Gouane",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

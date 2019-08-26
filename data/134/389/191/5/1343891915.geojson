@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.2843,7.22415,-6.2443,7.26415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Zorofla"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343891915,
-    "wof:lastmodified":1564104602,
+    "wof:lastmodified":1566642844,
     "wof:name":"Zorofla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

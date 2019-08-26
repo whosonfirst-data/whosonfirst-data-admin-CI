@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.82595,6.63173,-5.78595,6.67173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Di\u00e9n\u00e9doufla",
         "Di\u00e9gon\u00e9fra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209746067,
-    "wof:lastmodified":1537591040,
+    "wof:lastmodified":1566643250,
     "wof:name":"Dienedoufla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

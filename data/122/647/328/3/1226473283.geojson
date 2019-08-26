@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.16856,9.46277,-5.12856,9.50277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koudio",
         "Koudyo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226473283,
-    "wof:lastmodified":1537590983,
+    "wof:lastmodified":1566643896,
     "wof:name":"Koudyo",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

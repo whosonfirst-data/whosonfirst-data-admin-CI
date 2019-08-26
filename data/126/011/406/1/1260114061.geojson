@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.03624,6.64432,-4.99624,6.68432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Affotobo"
     ],
@@ -32,8 +36,7 @@
         "Afotobo"
     ],
     "name:und_x_variant":[
-        "Afatobo",
-        "Afotobo"
+        "Afatobo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1260114061,
-    "wof:lastmodified":1564105273,
+    "wof:lastmodified":1566643331,
     "wof:name":"Afotobo",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.64975,7.55296,-3.60975,7.59296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2292827
     },
     "wof:country":"CI",
-    "wof:geomhash":"c77805305597d0c3316b76d11b658b55",
+    "wof:geomhash":"63c252072098ad602496a75e55fbf82f",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209645579,
-    "wof:lastmodified":1536280746,
+    "wof:lastmodified":1566643152,
     "wof:name":"Aouan-Komoenou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.62975,
-    7.572960000000001,
+    7.57296,
     -3.62975,
-    7.572960000000001
+    7.57296
 ],
   "geometry": {"coordinates":[-3.62975,7.57296],"type":"Point"}
 }

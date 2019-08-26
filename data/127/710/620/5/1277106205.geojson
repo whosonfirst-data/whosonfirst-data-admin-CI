@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.63417,7.49889,-7.59417,7.53889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yass\u00e9gouin",
         "Yas\u00e9gouen"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277106205,
-    "wof:lastmodified":1537590897,
+    "wof:lastmodified":1566643127,
     "wof:name":"Yasegouen",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

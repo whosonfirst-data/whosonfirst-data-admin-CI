@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.29094,5.95668,-4.25094,5.99668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360215563,
-    "wof:lastmodified":1536757663,
+    "wof:lastmodified":1566643502,
     "wof:name":"Kotou Missako",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

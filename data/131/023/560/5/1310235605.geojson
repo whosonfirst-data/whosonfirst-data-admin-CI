@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.4185,4.80602,-7.3785,4.84602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niprou",
         "Noplou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310235605,
-    "wof:lastmodified":1537590954,
+    "wof:lastmodified":1566643374,
     "wof:name":"Neplou",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

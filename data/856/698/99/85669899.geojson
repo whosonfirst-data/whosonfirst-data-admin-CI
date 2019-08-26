@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":8.329991,
     "lbl:longitude":-4.802445,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.307625,
     "mps:longitude":-4.795366,
     "mz:hierarchy_label":1,
@@ -158,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0412\u0430\u043b\u043b\u0435-\u0434\u044e-\u0411\u0430\u043d\u0434\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vall\u00e9e du Bandama"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u06cc\u06cc \u062f\u0648 \u0628\u0627\u0646\u062f\u0627\u0645\u0627 \u0636\u0644\u0639"
     ],
@@ -245,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"28,518",
     "statoids:area_mi":"11,011",
     "statoids:as_of_date":"2014-05-15",
@@ -273,7 +271,7 @@
         "gp:id":55967005,
         "hasc:id":"CI.VB",
         "iso:id":"CI-VB",
-        "qs:id":393662,
+        "qs_pg:id":393662,
         "wd:id":"Q21002356",
         "wk:page":"Vall\u00e9e du Bandama District"
     },
@@ -293,11 +291,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662539,
+    "wof:lastmodified":1566642860,
     "wof:name":"Valle Du Bandama",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1440826,
     "wof:population_rank":12,

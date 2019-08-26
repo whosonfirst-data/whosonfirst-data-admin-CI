@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.68617,8.06299,-6.64617,8.10299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310535937,
-    "wof:lastmodified":1536871975,
+    "wof:lastmodified":1566643402,
     "wof:name":"Farafing",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

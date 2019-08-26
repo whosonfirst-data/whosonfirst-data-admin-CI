@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.55333,7.51333,-3.51333,7.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2286951
     },
     "wof:country":"CI",
-    "wof:geomhash":"4a340cc891866b71c8d1f106eec68fd7",
+    "wof:geomhash":"123fc31cf4f54c282c4f41acb37ae9f3",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209345797,
-    "wof:lastmodified":1536289917,
+    "wof:lastmodified":1566643245,
     "wof:name":"Kobinakourikro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.5333300000000003,
+    -3.53333,
     7.53333,
-    -3.5333300000000003,
+    -3.53333,
     7.53333
 ],
   "geometry": {"coordinates":[-3.53333,7.53333],"type":"Point"}

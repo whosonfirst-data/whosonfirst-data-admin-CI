@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.54829,5.18066,-3.50829,5.22066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Hebe"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1209040537,
-    "wof:lastmodified":1564105120,
+    "wof:lastmodified":1566643226,
     "wof:name":"Hebe",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

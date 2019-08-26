@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.60678,5.44651,-5.56678,5.48651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lagbam",
         "Grand Babam",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309747925,
-    "wof:lastmodified":1537591022,
+    "wof:lastmodified":1566643556,
     "wof:name":"Gbabam",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

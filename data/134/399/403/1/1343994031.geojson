@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.57006,8.14144,-6.53006,8.18144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bobi"
     ],
@@ -32,8 +36,7 @@
         "Bobi"
     ],
     "name:und_x_variant":[
-        "Boby",
-        "Bobi"
+        "Boby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343994031,
-    "wof:lastmodified":1564104461,
+    "wof:lastmodified":1566642748,
     "wof:name":"Bobi",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

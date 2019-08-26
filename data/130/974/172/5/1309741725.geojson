@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.02253,6.54913,-7.98253,6.58913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Blol\u00e9quin"
     ],
@@ -44,8 +48,7 @@
         "Blol\u00e9quin"
     ],
     "name:und_x_variant":[
-        "Blol\u00e9kin",
-        "Blol\u00e9quin"
+        "Blol\u00e9kin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1309741725,
-    "wof:lastmodified":1564105592,
+    "wof:lastmodified":1566643554,
     "wof:name":"Blolequin",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

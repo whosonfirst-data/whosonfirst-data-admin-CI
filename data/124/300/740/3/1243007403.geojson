@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.56793,9.25181,-5.52793,9.29181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gui\u00e9fienkaha",
         "Gefyenkaha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243007403,
-    "wof:lastmodified":1537591018,
+    "wof:lastmodified":1566643576,
     "wof:name":"Gefyenkaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

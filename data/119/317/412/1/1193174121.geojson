@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.11348,8.37416,-3.07348,8.41416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00e9t\u00e9l",
         "P\u00e9te\u00ef",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193174121,
-    "wof:lastmodified":1537590938,
+    "wof:lastmodified":1566643300,
     "wof:name":"Peteye",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

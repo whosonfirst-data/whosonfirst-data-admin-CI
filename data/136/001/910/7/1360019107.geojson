@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.1351,7.32255,-6.0951,7.36255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Vaafla"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360019107,
-    "wof:lastmodified":1564105500,
+    "wof:lastmodified":1566643490,
     "wof:name":"Vaafla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

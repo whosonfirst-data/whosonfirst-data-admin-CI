@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.03707,4.75572,-6.99707,4.79572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kako"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343696449,
-    "wof:lastmodified":1564104542,
+    "wof:lastmodified":1566642802,
     "wof:name":"Kako",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

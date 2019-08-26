@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.21909,8.34724,-3.17909,8.38724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bin\u00e9mair\u00e9",
         "B\u00e9n\u00e9mb\u00e9r\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243297365,
-    "wof:lastmodified":1537591065,
+    "wof:lastmodified":1566643699,
     "wof:name":"Benanbere",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

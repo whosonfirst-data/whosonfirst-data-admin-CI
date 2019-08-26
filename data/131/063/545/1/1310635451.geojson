@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.53169,6.22393,-6.49169,6.26393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bal\u00e9guy\u00e9",
         "Bal\u00e9oguyo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310635451,
-    "wof:lastmodified":1537591022,
+    "wof:lastmodified":1566643416,
     "wof:name":"Gbaleguhe",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

@@ -17,6 +17,8 @@
     ],
     "lbl:latitude":7.568978,
     "lbl:longitude":-5.495164,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.568978,
     "mps:longitude":-5.495164,
     "mz:hierarchy_label":1,
@@ -893,7 +895,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0442 \u0434\u2019\u0406\u0432\u0443\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elfenbein-K\u00fcste"
     ],
     "name:urd_x_preferred":[
@@ -1054,7 +1056,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":8.0,
     "wd:longitude":-6.0,
@@ -1077,7 +1079,7 @@
         "m49:code":"384",
         "mzb:id":"c-te-d-ivoire",
         "ne:adm0_a3":"CIV",
-        "qs:id":367753,
+        "qs_pg:id":367753,
         "wd:id":"Q1008",
         "wk:page":"Ivory Coast"
     },
@@ -1097,7 +1099,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662536,
+    "wof:lastmodified":1566642854,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

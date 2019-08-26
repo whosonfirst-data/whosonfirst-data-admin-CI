@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.84335,7.40366,-3.80335,7.44366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kofi-Akakro",
         "Koffi Akakro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326564775,
-    "wof:lastmodified":1537590994,
+    "wof:lastmodified":1566642620,
     "wof:name":"Koffi Akakro",
     "wof:parent_id":1108785003,
     "wof:placetype":"locality",

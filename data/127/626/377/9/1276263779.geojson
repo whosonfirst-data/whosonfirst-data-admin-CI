@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.32394,6.88307,-8.28394,6.92307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276263779,
-    "wof:lastmodified":1536870768,
+    "wof:lastmodified":1566643023,
     "wof:name":"Banyouapleu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

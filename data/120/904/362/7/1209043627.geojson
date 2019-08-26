@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.87,7.49667,-3.83,7.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2289937
     },
     "wof:country":"CI",
-    "wof:geomhash":"957165130c586a877aea7e25791a66ed",
+    "wof:geomhash":"e47a058cce4ea30d5bb809b73d096f64",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209043627,
-    "wof:lastmodified":1536299465,
+    "wof:lastmodified":1566643224,
     "wof:name":"Diokro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.85,
-    7.516669999999999,
+    7.51667,
     -3.85,
-    7.516669999999999
+    7.51667
 ],
   "geometry": {"coordinates":[-3.85,7.51667],"type":"Point"}
 }

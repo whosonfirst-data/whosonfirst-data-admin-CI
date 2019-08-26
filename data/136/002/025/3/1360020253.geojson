@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.66601,6.5199,-7.62601,6.5599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00e9ou\u00e9",
         "B\u00e9oua"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360020253,
-    "wof:lastmodified":1537591064,
+    "wof:lastmodified":1566643515,
     "wof:name":"Beoua",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

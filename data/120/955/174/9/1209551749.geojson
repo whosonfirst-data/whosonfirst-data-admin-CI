@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.86803,6.54481,-6.82803,6.58481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2287214
     },
     "wof:country":"CI",
-    "wof:geomhash":"42e0371591677e2e0fb8b44bc17d55c9",
+    "wof:geomhash":"584619823c147251924e813c69c49dd1",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209551749,
-    "wof:lastmodified":1536283671,
+    "wof:lastmodified":1566643161,
     "wof:name":"Kelieguhe",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8480300000000005,
-    6.5648100000000005,
-    -6.8480300000000005,
-    6.5648100000000005
+    -6.84803,
+    6.56481,
+    -6.84803,
+    6.56481
 ],
   "geometry": {"coordinates":[-6.84803,6.56481],"type":"Point"}
 }

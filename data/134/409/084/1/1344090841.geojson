@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.67968,6.66384,-6.63968,6.70384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Noumouss\u00e9ria III",
         "Noumous\u00e9ria III"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344090841,
-    "wof:lastmodified":1537590948,
+    "wof:lastmodified":1566642755,
     "wof:name":"Noumousseria III",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

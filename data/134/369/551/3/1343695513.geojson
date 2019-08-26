@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.53562,9.46562,-5.49562,9.50562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nangohouokaha",
         "Nangowokaha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343695513,
-    "wof:lastmodified":1537590958,
+    "wof:lastmodified":1566642801,
     "wof:name":"Nangowokaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

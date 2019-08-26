@@ -10,6 +10,9 @@
     "geom:latitude":7.41251,
     "geom:longitude":-7.55383,
     "iso:country":"CI",
+    "lbl:bbox":"-7.57383,7.39251,-7.53383,7.43251",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":2284647,
         "gp:id":1344455,
-        "qs:id":44267,
+        "qs_pg:id":44267,
         "wd:id":"Q1191011",
         "wk:page":"Man, Ivory Coast"
     },
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":421189377,
-    "wof:lastmodified":1563572667,
+    "wof:lastmodified":1566643564,
     "wof:name":"Man",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":5.431249,
     "lbl:longitude":-3.163475,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -61,16 +62,16 @@
     "name:swa_x_preferred":[
         "Mkoa wa Moyen-Como\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sud-Como\u00e9"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u79d1\u83ab\u57c3\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"14,173",
     "statoids:area_mi":"5,472",
     "statoids:as_of_date":"2014-05-15",
@@ -110,11 +111,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662589,
+    "wof:lastmodified":1566643358,
     "wof:name":"Comoe",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1203052,
     "wof:population_rank":12,

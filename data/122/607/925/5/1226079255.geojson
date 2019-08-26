@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.75611,9.46672,-5.71611,9.50672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226079255,
-    "wof:lastmodified":1536676900,
+    "wof:lastmodified":1566643934,
     "wof:name":"Nangaserege",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.08799,9.96031,-6.04799,10.00031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226785651,
-    "wof:lastmodified":1536658116,
+    "wof:lastmodified":1566643903,
     "wof:name":"Forokouan",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

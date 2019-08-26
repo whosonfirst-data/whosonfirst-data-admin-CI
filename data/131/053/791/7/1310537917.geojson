@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.3968,5.39588,-6.3568,5.43588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grihiri"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310537917,
-    "wof:lastmodified":1564105374,
+    "wof:lastmodified":1566643402,
     "wof:name":"Grihiri",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.2367,9.80723,-6.1967,9.84723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kass\u00e9r\u00e9"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Kofir\u00e9",
-        "Kassir\u00e9",
-        "Kass\u00e9r\u00e9"
+        "Kassir\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360019517,
-    "wof:lastmodified":1564105496,
+    "wof:lastmodified":1566643487,
     "wof:name":"Kassere",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

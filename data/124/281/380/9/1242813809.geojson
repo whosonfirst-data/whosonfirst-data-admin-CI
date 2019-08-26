@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.58744,6.99376,-5.54744,7.03376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nda Kofi Yabou\u00e9kro",
         "Nda-Kofi-Yobou\u00e9kro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242813809,
-    "wof:lastmodified":1537590956,
+    "wof:lastmodified":1566643615,
     "wof:name":"Nda Kofi Yabouekro",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

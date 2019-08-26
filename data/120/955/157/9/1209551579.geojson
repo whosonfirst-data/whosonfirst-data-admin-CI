@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.03164,7.69413,-2.99164,7.73413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2290377
     },
     "wof:country":"CI",
-    "wof:geomhash":"dd2cbe4b5f2f317b137423d83b3b2ed7",
+    "wof:geomhash":"d745b090c4399606afbde1fce0a627ce",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209551579,
-    "wof:lastmodified":1536283677,
+    "wof:lastmodified":1566643158,
     "wof:name":"Datekroum",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.0116400000000003,
+    -3.01164,
     7.71413,
-    -3.0116400000000003,
+    -3.01164,
     7.71413
 ],
   "geometry": {"coordinates":[-3.01164,7.71413],"type":"Point"}

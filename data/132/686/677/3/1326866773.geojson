@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.58326,7.12637,-7.54326,7.16637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goziogouin\u00e9 I",
         "Goziogouin\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326866773,
-    "wof:lastmodified":1537591011,
+    "wof:lastmodified":1566642608,
     "wof:name":"Goziogouine I",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

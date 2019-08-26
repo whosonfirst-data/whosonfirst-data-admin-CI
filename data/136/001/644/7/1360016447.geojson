@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.41338,6.76634,-7.37338,6.80634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fengolo"
     ],
@@ -38,8 +42,7 @@
         "Fengolo"
     ],
     "name:und_x_variant":[
-        "Feuglo",
-        "Fengolo"
+        "Feuglo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1360016447,
-    "wof:lastmodified":1564105491,
+    "wof:lastmodified":1566643484,
     "wof:name":"Fengolo",
     "wof:parent_id":1108785019,
     "wof:placetype":"locality",

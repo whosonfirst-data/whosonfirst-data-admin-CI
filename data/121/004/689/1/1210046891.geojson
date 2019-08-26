@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.68673,6.9693,-6.64673,7.0093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Za\u00efbo"
     ],
@@ -35,7 +39,6 @@
         "Za\u00efbo"
     ],
     "name:und_x_variant":[
-        "Za\u00efbo",
         "Zahibo"
     ],
     "src:geom":"geonames",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1210046891,
-    "wof:lastmodified":1564105189,
+    "wof:lastmodified":1566643268,
     "wof:name":"Zaibo",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

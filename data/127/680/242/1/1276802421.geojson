@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.36636,8.52791,-4.32636,8.56791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kangu\u00e9resso",
         "Kangu\u00e9rasso"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276802421,
-    "wof:lastmodified":1537591001,
+    "wof:lastmodified":1566643031,
     "wof:name":"Kanguerasso",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

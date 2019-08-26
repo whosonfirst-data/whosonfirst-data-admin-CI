@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.72899,8.74635,-7.68899,8.78635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2291517
     },
     "wof:country":"CI",
-    "wof:geomhash":"3f97178cb96d0e46f83c426720523440",
+    "wof:geomhash":"7e76618f2a9c8b6138a73e90ef4ae9f8",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209243557,
-    "wof:lastmodified":1536293240,
+    "wof:lastmodified":1566643173,
     "wof:name":"Blamadougou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.708989999999999,
+    -7.70899,
     8.76635,
-    -7.708989999999999,
+    -7.70899,
     8.76635
 ],
   "geometry": {"coordinates":[-7.70899,8.76635],"type":"Point"}

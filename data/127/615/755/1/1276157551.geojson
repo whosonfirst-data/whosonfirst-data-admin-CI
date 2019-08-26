@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.4432,6.87087,-6.4032,6.91087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u00e9raouan",
         "D\u00e9rahouan"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276157551,
-    "wof:lastmodified":1537591043,
+    "wof:lastmodified":1566643082,
     "wof:name":"Deraouan",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

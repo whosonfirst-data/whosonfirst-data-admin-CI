@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.47082,9.93225,-7.43082,9.97225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e9la Soukoura",
         "Fiela Soukoura",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209142031,
-    "wof:lastmodified":1537591027,
+    "wof:lastmodified":1566643201,
     "wof:name":"Fiela",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

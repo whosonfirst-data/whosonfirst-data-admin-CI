@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.37019,5.38719,-3.33019,5.42719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouan\u00e9gorokro",
         "Ouonengorokro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225954795,
-    "wof:lastmodified":1537591094,
+    "wof:lastmodified":1566643802,
     "wof:name":"Ouanegorokro",
     "wof:parent_id":1108784985,
     "wof:placetype":"locality",

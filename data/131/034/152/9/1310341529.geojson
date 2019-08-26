@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.00071,7.08375,-7.96071,7.12375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dahigouin\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310341529,
-    "wof:lastmodified":1537591048,
+    "wof:lastmodified":1566643455,
     "wof:name":"Dakougoume",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

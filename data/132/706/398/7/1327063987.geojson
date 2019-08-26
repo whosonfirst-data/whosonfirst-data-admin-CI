@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.36139,6.73611,-3.32139,6.77611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ebrinamo\u00e9",
         "Abrounamou\u00e9",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327063987,
-    "wof:lastmodified":1537591030,
+    "wof:lastmodified":1566642574,
     "wof:name":"Abronambue",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

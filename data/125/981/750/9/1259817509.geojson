@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.32802,4.4313,-7.28802,4.4713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_historical":[
         "Segre"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259817509,
-    "wof:lastmodified":1537590926,
+    "wof:lastmodified":1566643793,
     "wof:name":"Grand Tabu",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.10729,6.82406,-7.06729,6.86406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":7848489
     },
     "wof:country":"CI",
-    "wof:geomhash":"093eb02f5d48dc1f0697be3a7e337c75",
+    "wof:geomhash":"cd990f66b0d5c6b4de2da11e7d8ae051",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209446425,
-    "wof:lastmodified":1536286804,
+    "wof:lastmodified":1566643257,
     "wof:name":"Greiko",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.0872899999999985,
-    6.844060000000002,
-    -7.0872899999999985,
-    6.844060000000002
+    -7.08729,
+    6.84406,
+    -7.08729,
+    6.84406
 ],
   "geometry": {"coordinates":[-7.08729,6.84406],"type":"Point"}
 }

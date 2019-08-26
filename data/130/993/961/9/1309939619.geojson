@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.07613,5.24371,-4.03613,5.28371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309939619,
-    "wof:lastmodified":1536738279,
+    "wof:lastmodified":1566643539,
     "wof:name":"Mba Lavri",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.84323,7.16271,-5.80323,7.20271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tib\u00e9ita"
     ],
@@ -32,9 +36,6 @@
         "Tib\u00e9ita"
     ],
     "name:msa_x_preferred":[
-        "Tib\u00e9ita"
-    ],
-    "name:und_x_variant":[
         "Tib\u00e9ita"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1226178227,
-    "wof:lastmodified":1564105935,
+    "wof:lastmodified":1566643813,
     "wof:name":"Tibeita",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

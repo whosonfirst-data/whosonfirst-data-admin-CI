@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.83449,7.26174,-6.79449,7.30174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "P\u00e9l\u00e9zi"
     ],
     "name:msa_x_preferred":[
-        "P\u00e9l\u00e9zi"
-    ],
-    "name:und_x_variant":[
         "P\u00e9l\u00e9zi"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1243484819,
-    "wof:lastmodified":1564105701,
+    "wof:lastmodified":1566643638,
     "wof:name":"Pelezi",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

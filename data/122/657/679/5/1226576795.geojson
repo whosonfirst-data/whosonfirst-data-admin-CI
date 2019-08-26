@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.64785,10.15377,-6.60785,10.19377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouassoungolasso",
         "Oussoungolasso",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226576795,
-    "wof:lastmodified":1537590940,
+    "wof:lastmodified":1566643852,
     "wof:name":"Ouassangalasso",
     "wof:parent_id":1108784987,
     "wof:placetype":"locality",

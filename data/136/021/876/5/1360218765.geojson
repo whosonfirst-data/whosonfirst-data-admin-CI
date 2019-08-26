@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.08224,5.28814,-6.04224,5.32814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boyo"
     ],
@@ -41,8 +45,7 @@
         "Boyo"
     ],
     "name:und_x_variant":[
-        "Beyo",
-        "Boyo"
+        "Beyo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1360218765,
-    "wof:lastmodified":1564105524,
+    "wof:lastmodified":1566643507,
     "wof:name":"Boyo",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

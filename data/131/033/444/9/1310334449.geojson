@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.90637,9.31061,-5.86637,9.35061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kombolokoura"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Gobofohon",
         "Kobofohon",
-        "Kombolokoura",
         "Konbolokoura"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310334449,
-    "wof:lastmodified":1564105462,
+    "wof:lastmodified":1566643462,
     "wof:name":"Konbolokoura",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

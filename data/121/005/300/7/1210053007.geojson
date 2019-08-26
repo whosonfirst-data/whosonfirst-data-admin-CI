@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.12904,7.33217,-6.08904,7.37217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vr\u00e9heufla",
         "Vre\u00e8nfla"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210053007,
-    "wof:lastmodified":1537590903,
+    "wof:lastmodified":1566643272,
     "wof:name":"Vreenfla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

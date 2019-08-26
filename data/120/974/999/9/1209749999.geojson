@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.88914,8.29223,-7.84914,8.33223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koungb\u00e9koro",
         "Kongw\u00e9koro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209749999,
-    "wof:lastmodified":1537590989,
+    "wof:lastmodified":1566643246,
     "wof:name":"Kongwekoro",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

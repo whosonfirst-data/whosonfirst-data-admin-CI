@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.21585,7.41795,-5.17585,7.45795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koub\u00e9nou",
         "Kou\u00e9nou"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209141755,
-    "wof:lastmodified":1537590983,
+    "wof:lastmodified":1566643202,
     "wof:name":"Koubenou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

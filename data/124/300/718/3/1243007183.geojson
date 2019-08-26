@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.45578,7.75422,-6.41578,7.79422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243007183,
-    "wof:lastmodified":1536942443,
+    "wof:lastmodified":1566643583,
     "wof:name":"Toukro",
     "wof:parent_id":1108785047,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.39887,7.35468,-7.35887,7.39468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2288614
     },
     "wof:country":"CI",
-    "wof:geomhash":"f20b8aca66c6e42ec77616664c57d4dc",
+    "wof:geomhash":"2f2fc306931de247c36a684da74bcb1b",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209248833,
-    "wof:lastmodified":1536293071,
+    "wof:lastmodified":1566643179,
     "wof:name":"Gbohirou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.37887,
-    7.3746800000000015,
+    7.37468,
     -7.37887,
-    7.3746800000000015
+    7.37468
 ],
   "geometry": {"coordinates":[-7.37887,7.37468],"type":"Point"}
 }

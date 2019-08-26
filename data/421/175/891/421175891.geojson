@@ -10,6 +10,9 @@
     "geom:latitude":6.87736,
     "geom:longitude":-6.45022,
     "iso:country":"CI",
+    "lbl:bbox":"-6.47022,6.85736,-6.43022,6.89736",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -292,7 +295,7 @@
     "wof:concordances":{
         "gn:id":2290486,
         "gp:id":1341349,
-        "qs:id":1034696,
+        "qs_pg:id":1034696,
         "wd:id":"Q860304",
         "wk:page":"Daloa"
     },
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":421175891,
-    "wof:lastmodified":1563572674,
+    "wof:lastmodified":1566643567,
     "wof:name":"Daloa",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.64258,6.21142,-6.60258,6.25142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bass\u00e9oua",
         "Bas\u00e9oua",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209846957,
-    "wof:lastmodified":1537591067,
+    "wof:lastmodified":1566643167,
     "wof:name":"Basseoua",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.10041,5.04972,-6.06041,5.08972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343597993,
-    "wof:lastmodified":1537043274,
+    "wof:lastmodified":1566642790,
     "wof:name":"Niababri",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

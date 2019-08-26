@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.62431,5.60817,-6.58431,5.64817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193046649,
-    "wof:lastmodified":1536370206,
+    "wof:lastmodified":1566643283,
     "wof:name":"Salekoragui",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.41708,5.21142,-3.37708,5.25142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":8032050
     },
     "wof:country":"CI",
-    "wof:geomhash":"0860a17637762c3c60c5a6c3c01fc8cb",
+    "wof:geomhash":"6e0564ecbced8c918ac85f891b07fc92",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209141849,
-    "wof:lastmodified":1536296478,
+    "wof:lastmodified":1566643205,
     "wof:name":"Fouade",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.3970800000000003,
+    -3.39708,
     5.23142,
-    -3.3970800000000003,
+    -3.39708,
     5.23142
 ],
   "geometry": {"coordinates":[-3.39708,5.23142],"type":"Point"}

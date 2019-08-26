@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.91151,8.25523,-7.87151,8.29523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slk_x_preferred":[
         "Senko"
     ],
     "name:und_x_variant":[
-        "Sinko",
-        "Senko"
+        "Sinko"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260221307,
-    "wof:lastmodified":1564105242,
+    "wof:lastmodified":1566643309,
     "wof:name":"Senko",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

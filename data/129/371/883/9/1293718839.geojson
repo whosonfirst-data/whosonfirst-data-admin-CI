@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.01704,6.25534,-6.97704,6.29534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buyo"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Bouyo",
-        "Buyo",
         "Lagoguh\u00e9"
     ],
     "src:geom":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293718839,
-    "wof:lastmodified":1564104692,
+    "wof:lastmodified":1566642920,
     "wof:name":"Buyo",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

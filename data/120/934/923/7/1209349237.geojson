@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.68962,8.19598,-5.64962,8.23598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bouandougou"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Bouendougou",
-        "Bouandougou",
         "Buandougou",
         "Buandugu",
         "Bwandougou"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209349237,
-    "wof:lastmodified":1564105149,
+    "wof:lastmodified":1566643240,
     "wof:name":"Bouandougou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

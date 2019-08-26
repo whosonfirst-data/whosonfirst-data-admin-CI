@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.13573,8.28134,-3.09573,8.32134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toro-Sangu\u00e9i",
         "Toro-Sangu\u00e9hi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225878321,
-    "wof:lastmodified":1537590909,
+    "wof:lastmodified":1566643863,
     "wof:name":"Toro-Sanguei",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

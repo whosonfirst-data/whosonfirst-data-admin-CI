@@ -10,8 +10,12 @@
     "geom:latitude":7.67395,
     "geom:longitude":-5.58086,
     "iso:country":"CI",
+    "lbl:bbox":"-5.60086,7.65395,-5.56086,7.69395",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "B\u00e9oumi"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "B\u00e9oumi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beumi"
     ],
     "qs:gn_country":"CI",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2291779,
         "gp:id":1340642,
-        "qs:id":139374,
+        "qs_pg:id":139374,
         "wd:id":"Q2929948",
         "wk:page":"B\u00e9oumi"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421178809,
-    "wof:lastmodified":1563572680,
+    "wof:lastmodified":1566643569,
     "wof:name":"B\u00e9oumi",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

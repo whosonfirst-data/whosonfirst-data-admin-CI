@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.7126,5.79083,-6.6726,5.83083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niamagu\u00e9",
         "Niamagui",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344188199,
-    "wof:lastmodified":1537591016,
+    "wof:lastmodified":1566642821,
     "wof:name":"Gnamandji",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

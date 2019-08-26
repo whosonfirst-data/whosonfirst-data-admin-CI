@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.95564,6.53257,-3.91564,6.57257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2279805
     },
     "wof:country":"CI",
-    "wof:geomhash":"cf97d5bb36ee7555bb3ee7297422a70d",
+    "wof:geomhash":"b88112c2fce726e75624c25bd0693485",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209244137,
-    "wof:lastmodified":1536293223,
+    "wof:lastmodified":1566643174,
     "wof:name":"Yafo",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.93564,
-    6.5525699999999985,
+    6.55257,
     -3.93564,
-    6.5525699999999985
+    6.55257
 ],
   "geometry": {"coordinates":[-3.93564,6.55257],"type":"Point"}
 }
