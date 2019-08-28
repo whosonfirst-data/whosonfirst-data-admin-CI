@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.48792,7.9701,-7.44792,8.0101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gaol\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276586529,
-    "wof:lastmodified":1537591023,
+    "wof:lastmodified":1566643065,
     "wof:name":"Godigui",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

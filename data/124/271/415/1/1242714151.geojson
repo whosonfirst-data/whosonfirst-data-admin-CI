@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.18887,9.68654,-5.14887,9.72654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Momirasso"
     ],
@@ -32,7 +36,6 @@
         "Momirasso"
     ],
     "name:und_x_variant":[
-        "Momirasso",
         "Momiraso"
     ],
     "src:geom":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242714151,
-    "wof:lastmodified":1564105743,
+    "wof:lastmodified":1566643668,
     "wof:name":"Momiraso",
     "wof:parent_id":1108785035,
     "wof:placetype":"locality",

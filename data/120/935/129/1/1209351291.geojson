@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.77019,6.54837,-7.73019,6.58837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":7849094
     },
     "wof:country":"CI",
-    "wof:geomhash":"af20ba90f5952f413c74cff2d5084662",
+    "wof:geomhash":"4c63f64010feee4a96f2411ddbf22a56",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209351291,
-    "wof:lastmodified":1536289732,
+    "wof:lastmodified":1566643217,
     "wof:name":"Zeibly",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.750189999999999,
+    -7.75019,
     6.56837,
-    -7.750189999999999,
+    -7.75019,
     6.56837
 ],
   "geometry": {"coordinates":[-7.75019,6.56837],"type":"Point"}

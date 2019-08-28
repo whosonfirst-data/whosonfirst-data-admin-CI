@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.79308,8.21667,-7.75308,8.25667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099f\u09c0\u0995\u09be"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1225880867,
-    "wof:lastmodified":1564105998,
+    "wof:lastmodified":1566643858,
     "wof:name":"Tika",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

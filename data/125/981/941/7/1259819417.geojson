@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.94536,8.28291,-7.90536,8.32291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259819417,
-    "wof:lastmodified":1536870452,
+    "wof:lastmodified":1566643792,
     "wof:name":"Sanandougou",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

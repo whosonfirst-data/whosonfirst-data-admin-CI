@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.14844,8.18178,-5.10844,8.22178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niem\u00e9dougou",
         "Nienankaha",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326560417,
-    "wof:lastmodified":1537590946,
+    "wof:lastmodified":1566642619,
     "wof:name":"Nyemankaha",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

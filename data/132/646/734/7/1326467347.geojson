@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.07506,6.80884,-5.03506,6.84884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aboikoim\u00e9kro",
         "Abouakouam\u00e9kro",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326467347,
-    "wof:lastmodified":1537591089,
+    "wof:lastmodified":1566642683,
     "wof:name":"Abokouamikro",
     "wof:parent_id":1108784993,
     "wof:placetype":"locality",

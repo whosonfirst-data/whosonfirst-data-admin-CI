@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.70103,6.63368,-3.66103,6.67368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Aniassu\u00e9"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Aniasu\u00e9",
-        "Agniassu\u00e9",
-        "Aniassu\u00e9"
+        "Agniassu\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226177229,
-    "wof:lastmodified":1564105930,
+    "wof:lastmodified":1566643808,
     "wof:name":"Aniassue",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

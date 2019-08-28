@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.72121,7.92627,-7.68121,7.96627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":7849849
     },
     "wof:country":"CI",
-    "wof:geomhash":"cd2a2d7feeab5c9075f4ace084725823",
+    "wof:geomhash":"c54b34f6b28a2542e325c5c53e501dab",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209142039,
-    "wof:lastmodified":1536296472,
+    "wof:lastmodified":1566643201,
     "wof:name":"Gasso",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.70121,
-    7.946269999999998,
+    7.94627,
     -7.70121,
-    7.946269999999998
+    7.94627
 ],
   "geometry": {"coordinates":[-7.70121,7.94627],"type":"Point"}
 }

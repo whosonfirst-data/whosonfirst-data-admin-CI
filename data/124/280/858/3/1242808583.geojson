@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.56967,5.63336,-3.52967,5.67336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alosso",
         "Aloso",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242808583,
-    "wof:lastmodified":1537591082,
+    "wof:lastmodified":1566643604,
     "wof:name":"Alosso I",
     "wof:parent_id":1108785013,
     "wof:placetype":"locality",

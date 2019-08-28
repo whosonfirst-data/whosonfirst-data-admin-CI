@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.75428,7.43098,-6.71428,7.47098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boifla",
         "Bouafla"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243397489,
-    "wof:lastmodified":1537591054,
+    "wof:lastmodified":1566643598,
     "wof:name":"Bouafla",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

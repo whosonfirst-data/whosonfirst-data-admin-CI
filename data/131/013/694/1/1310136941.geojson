@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.17,8.21333,-5.13,8.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00e9nankaha",
         "P\u00e9na-Kaha",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310136941,
-    "wof:lastmodified":1537591047,
+    "wof:lastmodified":1566643385,
     "wof:name":"Dakaha",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

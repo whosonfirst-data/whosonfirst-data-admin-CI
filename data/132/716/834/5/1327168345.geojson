@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.78973,6.84664,-3.74973,6.88664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amangouakrou",
         "Amangouakro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327168345,
-    "wof:lastmodified":1537591082,
+    "wof:lastmodified":1566642714,
     "wof:name":"Amangouakro",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

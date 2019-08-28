@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.33208,10.17728,-6.29208,10.21728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Singo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226078711,
-    "wof:lastmodified":1564106103,
+    "wof:lastmodified":1566643936,
     "wof:name":"Singo",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

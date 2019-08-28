@@ -10,6 +10,9 @@
     "geom:latitude":6.99041,
     "geom:longitude":-5.7442,
     "iso:country":"CI",
+    "lbl:bbox":"-5.7642,6.97041,-5.7242,7.01041",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Bouafl\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buafle"
     ],
     "name:urd_x_preferred":[
@@ -210,7 +213,7 @@
     "wof:concordances":{
         "gn:id":2290964,
         "gp:id":1341060,
-        "qs:id":1089353,
+        "qs_pg:id":1089353,
         "wd:id":"Q1588797",
         "wk:page":"Bouafl\u00e9"
     },
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421188155,
-    "wof:lastmodified":1563572672,
+    "wof:lastmodified":1566643567,
     "wof:name":"Bouafl\u00e9",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

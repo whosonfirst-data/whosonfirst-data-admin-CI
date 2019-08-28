@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.47214,4.61658,-7.43214,4.65658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Niro"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309936325,
-    "wof:lastmodified":1564105568,
+    "wof:lastmodified":1566643538,
     "wof:name":"Niro",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

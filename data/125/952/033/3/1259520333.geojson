@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.13234,6.42434,-8.09234,6.46434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dibok\u00e9"
     ],
@@ -35,8 +39,7 @@
         "Dibok\u00e9"
     ],
     "name:und_x_variant":[
-        "Diboh\u00e9",
-        "Dibok\u00e9"
+        "Diboh\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259520333,
-    "wof:lastmodified":1564105831,
+    "wof:lastmodified":1566643736,
     "wof:name":"Diboke",
     "wof:parent_id":1108785017,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.32971,9.57863,-6.28971,9.61863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Yama"
     ],
@@ -122,8 +126,7 @@
         "\u042f\u043c\u0430"
     ],
     "name:und_x_variant":[
-        "Yahama",
-        "Yama"
+        "Yahama"
     ],
     "name:vie_x_preferred":[
         "Di\u00eam v\u01b0\u01a1ng"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1243587863,
-    "wof:lastmodified":1564105734,
+    "wof:lastmodified":1566643662,
     "wof:name":"Yama",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.3151,5.50649,-4.2751,5.54649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Adon"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226577171,
-    "wof:lastmodified":1564105991,
+    "wof:lastmodified":1566643855,
     "wof:name":"Adon",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

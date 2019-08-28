@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.33915,7.69565,-5.29915,7.73565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katokosou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293235139,
-    "wof:lastmodified":1537590998,
+    "wof:lastmodified":1566642914,
     "wof:name":"Katokossou",
     "wof:parent_id":1108785039,
     "wof:placetype":"locality",

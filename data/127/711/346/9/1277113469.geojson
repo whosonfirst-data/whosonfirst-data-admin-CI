@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.23167,9.31472,-6.19167,9.35472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nafoun"
     ],
@@ -35,8 +39,7 @@
         "Nafoun"
     ],
     "name:und_x_variant":[
-        "Nafon",
-        "Nafoun"
+        "Nafon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1277113469,
-    "wof:lastmodified":1564104986,
+    "wof:lastmodified":1566643134,
     "wof:name":"Nafoun",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

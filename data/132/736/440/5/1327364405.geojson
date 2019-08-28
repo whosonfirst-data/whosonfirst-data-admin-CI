@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.67194,9.70806,-7.63194,9.74806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ndola"
     ],
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":1327364405,
-    "wof:lastmodified":1564104236,
+    "wof:lastmodified":1566642591,
     "wof:name":"Ndola",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

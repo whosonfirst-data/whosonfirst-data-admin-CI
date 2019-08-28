@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.36597,9.53273,-5.32597,9.57273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lagbourl\u00e9kaha",
         "Lagboubokaha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276481041,
-    "wof:lastmodified":1537590977,
+    "wof:lastmodified":1566643097,
     "wof:name":"Lagboubokaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

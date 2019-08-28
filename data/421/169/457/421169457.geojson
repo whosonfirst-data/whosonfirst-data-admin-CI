@@ -10,6 +10,9 @@
     "geom:latitude":6.72972,
     "geom:longitude":-3.49639,
     "iso:country":"CI",
+    "lbl:bbox":"-3.51639,6.70972,-3.47639,6.74972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0435\u043d\u0433\u0443\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Abenguru"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u06cc\u0646\u06af\u0624\u0631\u0624"
     ],
@@ -285,7 +285,7 @@
     "wof:concordances":{
         "gn:id":2293549,
         "gp:id":1339611,
-        "qs:id":183414,
+        "qs_pg:id":183414,
         "wd:id":"Q1044225",
         "wk:page":"Abengourou"
     },
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":421169457,
-    "wof:lastmodified":1563572664,
+    "wof:lastmodified":1566643563,
     "wof:name":"Abengourou",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

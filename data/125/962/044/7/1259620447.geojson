@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.84728,9.48935,-7.80728,9.52935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samesso",
         "Sam\u00e9so"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259620447,
-    "wof:lastmodified":1537590931,
+    "wof:lastmodified":1566643734,
     "wof:name":"Sameso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"CI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "San Pedro"
     ],
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":102534437,
-    "wof:lastmodified":1563571582,
+    "wof:lastmodified":1566642724,
     "wof:name":"San Pedro Airport",
     "wof:parent_id":85669889,
     "wof:placetype":"campus",

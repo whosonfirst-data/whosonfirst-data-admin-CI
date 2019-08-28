@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.66402,6.9159,-5.62402,6.9559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2287269
     },
     "wof:country":"CI",
-    "wof:geomhash":"4fe7018dca04da1018cf2d51ef054b1a",
+    "wof:geomhash":"d56bbf53a54be86912b2114e8f3a2a37",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209136973,
-    "wof:lastmodified":1536296629,
+    "wof:lastmodified":1566643196,
     "wof:name":"Kaviessou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.6440199999999985,
+    -5.64402,
     6.9359,
-    -5.6440199999999985,
+    -5.64402,
     6.9359
 ],
   "geometry": {"coordinates":[-5.64402,6.9359],"type":"Point"}

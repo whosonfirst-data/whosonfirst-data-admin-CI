@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.03667,7.41333,-3.99667,7.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2286178
     },
     "wof:country":"CI",
-    "wof:geomhash":"a008d47c4040101366a75f4607a4f1d3",
+    "wof:geomhash":"381d2a6b9eada070ddc02de9c43b2d13",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209651571,
-    "wof:lastmodified":1536280563,
+    "wof:lastmodified":1566643146,
     "wof:name":"Kouadigoukro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -4.01667,
-    7.4333300000000015,
+    7.43333,
     -4.01667,
-    7.4333300000000015
+    7.43333
 ],
   "geometry": {"coordinates":[-4.01667,7.43333],"type":"Point"}
 }

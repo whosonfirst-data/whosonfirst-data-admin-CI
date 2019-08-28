@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.118228,
     "lbl:longitude":-6.039163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1name":"Goh-Djiboua",
     "meso:admin2name":"Goh",
     "meso:dissme":"Goh-DjibouaGoh",
@@ -33,6 +35,7 @@
     "mps:longitude":-6.039163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u0645\u0627\u062c\u0631"
     ],
@@ -178,9 +181,9 @@
         "\u5f17\u7f57\u9a6c\u683c\u5c14\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-05-15",
     "statoids:capital":"Gagnoa",
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1108784995,
-    "wof:lastmodified":1563572420,
+    "wof:lastmodified":1566643364,
     "wof:name":"Goh",
     "wof:parent_id":85669879,
     "wof:placetype":"county",

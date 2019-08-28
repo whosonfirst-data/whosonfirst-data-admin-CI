@@ -10,8 +10,12 @@
     "geom:latitude":7.38194,
     "geom:longitude":-6.47778,
     "iso:country":"CI",
+    "lbl:bbox":"-6.49778,7.36194,-6.45778,7.40194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Vavoua"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2280045,
         "gp:id":1346896,
-        "qs:id":1297589,
+        "qs_pg:id":1297589,
         "wd:id":"Q12712267"
     },
     "wof:country":"CI",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421196727,
-    "wof:lastmodified":1563572674,
+    "wof:lastmodified":1566643567,
     "wof:name":"Vavoua",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

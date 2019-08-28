@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.54069,7.13007,-7.50069,7.17007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keinl\u00e9",
         "Klind\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225975937,
-    "wof:lastmodified":1537590995,
+    "wof:lastmodified":1566643871,
     "wof:name":"Koulinle",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

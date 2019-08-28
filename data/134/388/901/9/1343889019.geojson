@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.83176,8.93582,-5.79176,8.97582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toufind\u00e9",
         "Toufinnd\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343889019,
-    "wof:lastmodified":1537590909,
+    "wof:lastmodified":1566642850,
     "wof:name":"Toufounde",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

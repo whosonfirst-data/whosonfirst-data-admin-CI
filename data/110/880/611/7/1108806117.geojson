@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":7.045119,
     "lbl:longitude":-6.344579,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -88,7 +89,7 @@
     "name:swa_x_variant":[
         "Mkoa wa Marahou\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haut-Sassandra"
     ],
     "name:zho_x_preferred":[
@@ -98,9 +99,9 @@
         "\u9a6c\u62c9\u97e6\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"23,940",
     "statoids:area_mi":"9,243",
     "statoids:as_of_date":"2014-05-15",
@@ -140,11 +141,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662589,
+    "wof:lastmodified":1566643358,
     "wof:name":"Sassandra-Marahoue",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":2293304,
     "wof:population_rank":12,

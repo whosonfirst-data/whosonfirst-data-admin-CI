@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.53626,6.31735,-4.49626,6.35735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Anoumaba"
     ],
@@ -38,8 +42,7 @@
         "Anoumaba"
     ],
     "name:und_x_variant":[
-        "Anumaba",
-        "Anoumaba"
+        "Anumaba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209250919,
-    "wof:lastmodified":1564105066,
+    "wof:lastmodified":1566643189,
     "wof:name":"Anoumaba",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.56889,6.84336,-4.52889,6.88336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242812917,
-    "wof:lastmodified":1536725114,
+    "wof:lastmodified":1566643614,
     "wof:name":"Bonikouassikro",
     "wof:parent_id":1108785007,
     "wof:placetype":"locality",

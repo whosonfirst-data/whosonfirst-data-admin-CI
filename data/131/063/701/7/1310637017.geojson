@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.59229,6.27736,-6.55229,6.31736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ba\u00e9guh\u00e9",
         "B\u00e9h\u00e9gu\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310637017,
-    "wof:lastmodified":1537591066,
+    "wof:lastmodified":1566643413,
     "wof:name":"Baeguhe",
     "wof:parent_id":1108784981,
     "wof:placetype":"locality",

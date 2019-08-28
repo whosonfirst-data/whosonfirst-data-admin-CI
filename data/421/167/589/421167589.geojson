@@ -10,8 +10,12 @@
     "geom:latitude":6.49224,
     "geom:longitude":-6.58558,
     "iso:country":"CI",
+    "lbl:bbox":"-6.60558,6.47224,-6.56558,6.51224",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Issia"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2287790,
         "gp:id":1342878,
-        "qs:id":139348,
+        "qs_pg:id":139348,
         "wd:id":"Q12688278"
     },
     "wof:country":"CI",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421167589,
-    "wof:lastmodified":1563572662,
+    "wof:lastmodified":1566643562,
     "wof:name":"Issia",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.64457,7.90037,-5.60457,7.94037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2279786
     },
     "wof:country":"CI",
-    "wof:geomhash":"f031f763bf4a83c22b0429613cf7d304",
+    "wof:geomhash":"1d6bee90db4a1aab2a64ac45fd932ef2",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209344855,
-    "wof:lastmodified":1536289946,
+    "wof:lastmodified":1566643238,
     "wof:name":"Yakofikro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.6245699999999985,
+    -5.62457,
     7.92037,
-    -5.6245699999999985,
+    -5.62457,
     7.92037
 ],
   "geometry": {"coordinates":[-5.62457,7.92037],"type":"Point"}

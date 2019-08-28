@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.99555,9.49182,-7.95555,9.53182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Seydougou"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "S\u00e9dougou",
-        "Se\u00efdougou",
-        "Seydougou"
+        "Se\u00efdougou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293235133,
-    "wof:lastmodified":1564104684,
+    "wof:lastmodified":1566642914,
     "wof:name":"Seydougou",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

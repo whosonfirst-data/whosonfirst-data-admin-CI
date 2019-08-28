@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.71428,7.74277,-7.67428,7.78277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gbablasso"
     ],
@@ -34,7 +38,6 @@
     "name:und_x_variant":[
         "Gbablaso",
         "Guablasso Soukouro",
-        "Gbablasso",
         "Gblablasso"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226373709,
-    "wof:lastmodified":1564106074,
+    "wof:lastmodified":1566643916,
     "wof:name":"Gbablasso",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

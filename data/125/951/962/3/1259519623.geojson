@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.86119,6.96391,-4.82119,7.00391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Andokoi-Kokr\u00e9kro",
         "Andokoy-Kokor\u00e9kro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259519623,
-    "wof:lastmodified":1537591081,
+    "wof:lastmodified":1566643773,
     "wof:name":"Andokoi-Kokrekro",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

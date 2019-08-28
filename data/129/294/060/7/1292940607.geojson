@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.11281,7.45162,-8.07281,7.49162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nimpleu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292940607,
-    "wof:lastmodified":1537590950,
+    "wof:lastmodified":1566642895,
     "wof:name":"Nimpleu I",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

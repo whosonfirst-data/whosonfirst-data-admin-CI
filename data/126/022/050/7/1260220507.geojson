@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.01702,7.37689,-4.97702,7.41689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Som\u00e9lakro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260220507,
-    "wof:lastmodified":1537590921,
+    "wof:lastmodified":1566643310,
     "wof:name":"Somlakro",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

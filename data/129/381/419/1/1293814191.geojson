@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.32519,6.61143,-8.28519,6.65143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Glouleu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293814191,
-    "wof:lastmodified":1537591016,
+    "wof:lastmodified":1566642988,
     "wof:name":"Gliouieu",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

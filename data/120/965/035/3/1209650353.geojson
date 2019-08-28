@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.66024,5.79902,-3.62024,5.83902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209650353,
-    "wof:lastmodified":1564105008,
+    "wof:lastmodified":1566643149,
     "wof:name":"Aye",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

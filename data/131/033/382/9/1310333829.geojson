@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.4522,6.66742,-6.4122,6.70742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310333829,
-    "wof:lastmodified":1536667275,
+    "wof:lastmodified":1566643460,
     "wof:name":"Badouboua",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

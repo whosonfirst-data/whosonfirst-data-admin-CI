@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.71622,8.59962,-4.67622,8.63962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2285177
     },
     "wof:country":"CI",
-    "wof:geomhash":"a53302bc8419d81c32a4b0a3486332d5",
+    "wof:geomhash":"541fedae3203aadf07c729a682973180",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209344939,
-    "wof:lastmodified":1536289943,
+    "wof:lastmodified":1566643243,
     "wof:name":"Litiara",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.6962199999999985,
+    -4.69622,
     8.61962,
-    -4.6962199999999985,
+    -4.69622,
     8.61962
 ],
   "geometry": {"coordinates":[-4.69622,8.61962],"type":"Point"}

@@ -10,8 +10,12 @@
     "geom:latitude":6.61667,
     "geom:longitude":-5.91667,
     "iso:country":"CI",
+    "lbl:bbox":"-5.93667,6.59667,-5.89667,6.63667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bd\u03c6\u03c1\u03ac"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2281606,
         "gp:id":56123173,
-        "qs:id":1034674,
+        "qs_pg:id":1034674,
         "wd:id":"Q12709357"
     },
     "wof:country":"CI",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421168119,
-    "wof:lastmodified":1563572656,
+    "wof:lastmodified":1566643561,
     "wof:name":"Sinfra",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.17539,9.06883,-3.13539,9.10883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koflande"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260215071,
-    "wof:lastmodified":1564105297,
+    "wof:lastmodified":1566643344,
     "wof:name":"Koflande",
     "wof:parent_id":1108785049,
     "wof:placetype":"locality",

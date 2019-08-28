@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.99752,9.30657,-6.95752,9.34657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Na\u00efmasso",
         "Nyamasso",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193173829,
-    "wof:lastmodified":1537590952,
+    "wof:lastmodified":1566643303,
     "wof:name":"Niamasso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

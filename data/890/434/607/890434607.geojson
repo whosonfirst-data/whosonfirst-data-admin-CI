@@ -11,10 +11,14 @@
     "geom:longitude":-3.59625,
     "gn:country":"CI",
     "gn:fcode":"PPLA2",
-    "gn:pop":37312,
+    "gn:population":37312,
     "iso:country":"CI",
+    "lbl:bbox":"-3.61625,5.25247,-3.57625,5.29247",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0443\u0430"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Bonoua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grand Akapless"
     ],
     "qs:name":"Bonoua",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2291087,
         "gp:id":1340993,
-        "qs:id":139362,
+        "qs_pg:id":139362,
         "wd:id":"Q2910328",
         "wk:page":"Bonoua"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890434607,
-    "wof:lastmodified":1563572686,
+    "wof:lastmodified":1566643571,
     "wof:name":"Bonoua",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

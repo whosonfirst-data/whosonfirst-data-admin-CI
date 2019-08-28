@@ -10,6 +10,9 @@
     "geom:latitude":4.95,
     "geom:longitude":-6.08333,
     "iso:country":"CI",
+    "lbl:bbox":"-6.10333,4.93,-6.06333,4.97",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -193,7 +196,7 @@
     "wof:concordances":{
         "gn:id":2281951,
         "gp:id":1345848,
-        "qs:id":58864,
+        "qs_pg:id":58864,
         "wd:id":"Q586448",
         "wk:page":"Sassandra"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421178305,
-    "wof:lastmodified":1563572679,
+    "wof:lastmodified":1566643568,
     "wof:name":"Sassandra",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.58282,5.70079,-5.54282,5.74079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209850685,
-    "wof:lastmodified":1536388580,
+    "wof:lastmodified":1566643187,
     "wof:name":"Gbobodouhoin",
     "wof:parent_id":1108784999,
     "wof:placetype":"locality",

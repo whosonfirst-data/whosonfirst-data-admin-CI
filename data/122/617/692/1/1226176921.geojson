@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.07157,7.06962,-5.03157,7.10962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bondoukou"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1226176921,
-    "wof:lastmodified":1564105929,
+    "wof:lastmodified":1566643808,
     "wof:name":"Bondoukou",
     "wof:parent_id":1108785001,
     "wof:placetype":"locality",

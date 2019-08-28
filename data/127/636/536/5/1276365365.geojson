@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.10115,7.97475,-5.06115,8.01475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Touro"
     ],
@@ -50,8 +54,7 @@
         "Touro"
     ],
     "name:und_x_variant":[
-        "Tour\u00e9",
-        "Touro"
+        "Tour\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276365365,
-    "wof:lastmodified":1564104971,
+    "wof:lastmodified":1566643123,
     "wof:name":"Touro",
     "wof:parent_id":1108785041,
     "wof:placetype":"locality",

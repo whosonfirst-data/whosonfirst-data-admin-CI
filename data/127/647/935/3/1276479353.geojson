@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-2.98193,8.27001,-2.94193,8.31001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Laoudi-Ba"
     ],
@@ -35,7 +39,6 @@
         "Laoudi-Ba"
     ],
     "name:und_x_variant":[
-        "Laoudi-Ba",
         "Laoudi",
         "Lzoudi-Ba"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276479353,
-    "wof:lastmodified":1564104899,
+    "wof:lastmodified":1566643077,
     "wof:name":"Laoudi",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

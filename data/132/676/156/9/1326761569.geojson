@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.08579,5.97641,-4.04579,6.01641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326761569,
-    "wof:lastmodified":1536653442,
+    "wof:lastmodified":1566642664,
     "wof:name":"Boka Boka",
     "wof:parent_id":1108785009,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.34952,6.80485,-5.30952,6.84485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abouassikro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360021225,
-    "wof:lastmodified":1537591089,
+    "wof:lastmodified":1566643519,
     "wof:name":"Abouakouassikro",
     "wof:parent_id":1108784993,
     "wof:placetype":"locality",

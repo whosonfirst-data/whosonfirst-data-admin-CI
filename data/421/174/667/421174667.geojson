@@ -10,6 +10,9 @@
     "geom:latitude":7.69385,
     "geom:longitude":-5.03031,
     "iso:country":"CI",
+    "lbl:bbox":"-5.05031,7.67385,-5.01031,7.71385",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0430\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bwake"
     ],
     "name:urd_x_preferred":[
@@ -315,7 +318,7 @@
     "wof:concordances":{
         "gn:id":2290956,
         "gp:id":1341064,
-        "qs:id":894015,
+        "qs_pg:id":894015,
         "wd:id":"Q271000",
         "wk:page":"Bouak\u00e9"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421174667,
-    "wof:lastmodified":1563572667,
+    "wof:lastmodified":1566643564,
     "wof:name":"Bouak\u00e9",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

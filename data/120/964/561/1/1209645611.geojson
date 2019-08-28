@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.50333,8.64667,-5.46333,8.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2282443
     },
     "wof:country":"CI",
-    "wof:geomhash":"83725e00188fb1be83f3d84a1413557c",
+    "wof:geomhash":"853fbf93fa4b99e1fdb3e51888d414fb",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209645611,
-    "wof:lastmodified":1536280745,
+    "wof:lastmodified":1566643152,
     "wof:name":"Pkontara",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.4833300000000005,
+    -5.48333,
     8.66667,
-    -5.4833300000000005,
+    -5.48333,
     8.66667
 ],
   "geometry": {"coordinates":[-5.48333,8.66667],"type":"Point"}

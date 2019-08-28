@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.67635,6.96867,-5.63635,7.00867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243584611,
-    "wof:lastmodified":1536603491,
+    "wof:lastmodified":1566643661,
     "wof:name":"Degbezere",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

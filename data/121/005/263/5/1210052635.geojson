@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.10338,4.92556,-7.06338,4.96556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dogbo"
     ],
@@ -35,8 +39,7 @@
         "Dogbo"
     ],
     "name:und_x_variant":[
-        "Dobo",
-        "Dogbo"
+        "Dobo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1210052635,
-    "wof:lastmodified":1564105203,
+    "wof:lastmodified":1566643278,
     "wof:name":"Dogbo",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

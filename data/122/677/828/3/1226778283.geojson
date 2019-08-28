@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.34309,7.80241,-5.30309,7.84241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zabra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226778283,
-    "wof:lastmodified":1537590895,
+    "wof:lastmodified":1566643907,
     "wof:name":"Zabla",
     "wof:parent_id":1108785039,
     "wof:placetype":"locality",

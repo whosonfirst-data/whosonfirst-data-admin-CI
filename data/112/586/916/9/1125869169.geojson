@@ -9,15 +9,18 @@
     "geom:bbox":"-6.40694,10.48115,-6.40694,10.48115",
     "geom:latitude":10.48115,
     "geom:longitude":-6.40694,
-    "gn:gn_country":"CI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":39277,
+    "gn:country":"CI",
+    "gn:fcode":"PPL",
     "gn:population":39277,
     "iso:country":"CI",
+    "lbl:bbox":"-6.42694,10.46115,-6.38694,10.50115",
     "lbl:latitude":10.48115,
     "lbl:longitude":-6.40694,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tengr\u00e9la"
@@ -43,9 +46,6 @@
     "name:spa_x_preferred":[
         "Tengr\u00e9la"
     ],
-    "name:unk_x_variant":[
-        "Tingr\u00e9la"
-    ],
     "qs_pg:aaroncc":"CI",
     "qs_pg:gn_country":"CI",
     "qs_pg:gn_fcode":"PPL",
@@ -58,7 +58,7 @@
     "qs_pg:qs_id":139322,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125869169,
-    "wof:lastmodified":1563572686,
+    "wof:lastmodified":1566643571,
     "wof:name":"Tengrela",
     "wof:parent_id":1108785027,
     "wof:placetype":"locality",

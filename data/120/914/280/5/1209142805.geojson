@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.23656,7.81337,-3.19656,7.85337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2280987
     },
     "wof:country":"CI",
-    "wof:geomhash":"9d62d1515a13c407be951c20cdc17db5",
+    "wof:geomhash":"16f6756aa05f3e88f9e0710f68be0190",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209142805,
-    "wof:lastmodified":1536296450,
+    "wof:lastmodified":1566643199,
     "wof:name":"Tangamourou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.21656,
-    7.833369999999999,
+    7.83337,
     -3.21656,
-    7.833369999999999
+    7.83337
 ],
   "geometry": {"coordinates":[-3.21656,7.83337],"type":"Point"}
 }

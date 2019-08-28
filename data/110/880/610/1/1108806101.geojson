@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":6.940439,
     "lbl:longitude":-7.669209,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -58,7 +59,7 @@
     "name:swa_x_preferred":[
         "Mkoa wa Moyen-Cavally"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion des Montagnes"
     ],
     "name:zho_x_preferred":[
@@ -123,9 +124,9 @@
     "ne:woe_label":"Dix-Huit Montagnes, CI, Ivory Coast",
     "ne:woe_name":"Dix-Huit Montagnes",
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"31,050",
     "statoids:area_mi":"10,989",
     "statoids:as_of_date":"2014-05-15",
@@ -167,11 +168,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662588,
+    "wof:lastmodified":1566643356,
     "wof:name":"Montagnes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":2371920,
     "wof:population_rank":12,

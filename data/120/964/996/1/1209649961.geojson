@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.29736,5.19645,-4.25736,5.23645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sassako B\u00e9nigny",
         "Sassako-B\u00e9gniny"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209649961,
-    "wof:lastmodified":1537590929,
+    "wof:lastmodified":1566643151,
     "wof:name":"Sassako-Begniny",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

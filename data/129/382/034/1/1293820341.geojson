@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.16183,8.48728,-6.12183,8.52728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bam_x_preferred":[
         "Misirik\u0254r\u0254"
     ],
@@ -47,8 +51,7 @@
         "Missirikoro"
     ],
     "name:und_x_variant":[
-        "Misirikoro",
-        "Missirikoro"
+        "Misirikoro"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u897f\u91cc\u79d1\u7f85"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293820341,
-    "wof:lastmodified":1564104698,
+    "wof:lastmodified":1566642925,
     "wof:name":"Missirikoro",
     "wof:parent_id":1108785045,
     "wof:placetype":"locality",

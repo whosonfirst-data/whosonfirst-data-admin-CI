@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.19585,5.28889,-4.15585,5.32889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adiapot\u00e9 T\u00e9",
         "Adiapo-T\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310236001,
-    "wof:lastmodified":1537591088,
+    "wof:lastmodified":1566643381,
     "wof:name":"Adiapote Te",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

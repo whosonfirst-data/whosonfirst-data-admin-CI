@@ -11,10 +11,14 @@
     "geom:longitude":-7.34918,
     "gn:country":"CI",
     "gn:fcode":"PPL",
-    "gn:pop":47198,
+    "gn:population":47198,
     "iso:country":"CI",
+    "lbl:bbox":"-7.36918,6.72202,-7.32918,6.76202",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Duekou\u00e9"
     ],
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":2289549,
         "gp:id":1341917,
-        "qs:id":1034710,
+        "qs_pg:id":1034710,
         "wd:id":"Q1268139"
     },
     "wof:country":"CI",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890437065,
-    "wof:lastmodified":1563572684,
+    "wof:lastmodified":1566643570,
     "wof:name":"Duekou\u00e9",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

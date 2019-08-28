@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.79324,6.76827,-6.75324,6.80827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guedjigbe I"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293031405,
-    "wof:lastmodified":1537591009,
+    "wof:lastmodified":1566642951,
     "wof:name":"Guedjigbeu I",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

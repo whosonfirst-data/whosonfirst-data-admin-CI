@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.65514,9.62437,-5.61514,9.66437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Si\u00e9ll\u00e9kaha",
         "Syel\u00e8kaha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210052553,
-    "wof:lastmodified":1537590918,
+    "wof:lastmodified":1566643278,
     "wof:name":"Syelekaha",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

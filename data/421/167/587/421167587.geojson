@@ -10,8 +10,12 @@
     "geom:latitude":8.05861,
     "geom:longitude":-6.18972,
     "iso:country":"CI",
+    "lbl:bbox":"-6.20972,8.03861,-6.16972,8.07861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mankono"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2284589,
         "gp:id":1344485,
-        "qs:id":139339,
+        "qs_pg:id":139339,
         "wd:id":"Q3286018",
         "wk:page":"Mankono Department"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421167587,
-    "wof:lastmodified":1563572662,
+    "wof:lastmodified":1566643563,
     "wof:name":"Mankono",
     "wof:parent_id":1108806109,
     "wof:placetype":"locality",

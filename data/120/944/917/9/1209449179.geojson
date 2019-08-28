@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.90277,5.21587,-3.86277,5.25587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Di\u00e9doni",
         "Dieudonn\u00e9"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209449179,
-    "wof:lastmodified":1537591096,
+    "wof:lastmodified":1566643263,
     "wof:name":"Diedoni",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.3948,6.28736,-5.3548,6.32736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koissizra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310041979,
-    "wof:lastmodified":1537590993,
+    "wof:lastmodified":1566643448,
     "wof:name":"Kouassizra",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

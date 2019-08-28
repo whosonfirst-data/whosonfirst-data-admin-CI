@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.47195,9.55445,-5.43195,9.59445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nangol\u00e9kaha",
         "Nangal\u00e9kaha"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209551925,
-    "wof:lastmodified":1537590958,
+    "wof:lastmodified":1566643158,
     "wof:name":"Nangalekaha",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.72792,4.67557,-6.68792,4.71557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09bf"
     ],
@@ -50,8 +54,7 @@
         "Taki"
     ],
     "name:und_x_variant":[
-        "Taky",
-        "Taki"
+        "Taky"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1260114641,
-    "wof:lastmodified":1564105274,
+    "wof:lastmodified":1566643332,
     "wof:name":"Taki",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

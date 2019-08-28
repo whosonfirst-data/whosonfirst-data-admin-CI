@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.86977,9.68735,-7.82977,9.72735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Somokoro"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226476307,
-    "wof:lastmodified":1564106047,
+    "wof:lastmodified":1566643894,
     "wof:name":"Somokoro",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.58938,5.06226,-5.54938,5.10226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Fresko"
     ],
@@ -205,10 +209,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0435\u0441\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Fresko",
-        "Fresco"
-    ],
     "name:vie_x_preferred":[
         "B\u00edch h\u1ecda"
     ],
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":1276482127,
-    "wof:lastmodified":1564104938,
+    "wof:lastmodified":1566643101,
     "wof:name":"Fresco",
     "wof:parent_id":1108784977,
     "wof:placetype":"locality",

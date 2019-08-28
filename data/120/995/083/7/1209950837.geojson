@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.34006,6.21681,-3.30006,6.25681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diamarakro"
     ],
@@ -38,8 +42,7 @@
         "Dambarakro",
         "Diambarakrou",
         "Diambarakru",
-        "Diambala",
-        "Diamarakro"
+        "Diambala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209950837,
-    "wof:lastmodified":1564105094,
+    "wof:lastmodified":1566643209,
     "wof:name":"Diamarakro",
     "wof:parent_id":1108784983,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.15712,5.26995,-4.11712,5.30995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Andouin",
         "Audouin",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225875817,
-    "wof:lastmodified":1537591075,
+    "wof:lastmodified":1566643864,
     "wof:name":"Audoin Sante",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.23438,7.50779,-5.19438,7.54779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2284212
     },
     "wof:country":"CI",
-    "wof:geomhash":"b7f7c0d68662cc3716a2d802ee1f627d",
+    "wof:geomhash":"5bb27e64b0baec036c833cd3d9b46f10",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209042339,
-    "wof:lastmodified":1536299504,
+    "wof:lastmodified":1566643227,
     "wof:name":"Morikro",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -5.21438,
-    7.527789999999999,
+    7.52779,
     -5.21438,
-    7.527789999999999
+    7.52779
 ],
   "geometry": {"coordinates":[-5.21438,7.52779],"type":"Point"}
 }

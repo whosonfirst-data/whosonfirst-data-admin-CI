@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.92037,9.98244,-5.88037,10.02244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mbengu\u00e9"
     ],
@@ -46,7 +50,6 @@
         "Mbingu\u00e9",
         "M\u2019B\u00e9gu\u00e9",
         "M\u2019B\u00e9gu\u00e9 S\u00f4koro",
-        "Mbengu\u00e9",
         "M\u2019Bengu\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276263709,
-    "wof:lastmodified":1564104831,
+    "wof:lastmodified":1566643023,
     "wof:name":"M'Bengue",
     "wof:parent_id":1108785029,
     "wof:placetype":"locality",

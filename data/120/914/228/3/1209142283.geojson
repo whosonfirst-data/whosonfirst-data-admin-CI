@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.73277,9.21298,-5.69277,9.25298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Guiemb\u00e9"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Guienb\u00e9",
-        "Guiemb\u00e9",
         "Giembe",
         "Ty\u00e8b\u00e8"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209142283,
-    "wof:lastmodified":1564105083,
+    "wof:lastmodified":1566643200,
     "wof:name":"Guiembe",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

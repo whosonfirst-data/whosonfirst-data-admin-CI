@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.80551,9.28733,-5.76551,9.32733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "F\u00e9gu\u00e9r\u00e9",
         "F\u00e9g\u00e9r\u00e9"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209646275,
-    "wof:lastmodified":1537591028,
+    "wof:lastmodified":1566643153,
     "wof:name":"Fegere",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.53947,7.20804,-7.49947,7.24804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243292259,
-    "wof:lastmodified":1537026742,
+    "wof:lastmodified":1566643705,
     "wof:name":"Kenle",
     "wof:parent_id":1108785021,
     "wof:placetype":"locality",

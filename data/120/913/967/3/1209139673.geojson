@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.55603,6.0962,-6.51603,6.1362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grand-Zattry"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209139673,
-    "wof:lastmodified":1564105076,
+    "wof:lastmodified":1566643195,
     "wof:name":"Grand-Zattry",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",

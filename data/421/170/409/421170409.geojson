@@ -11,10 +11,14 @@
     "geom:longitude":-3.928618,
     "gn:country":"CI",
     "gn:fcode":"PPLA2",
-    "gn:pop":50694,
+    "gn:population":50694,
     "iso:country":"CI",
+    "lbl:bbox":"-3.9486175,5.3447065,-3.9086175,5.3847065",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0411\u0456\u043d\u0436\u044d\u0440\u0432\u0456\u043b\u044c"
@@ -111,12 +115,12 @@
     "wof:concordances":{
         "gn:id":2291580,
         "gp:id":1340752,
-        "qs:id":561098,
+        "qs_pg:id":561098,
         "wd:id":"Q863795",
         "wk:page":"Bingerville"
     },
     "wof:concordances_alt":{
-        "qs:id":1034726
+        "qs_pg:id":1034726
     },
     "wof:country":"CI",
     "wof:created":1459008852,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421170409,
-    "wof:lastmodified":1563572678,
+    "wof:lastmodified":1566643568,
     "wof:name":"Bingerville",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

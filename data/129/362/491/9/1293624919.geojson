@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.42034,9.18915,-7.38034,9.22915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ni\u00e9messo",
         "Ni\u00e9n\u00e9so"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293624919,
-    "wof:lastmodified":1537590950,
+    "wof:lastmodified":1566642876,
     "wof:name":"Nieneso",
     "wof:parent_id":1108784989,
     "wof:placetype":"locality",

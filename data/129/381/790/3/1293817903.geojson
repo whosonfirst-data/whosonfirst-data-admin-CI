@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.70742,6.79056,-6.66742,6.83056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293817903,
-    "wof:lastmodified":1536807557,
+    "wof:lastmodified":1566642983,
     "wof:name":"Bateguedia",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",

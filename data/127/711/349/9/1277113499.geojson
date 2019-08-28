@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.89952,7.47076,-5.85952,7.51076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gohitafla"
     ],
@@ -41,8 +45,7 @@
         "Gouytafla",
         "Gouatafla",
         "Gouitafla",
-        "Guitafla",
-        "Gohitafla"
+        "Guitafla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1277113499,
-    "wof:lastmodified":1564104986,
+    "wof:lastmodified":1566643135,
     "wof:name":"Gohitafla",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

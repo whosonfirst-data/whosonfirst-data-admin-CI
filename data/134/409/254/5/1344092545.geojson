@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.33729,4.54087,-7.29729,4.58087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ou\u00e9gr\u00e9",
         "Wegire",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344092545,
-    "wof:lastmodified":1537590901,
+    "wof:lastmodified":1566642761,
     "wof:name":"Wedjere",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

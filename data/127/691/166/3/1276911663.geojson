@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-5.74759,7.22657,-5.70759,7.26657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276911663,
-    "wof:lastmodified":1536997747,
+    "wof:lastmodified":1566643116,
     "wof:name":"Forossou",
     "wof:parent_id":1108785025,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.09916,6.0638,-6.05916,6.1038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Toutoubr\u00e9"
     ],
     "name:msa_x_preferred":[
-        "Toutoubr\u00e9"
-    ],
-    "name:und_x_variant":[
         "Toutoubr\u00e9"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1225978277,
-    "wof:lastmodified":1564106017,
+    "wof:lastmodified":1566643873,
     "wof:name":"Toutoubre",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

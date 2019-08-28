@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-6.08632,5.95763,-6.04632,5.99763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dyabo",
         "Diabo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209953659,
-    "wof:lastmodified":1537591043,
+    "wof:lastmodified":1566643207,
     "wof:name":"Diabouo",
     "wof:parent_id":1108784995,
     "wof:placetype":"locality",

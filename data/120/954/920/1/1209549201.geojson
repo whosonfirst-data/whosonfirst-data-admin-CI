@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.82139,7.50444,-3.78139,7.54444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632449
@@ -34,7 +38,7 @@
         "gn:id":2293004
     },
     "wof:country":"CI",
-    "wof:geomhash":"0ce6a020c28509399a48b7f7f8356406",
+    "wof:geomhash":"33b750e247d36f36651b5f175c801e73",
     "wof:hierarchy":[
         {
             "country_id":85632449,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209549201,
-    "wof:lastmodified":1536283747,
+    "wof:lastmodified":1566643145,
     "wof:name":"Alounamouenou",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.80139,
-    7.5244399999999985,
+    7.52444,
     -3.80139,
-    7.5244399999999985
+    7.52444
 ],
   "geometry": {"coordinates":[-3.80139,7.52444],"type":"Point"}
 }

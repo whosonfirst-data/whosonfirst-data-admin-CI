@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.487914,
     "lbl:longitude":-4.051426,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1name":"Lacs",
     "meso:admin2name":"Iffou",
     "meso:dissme":"LacsIffou",
@@ -33,6 +35,7 @@
     "mps:longitude":-4.051426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Iffou"
     ],
@@ -49,9 +52,9 @@
         "\u4f0a\u5bcc\u5927\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-05-15",
     "statoids:capital":"Daoukro",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108785003,
-    "wof:lastmodified":1564105330,
+    "wof:lastmodified":1566643368,
     "wof:name":"Iffou",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

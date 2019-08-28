@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-7.0761,4.51901,-7.0361,4.55901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dodo"
     ],
@@ -272,8 +276,7 @@
         "\u0414\u043e\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "M\u00e9no",
-        "Dodo"
+        "M\u00e9no"
     ],
     "name:urd_x_preferred":[
         "\u0688\u0648 \u0688\u0648"
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":1310532499,
-    "wof:lastmodified":1564105384,
+    "wof:lastmodified":1566643408,
     "wof:name":"Dodo",
     "wof:parent_id":421188355,
     "wof:placetype":"locality",

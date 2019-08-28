@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-4.64902,6.88081,-4.60902,6.92081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Konan L\u00e9kikro",
         "Konanl\u00e9likro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277017163,
-    "wof:lastmodified":1537590991,
+    "wof:lastmodified":1566643018,
     "wof:name":"Konan Lekikro",
     "wof:parent_id":1108785007,
     "wof:placetype":"locality",

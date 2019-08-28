@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-8.11893,8.19496,-8.07893,8.23496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kosaoui",
         "Kossagui",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226379399,
-    "wof:lastmodified":1537590988,
+    "wof:lastmodified":1566643911,
     "wof:name":"Kosagi",
     "wof:parent_id":1108785043,
     "wof:placetype":"locality",

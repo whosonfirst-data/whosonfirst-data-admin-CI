@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Abidjan",
     "iso:country":"CI",
+    "lbl:bbox":"-3.39655,7.90084,-3.35655,7.94084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09a3\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1243206583,
-    "wof:lastmodified":1564105772,
+    "wof:lastmodified":1566643691,
     "wof:name":"Gondia",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

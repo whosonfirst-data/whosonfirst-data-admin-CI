@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":8.450239,
     "lbl:longitude":-3.2382,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.401838,
     "mps:longitude":-3.24282,
     "mz:hierarchy_label":1,
@@ -80,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043d\u0437\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion du Zanzan"
     ],
     "name:zho_x_preferred":[
@@ -164,9 +165,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-05-15",
+    "src:population_date":"2014-05-15",
     "statoids:area_km":"38,251",
     "statoids:area_mi":"14,769",
     "statoids:as_of_date":"2014-05-15",
@@ -191,7 +192,7 @@
         "gp:id":55967007,
         "hasc:id":"CI.ZA",
         "iso:id":"CI-ZZ",
-        "qs:id":74108,
+        "qs_pg:id":74108,
         "wd:id":"Q21003689",
         "wk:page":"Zanzan District"
     },
@@ -211,11 +212,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662538,
+    "wof:lastmodified":1566642858,
     "wof:name":"Zanzan",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":934352,
     "wof:population_rank":11,
