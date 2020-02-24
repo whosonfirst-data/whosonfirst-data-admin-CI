@@ -186,6 +186,9 @@
     },
     "wof:country":"CI",
     "wof:created":1459009543,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0643785f60d5d900433e53c8c182e64e",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421188355,
-    "wof:lastmodified":1566643565,
+    "wof:lastmodified":1582313796,
     "wof:name":"San Pedro",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

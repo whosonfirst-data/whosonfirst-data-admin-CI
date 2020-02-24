@@ -1085,6 +1085,11 @@
     },
     "wof:country":"CI",
     "wof:country_alpha3":"CIV",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"16d91018ec198c2d3c3399ff19d89731",
     "wof:hierarchy":[
         {
@@ -1099,7 +1104,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566642854,
+    "wof:lastmodified":1582313784,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

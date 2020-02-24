@@ -197,6 +197,9 @@
         "wk:page":"Zanzan District"
     },
     "wof:country":"CI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e9776bf3085fdb4153ecf7db605645a",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566642858,
+    "wof:lastmodified":1582313785,
     "wof:name":"Zanzan",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
