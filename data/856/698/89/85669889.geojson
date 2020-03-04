@@ -231,6 +231,9 @@
         "wk:page":"Bas-Sassandra Region"
     },
     "wof:country":"CI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af678cbd2679c5d78d2e3e864d77fa38",
     "wof:hierarchy":[
         {
@@ -246,7 +249,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566642859,
+    "wof:lastmodified":1582313786,
     "wof:name":"Bas-Sassandra",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

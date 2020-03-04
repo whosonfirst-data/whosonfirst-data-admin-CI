@@ -555,6 +555,9 @@
     },
     "wof:country":"CI",
     "wof:created":1459010007,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"901d9b9c8b0864a22addc8acc93d9a75",
     "wof:hierarchy":[
         {
@@ -565,7 +568,7 @@
         }
     ],
     "wof:id":421199985,
-    "wof:lastmodified":1566643567,
+    "wof:lastmodified":1582313797,
     "wof:name":"Abidjan",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",

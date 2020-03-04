@@ -577,6 +577,9 @@
     },
     "wof:country":"CI",
     "wof:created":1459008788,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f08aabdb3aa15e4dac964b770df7cb20",
     "wof:hierarchy":[
         {
@@ -587,7 +590,7 @@
         }
     ],
     "wof:id":421168957,
-    "wof:lastmodified":1566643561,
+    "wof:lastmodified":1582313796,
     "wof:name":"Yamoussoukro",
     "wof:parent_id":1108806119,
     "wof:placetype":"locality",

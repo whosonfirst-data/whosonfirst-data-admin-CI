@@ -276,6 +276,9 @@
         "wk:page":"Vall\u00e9e du Bandama District"
     },
     "wof:country":"CI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46b7fbdf228e1150a4dc87b72c9a9615",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566642860,
+    "wof:lastmodified":1582313786,
     "wof:name":"Valle Du Bandama",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
