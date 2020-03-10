@@ -1071,9 +1071,7 @@
         421199985
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            384
-        ],
+        "digitalenvoy:country_code":384,
         "gn:id":2287781,
         "gp:id":23424854,
         "hasc:id":"CI",
@@ -1107,7 +1105,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529107,
+    "wof:lastmodified":1583797311,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
