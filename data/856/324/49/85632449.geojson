@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.371672,
-    "geom:area_square_m":323100851207.363464,
+    "geom:area_square_m":323100848422.060547,
     "geom:bbox":"-8.602059,4.352833,-2.493031,10.740015",
     "geom:latitude":7.621754,
     "geom:longitude":-5.553038,
@@ -61,6 +61,9 @@
     "name:arg_x_variant":[
         "Costa de Bori"
     ],
+    "name:ary_x_preferred":[
+        "\u0643\u0648\u0637 \u062f\u064a\u06a4\u0648\u0627\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u062a \u062f\u064a\u0641\u0648\u0627\u0631"
     ],
@@ -86,6 +89,9 @@
     "name:bam_x_variant":[
         "Kodiwari",
         "C\u00f4te d'Ivoire"
+    ],
+    "name:ban_x_preferred":[
+        "Pantai Gading"
     ],
     "name:bcl_x_preferred":[
         "Ivory Coast"
@@ -184,6 +190,12 @@
     "name:dan_x_preferred":[
         "Elfenbenskysten"
     ],
+    "name:deu_at_x_preferred":[
+        "Elfenbeink\u00fcste"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Elfenbeink\u00fcste"
+    ],
     "name:deu_x_colloquial":[
         "Cote d\u00b4Ivoire",
         "Elfenbeinkueste",
@@ -214,6 +226,12 @@
     ],
     "name:ell_x_variant":[
         "\u0391\u03ba\u03c4\u03ae \u0395\u03bb\u03b5\u03c6\u03b1\u03bd\u03c4\u03cc\u03b4\u03bf\u03bd\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Ivory Coast"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Ivory Coast"
     ],
     "name:eng_x_preferred":[
         "Ivory Coast"
@@ -298,6 +316,9 @@
     ],
     "name:gag_x_variant":[
         "Fildi\u015fi K\u0131y\u0131s\u0131"
+    ],
+    "name:gcr_x_preferred":[
+        "Kot d'Ivwar"
     ],
     "name:gla_x_preferred":[
         "Costa \u00ccbhri"
@@ -574,6 +595,9 @@
     "name:mon_x_preferred":[
         "\u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440"
     ],
+    "name:mri_x_preferred":[
+        "Te Tai Rei"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
     ],
@@ -640,6 +664,9 @@
     ],
     "name:nov_x_preferred":[
         "C\u00f4te d'Ivoire"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07cb\u07f2\u07de\u07d0\u07f0\u07d6\u07cc\u07ec\u07d8\u07fa\u07ca \u07de\u07ca\u07f2\u07d3\u07cd\u07f2"
     ],
     "name:nrm_x_preferred":[
         "C\u00f4te d'Ivi\u00e9the"
@@ -804,6 +831,12 @@
     "name:srd_x_preferred":[
         "Costa de Av\u00f2riu"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041e\u0431\u0430\u043b\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430\u0447\u0435"
+    ],
+    "name:srp_el_x_preferred":[
+        "Obala Slonova\u010de"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u0430\u043b\u0430 \u0421\u043b\u043e\u043d\u043e\u0432\u0430\u0447\u0435"
     ],
@@ -827,6 +860,9 @@
     ],
     "name:szl_x_preferred":[
         "Wybrze\u017ce Elefantowych Gnat\u016fw"
+    ],
+    "name:szy_x_preferred":[
+        "Cote d'ivoirie"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0b9f\u0bcd \u0b9f\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd"
@@ -958,11 +994,20 @@
     "name:yue_x_preferred":[
         "\u8c61\u7259\u6d77\u5cb8"
     ],
+    "name:zea_x_preferred":[
+        "Ivo\u00f4rkust"
+    ],
     "name:zha_x_preferred":[
         "C\u00f4te d'Ivoire"
     ],
     "name:zho_min_nan_x_preferred":[
         "C\u00f4te d'Ivoire"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u8c61\u7259\u6d77\u5cb8"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c61\u7259\u6d77\u5cb8"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7279\u8fea\u74e6"
@@ -1105,7 +1150,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583797311,
+    "wof:lastmodified":1587428367,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
