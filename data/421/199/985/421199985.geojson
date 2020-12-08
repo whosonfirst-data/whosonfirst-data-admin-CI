@@ -572,7 +572,9 @@
         1108806115
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632449,
+    "wof:capital_of":[
+        85632449
+    ],
     "wof:concordances":{
         "gn:id":2293538,
         "gp:id":1339615,
@@ -595,7 +597,7 @@
         }
     ],
     "wof:id":421199985,
-    "wof:lastmodified":1587428369,
+    "wof:lastmodified":1607390897,
     "wof:name":"Abidjan",
     "wof:parent_id":1108806115,
     "wof:placetype":"locality",
