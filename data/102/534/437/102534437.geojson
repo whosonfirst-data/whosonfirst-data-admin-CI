@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.66081944444,4.74671944444,-6.66081944444,4.74671944444",
+    "geom:bbox":"-6.660819,4.746719,-6.660819,4.746719",
     "geom:latitude":4.746719,
     "geom:longitude":-6.660819,
     "iso:country":"CI",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "San P\u00e9dro Airport"
+    ],
+    "name:eng_x_variant":[
+        "SPY",
+        "DISP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u067e\u06cc\u062f\u0631\u0648"
@@ -70,7 +74,7 @@
         "wd:id":"Q3497709"
     },
     "wof:country":"CI",
-    "wof:geomhash":"3393fa9069e311c4e5666414821713c7",
+    "wof:geomhash":"510314d41918c9cab4ea5417f4627893",
     "wof:hierarchy":[
         {
             "campus_id":102534437,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102534437,
-    "wof:lastmodified":1566642724,
+    "wof:lastmodified":1631743773,
     "wof:name":"San Pedro Airport",
     "wof:parent_id":85669889,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    -6.6608194444444,
-    4.7467194444444,
-    -6.6608194444444,
-    4.7467194444444
+    -6.660819,
+    4.746719,
+    -6.660819,
+    4.746719
 ],
-  "geometry": {"coordinates":[-6.6608194444444,4.7467194444444],"type":"Point"}
+  "geometry": {"coordinates":[-6.660819,4.746719],"type":"Point"}
 }
