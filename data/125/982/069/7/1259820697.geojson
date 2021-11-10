@@ -32,7 +32,16 @@
     "name:ceb_x_preferred":[
         "Zanzan"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u0632\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Zanzan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e0\u05d6\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
         "Zanzan"
     ],
     "name:swe_x_preferred":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1259820697,
-    "wof:lastmodified":1566643760,
+    "wof:lastmodified":1636494811,
     "wof:name":"Zanzan",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

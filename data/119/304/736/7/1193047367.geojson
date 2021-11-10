@@ -56,7 +56,13 @@
     "name:frr_x_preferred":[
         "Abengourou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e0\u05d2\u05d5\u05e8\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Abengourou"
+    ],
+    "name:hun_x_preferred":[
         "Abengourou"
     ],
     "name:ita_x_preferred":[
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1193047367,
-    "wof:lastmodified":1566643280,
+    "wof:lastmodified":1636494802,
     "wof:name":"Abengourou",
     "wof:parent_id":1108785039,
     "wof:placetype":"locality",

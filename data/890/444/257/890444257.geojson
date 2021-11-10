@@ -64,6 +64,9 @@
     "name:hrv_x_preferred":[
         "Gagnoa"
     ],
+    "name:hun_x_preferred":[
+        "Gagnoa"
+    ],
     "name:ind_x_preferred":[
         "Gagnoa"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":890444257,
-    "wof:lastmodified":1566643571,
+    "wof:lastmodified":1636494809,
     "wof:name":"Gagnoa",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",

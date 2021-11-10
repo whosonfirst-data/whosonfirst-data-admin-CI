@@ -41,6 +41,9 @@
     "name:epo_x_preferred":[
         "Man"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Man"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0928"
@@ -287,7 +293,7 @@
         }
     ],
     "wof:id":421189377,
-    "wof:lastmodified":1566643564,
+    "wof:lastmodified":1636494807,
     "wof:name":"Man",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

@@ -120,6 +120,9 @@
         "Batman"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05de\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05d0\u05d8\u05de\u05df"
     ],
     "name:hin_x_preferred":[
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":1225880553,
-    "wof:lastmodified":1566643856,
+    "wof:lastmodified":1636494812,
     "wof:name":"Batman",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

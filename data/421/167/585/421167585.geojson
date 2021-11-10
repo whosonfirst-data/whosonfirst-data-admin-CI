@@ -35,6 +35,9 @@
     "name:dan_x_preferred":[
         "Divo"
     ],
+    "name:deu_x_preferred":[
+        "Divo"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03af\u03b2\u03bf"
     ],
@@ -47,6 +50,9 @@
     "name:epo_x_preferred":[
         "Divo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Divo"
     ],
@@ -56,10 +62,16 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0abf\u0ab5\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05d1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u0940\u0935\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Divo"
+    ],
+    "name:hun_x_preferred":[
         "Divo"
     ],
     "name:ind_x_preferred":[
@@ -292,7 +304,7 @@
         }
     ],
     "wof:id":421167585,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1636494806,
     "wof:name":"Divo",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",

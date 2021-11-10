@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645\u0628\u0648\u0643\u0631\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044b\u043c\u0431\u0430\u043a\u0440\u043e"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u09ae\u09cd\u09ac\u09cb\u0995\u09b0\u09cb"
     ],
     "name:ceb_x_preferred":[
         "Dimbokro"
@@ -35,6 +41,9 @@
     "name:eng_x_preferred":[
         "Dimbokro"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0645\u0628\u0648\u06a9\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Dimbokro"
     ],
@@ -47,7 +56,16 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05de\u05d1\u05d5\u05e7\u05e8\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u092e\u092c\u094b\u0915\u094d\u0930\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Dimbokro"
+    ],
+    "name:hun_x_preferred":[
+        "Dimbokro"
+    ],
+    "name:ind_x_preferred":[
         "Dimbokro"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +73,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30f3\u30dc\u30af\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ub524\ubcf4\ud06c\ub85c"
     ],
     "name:lit_x_preferred":[
         "Dimbokras"
@@ -89,8 +110,17 @@
     "name:swe_x_preferred":[
         "Dimbokro"
     ],
+    "name:tur_x_preferred":[
+        "Dimbokro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043c\u0431\u043e\u043a\u0440\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0645\u0628\u0648\u06a9\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Dimbokro"
     ],
     "name:zho_x_preferred":[
         "\u4e01\u535a\u514b\u7f57"
@@ -233,7 +263,7 @@
         }
     ],
     "wof:id":421188163,
-    "wof:lastmodified":1566643566,
+    "wof:lastmodified":1636494808,
     "wof:name":"Dimbokro",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

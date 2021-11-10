@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Koboko"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Koboko"
+    ],
     "name:ita_x_preferred":[
         "Koboko"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1226681193,
-    "wof:lastmodified":1566643840,
+    "wof:lastmodified":1636494811,
     "wof:name":"Koboko",
     "wof:parent_id":1108785053,
     "wof:placetype":"locality",

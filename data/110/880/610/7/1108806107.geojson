@@ -29,7 +29,16 @@
     "name:eng_x_preferred":[
         "Lacs"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Lacs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e7\u05e1"
+    ],
+    "name:hun_x_preferred":[
         "Lacs"
     ],
     "name:und_x_variant":[
@@ -78,7 +87,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893668,
+    "wof:lastmodified":1636494803,
     "wof:name":"Lacs",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

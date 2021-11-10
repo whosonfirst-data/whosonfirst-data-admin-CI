@@ -66,7 +66,13 @@
         "Sassandra"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0633\u06cc\u0646\u0688\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0627\u0633\u0627\u0646\u062f\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Sassandra"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u6851\u5fb7\u62c9"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1277018583,
-    "wof:lastmodified":1566643007,
+    "wof:lastmodified":1636494800,
     "wof:name":"Sassandra",
     "wof:parent_id":1108785023,
     "wof:placetype":"locality",
