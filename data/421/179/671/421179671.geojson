@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Bongouanou"
     ],
+    "name:ces_x_preferred":[
+        "Bongouanou"
+    ],
     "name:eng_x_preferred":[
         "Bongouanou"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ron_x_preferred":[
         "Bongouanou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043d\u0433\u0443\u0430\u043d\u0443"
     ],
     "name:spa_x_preferred":[
         "Bongouanou"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421179671,
-    "wof:lastmodified":1566643568,
+    "wof:lastmodified":1690866729,
     "wof:name":"Bongouanou",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

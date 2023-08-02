@@ -38,11 +38,17 @@
     "name:eng_x_preferred":[
         "Toumodi-Sakassou"
     ],
+    "name:eng_x_variant":[
+        "Toumodi"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0645\u0648\u062f\u06cc"
     ],
     "name:fra_x_preferred":[
         "Toumodi-Sakassou"
+    ],
+    "name:fra_x_variant":[
+        "Toumodi"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05de\u05d5\u05d3\u05d9"
@@ -59,6 +65,9 @@
     "name:ita_x_preferred":[
         "Toumodi-Sakassou"
     ],
+    "name:ita_x_variant":[
+        "Toumodi"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30e2\u30c7\u30a3"
     ],
@@ -68,6 +77,9 @@
     "name:msa_x_preferred":[
         "Toumodi-Sakassou"
     ],
+    "name:msa_x_variant":[
+        "Toumodi"
+    ],
     "name:nld_x_preferred":[
         "Toumodi"
     ],
@@ -75,6 +87,9 @@
         "Toumodi"
     ],
     "name:por_x_preferred":[
+        "Toumodi"
+    ],
+    "name:ron_x_preferred":[
         "Toumodi"
     ],
     "name:rus_x_preferred":[
@@ -243,7 +258,7 @@
         }
     ],
     "wof:id":421167581,
-    "wof:lastmodified":1636494806,
+    "wof:lastmodified":1690866722,
     "wof:name":"Toumodi",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

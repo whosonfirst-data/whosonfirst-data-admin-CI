@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Agnibil\u00e9krou"
     ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u044c\u0438\u0431\u0438\u043b\u0435\u043a\u0440\u0443"
+    ],
     "name:msa_x_preferred":[
         "Agnibil\u00e9krou"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421167595,
-    "wof:lastmodified":1566643562,
+    "wof:lastmodified":1690866722,
     "wof:name":"Agnibil\u00e9krou",
     "wof:parent_id":1108806113,
     "wof:placetype":"locality",

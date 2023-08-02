@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u062f\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Divo"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044b\u0432\u043e"
     ],
@@ -30,6 +36,9 @@
         "\u09a1\u09bf\u09ad\u09cb"
     ],
     "name:ceb_x_preferred":[
+        "Divo"
+    ],
+    "name:ces_x_preferred":[
         "Divo"
     ],
     "name:dan_x_preferred":[
@@ -125,23 +134,32 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd2\u0dc0\u0ddd \u0d85\u0dba\u0dd2\u0dc0\u0dbb\u0dd2 \u0d9a\u0ddd\u0dc3\u0dca\u0da7\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u062f\u064a\u0648\u0648"
+    ],
     "name:spa_x_preferred":[
         "Divo"
     ],
     "name:swe_x_preferred":[
         "Divo"
     ],
+    "name:szl_x_preferred":[
+        "Divo"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbf\u0bb5\u0bcb"
     ],
     "name:tam_x_variant":[
-        "\u0b9f\u0bbf\u0bb5\u0bcb"
+        "\u0b9f\u0bbf\u0bb5\u0bcb "
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c35\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e34\u0e42\u0e27\u0e21 \u0e1e\u0e32\u0e19\u0e44\u0e15 \u0e40\u0e01\u0e14\u0e34\u0e49\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e35\u0e42\u0e27"
     ],
     "name:tur_x_preferred":[
         "Divo"
@@ -304,7 +322,7 @@
         }
     ],
     "wof:id":421167585,
-    "wof:lastmodified":1636494806,
+    "wof:lastmodified":1690866723,
     "wof:name":"Divo",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Akoup\u00e9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30da"
+    ],
     "name:msa_x_preferred":[
         "Akoup\u00e9"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ron_x_preferred":[
         "Akoup\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0443\u043f\u0435"
     ],
     "name:spa_x_preferred":[
         "Akoup\u00e9"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421197953,
-    "wof:lastmodified":1566643567,
+    "wof:lastmodified":1690866728,
     "wof:name":"Akoup\u00e9",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

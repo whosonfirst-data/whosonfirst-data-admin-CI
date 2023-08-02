@@ -130,6 +130,9 @@
     "name:swe_x_preferred":[
         "Anyama"
     ],
+    "name:szl_x_preferred":[
+        "Anyama"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba8\u0bcd\u0ba8\u0bbf\u0baf\u0bae\u0bbe"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1125987911,
-    "wof:lastmodified":1566643571,
+    "wof:lastmodified":1690866733,
     "wof:name":"Anyama",
     "wof:parent_id":1108784991,
     "wof:placetype":"locality",

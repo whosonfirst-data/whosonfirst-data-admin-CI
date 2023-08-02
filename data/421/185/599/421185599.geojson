@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Aff\u00e9ry"
     ],
+    "name:pol_x_preferred":[
+        "Aff\u00e9ry"
+    ],
     "name:swe_x_preferred":[
         "Affery"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421185599,
-    "wof:lastmodified":1566643569,
+    "wof:lastmodified":1690866731,
     "wof:name":"Affery",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "Sakassou"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03ba\u03b1\u03c3\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Sakassou"
     ],
     "name:fra_x_preferred":[
         "Sakassou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ab\u30b9\u30fc\u770c"
     ],
     "name:msa_x_preferred":[
         "Sakassou"
@@ -37,6 +43,9 @@
     ],
     "name:ron_x_preferred":[
         "Sakassou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0441\u0441\u0443"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Sakassou"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421197951,
-    "wof:lastmodified":1566643567,
+    "wof:lastmodified":1690866728,
     "wof:name":"Sakassou",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

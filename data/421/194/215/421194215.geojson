@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Biankouma"
+    ],
     "name:ceb_x_preferred":[
         "Biankouma"
     ],
@@ -36,6 +39,12 @@
         "Biankouma"
     ],
     "name:nld_x_preferred":[
+        "Biankouma"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07cc\u07ec\u07e6\u07ca\u07f2\u07de\u07ce\u07ec\u07e1\u07ca\u07eb"
+    ],
+    "name:pol_x_preferred":[
         "Biankouma"
     ],
     "name:ron_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421194215,
-    "wof:lastmodified":1566643562,
+    "wof:lastmodified":1690866721,
     "wof:name":"Biankouma",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

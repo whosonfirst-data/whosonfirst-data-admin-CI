@@ -20,11 +20,17 @@
     "name:ceb_x_preferred":[
         "Daoukro"
     ],
+    "name:ces_x_preferred":[
+        "Daoukro"
+    ],
     "name:dan_x_preferred":[
         "Daoukro"
     ],
     "name:deu_x_preferred":[
         "Daoukro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bf\u03c5\u03ba\u03c1\u03cc"
     ],
     "name:eng_x_preferred":[
         "Daoukro"
@@ -43,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Daoukro"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d8\u07ca\u07ec\u07e5\u07ce\u07de\u07d9\u07d0\u07ec"
     ],
     "name:pol_x_preferred":[
         "Daoukro"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421188169,
-    "wof:lastmodified":1566643566,
+    "wof:lastmodified":1690866726,
     "wof:name":"Daoukro",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30c3\u30b7\u30a2"
     ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0441\u0438\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Isija"
+    ],
     "name:msa_x_preferred":[
         "Issia"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421167589,
-    "wof:lastmodified":1566643562,
+    "wof:lastmodified":1690866722,
     "wof:name":"Issia",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

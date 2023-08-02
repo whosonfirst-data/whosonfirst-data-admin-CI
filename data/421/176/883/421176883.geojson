@@ -20,14 +20,23 @@
     "name:deu_x_preferred":[
         "Tiassal\u00e9"
     ],
+    "name:dsb_x_preferred":[
+        "Departement Tiassal\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Tiassal\u00e9 Department"
     ],
     "name:fra_x_preferred":[
         "Tiassal\u00e9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30a2\u30b5\u30ec\u770c"
+    ],
     "name:msa_x_preferred":[
         "Tiassal\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044c\u044f\u0441\u0441\u0430\u043b\u0435"
     ],
     "name:spa_x_preferred":[
         "Tiassal\u00e9"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421176883,
-    "wof:lastmodified":1566643569,
+    "wof:lastmodified":1690866730,
     "wof:name":"Tiassal\u00e9",
     "wof:parent_id":1108806105,
     "wof:placetype":"locality",

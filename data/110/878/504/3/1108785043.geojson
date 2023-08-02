@@ -69,6 +69,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03c0\u03b1\u03c6\u03af\u03bd\u03b3\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03c6\u03af\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Bafing"
     ],
@@ -116,6 +119,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud551 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ud551\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bafingas re\u0123ions"
@@ -183,6 +189,9 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c Bafing"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u82ac\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u82ac\u533a"
     ],
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":1108785043,
-    "wof:lastmodified":1636494804,
+    "wof:lastmodified":1690866718,
     "wof:name":"Bafing",
     "wof:parent_id":85669863,
     "wof:placetype":"county",
