@@ -117,6 +117,9 @@
     "name:kor_x_preferred":[
         "\uc6cc\ub85c\ub450\uad6c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc6cc\ub85c\ub450\uad6c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Voroduga"
     ],
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1108785047,
-    "wof:lastmodified":1636494803,
+    "wof:lastmodified":1690866717,
     "wof:name":"Worodougou",
     "wof:parent_id":85669871,
     "wof:placetype":"county",

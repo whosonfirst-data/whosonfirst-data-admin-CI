@@ -38,8 +38,14 @@
     "name:nld_x_preferred":[
         "B\u00e9oumi"
     ],
+    "name:pol_x_preferred":[
+        "B\u00e9oumi"
+    ],
     "name:ron_x_preferred":[
         "B\u00e9oumi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0443\u043c\u0438"
     ],
     "name:spa_x_preferred":[
         "B\u00e9oumi"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421178809,
-    "wof:lastmodified":1566643569,
+    "wof:lastmodified":1690866730,
     "wof:name":"B\u00e9oumi",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

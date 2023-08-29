@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Zu\u00e9noula"
+    ],
     "name:ceb_x_preferred":[
         "Zu\u00e9noula"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ron_x_preferred":[
         "Zu\u00e9noula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u044d\u043d\u0443\u043b\u0430"
     ],
     "name:spa_x_preferred":[
         "Zu\u00e9noula"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421182037,
-    "wof:lastmodified":1566643569,
+    "wof:lastmodified":1690866730,
     "wof:name":"Zuenoula",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

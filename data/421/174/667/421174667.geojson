@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":5.6,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Bouak\u00e9"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0643\u064a"
     ],
@@ -26,11 +29,17 @@
     "name:aze_x_preferred":[
         "Buake"
     ],
+    "name:bci_x_preferred":[
+        "Gb\u00eab\u00ea"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0430\u043a\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09be\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c1\u09af\u09bc\u09be\u0995\u09c7"
     ],
     "name:bre_x_preferred":[
         "Bouak\u00e9"
@@ -71,11 +80,17 @@
     "name:frr_x_preferred":[
         "Bouak\u00e9"
     ],
+    "name:gle_x_preferred":[
+        "Bouak\u00e9"
+    ],
     "name:grn_x_preferred":[
         "Mbuake"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0aaf\u0ac2\u0a95\u0ac7"
+    ],
+    "name:hau_x_preferred":[
+        "Bouak\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d0\u05e7\u05d4"
@@ -91,6 +106,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0561\u056f\u0565"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0578\u0582\u0561\u0584\u0567"
     ],
     "name:ind_x_preferred":[
         "Bouak\u00e9"
@@ -109,6 +127,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10d0\u10d9\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0430\u043a\u0435"
     ],
     "name:kir_x_preferred":[
         "\u0411\u0443\u0430\u043a\u0435"
@@ -164,6 +185,9 @@
     "name:swe_x_preferred":[
         "Bouak\u00e9"
     ],
+    "name:szl_x_preferred":[
+        "Bouak\u00e9"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0baf\u0bc2\u0b8e\u0b95\u0bcd"
     ],
@@ -187,6 +211,9 @@
     ],
     "name:uzb_x_preferred":[
         "Buake"
+    ],
+    "name:vec_x_preferred":[
+        "Bouak\u00e9"
     ],
     "name:vie_x_preferred":[
         "Bouake"
@@ -334,7 +361,7 @@
         }
     ],
     "wof:id":421174667,
-    "wof:lastmodified":1566643564,
+    "wof:lastmodified":1690866724,
     "wof:name":"Bouak\u00e9",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

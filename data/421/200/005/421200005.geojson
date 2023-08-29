@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a8\u09a6\u09cc\u0995\u09cb\u0989"
     ],
+    "name:cat_x_preferred":[
+        "Bondoukou"
+    ],
     "name:ceb_x_preferred":[
         "Bondoukou"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30f3\u30c9\u30a5\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043d\u0434\u0443\u043a\u0443"
     ],
     "name:kor_x_preferred":[
         "\ubcf8\ub3c4\ucfe0"
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":421200005,
-    "wof:lastmodified":1636494808,
+    "wof:lastmodified":1690866729,
     "wof:name":"Bondoukou",
     "wof:parent_id":85669895,
     "wof:placetype":"locality",

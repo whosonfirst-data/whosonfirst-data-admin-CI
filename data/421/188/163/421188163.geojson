@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645\u0628\u0648\u0643\u0631\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Dimbokro"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044b\u043c\u0431\u0430\u043a\u0440\u043e"
     ],
@@ -38,7 +41,13 @@
     "name:deu_x_preferred":[
         "Dimbokro"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bc\u03c0\u03bf\u03ba\u03c1\u03cc"
+    ],
     "name:eng_x_preferred":[
+        "Dimbokro"
+    ],
+    "name:epo_x_preferred":[
         "Dimbokro"
     ],
     "name:fas_x_preferred":[
@@ -74,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30f3\u30dc\u30af\u30ed"
     ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u043c\u0431\u043e\u043a\u0440\u043e"
+    ],
     "name:kor_x_preferred":[
         "\ub524\ubcf4\ud06c\ub85c"
     ],
@@ -92,7 +104,13 @@
     "name:nob_x_preferred":[
         "Dimbokro"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d8\u07cc\u07f2\u07d3\u07cf\u07de\u07d9\u07d0\u07ec"
+    ],
     "name:pol_x_preferred":[
+        "Dimbokro"
+    ],
+    "name:por_x_preferred":[
         "Dimbokro"
     ],
     "name:ron_x_preferred":[
@@ -103,6 +121,9 @@
     ],
     "name:slk_x_preferred":[
         "Dimbokro"
+    ],
+    "name:snd_x_preferred":[
+        "\u062f\u064a\u0645\u0628\u0648\u06aa\u0631\u0648"
     ],
     "name:spa_x_preferred":[
         "Dimbokro"
@@ -263,7 +284,7 @@
         }
     ],
     "wof:id":421188163,
-    "wof:lastmodified":1636494808,
+    "wof:lastmodified":1690866726,
     "wof:name":"Dimbokro",
     "wof:parent_id":1108806107,
     "wof:placetype":"locality",

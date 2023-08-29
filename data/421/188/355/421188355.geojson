@@ -37,10 +37,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "San-P\u00e9dro"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648"
     ],
     "name:bre_x_preferred":[
+        "San-P\u00e9dro"
+    ],
+    "name:cat_x_preferred":[
         "San-P\u00e9dro"
     ],
     "name:ceb_x_preferred":[
@@ -88,6 +94,9 @@
     "name:hun_x_preferred":[
         "San-P\u00e9dro"
     ],
+    "name:ind_x_preferred":[
+        "San-P\u00e9dro"
+    ],
     "name:ita_x_preferred":[
         "San P\u00e9dro"
     ],
@@ -124,11 +133,20 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u064a\u068a\u0631\u0648"
+    ],
     "name:spa_x_preferred":[
         "San Pedro"
     ],
+    "name:swa_x_preferred":[
+        "Tarafa ya San-P\u00e9dro"
+    ],
     "name:swe_x_preferred":[
         "San-P\u00e9dro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u067e\u06cc\u0688\u0631\u0648"
@@ -211,7 +229,7 @@
         }
     ],
     "wof:id":421188355,
-    "wof:lastmodified":1636494807,
+    "wof:lastmodified":1690866726,
     "wof:name":"San Pedro",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

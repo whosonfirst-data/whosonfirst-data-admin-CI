@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Du\u00e9kou\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Duekou\u00e9"
     ],
@@ -31,7 +34,13 @@
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03b5\u03ba\u03bf\u03c5\u03ad"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03c5\u03b5\u03ba\u03bf\u03c5\u03ad"
+    ],
     "name:eng_x_preferred":[
+        "Du\u00e9kou\u00e9"
+    ],
+    "name:fin_x_preferred":[
         "Du\u00e9kou\u00e9"
     ],
     "name:fra_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30b3\u30a8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u044d\u043a\u0443\u044d"
     ],
     "name:lit_x_preferred":[
         "Dvekv\u0117"
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":890437065,
-    "wof:lastmodified":1566643570,
+    "wof:lastmodified":1690866732,
     "wof:name":"Duekou\u00e9",
     "wof:parent_id":1108806101,
     "wof:placetype":"locality",

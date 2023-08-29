@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Daloa"
+    ],
     "name:ara_x_preferred":[
+        "\u062f\u0627\u0644\u0648\u0627"
+    ],
+    "name:arz_x_preferred":[
         "\u062f\u0627\u0644\u0648\u0627"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u0644\u0648\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Daloa"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043b\u043e\u0430"
@@ -314,7 +323,7 @@
         }
     ],
     "wof:id":421175891,
-    "wof:lastmodified":1636494808,
+    "wof:lastmodified":1690866727,
     "wof:name":"Daloa",
     "wof:parent_id":1108806117,
     "wof:placetype":"locality",

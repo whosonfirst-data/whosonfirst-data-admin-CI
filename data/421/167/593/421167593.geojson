@@ -38,6 +38,9 @@
     "name:ron_x_preferred":[
         "Botro"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Botro"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421167593,
-    "wof:lastmodified":1566643562,
+    "wof:lastmodified":1690866722,
     "wof:name":"Botro",
     "wof:parent_id":85669899,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Guib\u00e9roua"
     ],
+    "name:pol_x_preferred":[
+        "Guib\u00e9roua"
+    ],
     "name:ron_x_preferred":[
         "Guib\u00e9roua"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890455411,
-    "wof:lastmodified":1566643570,
+    "wof:lastmodified":1690866732,
     "wof:name":"Guib\u00e9roua",
     "wof:parent_id":1108806103,
     "wof:placetype":"locality",

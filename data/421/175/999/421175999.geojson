@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0628\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Soubr\u00e9"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09c7"
     ],
@@ -92,6 +98,9 @@
     "name:nob_x_preferred":[
         "Soubre"
     ],
+    "name:nqo_x_preferred":[
+        "\u07db\u07ce\u07d3\u07d9\u07cb\u07ec"
+    ],
     "name:pol_x_preferred":[
         "Soubr\u00e9"
     ],
@@ -106,6 +115,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dde\u0db6\u0dca\u0dbb\u0dda"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u0648\u0626\u0628\u0631\u064a"
     ],
     "name:spa_x_preferred":[
         "Soubr\u00e9"
@@ -279,7 +291,7 @@
         }
     ],
     "wof:id":421175999,
-    "wof:lastmodified":1566643567,
+    "wof:lastmodified":1690866727,
     "wof:name":"Soubr\u00e9",
     "wof:parent_id":85669889,
     "wof:placetype":"locality",

@@ -17,11 +17,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Mankono"
+    ],
     "name:ceb_x_preferred":[
         "Mankono"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03ba\u03bf\u03bd\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Mankono"
+    ],
+    "name:eng_x_variant":[
+        "Mankono department"
     ],
     "name:fra_x_preferred":[
         "Mankono"
@@ -34,6 +43,9 @@
     ],
     "name:ron_x_preferred":[
         "Mankono"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u043a\u043e\u043d\u043e"
     ],
     "name:spa_x_preferred":[
         "Mankono"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":421167587,
-    "wof:lastmodified":1566643563,
+    "wof:lastmodified":1690866722,
     "wof:name":"Mankono",
     "wof:parent_id":1108806109,
     "wof:placetype":"locality",
