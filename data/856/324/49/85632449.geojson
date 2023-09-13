@@ -1270,7 +1270,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "wd:latitude":8.0,
     "wd:longitude":-6.0,
     "wd:population":20316086,
@@ -1319,7 +1319,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492213,
+    "wof:lastmodified":1694639666,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
