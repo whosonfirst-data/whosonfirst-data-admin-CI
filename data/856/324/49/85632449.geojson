@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.371672,
-    "geom:area_square_m":323100848422.060547,
+    "geom:area_square_m":323100848422.062317,
     "geom:bbox":"-8.602059,4.352833,-2.493031,10.740015",
     "geom:latitude":7.621754,
     "geom:longitude":-5.553038,
     "gn:id":"",
     "gn:population":21058798,
     "iso:country":"CI",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "CI"
     ],
@@ -1266,7 +1269,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "wd:latitude":8.0,
     "wd:longitude":-6.0,
     "wd:population":20316086,
@@ -1301,7 +1305,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"dd321ee0163e35670ef292aecb57f7c4",
+    "wof:geomhash":"2eccd496e5ade600346aae81619feeac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1315,12 +1319,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690866711,
+    "wof:lastmodified":1694639666,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":20316086,
-    "wof:population_rank":15,
+    "wof:population":25716544,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ci",
     "wof:shortcode":"CI",
     "wof:superseded_by":[],
