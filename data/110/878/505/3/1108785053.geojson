@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.326463,
-    "geom:area_square_m":16242336556.236118,
+    "geom:area_square_m":16242336556.236139,
     "geom:bbox":"-4.06165216723,7.05593273508,-2.493031,8.78954687047",
     "geom:latitude":7.992085,
     "geom:longitude":-3.210541,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.ZA.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833968,
-    "wof:geomhash":"1405cf4c589d613a47bc1a044ee02782",
+    "wof:geomhash":"4d9235560a171dec3bf4830051da5a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785053,
-    "wof:lastmodified":1566643360,
+    "wof:lastmodified":1695886340,
     "wof:name":"Gontougo",
     "wof:parent_id":85669895,
     "wof:placetype":"county",

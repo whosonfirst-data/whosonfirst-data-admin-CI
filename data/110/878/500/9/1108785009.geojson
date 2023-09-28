@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.66315,
-    "geom:area_square_m":8155960166.779982,
+    "geom:area_square_m":8155960200.071614,
     "geom:bbox":"-5.241422,5.533397,-3.933449,6.373252",
     "geom:latitude":5.936033,
     "geom:longitude":-4.518266,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.LN.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833949,
-    "wof:geomhash":"65a76bb58ae8ed43bc0f63636c85606f",
+    "wof:geomhash":"193e127634de56aca9f986d65eaff7ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785009,
-    "wof:lastmodified":1627522001,
+    "wof:lastmodified":1695886484,
     "wof:name":"Agneby-Tia",
     "wof:parent_id":85669903,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.995729,
-    "geom:area_square_m":12265150549.041803,
+    "geom:area_square_m":12265151202.031313,
     "geom:bbox":"-7.601067,4.352833,-6.299407,5.669999",
     "geom:latitude":5.01231,
     "geom:longitude":-7.043448,
@@ -214,12 +214,13 @@
         "qs_pg:id":22226,
         "wd:id":"Q609831"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1459009543,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d67c5df3ea7e40456ff80c7f671c552",
+    "wof:geomhash":"8cf014ae4f9b052e4a1414abd0777d18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":421188355,
-    "wof:lastmodified":1690866726,
+    "wof:lastmodified":1695886620,
     "wof:name":"San Pedro",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

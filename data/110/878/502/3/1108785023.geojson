@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.241853,
-    "geom:area_square_m":15239714380.344561,
+    "geom:area_square_m":15239713488.351303,
     "geom:bbox":"-7.085781,6.261462,-5.951364,7.806019",
     "geom:latitude":7.035738,
     "geom:longitude":-6.60345,
@@ -201,9 +201,10 @@
         "hasc:id":"CI.SM.HS",
         "wd:id":"Q845709"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833955,
-    "wof:geomhash":"47ea1704029c91c0112f77feabf97ab0",
+    "wof:geomhash":"9614daa7bd7f5dc4ea2de32251b17348",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -213,7 +214,7 @@
         }
     ],
     "wof:id":1108785023,
-    "wof:lastmodified":1690866717,
+    "wof:lastmodified":1695886340,
     "wof:name":"Haut-Sassa",
     "wof:parent_id":85669883,
     "wof:placetype":"county",

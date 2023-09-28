@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711409,
-    "geom:area_square_m":8729372935.088001,
+    "geom:area_square_m":8729374391.202923,
     "geom:bbox":"-6.440849,6.500215,-5.400139,7.757166",
     "geom:latitude":7.086047,
     "geom:longitude":-5.892828,
@@ -207,9 +207,10 @@
         "hasc:id":"CI.SM.MH",
         "wd:id":"Q839083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833956,
-    "wof:geomhash":"120561f6e5de97af661c87a734a46c70",
+    "wof:geomhash":"0a340c95f1d6475c584a5fa60109e90d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":1108785025,
-    "wof:lastmodified":1690866717,
+    "wof:lastmodified":1695886340,
     "wof:name":"Marahoue",
     "wof:parent_id":85669877,
     "wof:placetype":"county",

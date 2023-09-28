@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.795483,
-    "geom:area_square_m":9784907515.778873,
+    "geom:area_square_m":9784906988.212561,
     "geom:bbox":"-7.208542,5.263476,-5.957904,6.557625",
     "geom:latitude":5.853076,
     "geom:longitude":-6.669269,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CI.BA.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833934,
-    "wof:geomhash":"5f0b9afa0c2ff2aba8b608e7aa53f1e0",
+    "wof:geomhash":"a216fc083acafe2a38a502a652700e38",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108784981,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886487,
     "wof:name":"Nawa",
     "wof:parent_id":85669889,
     "wof:placetype":"county",

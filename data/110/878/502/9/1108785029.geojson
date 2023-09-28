@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.032089,
-    "geom:area_square_m":12589733743.664551,
+    "geom:area_square_m":12589733743.664642,
     "geom:bbox":"-6.3170410733,8.53884361282,-5.29651984579,10.4171709521",
     "geom:latitude":9.415211,
     "geom:longitude":-5.832391,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"CI.SV.PR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833958,
-    "wof:geomhash":"f9847fb5e52d83f81950af965269733d",
+    "wof:geomhash":"f08de2e990a9f4ab00780f439a66c998",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108785029,
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1695886339,
     "wof:name":"Poro",
     "wof:parent_id":85669855,
     "wof:placetype":"county",

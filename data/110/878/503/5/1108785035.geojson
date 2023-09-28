@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.429927,
-    "geom:area_square_m":17438020240.554146,
+    "geom:area_square_m":17438020240.554279,
     "geom:bbox":"-5.82586542153,8.63287044446,-3.79572490297,10.468109",
     "geom:latitude":9.505243,
     "geom:longitude":-4.820166,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.SV.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833959,
-    "wof:geomhash":"95cadf6beccca17d0d68974830575555",
+    "wof:geomhash":"189036e27b80c2fecbc7738c3a6fa57f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785035,
-    "wof:lastmodified":1566643362,
+    "wof:lastmodified":1695886340,
     "wof:name":"Tchologo",
     "wof:parent_id":85669855,
     "wof:placetype":"county",

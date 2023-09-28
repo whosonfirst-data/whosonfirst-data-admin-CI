@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556635,
-    "geom:area_square_m":6832648371.437746,
+    "geom:area_square_m":6832648249.632317,
     "geom:bbox":"-5.676235,6.236186,-4.646762,7.60748",
     "geom:latitude":6.917593,
     "geom:longitude":-5.034337,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.LA.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833945,
-    "wof:geomhash":"5b31f44f8a0e3212f1ee8c3e9c8f6fe5",
+    "wof:geomhash":"d1f230723f45e2aa6081a4d75a89ecb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785001,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886485,
     "wof:name":"Belier",
     "wof:parent_id":85669923,
     "wof:placetype":"county",

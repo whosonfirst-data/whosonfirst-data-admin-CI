@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.736014,
-    "geom:area_square_m":9018770560.576273,
+    "geom:area_square_m":9018771498.503801,
     "geom:bbox":"-5.771806,7.228729,-4.495125,8.136002",
     "geom:latitude":7.703385,
     "geom:longitude":-5.216101,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.VB.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833960,
-    "wof:geomhash":"3fd36c17eaf21d34d57c05861fdb0be9",
+    "wof:geomhash":"d75bcb52b712c3eca512fe15fb40b86b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785039,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886487,
     "wof:name":"Gbeke",
     "wof:parent_id":85669899,
     "wof:placetype":"county",

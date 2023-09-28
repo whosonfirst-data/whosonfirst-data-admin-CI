@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394267,
-    "geom:area_square_m":4839088283.086014,
+    "geom:area_square_m":4839088319.577576,
     "geom:bbox":"-4.976489,6.561061,-4.046789,7.481492",
     "geom:latitude":6.97355,
     "geom:longitude":-4.560559,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"CI.LA.NZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833948,
-    "wof:geomhash":"e3399289c730b1e9debe2de881ec1c3f",
+    "wof:geomhash":"37e84343c55f06d9dd1f129579fc4a67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108785007,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886489,
     "wof:name":"N'Zi",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

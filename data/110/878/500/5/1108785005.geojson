@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.455263,
-    "geom:area_square_m":5592042568.025767,
+    "geom:area_square_m":5592042464.548306,
     "geom:bbox":"-4.790231,6.188029,-3.736659,7.001096",
     "geom:latitude":6.6033,
     "geom:longitude":-4.238428,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.LA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833947,
-    "wof:geomhash":"ad1e1788ced90e5d5727df1894213f40",
+    "wof:geomhash":"07a420b826c94e03f9d9434e884a58c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785005,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Moronou",
     "wof:parent_id":85669907,
     "wof:placetype":"county",
