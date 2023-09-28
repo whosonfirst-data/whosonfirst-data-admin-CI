@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.294854,
-    "geom:area_square_m":28251343138.740681,
+    "geom:area_square_m":28251342972.918446,
     "geom:bbox":"-7.601067,4.352833,-5.381298,6.557625",
     "geom:latitude":5.359994,
     "geom:longitude":-6.678604,
@@ -261,16 +261,18 @@
         "gn:id":2597326,
         "gp:id":55967008,
         "hasc:id":"CI.BA",
+        "iso:code":"CI-BS",
         "iso:id":"CI-BS",
         "qs_pg:id":919941,
         "wd:id":"Q809733",
         "wk:page":"Bas-Sassandra Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f99659d81f4b24e21e0fd8edc575d26",
+    "wof:geomhash":"332551ac9b6ac5451fd442938c512ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690866713,
+    "wof:lastmodified":1695884775,
     "wof:name":"Bas-Sassandra",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

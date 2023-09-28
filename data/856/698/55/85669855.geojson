@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.303977,
-    "geom:area_square_m":40284677707.30262,
+    "geom:area_square_m":40284677599.58699,
     "geom:bbox":"-6.967208,8.538844,-3.795725,10.740015",
     "geom:latitude":9.567791,
     "geom:longitude":-5.556684,
@@ -246,16 +246,18 @@
         "gn:id":2597320,
         "gp:id":55967002,
         "hasc:id":"CI.SV",
+        "iso:code":"CI-SV",
         "iso:id":"CI-SV",
         "qs_pg:id":919939,
         "wd:id":"Q21002161",
         "wk:page":"Savanes District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2e24b1510a59b62f55995949dafbe3d",
+    "wof:geomhash":"6e4e599a6086a0cf376067e4b676de27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -270,7 +272,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690866714,
+    "wof:lastmodified":1695884776,
     "wof:name":"Savanes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

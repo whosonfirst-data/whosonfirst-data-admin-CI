@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.553813,
-    "geom:area_square_m":31240831079.58144,
+    "geom:area_square_m":31240830040.320793,
     "geom:bbox":"-8.243753,7.542034,-5.33957,9.211877",
     "geom:latitude":8.378239,
     "geom:longitude":-6.751677,
@@ -23,7 +23,7 @@
     "lbl:longitude":-6.609087,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:bel_x_preferred":[
@@ -89,11 +89,13 @@
     "wof:concordances":{
         "fips:code":"IV97",
         "hasc:id":"CI.WB",
+        "iso:code":"CI-WR",
         "iso:id":"CI-WR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:created":1485990518,
-    "wof:geomhash":"dadd938b3cec4e1d9812d5a3e673d679",
+    "wof:geomhash":"45ebe2833162cd9d7d0cf6f12a1b48c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +110,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893667,
+    "wof:lastmodified":1695884282,
     "wof:name":"Woroba",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

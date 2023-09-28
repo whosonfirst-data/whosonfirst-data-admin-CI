@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.682117,
-    "geom:area_square_m":20691623221.33989,
+    "geom:area_square_m":20691623886.292755,
     "geom:bbox":"-5.50802,5.091222,-3.301239,6.643886",
     "geom:latitude":5.83276,
     "geom:longitude":-4.271129,
@@ -23,7 +23,7 @@
     "lbl:longitude":-3.920975,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:bel_x_preferred":[
@@ -107,11 +107,13 @@
     "wof:concordances":{
         "fips:code":"IV82",
         "hasc:id":"CI.LN",
+        "iso:code":"CI-LG",
         "iso:id":"CI-LG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:created":1485990517,
-    "wof:geomhash":"f7d50bc562cc925a8cc3f594bcca1bef",
+    "wof:geomhash":"ddae1f3fed42efdf655d9945df4249a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +128,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636494803,
+    "wof:lastmodified":1695884285,
     "wof:name":"Lagunes",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

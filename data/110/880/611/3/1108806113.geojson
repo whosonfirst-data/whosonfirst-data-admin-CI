@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.142384,
-    "geom:area_square_m":14044824113.272734,
+    "geom:area_square_m":14044824188.901672,
     "geom:bbox":"-3.85233,5.091188,-2.723532,7.355218",
     "geom:latitude":6.099425,
     "geom:longitude":-3.301381,
@@ -23,7 +23,7 @@
     "lbl:longitude":-3.163475,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:bel_x_preferred":[
@@ -104,11 +104,13 @@
     "wof:concordances":{
         "fips:code":"IV94",
         "hasc:id":"CI.CM",
+        "iso:code":"CI-CM",
         "iso:id":"CI-CM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:created":1485990518,
-    "wof:geomhash":"8605689ead8c6759eb33f7e96b024100",
+    "wof:geomhash":"94c4b834aca8da15e2d642456881a475",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +125,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636494803,
+    "wof:lastmodified":1695884285,
     "wof:name":"Comoe",
     "wof:parent_id":85632449,
     "wof:placetype":"region",
