@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169408,
-    "geom:area_square_m":2079781302.129818,
+    "geom:area_square_m":2079781302.129819,
     "geom:bbox":"-5.53114934606,6.55267758602,-4.958782179,7.07975937604",
     "geom:latitude":6.855955,
     "geom:longitude":-5.268561,
@@ -23,7 +23,7 @@
     "lbl:longitude":-5.288044,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:afr_x_preferred":[
@@ -416,11 +416,13 @@
     "wof:concordances":{
         "fips:code":"IV98",
         "hasc:id":"CI.YM",
+        "iso:code":"CI-YM",
         "iso:id":"CI-YM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:created":1485990519,
-    "wof:geomhash":"fbd91cde9b22990946827c0f2e6ea58b",
+    "wof:geomhash":"35a3c13dfc06bddf47e2044744213388",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -435,7 +437,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566643357,
+    "wof:lastmodified":1695884281,
     "wof:name":"Yamoussoukro",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

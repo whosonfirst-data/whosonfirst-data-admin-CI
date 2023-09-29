@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169408,
-    "geom:area_square_m":2079781302.129818,
+    "geom:area_square_m":2079781302.129819,
     "geom:bbox":"-5.53114934606,6.55267758602,-4.958782179,7.07975937604",
     "geom:latitude":6.855955,
     "geom:longitude":-5.268561,
@@ -425,9 +425,10 @@
     "wof:concordances":{
         "hasc:id":"CI.YM.YM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833942,
-    "wof:geomhash":"fbd91cde9b22990946827c0f2e6ea58b",
+    "wof:geomhash":"35a3c13dfc06bddf47e2044744213388",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -437,7 +438,7 @@
         }
     ],
     "wof:id":1108784993,
-    "wof:lastmodified":1566643364,
+    "wof:lastmodified":1695886341,
     "wof:name":"Yamoussoukro",
     "wof:parent_id":85669923,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.169387,
-    "geom:area_square_m":14264384966.472738,
+    "geom:area_square_m":14264383760.67263,
     "geom:bbox":"-8.145303,8.51233,-6.738624,9.998875",
     "geom:latitude":9.423148,
     "geom:longitude":-7.379509,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"CI.DE.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833940,
-    "wof:geomhash":"fad8fb2c751ec5d5043766810eba5fd4",
+    "wof:geomhash":"031846c24349f2ff70d5838d51fa3cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108784989,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Kabadougou",
     "wof:parent_id":85669859,
     "wof:placetype":"county",

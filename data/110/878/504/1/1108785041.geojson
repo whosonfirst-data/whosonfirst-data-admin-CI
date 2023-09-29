@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.582263,
-    "geom:area_square_m":19348707618.73666,
+    "geom:area_square_m":19348708287.203579,
     "geom:bbox":"-5.727541,7.817059,-3.901561,9.423622",
     "geom:latitude":8.520167,
     "geom:longitude":-4.838495,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.VB.HB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833961,
-    "wof:geomhash":"eae127128cede9e26388ac8522534a79",
+    "wof:geomhash":"d78295a749254cc03c0667639d39716d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785041,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886487,
     "wof:name":"Hambol",
     "wof:parent_id":85669899,
     "wof:placetype":"county",

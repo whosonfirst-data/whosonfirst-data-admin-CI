@@ -1289,6 +1289,7 @@
         "gp:id":23424854,
         "hasc:id":"CI",
         "icao:code":"TU",
+        "iso:code":"CI",
         "loc:id":"n82047825",
         "m49:code":"384",
         "mzb:id":"c-te-d-ivoire",
@@ -1298,6 +1299,7 @@
         "wd:id":"Q1008",
         "wk:page":"Ivory Coast"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:country_alpha3":"CIV",
     "wof:geom_alt":[
@@ -1319,7 +1321,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639666,
+    "wof:lastmodified":1695881326,
     "wof:name":"Ivory Coast",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

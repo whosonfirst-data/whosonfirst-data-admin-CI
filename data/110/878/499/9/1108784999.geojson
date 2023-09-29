@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716436,
-    "geom:area_square_m":8814095625.968679,
+    "geom:area_square_m":8814095369.387367,
     "geom:bbox":"-6.030142,5.161333,-4.93715,6.269322",
     "geom:latitude":5.757319,
     "geom:longitude":-5.403991,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.GD.LD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833944,
-    "wof:geomhash":"1a414fdd8b073113a0a27f9c06888028",
+    "wof:geomhash":"cee686c74d3cf648faee02624871d257",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108784999,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Loh-Djibou",
     "wof:parent_id":85669885,
     "wof:placetype":"county",

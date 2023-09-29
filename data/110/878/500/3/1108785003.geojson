@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.726537,
-    "geom:area_square_m":8907565448.900499,
+    "geom:area_square_m":8907564757.632549,
     "geom:bbox":"-4.658104,6.950371,-3.496186,8.046169",
     "geom:latitude":7.46432,
     "geom:longitude":-4.060115,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.LA.IF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833946,
-    "wof:geomhash":"c81bde63922783ab312771626b12b3de",
+    "wof:geomhash":"2bd67acbf3976d7ff3729c744c463807",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785003,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886486,
     "wof:name":"Iffou",
     "wof:parent_id":85669907,
     "wof:placetype":"county",

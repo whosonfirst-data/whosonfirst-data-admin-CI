@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.719876,
-    "geom:area_square_m":8806010391.428959,
+    "geom:area_square_m":8806009927.461798,
     "geom:bbox":"-8.243753,7.840886,-7.068122,9.074688",
     "geom:latitude":8.391477,
     "geom:longitude":-7.627897,
@@ -219,9 +219,10 @@
         "hasc:id":"CI.WB.BF",
         "wd:id":"Q799800"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833964,
-    "wof:geomhash":"dac1fd2a755d6595f657f99082d9a4ae",
+    "wof:geomhash":"74faf8ac0dfcf924168ed2fa07426918",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":1108785043,
-    "wof:lastmodified":1690866718,
+    "wof:lastmodified":1695886619,
     "wof:name":"Bafing",
     "wof:parent_id":85669863,
     "wof:placetype":"county",

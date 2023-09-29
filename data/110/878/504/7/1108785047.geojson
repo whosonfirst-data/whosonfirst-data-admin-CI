@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.939297,
-    "geom:area_square_m":11490354433.893587,
+    "geom:area_square_m":11490354442.110477,
     "geom:bbox":"-7.228719,7.736006,-6.241731,9.118998",
     "geom:latitude":8.38026,
     "geom:longitude":-6.757545,
@@ -210,9 +210,10 @@
         "hasc:id":"CI.WB.WR",
         "wd:id":"Q846056"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833966,
-    "wof:geomhash":"3d58b24a3193df0a5ac2d35640e8f8e2",
+    "wof:geomhash":"375d99d4f1b6a71e55dc8a8e39b9a2dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":1108785047,
-    "wof:lastmodified":1690866717,
+    "wof:lastmodified":1695886619,
     "wof:name":"Worodougou",
     "wof:parent_id":85669871,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.841961,
-    "geom:area_square_m":10256923723.08374,
+    "geom:area_square_m":10256924730.940903,
     "geom:bbox":"-6.967208,9.060188,-6.022167,10.740015",
     "geom:latitude":9.861052,
     "geom:longitude":-6.469567,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.SV.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833957,
-    "wof:geomhash":"afe8956f9dc7378553fd1af337563e58",
+    "wof:geomhash":"9ddad9c246dcb496cbd34cd8f75049f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785027,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886486,
     "wof:name":"Bagoue",
     "wof:parent_id":85669855,
     "wof:placetype":"county",

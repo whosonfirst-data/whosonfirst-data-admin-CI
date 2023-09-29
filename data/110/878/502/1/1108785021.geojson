@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.000601,
-    "geom:area_square_m":12267299901.746342,
+    "geom:area_square_m":12267299901.746412,
     "geom:bbox":"-8.470911,6.58316134812,-7.06773696113,8.15437938757",
     "geom:latitude":7.474026,
     "geom:longitude":-7.82156,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.MN.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833954,
-    "wof:geomhash":"f5fbcda15276656b61780cc98f607781",
+    "wof:geomhash":"305fdd03a3bc1b3c5adc2f27044c6cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785021,
-    "wof:lastmodified":1566643359,
+    "wof:lastmodified":1695886339,
     "wof:name":"Tonkpi",
     "wof:parent_id":85669867,
     "wof:placetype":"county",

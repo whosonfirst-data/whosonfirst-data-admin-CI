@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.132702,
-    "geom:area_square_m":26171344671.450089,
+    "geom:area_square_m":26171343791.390839,
     "geom:bbox":"-5.676235,6.188029,-3.496186,8.046169",
     "geom:latitude":7.047097,
     "geom:longitude":-4.444967,
@@ -68,11 +68,13 @@
     "wof:concordances":{
         "fips:code":"IV81",
         "hasc:id":"CI.LA",
+        "iso:code":"CI-LC",
         "iso:id":"CI-LC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:created":1485990517,
-    "wof:geomhash":"445e39171d85b3f130f41b92719c5608",
+    "wof:geomhash":"538d09e36607c20bb43d2e6f31974da4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +89,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636494803,
+    "wof:lastmodified":1695884776,
     "wof:name":"Lacs",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.811875,
-    "geom:area_square_m":22117528942.24028,
+    "geom:area_square_m":22117528682.864414,
     "geom:bbox":"-4.30948,8.19808,-2.597116,9.954446",
     "geom:latitude":9.165571,
     "geom:longitude":-3.445303,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CI.ZA.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833967,
-    "wof:geomhash":"5e19254db44e65cc677347caa2689755",
+    "wof:geomhash":"c06e5a5805782e93cccf2c480853501f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108785049,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886487,
     "wof:name":"Bounkani",
     "wof:parent_id":85669895,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.318277,
-    "geom:area_square_m":28367478179.312981,
+    "geom:area_square_m":28367479785.707478,
     "geom:bbox":"-5.771806,7.228729,-3.901561,9.423622",
     "geom:latitude":8.260853,
     "geom:longitude":-4.958378,
@@ -285,16 +285,18 @@
         "gn:id":2597321,
         "gp:id":55967005,
         "hasc:id":"CI.VB",
+        "iso:code":"CI-VB",
         "iso:id":"CI-VB",
         "qs_pg:id":393662,
         "wd:id":"Q21002356",
         "wk:page":"Vall\u00e9e du Bandama District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66beaa13a85ca807a692de980f979e80",
+    "wof:geomhash":"3829d6fa3b94b81ae8101c33d49e1276",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690866714,
+    "wof:lastmodified":1695884331,
     "wof:name":"Valle Du Bandama",
     "wof:parent_id":85632449,
     "wof:placetype":"region",

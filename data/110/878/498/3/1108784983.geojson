@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.568372,
-    "geom:area_square_m":6979680770.770583,
+    "geom:area_square_m":6979680586.354802,
     "geom:bbox":"-3.800895,5.890598,-3.080799,7.355218",
     "geom:latitude":6.715146,
     "geom:longitude":-3.425562,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.CM.ID"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833936,
-    "wof:geomhash":"3708f13efa7c1a64e7b222f89da2b7d3",
+    "wof:geomhash":"e144042618423a89fbc0e82b2e9bbbe5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108784983,
-    "wof:lastmodified":1627522003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Indenie-Dj",
     "wof:parent_id":85669921,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587052,
-    "geom:area_square_m":7204517450.466761,
+    "geom:area_square_m":7204517743.584809,
     "geom:bbox":"-7.991462,6.350568,-6.973582,7.725452",
     "geom:latitude":7.018517,
     "geom:longitude":-7.31642,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.MN.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833953,
-    "wof:geomhash":"a50c0b4c486b72e2bbc0370de94746a6",
+    "wof:geomhash":"5d8ac80bdacaf2ca12b028b225b04b76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108785019,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886486,
     "wof:name":"Guemon",
     "wof:parent_id":85669915,
     "wof:placetype":"county",

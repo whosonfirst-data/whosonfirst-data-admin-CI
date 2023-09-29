@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.503641,
-    "geom:area_square_m":6201285073.920424,
+    "geom:area_square_m":6201284782.674588,
     "geom:bbox":"-6.502922,4.850437,-5.381298,5.629636",
     "geom:latitude":5.268581,
     "geom:longitude":-5.972031,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CI.BA.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CI",
     "wof:created":1481833933,
-    "wof:geomhash":"66487168856f10835c128223ec71c57e",
+    "wof:geomhash":"87ff920077e1a24af83369eb6c402911",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108784977,
-    "wof:lastmodified":1627522002,
+    "wof:lastmodified":1695886485,
     "wof:name":"Gbokle",
     "wof:parent_id":85669889,
     "wof:placetype":"county",
