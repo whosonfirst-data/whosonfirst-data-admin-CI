@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":8032901
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8032902
+        ]
+    },
     "wof:country":"CI",
     "wof:geomhash":"b3884e65ba9d609bf01c5565fa2db272",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209040203,
-    "wof:lastmodified":1566643229,
+    "wof:lastmodified":1706239389,
     "wof:name":"Ncho Brou Koubun",
     "wof:parent_id":85632449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ci",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259911165
+    ],
     "wof:tags":[]
 },
   "bbox": [

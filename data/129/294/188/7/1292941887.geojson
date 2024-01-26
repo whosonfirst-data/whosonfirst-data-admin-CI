@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2279560
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2596914
+        ]
+    },
     "wof:country":"CI",
     "wof:geomhash":"90bf39b362f73846ec6e047e7a183f72",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1292941887,
-    "wof:lastmodified":1566642892,
+    "wof:lastmodified":1706239389,
     "wof:name":"Youhoulil",
     "wof:parent_id":1108785011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ci",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293917835
+    ],
     "wof:tags":[]
 },
   "bbox": [
